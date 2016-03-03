@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div class="subheader">
+  <div class="bounds">
+    <h1>Blog</h1>
+    <div class="subheader__description">All the latest news and insights on PhoneGap</div>
+  </div>
+</div>
+<div class="bounds--blog">
+  <article class="blog-post">
+    <div class="blog-home-breadcrumb">
+      <a href="/blog">{% include images/tiny-arrow-left.svg %} PhoneGap Blog Home</a>
+    </div>
+    <header>
+      <div class="blog__dateline">
+        <time class="blog-post__date" datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%SZ'}}">{{ page.date | date: '%B %d, %Y' }}</time> &bull; <span class="blog-post__author">{{ page.author }}</span>
+      </div>
+      <h1 class="blog-post__title">{{ page.title }}</h1>
+      <ul class="blog-post__tag-list">
+        {% if page.tags.size > 0 %}
+          {% for post_tag in page.tags %}
+            <li><a href="/blog/tag/{{ post_tag | downcase | replace:' ','-' }}/">{{ post_tag }}</a></li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </header>
+    <div class="blog-post__content">
+      {{ content }}
+    </div>
+    <footer>
+      {% include disqus.html %}
+    </footer>
+  </article>
+  {% include blog-aside.html %}
+</div>
+<div class="sub-footer">
+  <div class="bounds">
+    <h2>Dig into documentation</h2>
+    <div class="sub-footer__description">
+      Whether you’re looking for <a href="http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/">in-depth guides</a> on how to get started creating PhoneGap apps or <a href="http://docs.phonegap.com/references/desktop-app/">helpful references</a> for using the PhoneGap tools, this is the place to go. How could you go wrong?
+    </div>
+  </div>
+</div>
