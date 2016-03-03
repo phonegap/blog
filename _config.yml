@@ -1,6 +1,6 @@
 title: Blog
 description: All the latest news and insights on PhoneGap
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/reblog" # the subpath of your site, e.g. /blog
 url: "http://phonegap.com" # the base hostname & protocol for your site
 
 gems:
