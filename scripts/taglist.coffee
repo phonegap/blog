@@ -3,7 +3,7 @@
 document.addEventListener "DOMContentLoaded", (event) ->
   tagListElement = document.getElementById('top-tag-list')
   x = new XMLHttpRequest()
-  x.open("GET", "/blog/tags.xml", true)
+  x.open("GET", "{{ '/tags.xml' | prepend: site.baseurl }}", true)
 
   tags = []
 

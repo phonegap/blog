@@ -81,7 +81,7 @@ figure.highlight
   margin: 5px 0 0
   padding: 0
   &::before
-    content: url('/blog/images/tag-icon.svg')
+    content: url('{{ "/images/tag-icon.svg" | prepend: site.baseurl }}')
   li
     display: inline-block
     font-size: .875rem

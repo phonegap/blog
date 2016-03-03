@@ -20,7 +20,7 @@ layout: default
       <ul class="blog-post__tag-list">
         {% if page.tags.size > 0 %}
           {% for post_tag in page.tags %}
-            <li><a href="/blog/tag/{{ post_tag | downcase | replace:' ','-' }}/">{{ post_tag }}</a></li>
+            <li><a href="{{ '/tag/' | prepend: site.baseurl }}{{ post_tag | downcase | replace:' ','-' }}/">{{ post_tag }}</a></li>
           {% endfor %}
         {% endif %}
       </ul>

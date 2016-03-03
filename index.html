@@ -18,7 +18,7 @@ title: Blog
     <!-- Pagination links -->
     <div class="pagination">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="pagination__previous">{% include images/arrow-right.svg %}Newer</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination__previous">{% include images/arrow-right.svg %}Newer</a>
       {% else %}
         <span class="pagination__previous">{% include images/arrow-right.svg %}Newer</span>
       {% endif %}
@@ -48,16 +48,16 @@ title: Blog
           <span class="pagination__page--current">{{ i }}</span>
         {% else %}
           {% if i == 1 %}
-            <a href="/blog/" class="pagination__page">{{ i }}</a>
+            <a href="{{ '/' | prepend: site.baseurl }}" class="pagination__page">{{ i }}</a>
           {% else %}
-            <a href="/blog/page{{ i }}/" class="pagination__page">{{ i }}</a>
+            <a href="{{ site.baseurl }}/page{{ i }}/" class="pagination__page">{{ i }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
 
 
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="pagination__next">Older{% include images/arrow-right.svg %}</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="pagination__next">Older{% include images/arrow-right.svg %}</a>
       {% else %}
         <span class="pagination__next">Older{% include images/arrow-right.svg %}</span>
       {% endif %}

@@ -16,7 +16,7 @@
     <script src="{{ '/scripts/home.js' | prepend: site.url }}"></script>
     <script src="{{ '/scripts/mobile_nav.js' | prepend: site.url }}"></script>
   {% endif %}
-  <script src="/blog/scripts/taglist.js"></script>
+  <script src="{{ '/scripts/taglist.js' | prepend: site.baseurl }}"></script>
   <link rel="stylesheet" type="text/css" href="{{ '/styles/main.css' | prepend: site.url }}"/>
   <style type="text/css">
       {% capture include_to_sassify %}{% include blog.sass %}{% endcapture %}
