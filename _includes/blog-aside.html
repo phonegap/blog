@@ -1,12 +1,12 @@
 <aside class="blog-aside">
   <section id="top-tag-list" class="tag-list__top">
     <header>
-      <h2><img src="{{ '/images/trophy-icon.svg' | prepend: site.baseurl }}"/> Top Tags</h2>
+      <h2><img src="{{ '/images/trophy-icon.svg' | prepend: site.baseurl }}" alt="Trophy Icon"/> Top Tags</h2>
     </header>
   </section>
   <section class="featured-posts__blog">
     <header>
-      <h2><img src="{{ '/images/star-icon.svg' | prepend: site.baseurl }}"/> Featured Posts</h2>
+      <h2><img src="{{ '/images/star-icon.svg' | prepend: site.baseurl }}" alt="Star Icon"/> Featured Posts</h2>
     </header>
     <ul>
       {% assign counter = 0 %}
@@ -24,7 +24,7 @@
   </section>
   <section class="tag-list__all">
     <header>
-      <h2><img src="{{ '/images/tag-icon.svg' | prepend: site.baseurl }}"/> All Tags</h2>
+      <h2><img src="{{ '/images/tag-icon.svg' | prepend: site.baseurl }}" alt="Tag Icon"/> All Tags</h2>
     </header>
     <ul>
       {% for page in site.pages %}

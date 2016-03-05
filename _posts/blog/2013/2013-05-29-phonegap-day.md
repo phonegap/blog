@@ -16,7 +16,7 @@ We'll have tons of speakers covering the latest on PhoneGap and PhoneGap Build, 
 
 And of course, what's a PhoneGap event without some beer? We'll be serving a catered breakfast, lunch and snacks with plenty of beer to go around. We've got a few tricks up our sleeve to make this event really special, including some limited edition PhoneGap swag that's being created especially for this event.
 
-![](/uploads/blog/2013-05/pgday12.jpg)
+![](/blog/uploads/2013-05/pgday12.jpg)
 
 **NEW THIS YEAR**  
 You asked for it and you got it!  We've got pre-conference workshops on Thursday July 18th from 10:00-4:30pm. Choose between two tracks:

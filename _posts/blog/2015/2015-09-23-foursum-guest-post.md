@@ -7,7 +7,7 @@ tags:
 - App
 ---
 
-![](/uploads/blog/2015-10/foursum_phonegap_cover.png)
+![](/blog/uploads/2015-10/foursum_phonegap_cover.png)
 
 Built by a team of golf fanatics and engineers, [Foursum](http://foursum.com/) is a new kind of golf app designed to move beyond the first generation of scoring and flyover apps and create a complete platform for golfers to connect, compete and improve their game. Our aim is to complement the game and its traditions, but also explore new ways to engage with and enjoy golfing. We knew that our broader vision for the platform would require a great deal of testing and experimentation to fill in the details. PhoneGap has been essential to our process.
 

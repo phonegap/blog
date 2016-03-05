@@ -11,7 +11,7 @@ tags:
 
 It's only been a week and we're already feeling a little nostalgic for PhoneGap Day US 2014. Thanks to everyone who made it out! It was truly incredible meeting all of you and hearing all the great things you're doing with PhoneGap. This year we switched things up a bit and held our 4th annual PhoneGap Day US at Dogpatch Studios in San Francisco, CA. From an amazing speaker line up to a pub mixer to end the event, we hope you walked away with some valuable content and connections.  
 
-![](/uploads/blog/2014-11/PGday.jpg)  
+![](/blog/uploads/2014-11/PGday.jpg)  
 
 Here are some of our favorite highlights:  
 

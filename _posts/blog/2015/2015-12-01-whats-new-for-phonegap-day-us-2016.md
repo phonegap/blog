@@ -17,18 +17,18 @@ We've previously held PhoneGap Day in Portland and SF, but this year we're excit
 
 The event itself will be held at the Adobe Lehi offices and if you haven't seen this building yet. It. Is. Amazing. The venue perfectly fit our ideas for the event and allows us to accommodate more attendees, more workshops, and more networking.
 
-![](/uploads/blog/2015-11/lehi.jpg)
+![](/blog/uploads/2015-11/lehi.jpg)
 
-![](/uploads/blog/2015-11/lehioffice.jpg)
+![](/blog/uploads/2015-11/lehioffice.jpg)
 
-![](/uploads/blog/2015-11/imgres.jpg)
+![](/blog/uploads/2015-11/imgres.jpg)
 
 ##Workshops##
 
 It never ceases to amaze us how popular the workshops are every year. This year we wanted to make them even better so we're doing 3 tracks of workshops where you can choose your own adventure instead of being locked into one track. Instead of having to choose between beginner vs. advanced or PhoneGap Essentials vs. community sessions you'll be able to attend a choice of 3 workshops every hour (or hour and a half)
 depending on your interest and skill level. The agenda isn't final yet, but here's what we have so far:
 
-![](/uploads/blog/2015-11/pgdayworkshops.png)
+![](/blog/uploads/2015-11/pgdayworkshops.png)
 
 ##Conference lineup##
 

@@ -8,25 +8,25 @@ tags:
 
 Six months ago, [Exfm](http://ex.fm) had a native iPhone app that was rated 4 stars in the App Store. We also had a native app in Google Play, along with an HTML5 webapp for both desktop and mobile. As a small team of six, we do most of our development in-house, but had contracted out a lot of the native mobile app work. Around this time, I sat down with Lucas Hrabovsky, CTO of Exfm to plan for the future. We looked at our native mobile apps, our Python back-end and our Javascript front-end. We thought about our hiring needs in the next 12 months. We came to the conclusion that the six of us all knew Javascript really well and moving forward we were going to build everything we could in JS. That meant node.js on the back-end and PhoneGap for mobile. Here is the story of how we went from a native iPhone app to one built with PhoneGap. The end result is we now have a 4.5 star rated app, with more daily installs now than we ever did with our native app.
 
-![](/uploads/blog/2013-04/ratings.jpg)
+![](/blog/uploads/2013-04/ratings.jpg)
 
 **iOS 6**
 
 When we initially started building our PhoneGap iPhone app, iOS 6 had not yet been released. It was released about a month into our development. iOS 6 was truly a turning point for HTML5 and mobile web development. Performance gains on iOS 6 compared to iOS 5 were significant. iOS 6 fixed some meaningful bugs as well. -Webkit-overflow-scrolling: touch is a major part of making a webapp feel native and prior to iOS 6 was just too buggy to really use. In terms of development, while tools like Weinre for debugging are great, it can't compare to the speed of desktop Safari's Webkit Inspector. Looking back, it would have been very difficult for us to build and release our app prior to iOS 6.
 
-![](/uploads/blog/2013-04/ios.jpg)
+![](/blog/uploads/2013-04/ios.jpg)
 
 **Development and Debugging**
 
 When we started development, it quickly became apparent that having to build and run in XCode every time we made a JS or CSS change was not going to suffice. We decided that we had to put the absolute bare minimum in our HTML shell and load all of our JS, CSS and HTML templates remotely from a webserver when the app started. This approach allowed us to refresh the app in Webkit Inspector and immediately see our changes without having to do a native build. I highly recommend setting up your app this way. To make this happen, we built a node module that watches our source folders for changes, then combines all the JS files, converts LESS files to CSS and serves them up. We called our little node module 'Mott' and [open sourced it on GitHub](https://github.com/exfm/mott). Mott also has the ability to deploy all your assets, including minified JS, CSS and images, to S3 when it comes time to ship code. When you do deploy, Mott will create a manifest JSON file for you that includes version numbers of your JS and CSS. We use these version numbers in our released app to determine at runtime where we are actually loading our code from. We’ll blog more about Mott soon over on the [Exfm blog](http://blog.ex.fm/). 
 
-![](/uploads/blog/2013-04/devdebug.jpg)
+![](/blog/uploads/2013-04/devdebug.jpg)
 
 **Loading Assets**
 
 One of the beauties of PhoneGap compared to native is its ability to load and run remote code. As I mentioned above, for development this is a complete time saver. But it also has the added benefit of being able to update your app at any point you want without having to go through App Store approval. Remote loading is certainly great, but mobile apps are also expected to work when offline. To get the best of both worlds, we decided to bundle our JS and CSS with the native build, but before loading them check online to see if we have newer versions available. To accomplish this, when our app first starts, it remotely loads the manifest JSON file that Mott created to determine the version numbers of our latest JS and CSS. If the remote versions are different, it loads them and then saves them locally using [PhoneGap’s FileSystem API](http://docs.phonegap.com/en/2.6.0/cordova_file_file.md.html#FileSystem). If the remote versions are the same, it loads them directly from the FileSystem thus saving time. If we are offline, it goes directly to FileSystem. And if for whatever reason FileSystem fails, it loads the JS and CSS versions that we bundled inside the app when we uploaded to the store. This system has allowed us to update our app often while also keeping load times down and working offline. 
 
-![](/uploads/blog/2013-04/loadingassets.jpg)
+![](/blog/uploads/2013-04/loadingassets.jpg)
 
 **Native Feel**
 

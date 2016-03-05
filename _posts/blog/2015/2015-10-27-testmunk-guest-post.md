@@ -10,7 +10,7 @@ As a company that automates mobile application testing, we see our fair share of
 
 In the paragraphs below, we’ll show you a couple of examples of how we set up some sample test cases to interact with webviews. Our testing framework can query all elements in these hybrid Phonegap / Cordova apps and thus interact with them. Testmunk can perform various gestures such as scroll, swipe, touch and, of course, assert the UI view for the correct elements, which allows for automated testing for hybrid Phonegap/Cordova apps.
 
-![](/uploads/blog/2015-10/phonegap-cordova-logos.png)
+![](/blog/uploads/2015-10/phonegap-cordova-logos.png)
 
 ##What is a "Hybrid" app?##
 
@@ -26,7 +26,7 @@ In our efforts to improve the testing experience of various companies, we have n
 
 #PhoneGap app: Clients-Guide™#
 
-![](/uploads/blog/2015-10/clients-guide-logo.png)
+![](/blog/uploads/2015-10/clients-guide-logo.png)
 
 ##Company behind the app:##
 
@@ -46,7 +46,7 @@ Clients-Guide™ is a mobile CRM (Customer Relationship Management) system to ma
 
 ##The actual execution on the Testmunk dashboard:##
 
-![](/uploads/blog/2015-10/clients-guide-dashboard-execution.png)Testmunk Dashboard Execution
+![](/blog/uploads/2015-10/clients-guide-dashboard-execution.png)Testmunk Dashboard Execution
 
 ##Example Teststep:##
 
@@ -60,9 +60,9 @@ Clients-Guide™ is a mobile CRM (Customer Relationship Management) system to ma
 
 ##The actual execution on the Testmunk dashboard:##
 
-![](/uploads/blog/2015-10/clients-guide-dashboard-execution-enter-mobile-testing-ios.png)iOS Testmunk Dashboard Execution: Entering Text
+![](/blog/uploads/2015-10/clients-guide-dashboard-execution-enter-mobile-testing-ios.png)iOS Testmunk Dashboard Execution: Entering Text
 
-![](/uploads/blog/2015-10/clients-guide-dashboard-execution-enter-mobile-testing-android.png)Android Testmunk Dashboard Execution: Entering Text
+![](/blog/uploads/2015-10/clients-guide-dashboard-execution-enter-mobile-testing-android.png)Android Testmunk Dashboard Execution: Entering Text
 
 The full execution of the test run can be seen here:
 
@@ -71,7 +71,7 @@ The full execution of the test run can be seen here:
 
 #PhoneGap app: RemindZapp#
 
-![](/uploads/blog/2015-10/remindzapp-screenshots.png)RemindZapp UI
+![](/blog/uploads/2015-10/remindzapp-screenshots.png)RemindZapp UI
 
 ##Company behind the app:##
 
@@ -91,7 +91,7 @@ The full execution of the test run can be seen here:
 
 ##The actual execution on the Testmunk dashboard:##
 
-![](/uploads/blog/2015-10/remindzapp-testmunk-dashboard-execution.png)Android Testmunk Dashboard Execution: Asserting User Interface
+![](/blog/uploads/2015-10/remindzapp-testmunk-dashboard-execution.png)Android Testmunk Dashboard Execution: Asserting User Interface
 
 The full execution of the test run can be seen here:
 

@@ -10,7 +10,7 @@ Admin Dev Tester etc
 
 You've probably seen these icons popping up on Build over the past week or so. We've just rolled out multi-user support, so you can easily add new users to your projects for development or testing. It's super easy to get started - just click on the app you want to share, hit _Edit_ in the top-right, and then click _add this person_ to choose whoever you want:
 
-![Adding Steve](/uploads/blog/build/multi-user/add_person.png)
+![Adding Steve](/blog/uploads/build/multi-user/add_person.png)
 
 Well you probably don't need to add that guy...
 

@@ -24,7 +24,7 @@ Utilizing WordPress makes creating your app easier, and also introduces many pow
 
 The Woocommerce plugin does most of the heavy lifting for you on the ecommerce side, and AppPresser allows you to integrate any Phonegap feature.  Here are some screenshots of an iOS app that allows customers to purchase clothing, and upload their own product images through the app.  This app uses the AppPresser theme and a couple of extensions.
 
-![](/uploads/blog/2014-01/houseofragz-3screenshots.jpg)
+![](/blog/uploads/2014-01/houseofragz-3screenshots.jpg)
 
 Ecommerce is just the start, you can build almost any type of app using WordPress. Other examples would be creating a social app using BuddyPress, a photo blogging or journaling app using the camera and custom post types, post geolocation data inside Google maps, and much more.
 
@@ -46,7 +46,7 @@ You can download the core AppPresser plugin for free at [http://apppresser.com/d
 
 Other products to help you build your app are available for purchase at the AppPresser website.
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">![](/uploads/blog/2014-01/scott-headshot-150.jpg)</div>
+<div style="float:left;margin:0 10px 10px 0" markdown="1">![](/blog/uploads/2014-01/scott-headshot-150.jpg)</div>
 
 *Guest Post by Scott Bolinger*
 

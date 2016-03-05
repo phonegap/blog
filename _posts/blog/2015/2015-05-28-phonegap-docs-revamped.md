@@ -9,7 +9,7 @@ tags:
 
 The PhoneGap team is excited to announce the _long awaited_ and _much needed_ updated to the [PhoneGap Docs](http://docs.phonegap.com/)!
 
-![](/uploads/blog/2015-05/phonegap-docs-homepage.png)
+![](/blog/uploads/2015-05/phonegap-docs-homepage.png)
 
 
 We've completely redesigned the website and rewritten the content. The first release has focused on the **Getting Started** experience and more content is coming soon. Developers will be introduced to the different tools available to get up and running quickly on a mobile device using a combination of the PhoneGap Desktop, PhoneGap CLI and PhoneGap Developer tools.

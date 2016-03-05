@@ -14,6 +14,6 @@ This year’s Gartner research placed Adobe in the Leader Quadrant for Mobile Ap
 
 The second Gartner report, "Critical Capabilities for Mobile Application Development Platforms", evaluates 11 vendors and how they stack up in delivering on 15 critical capabilities for mobile app development. For Adobe, the report’s primary focus was on PhoneGap. Cutting to the chase: Adobe scored highly overall and achieved a score of 'Excellent' for Product Viability.
 
-![](/uploads/blog/2013-08/beer-cheers-toasting.jpg)
+![](/blog/uploads/2013-08/beer-cheers-toasting.jpg)
 
 Accodades are nice, but it's all the work we do with you -- the hardworking PhoneGap community -- that makes this all possible. We share this with you!

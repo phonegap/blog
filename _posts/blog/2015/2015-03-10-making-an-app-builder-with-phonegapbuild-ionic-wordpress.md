@@ -18,7 +18,7 @@ In this article I’ll describe the ins and outs of using the Phonegap Build Dev
 
 In Reactor, we allow our customers to setup and customize their apps, then they can compile the apps with a couple of clicks. We send a .zip to Phonegap Build through the API, and pull back the QR code so people can download the app directly to their device from within our system.  
 
-![](/uploads/blog/2015-03/phonegap-build-api-article.jpg)
+![](/blog/uploads/2015-03/phonegap-build-api-article.jpg)
 
 You can choose a signing key to use before building your app, and enter a key password. You can also create new keys, this is all possible through the API.  
 

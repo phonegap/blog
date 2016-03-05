@@ -22,7 +22,7 @@ While we are working with PhoneGap to provide a separate developer tool for the 
 
 For example, using this method for the Speech API will look like this:
 
-![](/uploads/blog/2013-04/attcode.png)
+![](/blog/uploads/2013-04/attcode.png)
 
 In addition to Advertising and Speech APIs, the SDK enables you to add the following [AT&T APIs and more](http://developer.att.com/phonegap):
 

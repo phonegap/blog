@@ -23,7 +23,7 @@ Welcome to two new APIs -- InAppBrowser (formerly known as the ChildBrowser plug
 **Streamlined plugin architecture**  
 A slimmer Cordova means faster and smaller apps that can be customized more easily.
 
-![](/uploads/blog/2013-06/phonegap-plugins-2.jpg)
+![](/blog/uploads/2013-06/phonegap-plugins-2.jpg)
 
 **Better Tools: Command Line Interface**
 
@@ -47,7 +47,7 @@ Spawning browsers from the PhoneGap context is now core supported as InAppBrowse
 
 **Brand New Plugin Architecture**
 
-![](/uploads/blog/2013-06/cordova_plugin_diagram.png)
+![](/blog/uploads/2013-06/cordova_plugin_diagram.png)
 
 One of our goals in 3.0 is a slim core with only the very basic native to web bridge technology. All other APIs are optionally installable. This allows developers to compose a version of PhoneGap suited to their project needs, and enables us to revision APIs independent of the container project. This will make upgrading and extending far easier. Users’ apps will be smaller and faster.
 

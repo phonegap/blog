@@ -20,7 +20,7 @@ We’ve been using PhoneGap for about 2 years. We’re super focused on building
 
 We are fairly platform agnostic. However when we decide to build for a platform we like to understand which market the consumers will come from first, then plan from there. Most of the time the result is iOS and Android, so more of our focus is spent on those 2 primarily.
 
-![](/uploads/blog/2014-04/kidde-wireframes.jpg)
+![](/blog/uploads/2014-04/kidde-wireframes.jpg)
 
 **What’s your specialty?**
 
@@ -34,7 +34,7 @@ Lately we've been using Meteor. We’re plugged into the community and have even
 
 Most recently we built the Kidde app. It’s not a sexy game app or anything however if you’re not familiar with Kidde, they’ve been around since 1917 and are the Canadian industry leaders in manufacturing and distributing fire detection and suppression equipment.
 
-![](/uploads/blog/2014-04/kidde-wireframe-to-hi-fidelity.jpg)
+![](/blog/uploads/2014-04/kidde-wireframe-to-hi-fidelity.jpg)
 
 The problem they were looking to solve was how to improve home fire safety for consumers? The solution was a cross-platform mobile app that evaluates your home safety and recommends improvements including a customized checklist to simplify shopping for home safety products. The stickiness of the app is sending reminders when it’s time to change your smoke alarm batteries and perform other regular maintenance. Here’s some more background with images of the app: [http://www.okgrow.com/work/kidde](http://www.okgrow.com/work/kidde/)
 

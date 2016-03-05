@@ -24,7 +24,7 @@ We’re excited to announce the following major new features in PhoneGap 3.0:
 - New platforms - Earlier this year we welcomed support for iOS6 (with work on iOS7 happening now!), Windows Phone 8, and BlackBerry 10. Firefox OS and Ubuntu are coming soon.
 - New APIs - Welcome to two new APIs – InAppBrowser (formerly known as the ChildBrowser plugin) and Globalization API.
 
-![](/uploads/blog/2013-06/cordova_plugin_diagram.png)
+![](/blog/uploads/2013-06/cordova_plugin_diagram.png)
 
 With the PhoneGap CLI, users will be able to directly install PhoneGap from the Node Package Manager (NPM). You no longer need to download a ZIP file every time PhoneGap has a new release. This is all part of our effort to improve user workflow and make the process lightning fast.
 

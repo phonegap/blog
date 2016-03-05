@@ -8,7 +8,7 @@ tags:
 
 This post is part 2 of a series on choosing a mobile strategy. [Part 1](http://phonegap.com/blog/2015/03/12/mobile-choices-post1) focused on providing a general overview of the approaches available and highlighted important characteristics of each.
 
-<div style="float:right"><a href="http://sworkit.com/"><img src="/uploads/blog/2015-07/sworkit-ex.png"/></a></div>
+<div style="float:right"><a href="http://sworkit.com/"><img src="/blog/uploads/2015-07/sworkit-ex.png"/></a></div>
 
 In this post we'll cover more specific factors to consider when making your decision. We'll also dig deeper into the ***native hybrid*** approach introduced in part 1 since it's used in several  [popular apps](http://kennethormandy.com/journal/your-favourite-app-isnt-native) you may not be aware of and shows that it's not a one-size-fits-all solution. You can choose to use the right balance of native and webview controls that work best for *your* app.
 
@@ -43,7 +43,7 @@ The popular apps using the native+embedded approach often use pure native contro
 
 Below are screenshots from Zillow's mobile app for iOS. Take a look at [this in-depth article from their engineering team](https://engineering.zillow.com/high-performance-embedded-webviews-in-mobile-apps/) explaining their approach.
 
-![](/uploads/blog/2015-07/zillow2.png)
+![](/blog/uploads/2015-07/zillow2.png)
 
 
 ## How do I get started?

@@ -11,7 +11,7 @@ Oxford and Cambridge Boat Race sponsors, BNY Mellon wanted to craft a [hands-on 
 
 The Which Blue Are You app has now secured over 7,000 downloads and the opportunity for BNY Mellon to capture a number of leads. Get the app for [iOS](https://itunes.apple.com/us/app/boat-race/id606297975?mt=8%26ign-mpt=uo%3D2) or [Android](https://play.google.com/store/apps/details?id=com.inviqa.Rower%26feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5pbnZpcWEuUm93ZXIiXQ..).
 
-![](/uploads/blog/2013-07/wbay-teamselect.jpg)
+![](/blog/uploads/2013-07/wbay-teamselect.jpg)
 
 Building these apps has been a learning process for us so I thought it might be useful to share some of things I’ve learned along the way.
 
@@ -23,7 +23,7 @@ When it comes to Android there’s a huge set of different challenges. The emula
 
 How does a project decide which devices and versions of Android to test on? There are a plethora of devices out there and the potential combinations of devices and Android versions is huge. It would be impossible to test on all of them, but as a minimum it is best to aim for at least one of each of the main screen sizes, so something fairly old and small like a HTC Wildfire, a medium size one such as a Samsung Galaxy S2, and a large one like a Nexus 4. This only scratches at the surface of the range of devices available, so the best thing to do is agree with the client on which devices and Android versions will be used for testing, and always make sure this includes the phone they use.
 
-![](/uploads/blog/2013-07/wbay-rowing2.jpg)
+![](/blog/uploads/2013-07/wbay-rowing2.jpg)
 
 **CSS3 and HTML5**
 
@@ -38,7 +38,7 @@ One of the nice things about working on mobile apps is that you can use CSS3 and
 
 3. Bear in mind that while many CSS3 properties no longer require prefixes, these may still be needed for earlier versions of Android and iOS. For example box-shadow requires the -webkit prefix in Android up to version 4 and iOS up to version 5. The ever-helpful http://caniuse.com includes mobile browsers in its compatibility tables. It's also worth noting that older versions may use different syntax for background gradients, but generators such as http://www.colorzilla.com can provide these for you.
 
-![](/uploads/blog/2013-07/wbay-menu.jpg)
+![](/blog/uploads/2013-07/wbay-menu.jpg)
 
 **jQuery Mobile**
 
@@ -71,7 +71,7 @@ Without this a user can click on an external link in your app, and then can’t 
 
 	onClick="window.open('http://google.com', '_blank', 'location=yes');"
 	
-![](/uploads/blog/2013-07/wbay-landingscreen.jpg)
+![](/blog/uploads/2013-07/wbay-landingscreen.jpg)
 
 **Developing with PhoneGap**
 

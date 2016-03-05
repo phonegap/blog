@@ -5,7 +5,7 @@ title: "PhoneGap + Brackets Hackathon at Adobe MAX"
 tags:
 - Event
 ---
-<div style="float: left;padding-right:5px"><img src="/uploads/blog/2013-04/bracket_phonegap_logo.png" /></div>
+<div style="float: left;padding-right:5px"><img src="/blog/uploads/2013-04/bracket_phonegap_logo.png" /></div>
 The PhoneGap + [Brackets](http://brackets.io) teams will be hosting a free 2-day hackathon at [Adobe Max](http://max.adobe.com/#max) this year. The hackathon will be on May 6 & May 7 from 1:00pm-6:00pm at the LA Convention Center, 1201 S Figueroa St, Los Angeles, CA. An Adobe MAX ticket is **NOT** required to participate in the hackathon and anyone is welcome to attend.
 
 Bring your laptop and come hack with the teams! There will be internet, power, and plenty of table space to comfortably work. No prior experience with PhoneGap or Brackets is required.
@@ -20,4 +20,4 @@ Registration is not required, but it will get you an awesome t-shirt. Register o
 * [Cordova Wiki](http://wiki.cordova.io)
 
 ## Inside the LA Convention Center ##
-![](/uploads/blog/2013-04/adobemax-hackathon-map.png)
+![](/blog/uploads/2013-04/adobemax-hackathon-map.png)

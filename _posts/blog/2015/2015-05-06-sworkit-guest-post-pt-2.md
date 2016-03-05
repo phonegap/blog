@@ -59,7 +59,7 @@ Just don’t let it take a toll on you mentally! Spread your emails out over a f
 
 One of the best ways to deliver a direct, concise and enticing pitch is on Twitter. If you can sell your app in fewer than 140 characters you are onto something. Sworkit’s first big success, being featured on Lifehacker, came after I sent this tweet and lead to 25,000 downloads the first week:
 
-![](/uploads/blog/2015-05/Sworkit-tweet.png)
+![](/blog/uploads/2015-05/Sworkit-tweet.png)
 
 ## Tell Your Story ##
 

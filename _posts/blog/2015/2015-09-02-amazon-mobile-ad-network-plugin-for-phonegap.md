@@ -7,7 +7,7 @@ tags:
 - Community
 ---
 
-![](/uploads/blog/2015-09/Amazon1.png)
+![](/blog/uploads/2015-09/Amazon1.png)
 
 ##Introducing the Amazon Mobile Ads API Plug-in for PhoneGap##
 
@@ -23,7 +23,7 @@ The [Amazon Mobile Ads API Plug-in for PhoneGap](https://developer.amazon.com/pu
 
 To get started, simply download and integrate the [Amazon Mobile Ads API Plug-in for PhoneGap](https://developer.amazon.com/public/apis/earn/mobile-ads/plugins?sc_channel=Partner&sc_brand=Mobile_Ads&sc_segment=Devs&sc_publisher=PhoneGap&sc_WW&) in your app built with PhoneGap. 
 
-![](/uploads/blog/2015-09/Amazon2.jpeg)
+![](/blog/uploads/2015-09/Amazon2.jpeg)
 
 ##Guaranteed $6 CPM on Interstitial Ads##
 

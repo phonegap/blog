@@ -1,5 +1,5 @@
 ---
-thumb: /uploads/blog/thumb/holly.jpg
+thumb: /blog/uploads/thumb/holly.jpg
 external: true
 status: publish
 author: Holly Schinsky

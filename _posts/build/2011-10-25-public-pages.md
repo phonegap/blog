@@ -9,13 +9,13 @@ We're happy to announce that public pages are now available for your apps on Pho
 
 To make an existing app public, just make the change on your app edit page and hit save:
 
-![Make Public](/uploads/blog/build/public-pages/edit-public-app.png)
+![Make Public](/blog/uploads/build/public-pages/edit-public-app.png)
 
 <!-- end-slug -->
 
 You can also make choose whether an app should be public when creating it:
 
-![Create Public](/uploads/blog/build/public-pages/new-public-app.png)
+![Create Public](/blog/uploads/build/public-pages/new-public-app.png)
 
 For an example of an existing public app, you can see [Hardeep's jQuery Mobile Kitchen Sink demo](/apps/43174).
 

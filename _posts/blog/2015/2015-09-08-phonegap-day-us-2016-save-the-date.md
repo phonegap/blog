@@ -8,7 +8,7 @@ tags:
 - PhoneGap Day
 ---
 
-![](/uploads/blog/2015-09/Utah.jpg)
+![](/blog/uploads/2015-09/Utah.jpg)
 
 Save the date! **PhoneGap Day US 2016 is coming to Utah on January 29th (with workshops on January 28th)**. We'll be hosting hundreds of you at the beautiful Adobe office in Lehi, Utah. 
 

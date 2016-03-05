@@ -1,0 +1,32 @@
+title: Blog
+description: All the latest news and insights on PhoneGap
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://phonegap.com" # the base hostname & protocol for your site
+destination:  ./_site/blog/
+
+gems:
+  - jekyll-paginate
+  - jekyll-coffeescript
+
+paginate: 10
+paginate_list_count: 7
+paginate_path: "/page:num/"
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
+post:
+  template: _post.txt
+  extension: md
+
+markdown: kramdown
+
+kramdown:
+  input: GFM

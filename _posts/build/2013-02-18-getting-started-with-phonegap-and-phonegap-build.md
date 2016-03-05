@@ -14,7 +14,7 @@ tags:
 
 Are you brand new to PhoneGap? Where do you start?  What about PhoneGap Build? There are a ton of resources out there and I’ve pulled it all together to help you get started, get some tips, and figure out where to get help.
 
-![](/uploads/blog/2013-02/cordova-phonegap-build.jpg)
+![](/blog/uploads/2013-02/cordova-phonegap-build.jpg)
 
 **PhoneGap Intro**  
 PhoneGap is a free and open source framework that allows you to create mobile apps using the web technologies you're already familiar with: HTML, CSS, and JavaScript. Use standardized web APIs and [target the platforms](http://phonegap.com/about/feature/) you care about. [Download](http://phonegap.com/download) PhoneGap for free right now and try it out.

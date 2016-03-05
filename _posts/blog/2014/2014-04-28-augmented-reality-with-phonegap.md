@@ -6,7 +6,7 @@ tags:
 - Plugin
 ---
 
-![Google Glass Wikitude SDK](http://forms.phonegap.com/uploads/blog/2014-04/Google_Glass_Getting_Started.jpg)
+![Google Glass Wikitude SDK](http://forms.phonegap.com/blog/uploads/2014-04/Google_Glass_Getting_Started.jpg)
 
 As a pioneer in mobile Augmented Reality, Wikitude was the first company to provide an augmented reality plugin to users of the PhoneGap framework. With this plugin, developers can quickly and easily enrich their app with state of the art augmented reality technology.
 The use-cases range from displaying information of landmarks nearby to transparent videos rendered on top of a magazine cover using image recognition, and everything in between.
@@ -19,11 +19,11 @@ At Wikitude, we’ve partnered with three top level smart glasses producers, and
 
 First and foremost, we’ve adapted the [Wikitude SDK for Google Glass](http://www.wikitude.com/products/eyewear/google-glass-augmented-reality-sdk/).  This device hardly needs an introduction, but it’s worth noting that it is not truly an augmented reality device. We’ve penned a few thoughts of our own regarding [Google Glass and augmented reality](http://www.wikitude.com/wikitude-google-glass/). Using Wikitude’s powerful image recognition technology, developers can create some truly incredible experiences for Glass wearers.
 
-![Vuzixs Wikitude SDK](http://forms.phonegap.com/uploads/blog/2014-04/Vuzix_Getting_started.jpg)
+![Vuzixs Wikitude SDK](http://forms.phonegap.com/blog/uploads/2014-04/Vuzix_Getting_started.jpg)
 
 Our second offering is the [Wikitude SDK for the Vuzix M100](http://www.wikitude.com/products/eyewear/vuzix-augmented-reality-sdk/) Smart Glasses.  The M100 is an Android-based wearable monocular display and computer that includes recording features and wireless connectivity capabilities designed for commercial, professional, and prosumer users. Wikitude’s sensor-based augmented reality experiences and image recognition technology are optimized to meet the M100’s hardware specifications. The technical specifications are comparable to Google Glass whereby the optical unit is in the middle of the field of vision.
 
-![Epson Moverio Wikitude SDK](http://forms.phonegap.com/uploads/blog/2014-04/Epson_Getting_Started.jpg)
+![Epson Moverio Wikitude SDK](http://forms.phonegap.com/blog/uploads/2014-04/Epson_Getting_Started.jpg)
 
 Rounding out our three wearable SDKs is the [Wikitude SDK for the Epson Moverio BT-200](http://www.wikitude.com/products/eyewear/epson-augmented-reality-sdk/). The BT-200 is a transparent binocular device, providing stereoscopic displays projecting transparent items over real-life objects in a 16:9 aspect ratio and a 23 degree field of view. Complete with GPS, a gyroscope, digital compass and camera, the BT-200 is fully capable of powering computer vision and tracking as well as geo-location aware content and context. Out of the three devices the BT-200 offers a true see-through mode and a stereoscopic 3D viewing mode.
 

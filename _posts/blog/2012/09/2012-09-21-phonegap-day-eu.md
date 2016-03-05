@@ -8,7 +8,7 @@ tags:
 
 We’re back from Amsterdam after celebrating our 1st annual PhoneGap Day EU! We took all the fun and learning from PhoneGap Day US in Portland and transported it to our European friends.
 
-![](/uploads/blog/pgday-andre.jpg)
+![](/blog/uploads/pgday-andre.jpg)
 
 PhoneGap Day EU surpassed our expectations with over 300 attendees and another 100 on the waitlist. Clearly there was a huge demand for PhoneGap in Europe!  We had a jam packed day of PhoneGap updates, shared experiences with coding and plugins, and a look at the mobile landscape.
 
@@ -16,7 +16,7 @@ We also had a sold out workshop from [Remy Sharp](http://twitter.com/rem) the da
 
 We saw some great interactions on social media with our hashtag [#pgday](https://twitter.com/#!/search/pgday) (over 750 mentions) and countless conversations amongst attendees.
 
-![](/uploads/blog/tweets-pgdayeu.png)
+![](/blog/uploads/tweets-pgdayeu.png)
 
 Thank you to everyone who attended PhoneGap Day EU and for [PPK]((http://twitter.com/ppk) and [Krijn](http://twitter.com/krijnhoetmer) for helping us organize it. We can’t wait to jump on a plane next year and come back. For those of you who couldn’t make it, we’ll be videos from the day very soon!
 

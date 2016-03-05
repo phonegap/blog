@@ -5,6 +5,7 @@ require 'yaml'
 require 'fileutils'
 require 'rbconfig'
 require 'html/proofer'
+require "csv"
 
 # == Configuration =============================================================
 
@@ -164,9 +165,52 @@ task :preview do
   Rake::Task[:watch].invoke
 end
 
+desc "Convert HTML Proof log to CSV"
+task :convertLog do
+  filePath = './tmp/.htmlproofer/cache.log'
+  if File.exists? filePath
+    file = File.read(filePath)
+    data_hash = JSON.parse(file)
+    CSV.open("./tmp/.htmlproofer/log.csv", "wb") do |csv|
+      data_hash.each do |attr_name, attr_value|
+        if attr_value['status'] != 200
+          data_array = [attr_name, attr_value['filenames'].join(","), attr_value['status'], attr_value['message']]
+          csv << data_array
+        end
+      end
+    end
+    puts './tmp/.htmlproofer/log.csv' + ' written'
+  else
+    puts filePath + " not found"
+  end
+end
+
 # rake test
 desc "build and test website"
 task :test do
-  sh "bundle exec jekyll build"
-  HTML::Proofer.new("./_site", {:typhoeus => { :followlocation => true, :ssl_verifypeer => false, :headers => { 'User-Agent' => 'html-proofer' } }}).run
+  # sh "bundle exec jekyll build --config _config-dev.yml"
+  HTML::Proofer.new("./_site", {
+    :empty_alt_ignore => true,
+    :empty_alt_ignore => true,
+    :alt_ignore => [/(.)*/],
+    :href_ignore => [
+      '/',
+      '/about/',
+      '/about/faq/',
+      '/about/license/',
+      '/about/logos/',
+      '/app/',
+      '/book/',
+      '/event/',
+      '/getstarted/',
+      '/products/',
+      '/tool/',
+      'http://phonegap.com/blog/feed.xml'
+    ],
+    :typhoeus => {
+      :followlocation => true,
+      :ssl_verifypeer => false,
+      :headers => { 'User-Agent' => 'html-proofer' }
+    }
+  }).run
 end

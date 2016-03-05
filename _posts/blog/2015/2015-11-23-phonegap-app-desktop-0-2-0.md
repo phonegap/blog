@@ -10,7 +10,7 @@ tags:
 
 We're releasing PhoneGap Desktop App 0.2.0. For everyone who is running an older version you'll see a banner like this:
 
-![Update banner screen shot](/uploads/blog/2015-11/phonegap-desktop-0-2-0-banner.png)
+![Update banner screen shot](/blog/uploads/2015-11/phonegap-desktop-0-2-0-banner.png)
 
 You'll need to manually update to 0.2.0.
 

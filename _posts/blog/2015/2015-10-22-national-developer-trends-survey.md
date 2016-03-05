@@ -7,7 +7,7 @@ tags:
 - Community
 ---
 
-![](/uploads/blog/2015-10/developersurvey.jpg)
+![](/blog/uploads/2015-10/developersurvey.jpg)
 
 Which IoT platforms are competing with Apple and Google? 
 Which are the most popular cloud APIs? Does mobile, IoT or cloud development pay better? These are just some of the questions that our friends at VisionMobile tackle in their latest Developer Economics research. Take their 10-minute [National Trends survey](http://vmob.me/DE1Q16Adobe) and help piece together 2015’s hottest developer trends.

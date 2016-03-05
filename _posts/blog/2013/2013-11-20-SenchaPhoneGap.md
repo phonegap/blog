@@ -11,7 +11,7 @@ tags:
 
 With the release of [Sencha Touch 2.3](http://www.sencha.com/products/touch/) and [Sencha CMD 4](http://www.sencha.com/products/sencha-cmd/download) creating your cross platform hybrid applications has never been easier. [PhoneGap](http://phonegap.com/) is now a first class citizen in the Sencha Touch mobile workflow integrating seamlessly into the newly released, [NodeJS](http://nodejs.org/) based, PhoneGap command line interface. For a in-depth look at creating an application with Sencha Touch and PhoneGap, or Cordova, check out the [Sencha & PhoneGap Video Tutorial](https://vimeo.com/76568053).
 
-![](/uploads/blog/2013-11/SenchaAndPhoneGap.png)
+![](/blog/uploads/2013-11/SenchaAndPhoneGap.png)
 
 
 ##Creating Your Application##
@@ -34,7 +34,7 @@ To add PhoneGap support to any application, that is Sencha CMD 4 ready, you run 
 Your application is now ready to take advantage of the power of the Sencha Touch Framework with the ease of native development provided by PhoneGap. If you are a Sencha developer already you will notice your normal application build workflow is the same as always and we have only modified the normal folder structure slightly by adding in a nested PhoneGap project.
 
 <div style="text-align:center">
-	<img src="/uploads/blog/2013-11/SenchaAndPhoneGapFolders.png"/>  <br />
+	<img src="/blog/uploads/2013-11/SenchaAndPhoneGapFolders.png"/>  <br />
 	<i>Sencha &amp; PhoneGap Folder Structure</i>
 </div>
 
@@ -79,7 +79,7 @@ Building your application for testing in the native emulator or on a device is a
 If the command line is not your style and you find yourself using more 'industrial strength' IDE's with ANT support you will be pleased to see that the Sencha CMD 4 generate application comes with human readable ANT targets for running common commands from right inside your IDE. For those who love [Sublime Text](http://www.sublimetext.com/) there is also a handy plugin called [SuperAnt](https://github.com/aphex/SuperAnt) that will let you get in on all the ANT goodness.
 
 <div style="text-align:center">
-	<img src="/uploads/blog/2013-11/SenchaCMDBuildTargets.png"/>  <br />
+	<img src="/blog/uploads/2013-11/SenchaCMDBuildTargets.png"/>  <br />
 	<i>Sencha CMD 4 Targets</i>
 </div>
 
@@ -100,7 +100,7 @@ For more information watch the [Sencha &amp; PhoneGap Video Tutorial](https://vi
 Adding PhoneGap or Cordova APIs to your application is very simple. If you already have a good understanding of the Sencha framework, learning the Cordova API should not be a problem. In this demo we will look at a small code snippet to add native photo library support to your Sencha Touch application.
 
 <div style="text-align:center">
-	<img src="/uploads/blog/2013-11/SenchaDemoApp.png"/>  <br />
+	<img src="/blog/uploads/2013-11/SenchaDemoApp.png"/>  <br />
 	<i>Sencha Demo App</i>
 </div>
 

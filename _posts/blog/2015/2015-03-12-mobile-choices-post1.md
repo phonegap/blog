@@ -26,7 +26,7 @@ The main general choices to consider when building for mobile include native, mo
 
 **Native App Example**
 
-![image](/uploads/blog/2015-03/native.jpg)
+![image](/blog/uploads/2015-03/native.jpg)
 
 
 ## 2. Mobile Web App
@@ -41,7 +41,7 @@ The main general choices to consider when building for mobile include native, mo
 
 **Mobile Web App Example**
 
-![image](/uploads/blog/2015-03/mobile-web2.png)
+![image](/blog/uploads/2015-03/mobile-web2.png)
 
 
 ## 3. Hybrid Mobile App
@@ -56,7 +56,7 @@ Web hybrid mobile apps are those which wrapped in a webview with a thin native c
 Native hybrid mobile apps include a blend of native controls and one or more webviews. One common scenario is to use native controls to provide the navigation and transitions with the main content wrapped in webviews.
 
 
-![image](/uploads/blog/2015-03/phonegap-diagram2.png)
+![image](/blog/uploads/2015-03/phonegap-diagram2.png)
 
 ### Hybrid App Characteristics
 
@@ -83,7 +83,7 @@ The creators of [Basecamp](https://basecamp.com/), a popular project management 
 
 **Basecamp running across multiple devices**
 
-<img src="/uploads/blog/2015-03/1557-project-view-variants-new.jpg" style="max-width:600px;"/>
+<img src="/blog/uploads/2015-03/1557-project-view-variants-new.jpg" style="max-width:600px;"/>
 
 #### JavaScript SDK Frameworks
 

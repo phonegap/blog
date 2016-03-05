@@ -9,19 +9,19 @@ tags:
 - Community
 ---
 
-We just wrapped up PhoneGap Day US 2016 in Lehi, UT! It was an incredible few days and we can't wait to do it again. 
+We just wrapped up PhoneGap Day US 2016 in Lehi, UT! It was an incredible few days and we can't wait to do it again.
 
-With our sold out workshops and conference the Adobe Lehi office was bursting at the seams with hundreds of mobile developers and speakers from around the world. 
+With our sold out workshops and conference the Adobe Lehi office was bursting at the seams with hundreds of mobile developers and speakers from around the world.
 
-![](/uploads/blog/2016-02/pgd5.jpg)
+![](/blog/uploads/2016-02/pgd5.jpg)
 
 ##Day 1##
 
-We kicked off the workshop day with 3 separate tracks so attendees could choose their own adventure whether they wanted to learn more about plugin development or app submission best practices. 
+We kicked off the workshop day with 3 separate tracks so attendees could choose their own adventure whether they wanted to learn more about plugin development or app submission best practices.
 
-![](/uploads/blog/2016-02/pgd3.jpg)
+![](/blog/uploads/2016-02/pgd3.jpg)
 
-![](/uploads/blog/2016-02/pgd2.jpg)
+![](/blog/uploads/2016-02/pgd2.jpg)
 
 Check out the slides and resources from all the workshops below. We'll be adding the recordings soon!
 
@@ -46,7 +46,7 @@ Check out the slides and resources from all the workshops below. We'll be adding
 
 We had one of the best PhoneGap Day conference lineups yet with representation from popular frameworks like Angular, React and Ember as well as some incredible case studies of apps built with PhoneGap. [Michael Brooks](https://twitter.com/mwbrooks) kicked off PhoneGap Day US 2016 with the history of PhoneGap Day, looking back on 2015 with Cordova and PhoneGap and looking forward to what's to come in 2016.
 
-![](/uploads/blog/2016-02/pgd4.jpg)
+![](/blog/uploads/2016-02/pgd4.jpg)
 
 We also heard from the creators of two incredible PhoneGap apps, [Sworkit](http://sworkit.com/) and [StoryCorps](https://storycorps.org/). There was not a dry eye on the house as we heard from [Dean Haddock](https://twitter.com/systemconscious) of StoryCorps talk about how users are using the StoryCorps app to share their stories and connect with one another. We also heard from [Ryan Hanna](https://twitter.com/heryandotus) and [David Frahm](https://twitter.com/davidfrahm) of Sworkit as they talked about app development with a small team and free marketing exercises you can do to promote your app <--GOLD!
 
@@ -74,9 +74,9 @@ We were also joined by experts from the Angular, React and Ember communities as 
 
 ##Day 3##
 
-We ended the conference on the slopes at Sundance Mountain Resort. After a jam-packed 2 days of coding and learning, it was great to get out to enjoy Utah's famous snow. 
+We ended the conference on the slopes at Sundance Mountain Resort. After a jam-packed 2 days of coding and learning, it was great to get out to enjoy Utah's famous snow.
 
-![](/uploads/blog/2016-02/pgd6.jpg)
+![](/blog/uploads/2016-02/pgd6.jpg)
 
 Big thanks to all of our amazing sponsors!
 

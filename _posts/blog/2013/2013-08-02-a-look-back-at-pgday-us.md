@@ -9,7 +9,7 @@ tags:
 
 Another one for the record books! The PhoneGap and PhoneGap Build teams travelled to Portland, OR to release Adobe PhoneGap 3.0 as well as celebrate with the community at our 3rd annual PhoneGap Day US! We had a great time at the Leftbank Annex hearing from an amazing [line-up of speakers](http://pgday.phonegap.com/us2013/#speakers), chatting with many of you, and enjoying the laser show (pew, pew!).
 
-![](/uploads/blog/2013-08/PG-Day-2.jpg)
+![](/blog/uploads/2013-08/PG-Day-2.jpg)
 
 We had another successful PhoneGap Day with nearly 250 people attending. We also had two sell-out pre-conference workshops, PhoneGap Essentials and PhoneGap Ecosystem, the day before PhoneGap Day. 
 
@@ -19,7 +19,7 @@ We're still tallying the numbers, but so far we've seen some impressive stats:
 * 1600+ mentions of our PhoneGap Day hashtag #pgday on Twitter
 * 16,000+ downloads PhoneGap 3.0 since our release 2 weeks ago. Plus, Brian Leroux gave an impressive stat during his closing remarks: **2,328,207 downloads to date** (that we know of!)
 
-![](/uploads/blog/2013-08/PG-Day-3.jpg)
+![](/blog/uploads/2013-08/PG-Day-3.jpg)
 
 What would PhoneGap Day be like without some beer?  We sourced some local craft brews and had a whopping 5 kegs on tap to choose from. The favourite? [Occidental Brewing Co's Kölsch](http://www.occidentalbrewing.com/beers.html).
 
@@ -48,7 +48,7 @@ We're editing the speaker videos right now. Stay tuned--we’ll have those up so
 
 You can also check out an event archive of community photos, videos, and tweets on the [PhoneGap Eventifier](http://eventifier.co/event/pgday/) page.
 
-![](/uploads/blog/2013-08/tweets.jpg)
+![](/blog/uploads/2013-08/tweets.jpg)
 
 **Thanks to our Major Sponsors for their support:**  
 [BlackBerry](http://blackberry.com)  
@@ -59,5 +59,5 @@ You can also check out an event archive of community photos, videos, and tweets 
 
 Thanks to [Icenium](http://www.icenium.com/) for the wifi!
 
-![](/uploads/blog/2013-08/PG-Day-1.jpg)
+![](/blog/uploads/2013-08/PG-Day-1.jpg)
 *Thanks to [Andrew Trice](http://tricedesigns.com) for the photos*

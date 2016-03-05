@@ -31,7 +31,7 @@ Too much information can be overwhelming. To deal with this, we chose [one metri
 
 Today, our golden number is the `projectsLoaded` event. Before we extend the PhoneGap Desktop to match the PhoneGap CLI, we want to ensure that it's refined to its bare essentials. This means identifying and avoiding feature creep. Our current hypothesis is that supporting multiple apps is a low-usage feature that adds unnecessary complexity. Currently, we know that __67%__ of our users only use one app. If that number remains high, you can expect a simpler version of the PhoneGap Desktop to be released soon! Thanks Keen IO!
 
-![](/uploads/blog/2015-07/keen-io-projects-loaded.png)
+![](/blog/uploads/2015-07/keen-io-projects-loaded.png)
 
 ## Privacy
 

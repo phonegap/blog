@@ -21,6 +21,6 @@ The PhoneGap Build API has proved to be quite robust and reliable. It has allowe
 
 Alpha Anywhere integration with PhoneGap Build allows developers to turn HTML5 business applications into hybrid applications within minutes:
 
-![Screenshot of PhoneGap Build Project Settings](/uploads/blog/2014-05/PhoneGap-App-Builder-Alpha-Anyhwere.PNG)
+![Screenshot of PhoneGap Build Project Settings](/blog/uploads/2014-05/PhoneGap-App-Builder-Alpha-Anyhwere.PNG)
 
-![Screenshot of PhoneGap Build App Manager](/uploads/blog/2014-05/PhoneGap-App-Manager-Alpha-Anywhere.PNG)
+![Screenshot of PhoneGap Build App Manager](/blog/uploads/2014-05/PhoneGap-App-Manager-Alpha-Anywhere.PNG)

@@ -9,7 +9,7 @@ tags:
 
 Hybrid applications take many forms. You can create something that mimics the look and feel of native...or you can create something that stands on its own. Trying to recreate native elements can be troublesome because it’s all the more evident when it does not work exactly as expected. Crafting your own design allows you to play to the strengths of your technology (web) while still feeling at home on your chosen platforms.
 
-![](/uploads/blog/2014-04/addScene.jpg)  
+![](/blog/uploads/2014-04/addScene.jpg)  
 *SceneScout (available on [iOS](https://itunes.apple.com/us/app/scenescout/id738719885) and [Android](https://play.google.com/store/apps/details?id=com.scenescoutapp.scenescout)) is a service for photographers and videographers to scout locations, find new inspiration, plan shoots, and share their work.*
 
 We knew we wanted several key features for [SceneScout](http://scenescoutapp.com/): viewing scouted locations (called scenes) by name/proximity/latest, adding scenes, importing portfolio photos from Flickr (and other services), social login and sharing, profiles, and ways to organize your scenes.  When a new client comes to a photographer, this tool can help guide the conversation about places to shoot. If you, as the photographer, have your favorite scenes tracked in the app, you can quickly find and share ideas that align with the client's. Or if you are drawing a blank, you can search nearby scenes that others have uploaded to get fresh inspiration.
@@ -18,7 +18,7 @@ Having worked on several smaller scale PhoneGap and Cordova apps, we chose to re
 ### Performance
 To manage all the views, data, and different routes possible in the app, we chose a JavaScript MVC approach with [Lavaca](http://getlavaca.com/).  Similar to Backbone, Lavaca provides tools for separating code into models, views, and controllers. However it also automatically handles disposing of views and setup for child views.  It also is heavily integrated with Promises which make success and error handling much cleaner and chainable. These aspects allowed us to refresh the screen with relevant data efficiently and manage memory more effectively.
 
-![](/uploads/blog/2014-04/menuToggle.jpg)
+![](/blog/uploads/2014-04/menuToggle.jpg)
 
 Lavaca got us up and running quickly, and it also kept our app feeling fast as we got deeper into the project. Lavaca bundles other libraries such as Hammer.js, a great tool to efficiently handle mouse, touch, gestures, and more across platforms. Allowing Hammer.js to handle all interactions removes the 300ms “click” delay and provides the mechanism to quickly latch on to pinch/zooms, swipes, and more.
 
@@ -35,7 +35,7 @@ We released SceneScout on iOS first, but since we were using typical responsive 
 
 On a smaller scale I was able to complete my game Path to Palindromes on four platforms ([iOS](https://itunes.apple.com/us/app/path-to-palindromes/id777602313), [Android](https://play.google.com/store/apps/details?id=com.danielcwilson.PathToPalindromes), [Windows 8.1](http://apps.microsoft.com/windows/app/path-to-palindromes/c56fe53c-4c73-4abd-895c-0c412a8efed4), and [Windows Phone](http://www.windowsphone.com/en-us/store/app/path-to-palindromes/92e21957-f465-4b59-bb20-0179156bfd0d)) in a month’s time... as a side project.  Reading the new [tutorials](https://hacks.mozilla.org/2014/02/building-cordova-apps-for-firefox-os/) posted by Mozilla and Adobe, it appears getting it on FirefoxOS will be straightforward as well.
 
-![](/uploads/blog/2014-04/sceneDetails.jpg)
+![](/blog/uploads/2014-04/sceneDetails.jpg)
 
 PhoneGap essentially gives us a blank canvas. We can make something that feels like a website or looks like a native app. Yet, it also gives us the freedom to forge a new path and create an app that feels fresh and unique. Whether you go native or go hybrid, it takes time and effort to design and develop an app with polish.  That polish, though, is often the ultimate differentiator.
 

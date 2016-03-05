@@ -15,7 +15,7 @@ If you travel a lot, you need to check out [TripCase](http://travel.tripcase.com
  
 In the past, a small team of developers programed the app with HTML, Objective C for iOS, Java for Android, and also created a BlackBerry app with other developer tools. Sabre wanted a new way to build once and deploy one app across all mobile platforms, including mobile web.
 
-![](/uploads/blog/2013-09/tripcase.png)
+![](/blog/uploads/2013-09/tripcase.png)
 
 The development team chose to work with PhoneGap because it was easy to learn and use, and all team members could work on one code base and simultaneously deploy products across platforms. Using [PhoneGap Build](http://build.phonegap.com) during early stages of the project provided business teams and quality testing teams with quick and easy access to iterations and builds on multiple devices. The app leverages Ruby on Rails to power the desktop website and to provide data to the mobile clients, while PhoneGap wraps the single HTML5 application for both iOS and Android platforms. Written in HTML5, the mobile codebase uses JavaScript libraries such as Backbone.js and RequireJS.
 

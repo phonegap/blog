@@ -19,13 +19,13 @@ UXCam has built an innovative solution to understand users and their pain points
 
 You will be able to see screen replay and physical touch interactions on your app, providing insights into user behavior and helping you understand and solve problems that users encounter.
 
-![](/uploads/blog/2015-08/UXCam.gif)
+![](/blog/uploads/2015-08/UXCam.gif)
 
 ##Analyze millions of users and sessions for UX issues with powerful tools##
 
 Powerful analysis and filtering tools helps to filter and analyze videos to pinpoint usability issues.
 
-![](/uploads/blog/2015-08/Find_UX_issues.png)
+![](/blog/uploads/2015-08/Find_UX_issues.png)
 
 The SDK is lightweight, does not add performance overhead and takes less than 5 minutes to integrate.
 

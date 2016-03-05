@@ -32,7 +32,7 @@ This new offering includes a viewer app that can be downloaded from the app stor
 
 Check out the screenshots below to see how it works. Also, be sure to visit our [website](http://enterprise.phonegap.com) to sign up and learn more!
 
-![image](/uploads/blog/2015-01/main.png) 
-![image](/uploads/blog/2015-01/app-list.png) ![image](/uploads/blog/2015-01/app-info.png) ![image](/uploads/blog/2015-01/app-running.png) 
-![image](/uploads/blog/2015-01/download.png) 
-![image](/uploads/blog/2015-01/apps-command-center.png) 
+![image](/blog/uploads/2015-01/main.png) 
+![image](/blog/uploads/2015-01/app-list.png) ![image](/blog/uploads/2015-01/app-info.png) ![image](/blog/uploads/2015-01/app-running.png) 
+![image](/blog/uploads/2015-01/download.png) 
+![image](/blog/uploads/2015-01/apps-command-center.png) 

@@ -15,7 +15,7 @@ On PhoneGap Build, we've tried to mitigate this by setting the default whitelist
 
 The table below covers the simplest case - you want your app to open a web page in the device's browser. This is trickier than expected to achieve. In the table, __browser__ indicates that the page opens in the device's browser, while __webview__ indicates that it opens in the app's webview (taking over the entire app). __nothing__ means it does nothing visible to the user, while __prompt__, just on BlackBerry, notifies the user that an unlisted domain is attempting to be opened.
 
-![](/uploads/blog/build/access_table.png)
+![](/blog/uploads/build/access_table.png)
 
 Note: if this is your actual use case, you may well want to use the [ChildBrowser plugin](/docs/plugins) instead. But anyhow, to summarize:
 

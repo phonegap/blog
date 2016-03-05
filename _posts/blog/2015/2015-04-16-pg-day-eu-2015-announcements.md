@@ -28,9 +28,9 @@ Second, we have brand new workshops this year so be sure to stay for the day aft
 
 Lastly, we've got some awesome new swag items for all attendees. Here's a sneak peek at what we have in store:
 
-![](/uploads/blog/2015-04/powerloader.png)
+![](/blog/uploads/2015-04/powerloader.png)
 
-![](/uploads/blog/2015-04/stickers.png)
+![](/blog/uploads/2015-04/stickers.png)
 
 This year promises to be better than ever with more speakers, hands-on conference workshops and, of course, networking with some of the brightest minds in mobile.
 

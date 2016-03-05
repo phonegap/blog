@@ -41,7 +41,7 @@ Design for the user behaviors you want to encourage. Allow [Hick’s Law](http:/
 
 Above all else, focus on the first screen that your users will see every time they launch the app. You want their experience of that screen to be so delightful and welcoming that their second, tenth, or one hundredth impression is as good as their first. If this means contracting out the design of a single view, then I believe it is well worth it. Additionally, you’ll be able to reuse design components from that screen throughout the app, possibly without having to have every screen professionally designed. 
 
-![](/uploads/blog/2015-03/Sworkit-images.png)
+![](/blog/uploads/2015-03/Sworkit-images.png)
 
 Sworkit's first screen and influence on later screens.
 
@@ -59,7 +59,7 @@ At Sworkit, we have taken a similar approach to [Circa](https://medium.com/circa
 
 After a user has enjoyed their first Sworkit workout, the next time they use the app, we place a request embedded in the second screen, appearing just as a part of the normal list of workout options. We first ask simple yes/no questions to gauge the user’s opinion, before leading them to either leave a review or provide feedback directly through the email plugin, in case they have encountered something we would rather them tell us directly than to the rest of the world. Once the user has interacted with the request, it is then hidden from view. You can create something similar by using a simple LocalStorage variable to track the number of times a user has opened the app and a certain action to trigger a feedback or review request. 
 
-![](/uploads/blog/2015-03/review-request-sworkit.png)
+![](/blog/uploads/2015-03/review-request-sworkit.png)
 Requesting review or feedback in Sworkit.
 
 ## Build a Future ##

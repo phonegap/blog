@@ -9,7 +9,7 @@ tags:
 
 Adobe PhoneGap has received a Bossie Award for Best Open Source Application Development Tool!
 
-![](/uploads/blog/2013-10/bossies_2013.jpg)
+![](/blog/uploads/2013-10/bossies_2013.jpg)
 
 Each year, [InfoWorld's Bossies](http://www.infoworld.com/infoworld-bossie-awards-755) (Best of Open Source Software awards) recognize the best open source software for business. This year's edition of awards rounds up more than 120 top projects in seven categories. PhoneGap was one of the top picks in the Open Source Application Development Tool category.
 

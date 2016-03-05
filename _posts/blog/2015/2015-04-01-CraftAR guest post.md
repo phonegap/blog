@@ -18,7 +18,7 @@ This new plugin enables developers to integrate the [CraftAR Augmented Reality S
 
 ## Customer Spotlight: Plandent ##
 
-![](/uploads/blog/2015-03/Plandent.png)
+![](/blog/uploads/2015-03/Plandent.png)
 
 Plandent is one of the most important dental suppliers in Europe, with operations in 15 countries across Europe. As a high tech supplier of dental solutions, Plandent has been working with dental professionals and the world's leading dental manufacturers since 1972.
 

@@ -16,13 +16,13 @@ The Wikitude SDK core technology is a JavaScript API for creating augmented real
 
 100 percent compatible with PhoneGap 3.0 and the Plugman tool, the Wikitude PhoneGap Plugin covers all augmented reality options: location based services, image recognition and tracking, and 3D model rendering. Our newly updated SDK 3.2 also now includes the ability to add video augmentations, and this functionality is of course 100 percent compatible with PhoneGap.One popular usage of the Wikitude core technology offering is a location based services approach to augmented reality. In addition to the obvious PointsofInterest around a user, we’ve seen a number of brands use the geoAR approach to present users with store locations. Tapping into navigational data, brands may drive users to their front door. Likewise, with a geofencing approach, offers and specials may be pushed to a user once they reach a predefined location.
 
-![](/uploads/blog/2013-11/131018_WT_SDK_FeatureImage_Geo_01_01.jpg)
+![](/blog/uploads/2013-11/131018_WT_SDK_FeatureImage_Geo_01_01.jpg)
 
 A few apps that were build using the PhoneGap and Wikitude solution include [Westlegate Tower](https://play.google.com/store/apps/details?id=com.PaintingPixels.Westlegate), the [Fohrenburger Beer finder](https://play.google.com/store/apps/details?id=at.popup.fohrenburg), [Rio Mare Tuna](https://play.google.com/store/apps/details?id=it.riomare.iTuna), and [MyPlagePornic](https://play.google.com/store/apps/details?id=com.gmteditions.myplage). 
 
 A second popular usage of the Wikitude core technology is our image recognition features. This approach is particularly engaging when used with image triggers. Often used in conjunction with print media (newspapers, magazines, billboards, etc.), our image recognition feature allows creators to digitally augment analogue media. As a realworld example of this technology, we created a [Scan Your Money](http://www.google.com/url?q=http%3A%2F%2Fwww.wikitude.com%2Fworld-week-scan-money%2F%26sa=D%26sntz=1%26usg=AFQjCNHVhjp564g-VcOrhfkz84h8djRtJg) app that recognizes various forms of currencies and provides detailed information about each bank note. Drawing from different data providers and selecting your target images, the possibilities are endless.
 
-![](/uploads/blog/2013-11/131018_WT_SDK_FeatureImage_3D_01_01.jpg)
+![](/blog/uploads/2013-11/131018_WT_SDK_FeatureImage_3D_01_01.jpg)
 
 Naturally, any number of these components may be combined. To help demonstrate what’s possible with the Wikitude SDK, we include a sample app coded as PhoneGap project. The app features a number of combinations of our technology. This app was developed based on a number of frequently asked questions and a large amount of user feedback.
 

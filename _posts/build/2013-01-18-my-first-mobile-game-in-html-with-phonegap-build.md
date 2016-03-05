@@ -10,7 +10,7 @@ In this post, I'll explain how I created a simple puzzle-game in HTML then turne
 
 <!-- end-slug -->
 
-![devices](/uploads/blog/build/2013/01/telephones.jpg)
+![devices](/blog/uploads/build/2013/01/telephones.jpg)
 
 
 I have always been a puzzle-game player: Tetris, Dr Mario, Puyo Puyo, Super Puzzle Fighter, etc. So, as a web developer, I wanted to try and build my own puzzle-game using the languages I know -- HTML / CSS / JavaScript. I also wanted the layout of my game to be "responsive" so I could play it on my PC as well as on my phone.
@@ -44,11 +44,11 @@ Dubugging a web page on a mobile phone is not the easiest thing in the world. Fo
 
 On Firefox, you can launch the Responsive Design Mode by pressing Ctrl+Shift+M. 
 
-![firefox](/uploads/blog/build/2013/01/firefox_mode_responsive.jpg)
+![firefox](/blog/uploads/build/2013/01/firefox_mode_responsive.jpg)
 
 On Chrome, you can emulate touch events, override the user agent and change the resolution. Hit F12 to launch the dev tools, then click on the wheel (bottom-right corner) to set these options.
 
-![chrome dev tools](/uploads/blog/build/2013/01/chrome_dev_tools.jpg)
+![chrome dev tools](/blog/uploads/build/2013/01/chrome_dev_tools.jpg)
 
 Of course, tests on real devices are essential to identify certain bugs.
 
@@ -82,7 +82,7 @@ Validation is almost immediate, and your app is available on the market in a few
 
 **Conclusion**
 
-![devices](/uploads/blog/build/2013/01/bureau.jpg)
+![devices](/blog/uploads/build/2013/01/bureau.jpg)
 
 With [PhoneGap Build](http://build.phonegap.com), it's easy for a web developer to publish a "real" mobile app using only HTML, CSS and JavaScript. The Android version of the game seems to attract significantly more players than the web version, so I'll soon publish the game on iOS too ;)
 

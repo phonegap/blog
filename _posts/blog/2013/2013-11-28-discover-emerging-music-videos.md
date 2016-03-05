@@ -53,13 +53,13 @@ Even if your app is designed for phones, test to see if the app still functions 
 
 **Designing for the device**
 
-![](/uploads/blog/2013-11/1-freshmusic.jpg)
+![](/blog/uploads/2013-11/1-freshmusic.jpg)
 
 The designs for iOS and Android are slightly different. Alot of Android users stick to the default "Holo Dark" theme that ships with Android, so we changed the design to suit the platform.
 
 Another small difference is the font face. Android uses a default font called "Roboto" which can be downloaded from the Android website: [https://developer.android.com/design/style/typography.html](https://developer.android.com/design/style/typography.html).  Using this font makes the app appear more native.
 
-![](/uploads/blog/2013-11/2-discover.jpg)
+![](/blog/uploads/2013-11/2-discover.jpg)
                           
 **Summary**
 

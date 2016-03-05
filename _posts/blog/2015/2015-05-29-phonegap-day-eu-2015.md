@@ -12,13 +12,13 @@ The PhoneGap team was thrilled to be back in Amsterdam to celebrate PhoneGap Day
 
 The conference was held in the beautiful [Het Compagnietheater](http://www.compagnietheater.nl/compagnietheater.html) right in the heart of Amsterdam and it was a packed house right from the get go. 
 
-![](/uploads/blog/2015-05/pgday-eu-registration.jpeg)
+![](/blog/uploads/2015-05/pgday-eu-registration.jpeg)
 
 ## Day one ##
 
 We were thrilled to be joined by amazing speakers who brought some of the best content we've seen at PhoneGap Day. [Michael Brooks](https://twitter.com/mwbrooks) kicked off the conference with "PhoneGap 2014 Review" where he covered the last year of PhoneGap development with over 300 releases! Whoa. 
 
-![](/uploads/blog/2015-05/pgday-eu-phonegap-2014-review.jpeg)
+![](/blog/uploads/2015-05/pgday-eu-phonegap-2014-review.jpeg)
 
 We also heard from Syd Lawrence, one of the creators of [Snowbuddy](http://snowbuddyhq.com/), as he offered tips on making high performance PhoneGap apps saying his favorite question he's asked about Snowbuddy is, "Did you use Swift or Objective-C?". We learned how to add achievements and leaderboards to your HTML5 game, how to embed webviews into native apps to save time and money and got an in-depth look at Crosswalk, Telerik and the brand new [Ubuntu phone](http://phonegap.com/blog/2015/05/11/phonegap-day-eu-2015-sponsors/).
 
@@ -55,7 +55,7 @@ Day two was our completely sold-out workshop day and was held at [Rockstart](htt
 And what would PhoneGap Day be without some sweet swag and beer?! 
 We loved meeting members of the PhoneGap EU community at the pub mixer to end the night and we hope everyone got a lot out of the conference and met some cool people as well. It never ceases to amaze us the amazing things you are all doing with PhoneGap. Keep it up!
 
-![](/uploads/blog/2015-05/pgday-eu-shirts.jpeg)
+![](/blog/uploads/2015-05/pgday-eu-shirts.jpeg)
 
 BIG THANKS to all our awesome sponsors! 
 
