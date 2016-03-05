@@ -207,6 +207,9 @@ task :test do
       '/tool/',
       'http://phonegap.com/blog/feed.xml'
     ],
+    :cache => {
+      :timeframe => '1d'
+    },
     :typhoeus => {
       :followlocation => true,
       :ssl_verifypeer => false,
