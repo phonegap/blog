@@ -4,8 +4,6 @@ tags:
 author: Hardeep Shoker
 title: "Status Update: Jan 20 - Feb 4, 2013"
 date: Wed Feb 6 17:04:56 -0800 2013
-tags:
-- PhoneGap Buildfeb-4-2013/
 ---
 
 Hey everyone, this post is a bit late as we were hard at work on the 2.3.0 release. We hope you'll forgive us for our tardiness!
@@ -30,7 +28,7 @@ Let's get started!
 
 - Deploy PushWoosh plugin.
 - Align ourselves with Plugman (currently using Pluginstall) so we're able to take advantage of future PhoneGap/Cordova plugins.
-- Continue adding service measures to update the community 
+- Continue adding service measures to update the community
 - Uptime/service status
 - Getting a 24 hour response team for critical failures
 - Providing more timely updates via social media.

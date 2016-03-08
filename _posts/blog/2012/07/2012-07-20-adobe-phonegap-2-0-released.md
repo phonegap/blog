@@ -1,7 +1,7 @@
 ---
 author: Colene Chow
 date: '2012-07-20 08:00:00'
-slug: adobe-phonegap-2-0-released.md
+slug: adobe-phonegap-2-0-released
 status: publish
 title: Adobe PhoneGap 2.0 Released
 type: post
@@ -15,7 +15,7 @@ Today we’re celebrating the launch of PhoneGap 2.0 at PhoneGap Day in Portland
 
 Here’s our official announcement:
 
-###Adobe PhoneGap 2.0 Released at 2nd Annual PhoneGap Day###
+### Adobe PhoneGap 2.0 Released at 2nd Annual PhoneGap Day###
 _Popular Open Source Mobile Development Framework Gets Upgrades Including Improved Plugin Support, Embeddable Webviews, Command Line Tooling and more_
 
 Adobe® PhoneGap, the popular open source mobile app development framework, was released today at the 2nd annual PhoneGap Day in Portland, Oregon.
@@ -37,7 +37,7 @@ We’re excited to announce the following major new features in PhoneGap 2.0:
 
 - **Windows Phone support**
 
-- **Improvement to iOS app creation** - We’ve implemented significant changes for the iOS platform. [Get a deeper dive into all the changes from Shaz, our PhoneGap iOS lead developer](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/). 
+- **Improvement to iOS app creation** - We’ve implemented significant changes for the iOS platform. [Get a deeper dive into all the changes from Shaz, our PhoneGap iOS lead developer](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/).
 
 “PhoneGap 2.0 is all about a vastly improved developer experience,” said Brian LeRoux, Lead Developer for PhoneGap. “Our docs are now much more comprehensive, including the long requested commitment to our Plugin API. Developers are going to have a supported way to use the PhoneGap bridge to build their own browser APIs for native calls.”
 

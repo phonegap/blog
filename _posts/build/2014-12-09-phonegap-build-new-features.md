@@ -1,6 +1,4 @@
 ---
-tags:
-- PhoneGap Build
 date: 2014-12-09 13:00:03
 author: Brett Rudd @brettrudd
 title: "New PhoneGap Build Features: new app size limits, support for external plugins, and more!"

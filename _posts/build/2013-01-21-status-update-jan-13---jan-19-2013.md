@@ -4,8 +4,6 @@ tags:
 author: Hardeep Shoker
 title: Status Update Jan 13 - Jan 19 2013
 date: Mon Jan 21 13:53:18 -0800 2013
-tags:
-- PhoneGap Buildjan-19-2013/
 ---
 
 Hey Build users! We've got some exciting news. Some of you have
@@ -36,7 +34,7 @@ So let’s get started with our first post!
 **Current plans for after Jan 26**
 
 - Panel for uptime/service status
-- Adding service measures to update the community 
+- Adding service measures to update the community
 - Getting a 24 hour response team for critical failures
 - Providing more timely updates via social media.
 

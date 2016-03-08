@@ -4,8 +4,6 @@ tags:
 author: Hardeep Shoker
 title: "Status Update: March 4 - March 18, 2013"
 date: Mon Mar 18 17:00:00 -0800 2013
-tags:
-- PhoneGap Buildmar-18-2013/
 ---
 
 Hey Build users! We've been working hard on Build over the last couple
@@ -20,7 +18,7 @@ experience and quality of service.
   * Upgraded Xcode on all of our OSX systems.
   * Various bug patches
       * [Issue #78](https://github.com/phonegap/build/issues/78)
-        Unable to unlink Github accounts. 
+        Unable to unlink Github accounts.
       * [Issue #79](https://github.com/phonegap/build/issues/79)
         IOS unlock is now consistent with our documentation.
       * [Issue #92](https://github.com/phonegap/build/issues/92)
@@ -56,7 +54,7 @@ experience and quality of service.
 
 ## Current plans for after March 25th:
 
-  - Continue adding service measures to update the community 
+  - Continue adding service measures to update the community
       - Uptime/service status (Including the service status panel)
       - Getting a 24 hour response team for critical failures
       - Providing more timely updates via social media.

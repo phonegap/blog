@@ -165,6 +165,12 @@ task :preview do
   Rake::Task[:watch].invoke
 end
 
+
+desc "Delete older files from _site-test before running html proofer"
+task :deleteOldFiles do
+  sh 'rm -rf ./_site-test/blog/2008/ ./_site-test/blog/2009/ ./_site-test/blog/2010/ ./_site-test/blog/2011/ ./_site-test/blog/2012/ ./_site-test/blog/2013/ ./_site-test/blog/2014/'
+end
+
 desc "Convert HTML Proof log to CSV"
 task :convertLog do
   filePath = './tmp/.htmlproofer/cache.log'
@@ -172,6 +178,7 @@ task :convertLog do
     file = File.read(filePath)
     data_hash = JSON.parse(file)
     CSV.open("./tmp/.htmlproofer/log.csv", "wb") do |csv|
+      csv << ['Url','File','Status','Message']
       data_hash.each do |attr_name, attr_value|
         if attr_value['status'] != 200
           data_array = [attr_name, attr_value['filenames'].join(","), attr_value['status'], attr_value['message']]
@@ -188,8 +195,12 @@ end
 # rake test
 desc "build and test website"
 task :test do
+  if !File.exists? "./_site-test"
+    sh "bundle exec jekyll build --config _config-dev.yml"
+    Rake::Task[:deleteOldFiles].invoke
+  end
   # sh "bundle exec jekyll build --config _config-dev.yml"
-  HTML::Proofer.new("./_site", {
+  HTML::Proofer.new("./_site-test", {
     :empty_alt_ignore => true,
     :empty_alt_ignore => true,
     :alt_ignore => [/(.)*/],

@@ -4,8 +4,6 @@ tags:
 author: Hardeep Shoker
 title: "Status Update: Feb 5 - Feb 12, 2013"
 date: Wed Feb 15 12:52:56 -0800 2013
-tags:
-- PhoneGap Buildfeb-12-2013/
 ---
 
 We made some great progress last week! Here's what we were busy with last
@@ -32,7 +30,7 @@ week, and what's going to keep us busy in the coming weeks.
 - Deploy PushWoosh plugin.
 - Align ourselves with Plugman (currently using Pluginstall) so we're able to take advantage of future PhoneGap/Cordova plugins.
 
-- Continue adding service measures to update the community 
+- Continue adding service measures to update the community
 - Uptime/service status
 - Getting a 24 hour response team for critical failures
 - Scheduled meetings to help integrate the response team with our methods and practices.
