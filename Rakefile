@@ -168,7 +168,7 @@ end
 
 desc "Delete older files from _site-test before running html proofer"
 task :deleteOldFiles do
-  sh 'rm -rf ./_site-test/blog/2008/ ./_site-test/blog/2009/ ./_site-test/blog/2010/ ./_site-test/blog/2011/ ./_site-test/blog/2012/ ./_site-test/blog/2013/ ./_site-test/blog/2014/'
+  sh 'rm -rf ./_site-test/blog/2008/ ./_site-test/blog/2009/ ./_site-test/blog/2010/ ./_site-test/blog/2011/ ./_site-test/blog/2012/ ./_site-test/blog/2013/ ./_site-test/blog/2014/ ./_site-test/blog/tag/phonegap-network/index.html'
 end
 
 desc "Convert HTML Proof log to CSV"
@@ -199,12 +199,11 @@ task :test do
     sh "bundle exec jekyll build --config _config-dev.yml"
     Rake::Task[:deleteOldFiles].invoke
   end
-  # sh "bundle exec jekyll build --config _config-dev.yml"
   HTML::Proofer.new("./_site-test", {
     :empty_alt_ignore => true,
     :empty_alt_ignore => true,
     :alt_ignore => [/(.)*/],
-    :href_ignore => [
+    :url_ignore => [
       '/',
       '/about/',
       '/about/faq/',
@@ -216,7 +215,8 @@ task :test do
       '/getstarted/',
       '/products/',
       '/tool/',
-      'http://phonegap.com/blog/feed.xml'
+      'http://phonegap.com/blog/feed.xml',
+      /\/blog\/(200\d|201[0-4])\/(\S)*/
     ],
     :cache => {
       :timeframe => '1d'
