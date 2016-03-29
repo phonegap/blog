@@ -31,7 +31,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Friday Fun](http://phonegap.com/blog/2013/01/18/friday-fun/), Colene Chow
 - [My First Mobile Game in HTML with PhoneGap Build](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/), Baptiste Brunet
 - [My Workflow for Developing PhoneGap Applications](http://www.tricedesigns.com/2013/01/18/my-workflow-for-developing-phonegap-applications/), Andrew Trice
-- [Did you know - Safari Remote Debugging and PhoneGap](http://www.raymondcamden.com/index.cfm/2013/1/21/Did-you-know--Safari-Remote-Debugging-and-PhoneGap), Ray Camden
+- [Did you know - Safari Remote Debugging and PhoneGap](http://www.raymondcamden.com/2013/01/21/Did-you-know-Safari-Remote-Debugging-and-PhoneGap), Ray Camden
 - [PhoneGap Plugin updates](http://simonmacdonald.blogspot.com/2013/01/phonegap-plugin-updates.html), Simon MacDonald
 - [PhoneGap 2.4.0rc1 released](http://phonegap.com/blog/2013/01/24/2013-01-24-pg-240rc1-released/), Steve Gill
 - [Tip for PhoneGap Users - Modify the WWW Template](http://www.raymondcamden.com/index.cfm/2013/1/24/Tip-for-PhoneGap-Users--Modify-the-WWW-template), Ray Camden

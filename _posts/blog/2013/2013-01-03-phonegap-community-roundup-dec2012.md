@@ -29,7 +29,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Advanced Tutorial: Using CordovaWebView on Android](http://infil00p.org/android/cordova/phonegap/2012/12/04/advanced-tutorial-using-cordovawebview-on-android/), Joe Bowser
 - [Easy PhoneGap Push Notifications with Pushwoosh](http://devgirl.org/2012/12/04/easy-phonegap-push-notifications-with-pushwoosh/), Holly Schinsky
 - [Raised center TabBar button in Cordova / PhoneGap for iOS](http://blog.devgeeks.org/post/37023355576/raised-center-tabbar-button-in-cordova-phonegap-for), Tommy-Carlos Williams
-- [Want Another Option to Learn PhoneGap](http://www.raymondcamden.com/index.cfm/2012/11/8/Want-another-option-to-learn-PhoneGap), Ray Camden
+- [Want Another Option to Learn PhoneGap](http://www.raymondcamden.com/2012/11/08/Want-another-option-to-learn-PhoneGap), Ray Camden
 - [Apache Cordova and Windows Phone 8](http://www.risingj.com/archives/374), Jesse MacFadyen
 - [The Windows Eco-System](http://www.risingj.com/archives/344), Jesse MacFadyen
 - [PhoneGap and PhoneGap Build in 5 Minutes](http://coenraets.org/blog/2012/12/phonegap-and-phonegap-build-in-5-minutes/?utm_source=rss%26utm_medium=rss%26utm_campaign=phonegap-and-phonegap-build-in-5-minutes), Christophe Coenraets

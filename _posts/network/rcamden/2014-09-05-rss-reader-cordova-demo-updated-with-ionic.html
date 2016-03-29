@@ -1,7 +1,7 @@
 --- 
 format: html
 title: RSS Reader Cordova demo updated with Ionic
-link: http://www.raymondcamden.com/2014/9/5/RSS-Reader-Cordova-demo-updated-with-Ionic
+link: http://www.raymondcamden.com/2014/09/05/rss-reader-cordova-demo-updated-with-ionic/
 author: Raymond Camden
 type: post
 status: publish
@@ -102,7 +102,7 @@ Ok, let's look at the code! (And yet another reminder - I'm new to Ionic and Ang
 </code></pre>
 
 <p>
-Ok, now let's look at app.js. The big change here from core Ionic was to remove $ionicPlatform.ready from app.js. As I've <a href="http://www.raymondcamden.com/2014/8/16/Ionic-and-Cordovas-DeviceReady--My-Solution">blogged</a> before, you have a race condition between Cordova's DeviceReady and your Angular app actually starting. So I decided to use my first controller as a way to bootstrap that particular issue.
+Ok, now let's look at app.js. The big change here from core Ionic was to remove $ionicPlatform.ready from app.js. As I've <a href="http://www.raymondcamden.com/2014/08/16/Ionic-and-Cordovas-DeviceReady-My-Solution/">blogged</a> before, you have a race condition between Cordova's DeviceReady and your Angular app actually starting. So I decided to use my first controller as a way to bootstrap that particular issue.
 </p>
 
 <pre><code class="language-javascript">(function() {
