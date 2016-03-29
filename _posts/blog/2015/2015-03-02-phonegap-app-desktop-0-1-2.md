@@ -9,13 +9,13 @@ tags:
 
 Last week, we quietly updated the PhoneGap Desktop app to Beta 0.1.2!
 
-<img src="/blog/uploads/2014-12/promo.png" style="max-width:500px;display:block;margin:0 auto;" />
+<img src="/blog/uploads/2014-12/promo.png" style="max-width:500px;display:block;margin:0 auto;" alt="PhoneGap promo"/>
 
 ## Installation
 
 Good news everyone! The PhoneGap Desktop app now ships with an installer for OS X and Windows!
 
-<img src="/blog/uploads/2015-03/installer.png" style="max-width:500px;display:block;margin:0 auto;" />
+<img src="/blog/uploads/2015-03/installer.png" style="max-width:500px;display:block;margin:0 auto;" alt="PhoneGap Desktop Installer"/>
 
 - __OS X__: Download [PhoneGap Desktop 0.1.2 for OS X](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.2/PhoneGapDesktop.dmg)
 - __Windows__: Download [PhoneGap Desktop 0.1.2 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.2/PhoneGapSetup.exe)

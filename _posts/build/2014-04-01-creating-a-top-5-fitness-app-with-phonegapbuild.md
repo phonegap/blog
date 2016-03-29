@@ -8,7 +8,7 @@ tags:
 - PhoneGap Build
 ---
 
-Fitbit creates wireless activity trackers that empower people to live healthier lives. My new mobile app, Fitwatchr, allows Fitbit users to combine their daily calorie tracking features with scientific formulas, motivating them to lose weight, earn extra calories, and achieve their weight loss goals. It is available on [iOS](http://appstore.com/fitwatchr) and [Android](https://play.google.com/store/apps/details?id=com.netkow.fitwatchr).
+Fitbit creates wireless activity trackers that empower people to live healthier lives. My new mobile app, Fitwatchr, allows Fitbit users to combine their daily calorie tracking features with scientific formulas, motivating them to lose weight, earn extra calories, and achieve their weight loss goals. It is available on [iOS](https://itunes.apple.com/us/app/fitwatchr-advanced-fitbit/id684005201?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.netkow.fitwatchr).
 
 ![](/blog/uploads/2014-04/fitwatchr.png)
 

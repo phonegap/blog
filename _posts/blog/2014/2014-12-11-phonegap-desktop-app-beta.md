@@ -9,7 +9,7 @@ tags:
 
 Today, we're announcing the release of the __PhoneGap Desktop App__ beta!
 
-<img src="/blog/uploads/2014-12/promo.png" height="auto" style="display:block;margin:0 auto;max-width:500px;" />
+<img src="/blog/uploads/2014-12/promo.png" height="auto" style="display:block;margin:0 auto;max-width:500px;" alt="PhoneGap Promo"/>
 
 ## Easy to Use
 

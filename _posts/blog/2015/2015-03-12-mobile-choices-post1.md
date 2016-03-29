@@ -83,7 +83,7 @@ The creators of [Basecamp](https://basecamp.com/), a popular project management 
 
 **Basecamp running across multiple devices**
 
-<img src="/blog/uploads/2015-03/1557-project-view-variants-new.jpg" style="max-width:600px;"/>
+<img src="/blog/uploads/2015-03/1557-project-view-variants-new.jpg" style="max-width:600px;" alt="Project view variants"/>
 
 #### JavaScript SDK Frameworks
 

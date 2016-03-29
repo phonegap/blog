@@ -13,7 +13,7 @@ With the addition of Windows Phone 7, developers are now able to reach a new and
 
 ### How do I build for Windows Phone 7?
 
-Building for Windows Phone 7 is as simple as building for any other Build project. 
+Building for Windows Phone 7 is as simple as building for any other Build project.
 
 Simply upload your HTML5 source code and assets, sit back and wait for our Build Bots to compile your deployable package. Within moments, you will have a package ready for testing on an emulator or device.
 
@@ -45,4 +45,4 @@ For more information please refer to the following guides:
 
 [Technical documentation on the application submission](http://msdn.microsoft.com/en-us/library/ff941089%28v=vs.92%29.aspx)
 
-[Application Hub Walkthrough](http://create.msdn.com/en-US/home/about/app_submission_walkthrough_upload)
+[Application Hub Walkthrough](http://www.limchenglei.com/wp-content/uploads/2010/11/Windows-Phone-App-Hub-Registration.pdf)
