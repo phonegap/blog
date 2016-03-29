@@ -26,7 +26,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Geo-based Push Notifications with PhoneGap and Pushwoosh](http://devgirl.org/2012/12/11/geo-based-push-notifications-with-phonegap-and-pushwoosh/), Holly Schinsky
 - [Using Parse.com with PhoneGap: A marriage made in Awesome](http://www.adobe.com/devnet/phonegap/articles/using-parse-with-phonegap-a-marriage-made-in-awesome.html), Ray Camden
 - [How to Get the Device's Phone Number Using PhoneGap Android ](http://simonmacdonald.blogspot.com/2012/12/how-to-get-devices-phone-number-using.html), Simon MacDonald
-- [Advanced Tutorial: Using CordovaWebView on Android](http://www.infil00p.org/advanced-tutorial-using-cordovawebview-on-android/), Joe Bowser
+- [Advanced Tutorial: Using CordovaWebView on Android](http://infil00p.org/android/cordova/phonegap/2012/12/04/advanced-tutorial-using-cordovawebview-on-android/), Joe Bowser
 - [Easy PhoneGap Push Notifications with Pushwoosh](http://devgirl.org/2012/12/04/easy-phonegap-push-notifications-with-pushwoosh/), Holly Schinsky
 - [Raised center TabBar button in Cordova / PhoneGap for iOS](http://blog.devgeeks.org/post/37023355576/raised-center-tabbar-button-in-cordova-phonegap-for), Tommy-Carlos Williams
 - [Want Another Option to Learn PhoneGap](http://www.raymondcamden.com/index.cfm/2012/11/8/Want-another-option-to-learn-PhoneGap), Ray Camden

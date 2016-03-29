@@ -15,7 +15,7 @@ We had to quickly release PhoneGap Desktop App 0.1.7 Beta to fix a critical bug 
 Download and install PhoneGap Desktop App 0.1.7 Beta release:
 
 - __OS X__: Download [PhoneGap Desktop 0.1.7 for OS X](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.7/PhoneGapDesktop.dmg)
-- __Windows__: Download [PhoneGap Desktop 0.1.7 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.7/PhoneGapSetup.exe)
+- __Windows__: Download [PhoneGap Desktop 0.1.7 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/tag/0.1.7)
 
 _If you have an issue with PhoneGap Desktop's auto-updater, we recommend that you manually update using the download links provided above._
 

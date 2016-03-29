@@ -91,7 +91,7 @@ One other breed of mobile apps that should be discussed and may be considered as
 
 - [React Native](http://www.reactnative.com/) from [Facebook](http://facebook.com)
 - [NativeScript](https://www.nativescript.org/) from [Telerik](http://www.telerik.com)
-- [Titanium](http://www.appcelerator.com/titanium/) from [Appcelerator](www.appcelerator.com)
+- [Titanium](http://www.appcelerator.com/titanium/) from [Appcelerator](http://www.appcelerator.com)
 
 React Native is still private alpha and NativeScript just became private beta, so not a lot of information is available quite yet on how apps built with these frameworks will be perceived.
 

@@ -4,7 +4,7 @@ require 'rake'
 require 'yaml'
 require 'fileutils'
 require 'rbconfig'
-require 'html/proofer'
+require 'html-proofer'
 require "csv"
 
 # == Configuration =============================================================
@@ -199,7 +199,7 @@ task :test do
     sh "bundle exec jekyll build --config _config-dev.yml"
     Rake::Task[:deleteOldFiles].invoke
   end
-  HTML::Proofer.new("./_site-test", {
+  HTMLProofer.check_directory("./_site-test", {
     :empty_alt_ignore => true,
     :empty_alt_ignore => true,
     :alt_ignore => [/(.)*/],
@@ -216,6 +216,7 @@ task :test do
       '/products/',
       '/tool/',
       'http://phonegap.com/blog/feed.xml',
+      '/blog/tag/phonegap-network/',
       /\/blog\/(200\d|201[0-4])\/(\S)*/
     ],
     :cache => {

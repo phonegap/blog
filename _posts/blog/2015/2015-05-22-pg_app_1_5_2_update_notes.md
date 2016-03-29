@@ -25,7 +25,7 @@ or
 
 Or their desktop app by downloading and installing to `0.1.7` or newer:
 - __OS X__: Download [PhoneGap Desktop 0.1.7 for OS X](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.7/PhoneGapDesktop.dmg)
-- __Windows__: Download [PhoneGap Desktop 0.1.7 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.7/PhoneGapSetup.exe)
+- __Windows__: Download [PhoneGap Desktop 0.1.7 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/tag/0.1.7)
 
 If you are still unable to connect to the server, please create an issue on our [issue tracker][1] 
 describing:

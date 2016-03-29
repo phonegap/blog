@@ -12,7 +12,7 @@ For details on what's changed in PhoneGap 2.7.0:
 
 * [phonegap.com 2.7.0 release blog post](http://phonegap.com/blog/2013/04/30/pg-270-released/)
 * [details on the iOS updates in 2.7.0 by Shazron Abdullah](http://shazronatadobe.wordpress.com/2013/05/03/whats-new-in-cordova-ios-2-7-0/)
-* [details on the Android updates in 2.7.0 by Joe Bowser](http://www.infil00p.org/whats-new-for-cordova-2-7-0/)
+* [details on the Android updates in 2.7.0 by Joe Bowser](http://infil00p.org/android/cordova/2013/05/03/whats-new-for-cordova-2-7-0/)
 
 We highly recommend upgrading so you can take advantage of all of the bug fixes and performance enhancements that the Cordova team has been hard at work on -- but also so the PhoneGap Build team can focus on support for the latest and greatest.
 

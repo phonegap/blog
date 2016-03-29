@@ -23,7 +23,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 ### ARTICLES
 - [What's new in Cordova iOS 2.4.0](http://shazronatadobe.wordpress.com/2013/02/08/whats-new-in-cordova-ios-2-4-0/), Shazron Abdullah
 - [What's new in PhoneGap Android 2.4.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-240.html), Simon MacDonald
-- [What else is new in Cordova Android 2.4.0](http://www.infil00p.org/what-else-is-new-in-cordova-android-2-4-0/), Joe Bowser
+- [What else is new in Cordova Android 2.4.0](http://infil00p.org/android/cordova/phonegap/2013/02/14/what-else-is-new-in-cordova-android-2-4-0//), Joe Bowser
 - [Offline Mapping with PhoneGap + Build](http://tech-blog.silviaterra.com/2013/02/offline-mapping-in-html5-mobile-apps.html), Max Uhlenhuth
 - [PhoneGap Q&A](http://coenraets.org/blog/2013/02/phonegap-qa/?utm_source=rss%26utm_medium=rss%26utm_campaign=phonegap-qa), Christophe Coenraets
 - [PhoneGap 2.5.0 Released](http://phonegap.com/blog/2013/02/28/pg-250-released/), Steve Gill

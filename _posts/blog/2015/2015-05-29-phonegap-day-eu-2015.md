@@ -32,7 +32,7 @@ Be sure to peruse the presentations decks to catch all of the incredible talks (
 - [Anis Kadri](https://twitter.com/aniskadri) - [Embedding Natively: The Hybrid Sweet Spot](https://docs.google.com/presentation/d/1k9G05Q0Z4y2mgoJsH019Zh1GMZy8tEWk0zvHyxskKYo/edit#slide=id.p)
 - [Denis Radin](https://twitter.com/PixelsCommander) - [HTML GL - render HTML / CSS via WebGL for 60 FPS and a bit of effects](http://www.slideshare.net/DenisRadin/html-gl-2)
 - [Max Lynch](https://twitter.com/maxlynch)/[Ben Sperry](https://twitter.com/benjsperry) - [Reframing Hybrid](http://www.slideshare.net/BenSperry/reframing-hybrid-48859060)
-- Niels Leenheer - [The Android WebView](https://speakerdeck.com/nielsleenheer/the-android-webview)
+- Niels Leenheer - [The Android WebView](https://speakerdeck.com/nielsleenheer/the-android-webview-at-phonegap-day)
 - Francesco Balestrieri - [Crosswalk: Unleash the fury of web innovation in your Android app today](https://www.dropbox.com/s/cqfztflztw4p49c/Crosswalk%20Phonegap%20Day%20EU.pdf?dl=0)
 - [Matt May](https://twitter.com/mattmay) - PhoneGap Accessibility
 - Iva Koevska/Sebastian Witalec - The Telerik Platform: Cordova Apps Made Easy (no slide deck as it was a live demo!)
