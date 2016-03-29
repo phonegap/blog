@@ -113,7 +113,7 @@ We're terrible at keeping secrets! Many of you have already noticed the PhoneGap
 [9]: http://phonegap.com/about/feature/
 [10]: http://github.com/phonegap/connect-phonegap
 [11]: http://github.com/phonegap/connect-phonegap/issues
-[12]: http://www.raymondcamden.com/index.cfm/2014/4/21/PhoneGap-Developer-App
+[12]: http://www.raymondcamden.com/2014/04/21/PhoneGap-Developer-App
 [13]: http://devgirl.org/2014/04/22/introducing-the-phonegap-developer-app/
 [14]: http://github.com/phonegap/phonegap-cli
 [15]: http://github.com/phonegap/phonegap-cli/issues

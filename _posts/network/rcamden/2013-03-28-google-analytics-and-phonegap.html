@@ -7,7 +7,7 @@ title: Google Analytics and PhoneGap
 status: publish
 tags:
 - PhoneGap Network
-link: http://www.raymondcamden.com/index.cfm/2013/3/28/Google-Analytics-and-PhoneGap
+link: http://www.raymondcamden.com/2013/03/28/Google-Analytics-and-PhoneGap
 author: Raymond Camden
 ---
 Today I decided to try out the Google Analytics plugin with PhoneGap, and more specifically, PhoneGap Build. It is one of the plugins <a href="https://build.phonegap.com/docs/plugins">supported</a> by PhoneGap Build and being somewhat of a data nerd, I was curious to see how well it worked. Unfortunately, my "quick little experiment" turned out pretty horrid so I thought I'd write up my experiences to help others avoid the same mistakes I make.Based on the docs for PhoneGap Build and this plugin, I was directed to the plugin's <a href="https://github.com/bobeast/GAPlugin/blob/master/README.md">README</a> file. The API to initialize, and track, events was rather darn simple. It's all asynchronous, but in most cases, you can probably just ignore the results. You want to log crap and forget about it. You've got support to register events and pages, and set up custom data as well. (Note that free accounts are limited to 4 custom variables.) 

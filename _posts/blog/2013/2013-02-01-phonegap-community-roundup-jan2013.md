@@ -25,15 +25,15 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Kinvey asks How long does it take to build a mobile app?](http://www.phonegap.com/blog/2013/01/08/kinvey-asks-how-long/), Colene Chow
 - [Working with the BlackBerry Cordova Repo](http://phonegap.com/blog/2013/01/15/Working-With-The-Cordova-BlackBerry-Repo/), Tim Kim
 - [PhoneGap Build API for Node.js](http://phonegap.com/blog/2013/01/15/phonegap-build-api-for-node/), Michael Brooks
-- [PhoneGap Sample - Shake to Roll](http://www.raymondcamden.com/index.cfm/2013/1/15/PhoneGap-Sample--Shake-to-Roll), Ray Camden
+- [PhoneGap Sample - Shake to Roll](http://www.raymondcamden.com/2013/01/15/PhoneGap-Sample-Shake-to-Roll), Ray Camden
 - [Join us at W3Conf](http://phonegap.com/blog/2013/01/17/join-us-at-w3conf/), Colene Chow
-- [Transcripts from Open PhoneGap Session](http://www.raymondcamden.com/index.cfm/2013/1/17/Transcripts-from-Open-PhoneGap-Session), Ray Camden
+- [Transcripts from Open PhoneGap Session](http://www.raymondcamden.com/2013/01/17/Transcripts-from-Open-PhoneGap-Session), Ray Camden
 - [Friday Fun](http://phonegap.com/blog/2013/01/18/friday-fun/), Colene Chow
 - [My First Mobile Game in HTML with PhoneGap Build](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/), Baptiste Brunet
 - [My Workflow for Developing PhoneGap Applications](http://www.tricedesigns.com/2013/01/18/my-workflow-for-developing-phonegap-applications/), Andrew Trice
 - [Did you know - Safari Remote Debugging and PhoneGap](http://www.raymondcamden.com/2013/01/21/Did-you-know-Safari-Remote-Debugging-and-PhoneGap), Ray Camden
 - [PhoneGap Plugin updates](http://simonmacdonald.blogspot.com/2013/01/phonegap-plugin-updates.html), Simon MacDonald
 - [PhoneGap 2.4.0rc1 released](http://phonegap.com/blog/2013/01/24/2013-01-24-pg-240rc1-released/), Steve Gill
-- [Tip for PhoneGap Users - Modify the WWW Template](http://www.raymondcamden.com/index.cfm/2013/1/24/Tip-for-PhoneGap-Users--Modify-the-WWW-template), Ray Camden
+- [Tip for PhoneGap Users - Modify the WWW Template](http://www.raymondcamden.com/2013/01/24/Tip-for-PhoneGap-Users-Modify-the-WWW-template), Ray Camden
 - [Push Notifications Plugin Support added to PhoneGap Build](http://devgirl.org/2013/01/24/push-notifications-plugin-support-added-to-phonegap-build/), Holly Schinsky
 - [PhoneGap Plugin Updates to BarcodeScanner and AppPreferences](http://simonmacdonald.blogspot.com/2013/01/phonegap-plugin-updates-to.html), Simon MacDonald

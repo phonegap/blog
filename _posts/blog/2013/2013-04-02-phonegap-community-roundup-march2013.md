@@ -24,9 +24,9 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [What's new in PhoneGap Android 2.5.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-250.html), Simon MacDonald
 - [PhoneGap Bluetooth Plugin Updated](http://simonmacdonald.blogspot.com/2013/03/phonegap-bluetooth-plugin-updated.html), Simon MacDonald
 - [PhoneGap Community Roundup - Feb 2013](http://phonegap.com/blog/2013/03/04/phonegap-community-roundup-feb2013), Steve Gill
-- [PhoneGap Sample - Diary (Database and Camera Support)](http://www.raymondcamden.com/index.cfm/2013/3/4/PhoneGap-Sample--Diary-Database-and-Camera-support), Ray Camden
+- [PhoneGap Sample - Diary (Database and Camera Support)](http://www.raymondcamden.com/2013/03/04/phonegap-sample-diary-database-and-camera-support/), Ray Camden
 - [Video: Intro To PhoneGap from MobileDev@TU](http://www.tricedesigns.com/2013/03/06/video-intro-to-phonegap-from-mobiledevtu/), Andrew Trice
-- [Testing PhoneGap, Parse, and Push? Read This](http://www.raymondcamden.com/index.cfm/2013/3/7/Testing-PhoneGap-Parse-and-Push-Read-This), Ray Camden
+- [Testing PhoneGap, Parse, and Push? Read This](http://www.raymondcamden.com/2013/03/07/Testing-PhoneGap-Parse-and-Push-Read-This), Ray Camden
 - [PhoneGap Highlights: James Hickmott](http://phonegap.com/blog/2013/03/11/2013-03-11-highlight-1), Steve Gill
 - [Performance & UX Considerations For Successful PhoneGap Apps](http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/), Andy Trice
 - [The BYOD challenge to enterprise App development](http://phonegap.com/blog/2013/03/13/rover-phonegap), Steve Christianson 

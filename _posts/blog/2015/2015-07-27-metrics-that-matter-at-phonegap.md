@@ -35,7 +35,7 @@ Today, our golden number is the `projectsLoaded` event. Before we extend the Pho
 
 ## Privacy
 
-Analytics are a valuable resource, until users leave from privacy concerns! Thankfully, this hasn't happened to us. Anyone can opt-out of the analytics from the options tab. They can also [inspect the source code](github.com/phonegap/phonegap-app-desktop) to see exactly what is reported!
+Analytics are a valuable resource, until users leave from privacy concerns! Thankfully, this hasn't happened to us. Anyone can opt-out of the analytics from the options tab. They can also [inspect the source code](http://github.com/phonegap/phonegap-app-desktop) to see exactly what is reported!
 
 Just remember, we make PhoneGap for you. &lt;3
 

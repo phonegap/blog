@@ -28,9 +28,9 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [PhoneGap Q&A](http://coenraets.org/blog/2013/02/phonegap-qa/?utm_source=rss%26utm_medium=rss%26utm_campaign=phonegap-qa), Christophe Coenraets
 - [PhoneGap 2.5.0 Released](http://phonegap.com/blog/2013/02/28/pg-250-released/), Steve Gill
 - [Featured PhoneGap Apps](http://www.tricedesigns.com/2013/02/22/featured-phonegap-apps/), Andy Trice
-- [Some examples of Android PhoneGap Config Settings](http://www.raymondcamden.com/index.cfm/2013/2/19/Some-examples-of-Android-PhoneGap-Config-Settings), Ray Camden
+- [Some examples of Android PhoneGap Config Settings](http://www.raymondcamden.com/2013/02/19/Some-examples-of-Android-PhoneGap-Config-Settings), Ray Camden
 - [Video: Introduction to PhoneGap](http://www.tricedesigns.com/2013/02/19/video-introduction-to-phonegap/), Andy Trice
 - [Transcript from Open Session On PhoneGap](http://www.tricedesigns.com/2013/02/14/transcript-from-open-session-on-phonegap-3/), Andy Trice
 - [PhoneGap Plugin Updates to TelephoneNumber, IMEI and TTS](http://simonmacdonald.blogspot.com/2013/02/phonegap-plugin-updates-to.html), Simon MacDonald
-- [Using Ripple for PhoneGap Development](http://www.raymondcamden.com/index.cfm/2013/2/6/Using-Ripple-for-PhoneGap-Development), Ray Camden
+- [Using Ripple for PhoneGap Development](http://www.raymondcamden.com/2013/02/06/Using-Ripple-for-PhoneGap-Development), Ray Camden
 - [Video: Native vs. Hybrid vs. Web](http://www.tricedesigns.com/2013/02/02/video-native-vs-hybrid-vs-web-panel/), Andy Trice

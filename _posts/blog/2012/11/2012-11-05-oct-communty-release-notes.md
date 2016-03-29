@@ -31,7 +31,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Wikitude provides PhoneGap users with augmented reality plugin](http://phonegap.com/blog/2012/10/09/wikitude-provides-users-with-augmented-reality-plugin/), Dan Taylor
 - [PhoneGap, Apple Rejections & UI/UX Guidelines](http://www.tricedesigns.com/2012/10/03/phonegap-apple-rejections-uiux-guidelines/), Andy Trice
 - [Automated UI Testing in PhoneGap Apps](http://www.tricedesigns.com/2012/10/08/automated-ui-testing-in-phonegap-apps/), Andy Trice
-- [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App--Part-4), Ray Camden
+- [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App-Part-4), Ray Camden
 - [Apache Cordova Priniciple (for Android) ](http://abstractlayers.com/2012/10/19/apache-cordova-overview-part-1/), Santosh Rangarajan
 - [Apache Cordova Workflow (for Android) ](http://abstractlayers.com/2012/10/25/apache-cordova-workflow-part-2/), Santosh Rangarajan
 - [What's New in PhoneGap Android 2.2.0](http://simonmacdonald.blogspot.com/2012/10/whats-new-in-phonegap-android-220.html), Simon MacDonald
@@ -39,7 +39,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Adding Parse.com User support to your PhoneGap application](http://www.raymondcamden.com/2012/10/31/Adding-Parsecom-User-support-to-your-PhoneGap-application), Raymond Camden
 - [Displaying iCal data in PhoneGap?](http://www.raymondcamden.com/2012/10/12/Displaying-iCal-data-in-PhoneGap/), Raymond Camden 
 - [PhoneGap, Parse.com, and Push Notifications](http://www.raymondcamden.com/2012/10/10/PhoneGap-Parsecom-and-Push-Notifications), Raymond Camden
-- [Building a Parse.com Enabled PhoneGap App - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App--Part-4), Raymond Camden
+- [Building a Parse.com Enabled PhoneGap App - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App-Part-4), Raymond Camden
 - [Building a Parse.com Enabled PhoneGap App - Part 5](http://www.raymondcamden.com/2012/10/24/Building-a-Parsecom-Enabled-PhoneGap-App-Part-5), Raymond Camden
 -[Windows 8 Security and Dynamic Code](http://www.risingj.com/archives/288), Jesse MacFadyen
 - [Announcing Apache Cordova support for Windows Phone 8](http://www.risingj.com/archives/314), Jesse MacFadyen
