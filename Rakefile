@@ -196,7 +196,7 @@ end
 desc "build and test website"
 task :test do
   if !File.exists? "./_site-test"
-    sh "bundle exec jekyll build --config _config-dev.yml"
+    sh "bundle exec jekyll build --config _config-test.yml"
     Rake::Task[:deleteOldFiles].invoke
   end
   HTMLProofer.check_directory("./_site-test", {
