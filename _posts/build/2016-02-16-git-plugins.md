@@ -32,4 +32,4 @@ Adding git-backed plugins to your application is easy and is compatible with the
 
 Full documentation can be found [here](http://docs.build.phonegap.com/en_US/configuring_plugins.md.html#Plugins).
 
-As usual, if you have any questions, <a href="https://community.phonegap.com">don't hesitate to post to the community forum</a> or yell at me on twitter at @brettrudd.
+As usual, if you have any questions, <a href="http://community.phonegap.com">don't hesitate to post to the community forum</a> or yell at me on twitter at @brettrudd.
