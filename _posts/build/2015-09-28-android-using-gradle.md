@@ -31,4 +31,4 @@ As all build tools have their quirks we are adding a preference to override this
 
 ### What?
 
-As usual, if you have any questions, <a href="https://community.phonegap.com">don't hesitate to post to the community forum</a>.
+As usual, if you have any questions, <a href="http://community.phonegap.com">don't hesitate to post to the community forum</a>.

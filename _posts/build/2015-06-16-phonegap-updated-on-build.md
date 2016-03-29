@@ -33,4 +33,4 @@ To verify, connect the Chrome debugger to your app running on an Android device,
 
 Note that the source in the plugin xml above is 'pgb', not 'npm'. You'll find that building with the npm version of cordova-plugin-crosswalk-webview will fail on PhoneGap Build. Currently PGB doesn't support gradle builds, so we had to [fork the Crosswalk plugin](https://github.com/phonegap-build/cordova-plugin-crosswalk-webview/tree/plugin_with_arm_binary) and convert it to an ant project. Believe us, we don't want to maintain a separate fork, so rest assured we are investigating gradle support on PGB and other solutions.
 
-Check out the [Apache Cordova Blog](https://cordova.apache.org/blog/) for more detailed info. Questions? [Ask here.](https://community.phonegap.com)
+Check out the [Apache Cordova Blog](https://cordova.apache.org/blog/) for more detailed info. Questions? [Ask here.](http://community.phonegap.com)

@@ -98,4 +98,4 @@ Splashscreen and icons can now be used without the `gap` namespace as well. This
 </platform>
 ```
 
-As usual, if you have any questions, <a href="https://community.phonegap.com">don't hesitate to post to the community forum</a> or yell at me on twitter at @brettrudd.
+As usual, if you have any questions, <a href="http://community.phonegap.com">don't hesitate to post to the community forum</a> or yell at me on twitter at @brettrudd.

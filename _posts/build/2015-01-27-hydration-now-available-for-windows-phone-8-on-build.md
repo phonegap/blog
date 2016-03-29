@@ -13,4 +13,4 @@ Hydration will be particularly useful on the Windows Phone platform, as Windows 
 
 We're continuing to seek ways to improve the Windows Phone Development cycle with PhoneGap Build -- we know its not ideal. Keep an eye on [this blog](http://phonegap.com/blog/phonegap-build) and our [twitter account](http://twitter.com/phonegapbuild) for more improvements.
 
-And if you have any problems or questions, [don't hesitate to ask!](https://community.phonegap.com).
+And if you have any problems or questions, [don't hesitate to ask!](http://community.phonegap.com).
