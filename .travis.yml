@@ -12,4 +12,6 @@ notifications:
   email:
   - PhoneGapCI@adobe.com
 branches:
-- gh-pages
+  only:
+  - gh-pages
+  - /\S*/
