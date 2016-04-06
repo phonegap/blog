@@ -2,7 +2,7 @@
 tags:
 - PhoneGap Build
 date: 2014-01-23 21:00:05
-author: hardeep
+author: Hardeep Shoker
 title: "Recent Service Outages"
 category: build
 ---

@@ -1,6 +1,6 @@
 ---
 date: 2015-10-22 07:00:03
-author: The PhoneGap Team
+author: PhoneGap Team
 title: "Participate in this year's National Developer Trends Survey and win some cool prizes!"
 tags:
 - Guest Post

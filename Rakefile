@@ -80,7 +80,66 @@ def open_command
   end
 end
 
+def parse_posts
+  Dir.chdir POSTS
+  data = []
+  files = Rake::FileList["**/*.md", "**/*.markdown", "**/*.html"]
+  files.exclude("README.md")
+  for file in files
+    content = File.read("#{File.dirname(__FILE__)}/#{POSTS}#{file}")
+    if content.include? "---"
+      yaml_data = content.split('---')[1]
+      yaml_data = YAML.load(yaml_data)
+      data.push(yaml_data)
+    end
+  end
+  return data
+end
+
 # == Tasks =====================================================================
+
+# rake generate-tags
+desc "Generate a page for each tag"
+task :tags do
+  posts = parse_posts()
+  tags = []
+  for post in posts
+    tags_temp = post["tags"]
+    if tags_temp.respond_to?('each')
+      tags.push(*tags_temp)
+    end
+  end
+  tags = tags.uniq - ["", nil]
+  for tag in tags
+    content = File.read("#{File.dirname(__FILE__)}/tags/_template.html")
+    parsed_content = content.gsub!("{tag}", tag)
+    slug = tag.gsub(" ", "-").downcase
+    parsed_content = content.gsub("{slug}", slug)
+    directory = "#{File.dirname(__FILE__)}/tags"
+    File.write("#{directory}/#{slug}.html", parsed_content)
+    puts "#{slug}.html"
+  end
+end
+
+# rake generate-tags
+desc "Generate a page for each tag"
+task :authors do
+  posts = parse_posts()
+  authors = []
+  for post in posts
+    authors.push(post["author"])
+  end
+  authors = authors.uniq - ["", nil]
+  for author in authors
+    content = File.read("#{File.dirname(__FILE__)}/authors/_template.html")
+    parsed_content = content.gsub!("{author}", author)
+    slug = author.gsub(/\W/, "-").downcase
+    parsed_content = content.gsub("{slug}", slug)
+    directory = "#{File.dirname(__FILE__)}/authors"
+    File.write("#{directory}/#{slug}.html", parsed_content)
+    puts "#{slug}.html"
+  end
+end
 
 # rake post["Title"]
 desc "Create a post in _posts/"

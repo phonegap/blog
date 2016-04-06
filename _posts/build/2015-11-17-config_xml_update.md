@@ -2,7 +2,7 @@
 tags:
 - PhoneGap Build
 date: 2015-11-17 18:00:02
-author: brettrudd
+author: Brett Rudd
 title: "config.xml gets an update"
 category: build
 ---

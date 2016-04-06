@@ -1,0 +1,15 @@
+---
+layout: tag
+title: Sponsor Pay
+permalink: /author/sponsor-pay/
+category: author_page
+---
+<div class="bounds--wide">
+  <div class="blog-post__preview-list">
+    {% for post in site.posts %}
+      {% if post.author == page.title %}
+        {% include post-preview.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

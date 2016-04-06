@@ -1,6 +1,6 @@
 ---
 date: 2016-02-16 17:00:04
-author: brettrudd
+author: Brett Rudd
 title: "Plugins From Git Repositories Are Now Available on PhoneGap Build!"
 category: build
 tags:
