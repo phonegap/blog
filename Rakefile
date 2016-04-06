@@ -82,6 +82,36 @@ end
 
 # == Tasks =====================================================================
 
+# rake generate-tags
+desc "Generate a page for each tag"
+task :tags do
+  Dir.chdir POSTS
+  files = Rake::FileList["**/*.md", "**/*.markdown", "**/*.html"]
+  files.exclude("README.md")
+  tags = []
+  for file in files
+    content = File.read("#{File.dirname(__FILE__)}/#{BLOG}#{file}")
+    if content.include? "---"
+      yaml_data = content.split('---')[1]
+      yaml_data = YAML.load(yaml_data)
+      tags_temp = yaml_data["tags"]
+      if tags_temp.respond_to?('each')
+        tags.push(*tags_temp)
+      end
+    end
+  end
+  tags = tags.uniq - ["", nil]
+  for tag in tags
+    content = File.read("#{File.dirname(__FILE__)}/tags/_template.html")
+    parsed_content = content.gsub!("{tag}", tag)
+    slug = tag.gsub(" ", "-").downcase
+    parsed_content = content.gsub("{slug}", slug)
+    directory = "#{File.dirname(__FILE__)}/blog/tags"
+    File.write("#{directory}/#{slug}.html", parsed_content)
+    puts "#{slug}.html"
+  end
+end
+
 # rake post["Title"]
 desc "Create a post in _posts/"
 task :post, :title do |t, args|
