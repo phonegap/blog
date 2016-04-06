@@ -2,7 +2,7 @@
 tags:
 - PhoneGap Build
 date: 2015-09-28 17:00:03
-author: brettrudd
+author: Brett Rudd
 title: "Android Builds Now Using Gradle By Default"
 category: build
 ---

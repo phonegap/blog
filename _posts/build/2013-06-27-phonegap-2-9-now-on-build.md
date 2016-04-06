@@ -2,18 +2,18 @@
 tags:
 - PhoneGap Build
 date: 2013-06-27 15:20:02
-author: ryan
+author: Ryan Willoughby
 title: PhoneGap 2.9.0 Now on Build
 date: Thu Jun 27 13:33:35 -0700 2013
 ---
 
-We've just added support for [PhoneGap 2.9.0](http://phonegap.com/blog/2013/06/26/pg-290-released/) to PhoneGap Build! 
+We've just added support for [PhoneGap 2.9.0](http://phonegap.com/blog/2013/06/26/pg-290-released/) to PhoneGap Build!
 
-We highly recommend upgrading so you can take advantage of all of the bug fixes and performance enhancements that the Cordova team has been hard at work on -- but also so the PhoneGap Build team can focus on support for the latest and greatest. 
+We highly recommend upgrading so you can take advantage of all of the bug fixes and performance enhancements that the Cordova team has been hard at work on -- but also so the PhoneGap Build team can focus on support for the latest and greatest.
 
 <!-- end-slug -->
 
-Michael Brooks has been hard at work on the [PhoneGap CLI](http://log.michaelbrooks.ca/post/phonegap-cli-preview) -- and this includes support for both building locally and handing off to PhoneGap Build, right from your command line. 
+Michael Brooks has been hard at work on the [PhoneGap CLI](http://log.michaelbrooks.ca/post/phonegap-cli-preview) -- and this includes support for both building locally and handing off to PhoneGap Build, right from your command line.
 
 If you have trouble with your upgrade (or anything else PhoneGap Build related), [hit us up for some support](http://community.phonegap.com/nitobi). Upgrade! Don't make us come over there.
 

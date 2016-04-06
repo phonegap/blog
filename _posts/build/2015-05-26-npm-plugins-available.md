@@ -3,7 +3,7 @@ tags:
 - PhoneGap Build
 date: 2015-05-26 15:00:02
 date: 2015-05-26 13:00:02
-author: brettrudd
+author: Brett Rudd
 title: "npm Plugins Are Now on PhoneGap Build!"
 category: build
 ---

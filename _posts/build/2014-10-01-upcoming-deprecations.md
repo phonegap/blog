@@ -2,7 +2,7 @@
 tags:
 - PhoneGap Build
 date: 2014-10-01 17:00:02
-author: Brett Rudd @brettrudd
+author: Brett Rudd
 title: "Cordova 2.9, WebOS, Symbian, Blackberry and Windows Phone 7 Deprecations"
 category: build
 ---

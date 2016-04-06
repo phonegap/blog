@@ -1,5 +1,5 @@
 ---
-author: The PhoneGap Team
+author: PhoneGap Team
 title: "Announcing PhoneGap Community support on Adobe Forums"
 tags:
 - News

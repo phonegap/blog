@@ -1,6 +1,6 @@
 ---
 date: 2013-04-01 16:40:03
-author: Colene
+author: Colene Chow
 title: "jQuery Adds Support for Windows Store Apps"
 tags:
 - Windows Phone

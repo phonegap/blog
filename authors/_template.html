@@ -1,13 +1,13 @@
 ---
-layout: author
+layout: tag
 title: {author}
-permalink: /tag/{slug}/
-category: tag_page
+permalink: /author/{slug}/
+category: author_page
 ---
 <div class="bounds--wide">
   <div class="blog-post__preview-list">
     {% for post in site.posts %}
-      {% if post.tags contains page.title %}
+      {% if post.author == page.title %}
         {% include post-preview.html %}
       {% endif %}
     {% endfor %}
