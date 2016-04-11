@@ -8,7 +8,7 @@ tags:
 
 <h1>Adobe Experience Manager Mobile</h1>
 
-Adobe made a huge announcement in the mobile landscape during Mobile World Congress 2016. Adobe officially announced a new product, Adobe Experience Manager Mobile. AEM Mobile enables enterprise organizations to produce, manage and maintain their mobile apps all from one place, drastically reducing time to market and making it easier for organizations to engage audiences.
+Adobe made a huge announcement affecting the 2016 mobile landscape during Mobile World Congress in February. Adobe officially announced a new product, Adobe Experience Manager Mobile. AEM Mobile enables enterprise organizations to produce, manage and maintain their mobile apps all from one place, drastically reducing time to market and making it easier for organizations to engage audiences.
 
 This is huge for organizations looking to deliver engaging and relevant mobile experiences. Up to this point the solution landscape for creating and managing apps has been disjointed with different UX and UI design tools for prototyping, different development tools for coding, multiple management systems for storing content, and various marketing tools for analytics/targeting/notifications. All this fragmentation leads to an inconsistent brand message for users as well as a lot of wasted time and energy trying to realize efficient workflows between departments.
 
@@ -33,7 +33,7 @@ In 2014, Adobe announced Adobe Experience Manager Apps and [PhoneGap Enterprise]
 
 <h3>How PhoneGap powers AEM Mobile</h3>
 
-- Using AEM Mobile allows you to target multiple platforms through PhoneGap functionality
+- Using AEM Mobile allows you to target multiple platforms via PhoneGap
 - Leverage the PhoneGap plugin [ContentSync](https://www.npmjs.com/package/phonegap-plugin-contentsync) to fetch and cache content for your app
 - Take advantage of the [PhoneGap Build](https://build.phonegap.com/) service as an AEM Mobile customer
 - Easily test and preview your changes on a device with AEM Mobile Verify powered by PhoneGap - on [iOS](https://itunes.apple.com/us/app/adobe-experience-manager-mobile/id924780940?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.adobe.pge.appviewer&hl=en)
