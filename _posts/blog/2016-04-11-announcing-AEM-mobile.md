@@ -12,6 +12,8 @@ Adobe made a huge announcement in the mobile landscape during Mobile World Congr
 
 This is huge for organizations looking to deliver engaging and relevant mobile experiences. Up to this point the solution landscape for creating and managing apps has been disjointed with different UX and UI design tools for prototyping, different development tools for coding, many management systems for storing content, and various marketing tools for analytics/targeting/notifications. All this fragmentation leads to an inconsistent brand message for users as well as a lot of wasted time and energy trying to realize efficient workflows between departments.
 
+AEM Mobile fixes that fragmentation and allows for organizations to effectively manage their mobile experiences. Better mobile experiences? More engaged audiences? More consistent brand message? Yes. To all of that.
+
 <h3>History</h3>
 In 2014, Adobe announced Adobe Experience Manager Apps and [PhoneGap Enterprise](http://phonegap.com/blog/2015/01/23/phonegap-enterprise-post/). This was the first iteration of providing a solution for enterprises to create and manage their mobile experiences. Adobe Experience Manager Mobile combines all the functionality from AEM Apps, PhoneGap Enterprise and Adobe Digital Publishing Suite to make it even easier to take an idea and turn it into an app that's essential for your business.
 
