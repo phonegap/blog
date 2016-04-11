@@ -36,6 +36,6 @@ In 2014, Adobe announced Adobe Experience Manager Apps and [PhoneGap Enterprise]
 - Using AEM Mobile allows you to target multiple platforms through PhoneGap functionality
 - Leverage the PhoneGap plugin [ContentSync](https://www.npmjs.com/package/phonegap-plugin-contentsync) to fetch and cache content for your app
 - Take advantage of the [PhoneGap Build](https://build.phonegap.com/) service as an AEM Mobile customer
-- Easily test and preview your changes on a device with AEM Mobile Verify powered by PhoneGap
+- Easily test and preview your changes on a device with AEM Mobile Verify powered by PhoneGap - on [iOS](https://itunes.apple.com/us/app/adobe-experience-manager-mobile/id924780940?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.adobe.pge.appviewer&hl=en)
 
 If you'd like to learn more about Adobe Experience Manager Mobile please visit the [website](http://www.adobe.com/marketing-cloud/enterprise-content-management/mobile-app-development.html) and start a [free trial](https://try.aemmobile.adobe.com/?promoid=MC95SQGF&mv=other) today!
