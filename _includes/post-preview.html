@@ -1,7 +1,7 @@
 <article class="blog-post__preview">
   <header>
     <div class="blog__dateline">
-      <time class="blog-post__date" datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%SZ'}}">{{ post.date | date: '%B %d, %Y' }}</time> &bull; <a class="blog-post__author" href="{{ post.author | slugify | prepend: '/author/' | prepend: site.baseurl }}">{{ post.author }}</a>
+      <time class="blog-post__date" datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%SZ'}}">{{ post.date | date: '%B %d, %Y' }}</time> &bull; {% if post.author %}<a class="blog-post__author" href="{{ post.author | slugify | prepend: '/author/' | prepend: site.baseurl }}">{{ post.author }}</a>{% endif %}
     </div>
     <h1 class="blog-post__title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h1>
     {% include tag-list.html %}

@@ -133,7 +133,7 @@ task :authors do
   for author in authors
     content = File.read("#{File.dirname(__FILE__)}/authors/_template.html")
     parsed_content = content.gsub!("{author}", author)
-    slug = author.gsub(/\W/, "-").downcase
+    slug = author.gsub(/\W/, "-").downcase.gsub(/---*/, "-")
     parsed_content = content.gsub("{slug}", slug)
     directory = "#{File.dirname(__FILE__)}/authors"
     File.write("#{directory}/#{slug}.html", parsed_content)
