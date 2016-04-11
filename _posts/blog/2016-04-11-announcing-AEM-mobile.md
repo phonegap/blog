@@ -19,7 +19,7 @@ In 2014, Adobe announced Adobe Experience Manager Apps and [PhoneGap Enterprise]
 
 <h3>Benefits</h3>
 
-1. **Leverage Existing Content** - AEM Mobile allows for marketing managers and creatives to populate apps with existing content through template-based authoring. For organizations wanting to deliver content from other sources — we offer [flexible and open APIs](https://helpx.adobe.com/digital-publishing-solution/help/integrating-dps.html)
+1. **Leverage Existing Content** - AEM Mobile allows for marketing managers and creatives to populate apps with existing content through template-based authoring. For organizations wanting to deliver content from other sources — we offer [flexible and open APIs](https://helpx.adobe.com/digital-publishing-solution/help/integrating-dps.html).
 
 2. **Centrally Manage Apps** - One unified dashboard to manage all aspects of an app's lifecycle from apps built within the product to existing native or hybrid apps as well.
 
