@@ -50,7 +50,7 @@ Since influencer outreach is such a crucial step in being heard and since anyone
 
 [Kate Russell from BBC on How to Pitch Editorial Coverage](http://katerussell.co.uk/how-to-pitch-editorial-coverage/)
 
-[App Academy Podcast](http://www.chamberds.com/podcast/)
+[App Academy Podcast](https://itunes.apple.com/us/podcast/app-academy-podcast-jordan/id975943337)
 
 [Tiger Tiger's Growth Hacking Sourcebook](http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/)
 
