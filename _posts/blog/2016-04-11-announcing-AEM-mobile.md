@@ -8,7 +8,7 @@ tags:
 
 <h1>Adobe Experience Manager Mobile</h1>
 
-Adobe made a huge announcement in the mobile landscape during Mobile World Congress 2016. Adobe officially announced a new product, Adobe Experience Manager Mobile. AEM Mobile enables enterprise organizations to produce, manage and maintain their mobile apps all from one place drastically reducing time to market and making it easier for organizations to engage audiences.
+Adobe made a huge announcement in the mobile landscape during Mobile World Congress 2016. Adobe officially announced a new product, Adobe Experience Manager Mobile. AEM Mobile enables enterprise organizations to produce, manage and maintain their mobile apps all from one place, drastically reducing time to market and making it easier for organizations to engage audiences.
 
 This is huge for organizations looking to deliver engaging and relevant mobile experiences. Up to this point the solution landscape for creating and managing apps has been disjointed with different UX and UI design tools for prototyping, different development tools for coding, many management systems for storing content, and various marketing tools for analytics/targeting/notifications. All this fragmentation leads to an inconsistent brand message for users as well as a lot of wasted time and energy trying to realize efficient workflows between departments.
 
