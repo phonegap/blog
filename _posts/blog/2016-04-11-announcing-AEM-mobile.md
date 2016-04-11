@@ -2,9 +2,8 @@
 author: Jen Gray
 title: "Announcing Adobe Experience Manager Mobile"
 tags:
-- PhoneGap Day
-- Event
-- Community
+- Announcement
+- PhoneGap Enterprise
 ---
 
 <h1>Adobe Experience Manager Mobile</h1>
