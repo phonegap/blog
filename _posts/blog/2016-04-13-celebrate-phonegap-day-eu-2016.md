@@ -8,9 +8,9 @@ tags:
 - Community
 ---
 
-Who wants to see beautiful Amsterdam this Spring? Not to mention, hang out and learn from some pretty cool people in the PhoneGap/Cordova community? Uh. We do! Come join us in Amsterdam May 19-20 for [PhoneGap Day EU 2016](http://pgday.phonegap.com/eu2016/). 
+Who wants to see beautiful Amsterdam this Spring? Not to mention, hang out and learn from some pretty cool people in the PhoneGap/Cordova community? Uh. We do! Come join us in Amsterdam May 19-20 for [PhoneGap Day EU 2016](http://pgday.phonegap.com/eu2016/).
 
-We're about one month out and we're excited to announce an amazing agenda as well as some cool new things we're doing for the workshop day. 
+We're about one month out and we're excited to announce an amazing agenda as well as some cool new things we're doing for the workshop day.
 
 ##Agenda##
 
