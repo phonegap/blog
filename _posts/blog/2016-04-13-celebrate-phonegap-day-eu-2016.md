@@ -12,7 +12,7 @@ Who wants to see beautiful Amsterdam this Spring? Not to mention, hang out and l
 
 We're about one month out and we're excited to announce an amazing agenda as well as some cool new things we're doing for the workshop day.
 
-##Agenda##
+## Agenda
 
 We'll be hosting PhoneGap Day EU at [Het Compagnietheater](http://www.compagnietheater.nl/compagnietheater.html) again. Day one features talks from the PhoneGap team as well as awesome PhoneGap developers who have built super successful apps and have tons of development tips to share.
 
@@ -22,7 +22,7 @@ We'll be hosting PhoneGap Day EU at [Het Compagnietheater](http://www.compagniet
 
 Check out the full agenda [here](http://pgday.phonegap.com/eu2016/).
 
-##Workshops##
+## Workshops
 
 Quick note! Workshops will be held in a different venue than the conference. Full details [here](http://pgday.phonegap.com/eu2016/). Workshops are always crazy popular every year so this year we wanted to make sure you get the most of them. Gone are the days of being locked into one track. This year, we'll have two concurrent workshop tracks so you can choose your workshop adventure depending on your interest and skill level.
 
@@ -30,7 +30,7 @@ Quick note! Workshops will be held in a different venue than the conference. Ful
 - [Andreas Schacherbauer](http://pgday.phonegap.com/eu2016/speaker/andreasschacherbauer) from Wikitude will be talking about Augmented Reality apps with PhoneGap!
 - Come learn from the best as [Jesse MacFadyen](http://pgday.phonegap.com/eu2016/speaker/purplecabbage) takes you through this deep dive workshop on making great plugins, from conception to testing to publishing.
 
-##SWAG##
+## SWAG
 
 And of course we'll have brand new PhoneGap swag courtesy of [Tim Kim](https://twitter.com/timkim). Here's a sneak peek:
 
