@@ -28,8 +28,8 @@ $ gem install bundler
 Clone this repository:
 
 ```bash
-$ git clone https://github.com/phonegap/phonegap.github.io.git
-$ cd phonegap.github.io/
+$ git clone https://github.com/phonegap/blog.git
+$ cd blog/
 ```
 
 Install the Ruby dependencies for phonegap.com:
@@ -46,7 +46,7 @@ $ bundle install
 $ rake watch
 ```
 
-Then open a browser to `http://localhost:4000`.
+Then open a browser to `http://localhost:4000/blog/`.
 
 **Build and watch everything _including the blog_:**
 
