@@ -50,7 +50,7 @@ The "browser platform" changes all that at least for a core set of plugins and o
 
 ## Templates
 
-Another thing we've been getting excited about lately are templates. PhoneGap and Cordova now support [creating new apps using a template][phonegap-templates] from a local folder, npm, or a git URL. This is a really exciting development as it allows quick creation of apps from boilerplate set-ups like the [React Hot Loader template][react-hot-loader-template] or the [Framework7 template][framework7-template]. _Star Track_ itself was developed by starting with the that Framework 7 template. Not only that, but it also makes sharing an example app like _Star Track_ much easier. Instead of having to clone a GitHub repository then run the app, you can just create a new PhoneGap app that is a copy of _Start Track_.
+Another thing we've been getting excited about lately are templates. PhoneGap and Cordova now support [creating new apps using a template][phonegap-templates] from a local folder, npm, or a git URL. This is a really exciting development as it allows quick creation of apps from boilerplate set-ups like the [React Hot Loader template][react-hot-loader-template] or the [Framework7 template][framework7-template]. _Star Track_ itself was developed by starting with the Framework 7 template. Not only that, but it also makes sharing an example app like _Star Track_ much easier. Instead of having to clone a GitHub repository then run the app, you can just create a new PhoneGap app that is a copy of _Start Track_.
 
 ```
 phonegap create StarTrack --template https://github.com/phonegap/phonegap-app-star-track
