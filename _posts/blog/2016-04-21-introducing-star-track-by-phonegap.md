@@ -1,5 +1,5 @@
 ---
-author: Tommy Williams
+author: Tommy-Carlos Williams
 title: "Introducing: Star Track by PhoneGap"
 tags:
   - Announcement
