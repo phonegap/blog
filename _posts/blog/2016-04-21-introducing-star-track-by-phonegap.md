@@ -1,8 +1,11 @@
 ---
-author: The PhoneGap Team
+author: Tommy Williams
 title: "Introducing: Star Track by PhoneGap"
 tags:
-- Announcement, Framework, Documentation, App
+  - Announcement
+  - Framework
+  - Documentation
+  - App
 ---
 
 A Complete PhoneGap Example App Using [Framework7][framework7.io] and the [Spotify API][spotify-api]
