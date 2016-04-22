@@ -23,7 +23,7 @@ In a nutshell, _Star Track_ allows you to search for songs (tracks), then previe
 
 ## Why We Built It
 
-_Star Track_ was built for a few reasons. We really wanted a _complete_ app beyond a basic Hello World that you could try out straight away on your device(s). This will allow you to just jump straight into a finished experience. Hopefully alleviating any concerns about hybrid apps, such as those made with PhoneGap, having performance issues. There is a pretty long-standing trope that PhoneGap is slow. Dispelling that has been a bit of a passion of mine.
+_Star Track_ was built for a few reasons. We really wanted a _complete_ app beyond a basic Hello World that you could try out straight away on your device(s) jumping right into a finished experience. The goal was also to help alleviate any concerns about hybrid apps, such as those made with PhoneGap, having performance issues. There is a pretty long-standing trope that PhoneGap is slow. Dispelling that has been a bit of a passion of mine.
 
 ![PhoneGap isn't Slow](/blog/uploads/2016-04/google-search-is-mean.jpg)
 
