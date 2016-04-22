@@ -98,7 +98,7 @@ end
 
 # == Tasks =====================================================================
 
-# rake generate-tags
+# rake tags
 desc "Generate a page for each tag"
 task :tags do
   posts = parse_posts()
@@ -121,8 +121,8 @@ task :tags do
   end
 end
 
-# rake generate-tags
-desc "Generate a page for each tag"
+# rake authors
+desc "Generate a page for each author"
 task :authors do
   posts = parse_posts()
   authors = []
