@@ -11,7 +11,7 @@ TL;DR: [Check it out now on GitHub][star-track-github]
 
 ## The Name
 
-Let's get something out of the way. It is _not_ a serious name. We have no plans to release _Star Track_ on any app stores and we know that at the very least it is already the name of a postal logistics service in Australia. It's just a cute name that pretty much describes what it is the app does. What does it do? So glad you asked.
+Let's get something out of the way. It is _not_ a serious name. We have no plans to release _Star Track_ on any app stores and we know that at the very least it is already the name of a postal logistics service in Australia. It's just a cute name that pretty much describes what the app does. What does it do? So glad you asked.
 
 ## What is It?
 
