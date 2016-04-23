@@ -39,7 +39,7 @@ Secondly, the PhoneGap team are at the very beginning stages of writing a series
 
 Once we decided to build _Star Track_, we had to decide _how_ we were going to build it. Use React? Angular? Build everything from scratch? We wanted something approachable that was understandable by relative beginners _and_ the ES2015 crowd. Guides that are too centered on something specific can turn off those that have no interest in that particular framework. Not only that, but a tutorial written for framework A might be incomprehensible to someone used to developing in framework B. We also wanted it to look nice.
 
-We decided on Framework 7 because it was approachable and looked lovely. Framework 7 apps are written in a back-to-basics jQuery style of coding that should be just as readable by the deepest immutable devotee as it is by someone taking their first tentative steps into the pool.  Framework 7 is written specifically for mobile apps and it shows. It has features like gestures for navigation, fast beautuful animations, and looks at home on iOS as well as Android thanks to the recent addition of a Material theme.
+We decided on Framework 7 because it was approachable and looked lovely. Framework 7 apps are written in a back-to-basics jQuery style of coding that should be just as readable by the deepest immutable devotee as it is by someone taking their first tentative steps into the pool.  Framework 7 is written specifically for mobile apps and it shows. It has features like gestures for navigation, fast beautiful animations, and looks at home on iOS as well as Android thanks to the recent addition of a Material theme.
 
 ![Star Track Material](/blog/uploads/2016-04/star-track-screens-android.jpg)
 
@@ -53,7 +53,7 @@ The "browser platform" changes all that at least for a core set of plugins and o
 
 ## Templates
 
-Another thing we've been getting excited about lately are templates. PhoneGap and Cordova now support [creating new apps using a template][phonegap-templates] from a local folder, npm, or a git URL. This is a really exciting development as it allows quick creation of apps from boilerplate set-ups like the [React Hot Loader template][react-hot-loader-template] or the [Framework7 template][framework7-template]. _Star Track_ itself was developed by starting with the Framework 7 template. Not only that, but it also makes sharing an example app like _Star Track_ much easier. Instead of having to clone a GitHub repository then run the app, you can just create a new PhoneGap app that is a copy of _Start Track_.
+Another thing we've been getting excited about lately are templates. PhoneGap and Cordova now support [creating new apps using a template][phonegap-templates] from a local folder, npm, or a git URL. This is a really exciting development as it allows quick creation of apps from boilerplate set-ups like the [React Hot Loader template][react-hot-loader-template] or the [Framework7 template][framework7-template]. _Star Track_ itself was developed by starting with the Framework 7 template. Not only that, but it also makes sharing an example app like _Star Track_ much easier. Instead of having to clone a GitHub repository then run the app, you can just create a new PhoneGap app that is a copy of _Star Track_.
 
 ```
 phonegap create StarTrack --template https://github.com/phonegap/phonegap-app-star-track
