@@ -54,5 +54,4 @@ Go to your [PhoneGap Build Account Settings](https://buildstage.phonegap.com/peo
 	```<preference name="windows-identity-name" value="PhonegapBuild.PGBDeveloper" />```
 
 
-
-We're releasing these new features in a beta release, so there may still be quirks to work out. Feedback and questions are welcome -- post to the [New Adobe PhoneGap Build Forum](https://forums.adobe.com/community/phonegap/build), or comment below!
+Windows 10 support is being released as a beta feature as we work out any quirks, so [let us know if you find issues, or have questions or feedback](https://forums.adobe.com/community/phonegap/build).
