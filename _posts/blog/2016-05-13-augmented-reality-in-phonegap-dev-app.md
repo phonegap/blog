@@ -48,5 +48,4 @@ Come to [PhoneGap Day EU](http://pgday.phonegap.com/eu2016/) in Amsterdam on May
 
 *sneak peek at our new swag*
 
-![Samurai-bot-shirt](/blog/uploads/2016-04/samurai_bot
-.png)
+![Samurai-bot-shirt](/blog/uploads/2016-04/Samurai-bot.png)
