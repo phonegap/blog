@@ -36,7 +36,7 @@ Haven't installed the PhoneGap Developer App yet? Well get to it!
 
 The PhoneGap Developer App is a mobile app that runs on devices and allows you to preview and test the PhoneGap mobile apps you build across platforms without additional platform SDK setup. **Getting started instructions** [here](http://docs.phonegap.com/getting-started/2-install-mobile-app/).
 
-Now create your first project and try out Augmented Reality! The plugin specifically allows image recognition, image tracking, geo based augmented reality, and 3D rendering and animations to be inserted into scene. Additionally, users can sign up to Wikitude's services to upload their own images to augment or play around with the samples the PhoneGap team will provide. 
+Now create your first project and try out Augmented Reality! The plugin specifically allows image recognition, image tracking, geo based augmented reality, and 3D rendering and animations to be inserted into scene. Additionally, users can sign up for Wikitude's services to upload their own images to augment or play around with the samples the PhoneGap team will provide. 
 
 ## See it in Action
 
