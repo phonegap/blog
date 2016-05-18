@@ -25,7 +25,7 @@ For those interested in the full CHANGELOG:
 - [#579](https://github.com/phonegap/phonegap-app-desktop/issues/579) - clear button in the server log
 - [#618](https://github.com/phonegap/phonegap-app-desktop/issues/618) - proxy URI problem in ajax POST
 - [#623](https://github.com/phonegap/phonegap-app-desktop/issues/623) - default app error
-- [#624](https://github.com/phonegap/phonegap-app-desktop/issues/624) - update connect-phonegap & phonegap-cli dependenciesto latest versions
+- [#624](https://github.com/phonegap/phonegap-app-desktop/issues/624) - update connect-phonegap & phonegap-cli dependencies to latest versions
 - [#627](https://github.com/phonegap/phonegap-app-desktop/issues/627) - fix code formatting in project-widget.js
 
 ## Getting Involved ##
