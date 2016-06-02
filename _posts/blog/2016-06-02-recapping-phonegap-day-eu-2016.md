@@ -31,7 +31,7 @@ We had so many incredible talks so be sure to check out the decks - we'll be add
 
 - [PhoneGap Day kickoff](http://www.slideshare.net/macdonst/phonegap-day-eu-2016-kickoff) - [Simon MacDonald](https://twitter.com/macdonst)
 - [Common PhoneGap Gotchas](https://www.photokandy.com/2016/05/19/common-phonegap-gotchas-pgday-eu-2016-may-19-2016/) - [Kerri Shotts](https://twitter.com/photoKandy)
-- Do we still need a server? P2P web applications distribution on mobile landscape - [Denis Radin](https://twitter.com/PixelsCommander)
+- [Do we still need a server? P2P web applications distribution on mobile landscape](https://docs.google.com/presentation/d/1vKgbwZ4R5NlLKVUvUsWiFIecu6OoompuTImh392IUnY/edit) - [Denis Radin](https://twitter.com/PixelsCommander)
 - [Handling the keyboard in hybrid applications](https://docs.google.com/presentation/d/1peDvkhx6pUZiFM7ujzdDtmhHiRCrhPAuSQC5eY_NV8s/edit) - [Tim Lancina](https://twitter.com/timlancina)
 - [Comparing Dutch Banking App Architectures](http://www.slideshare.net/EddyVerbruggen/phonegap-day-eu-2016) - [Eddy Verbruggen](https://twitter.com/eddyverbruggen)
 - [Quantifiable performance](https://github.com/blefebvre/pg-app-perf) - [Bruce Lefebvre](https://twitter.com/brucelefebvre)
