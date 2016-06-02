@@ -35,7 +35,7 @@ We had so many incredible talks so be sure to check out the decks - we'll be add
 - [Handling the keyboard in hybrid applications](https://docs.google.com/presentation/d/1peDvkhx6pUZiFM7ujzdDtmhHiRCrhPAuSQC5eY_NV8s/edit) - [Tim Lancina](https://twitter.com/timlancina)
 - [Comparing Dutch Banking App Architectures](http://www.slideshare.net/EddyVerbruggen/phonegap-day-eu-2016) - [Eddy Verbruggen](https://twitter.com/eddyverbruggen)
 - [Quantifiable performance](https://github.com/blefebvre/pg-app-perf) - [Bruce Lefebvre](https://twitter.com/brucelefebvre)
-- Progressive enhancement for mobile apps: exploring the continuum between Cordova and React Native - [Martijn Walraven](https://twitter.com/martijnwalraven)
+- [Progressive enhancement for mobile apps: exploring the continuum between Cordova and React Native](http://www.slideshare.net/macdonst/exploring-the-continuum-between-cordova-and-react-native) - [Martijn Walraven](https://twitter.com/martijnwalraven)
 - [Fixing Continuous Delivery for Mobile](http://www.slideshare.net/EvanSchultz1/rangleevanphonegapday2016fixingcontinuousdeliveryformobile) - [Evan Schultz](https://twitter.com/e_p82)
 - [The State of the Gap](https://speakerdeck.com/rem/state-of-the-gap) - [Remy Sharp](https://twitter.com/rem)
 - [Using Monaca Cloud to enhance Cordova development](http://masahirotanaka.github.io/pgday-2016-onsen2/index.html#/) - [Masahiro Tanaka](https://twitter.com/massie)
