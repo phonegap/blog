@@ -36,7 +36,7 @@ And of course we'll have brand new PhoneGap swag courtesy of [Tim Kim](https://t
 
 ![PGDay-shirt](/blog/uploads/2016-03/samurai_swag.png)
 
-**Big thanks to our awesome sponsors!!**
+## Big thanks to our awesome sponsors!!
 
 - [Canonical](http://www.canonical.com/)
 - [Crosswalk](https://crosswalk-project.org/)

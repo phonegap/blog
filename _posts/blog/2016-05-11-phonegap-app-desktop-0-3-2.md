@@ -9,14 +9,14 @@ tags:
 
 PhoneGap Desktop 0.3.2 is addresses an issue with plugins not loading in the browser platform and several bug fixes. See the CHANGELOG below for more details.
 
-## Installation ##
+## Installation
 
 You can install the latest version of the PhoneGap Desktop App from our docs:
 
 - [Install on OS X](http://docs.phonegap.com/references/desktop-app/install/mac/)
 - [Install on Windows](http://docs.phonegap.com/references/desktop-app/install/win/)
 
-## What's New ##
+## What's New
 
 For those interested in the full CHANGELOG:
 
@@ -32,7 +32,7 @@ For those interested in the full CHANGELOG:
 - [#612](https://github.com/phonegap/phonegap-app-desktop/issues/612) - copying config after installing dependencies can lead to incorrect module versions in build
 - [#613](https://github.com/phonegap/phonegap-app-desktop/issues/613) - closing log window will show ip address when server is off
 
-## Getting Involved ##
+## Getting Involved
 
 We would like to thank our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 

@@ -21,15 +21,15 @@ In 2014, Adobe announced Adobe Experience Manager Apps and [PhoneGap Enterprise]
 
 1. **Leverage Existing Content** - AEM Mobile allows for marketing managers and creatives to populate apps with existing content through template-based authoring. For organizations wanting to deliver content from other sources — we offer [flexible and open APIs](https://helpx.adobe.com/digital-publishing-solution/help/integrating-dps.html).
 
-2. **Centrally Manage Apps** - One unified dashboard to manage all aspects of an app's lifecycle from apps built within the product to existing native or hybrid apps as well.
+1. **Centrally Manage Apps** - One unified dashboard to manage all aspects of an app's lifecycle from apps built within the product to existing native or hybrid apps as well.
 
-3. **Build and Extend Apps** - AEM Mobile allows brands to rapidly create apps for iOS, Android and Windows. Using intuitive design tools and frameworks, designers and marketers can quickly create beautiful screens and nuanced navigational structures, all backed by native working code. You can also extend existing native apps with real-world functionality via [Apache Cordova](http://cordova.apache.org/). See it in action [here](https://www.youtube.com/watch?v=29cTuhgUlqY)! Also be sure to check out the [full list of plugins](https://helpx.adobe.com/digital-publishing-solution/help/cordova-api.html) to learn more about what types of native features are already supported.
+1. **Build and Extend Apps** - AEM Mobile allows brands to rapidly create apps for iOS, Android and Windows. Using intuitive design tools and frameworks, designers and marketers can quickly create beautiful screens and nuanced navigational structures, all backed by native working code. You can also extend existing native apps with real-world functionality via [Apache Cordova](http://cordova.apache.org/). See it in action [here](https://www.youtube.com/watch?v=29cTuhgUlqY)! Also be sure to check out the [full list of plugins](https://helpx.adobe.com/digital-publishing-solution/help/cordova-api.html) to learn more about what types of native features are already supported.
 
-4. **Empower Non-technical Users** - Marketers and other non-technical users can now update content within the app to ensure users have the most relevant content immediately.
+1. **Empower Non-technical Users** - Marketers and other non-technical users can now update content within the app to ensure users have the most relevant content immediately.
 
-5. **App Update Management** - App content can be updated instantly without requiring a trip back to the app store. Updates are managed through a straightforward workflow and tools are provided to verify content changes in development, staging, and production environments.
+1. **App Update Management** - App content can be updated instantly without requiring a trip back to the app store. Updates are managed through a straightforward workflow and tools are provided to verify content changes in development, staging, and production environments.
 
-6. **Engage, Measure and Optimize** - Collect data to gather a better understanding about who's using your app and how, backed by [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). Leverage [Adobe Target](http://www.adobe.com/marketing-cloud/testing-targeting.html) to personalize content for each user. Notify users to keep them coming back through the [PhoneGap Push Plugin](http://phonegap.com/blog/2016/03/08/phonegap-plugin-push-1-6-0/).
+1. **Engage, Measure and Optimize** - Collect data to gather a better understanding about who's using your app and how, backed by [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). Leverage [Adobe Target](http://www.adobe.com/marketing-cloud/testing-targeting.html) to personalize content for each user. Notify users to keep them coming back through the [PhoneGap Push Plugin](http://phonegap.com/blog/2016/03/08/phonegap-plugin-push-1-6-0/).
 
 <h3>How PhoneGap powers AEM Mobile</h3>
 

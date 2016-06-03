@@ -1,0 +1,9 @@
+{% if include.width %}{% assign width = include.width %}{% else %}{% assign width = "640" %}{% endif %}
+{% if include.height %}{% assign height = include.height %}{% else %}{% assign iheight = "360" %}{% endif %}
+<div class="video-wrapper">
+  {% if include.type == 'vimeo' %}
+    <iframe id="vimeo" src="https://player.vimeo.com/video/{{ include.id }}?api=1&player_id=vimeo" width="{{ width }}" height="{{ height }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  {% else %}
+    <iframe width="{{ width }}" height="{{ height }}" src="//www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+  {% endif %}
+</div>

@@ -13,7 +13,7 @@ Whoa, can you believe it's been two weeks since PhoneGap Day EU 2016 in Amsterda
 
 ![](/blog/uploads/2016-06/pgdeu1.jpg)
 
-## Day 1 ##
+## Day 1
 
 We had another amazing lineup of speakers for this PhoneGap Day. Our diverse group of speakers came in from all over the world to inform and entertain our attendees. [Kerri Shotts](https://twitter.com/photoKandy) got things started off right with an epic talk on _Common PhoneGap Gotchas_. This talk is a must watch for beginner and advanced PhoneGap Developers.
 
@@ -41,13 +41,13 @@ We had so many incredible talks so be sure to check out the decks - we'll be add
 - [Using Monaca Cloud to enhance Cordova development](http://masahirotanaka.github.io/pgday-2016-onsen2/index.html#/) - [Masahiro Tanaka](https://twitter.com/massie)
 - [Making Apps for the Big Screen](https://speakerdeck.com/nielsleenheer/making-apps-for-the-big-screen-at-phonegap-day) - [Niels Leenheer](https://twitter.com/rakaz)
 - [What's new with PhoneGap Build](http://goya.github.io/pgdeu-2016) - [Brett Rudd](https://twitter.com/brettrudd)
-- [Simulating Plugins in the Browser](http://www.slideshare.net/RyanJSalva/phonegap-day-2016-eu-simulating-cordova-plugins-in-the-browser) - [Ryan J Salva](https://twitter.com/ryanjsalva) 
+- [Simulating Plugins in the Browser](http://www.slideshare.net/RyanJSalva/phonegap-day-2016-eu-simulating-cordova-plugins-in-the-browser) - [Ryan J Salva](https://twitter.com/ryanjsalva)
 - [Hybrid Apps Powering African Mobile Solutions](http://slides.com/saniyusuf/pgpoweringafrica#/) - [Sani Yusuf](https://twitter.com/saniyusuf)
 - [Crosswalk Project Empowers PhoneGap Apps](http://www.slideshare.net/RaphaelKubodaCosta/crosswalk-project-empower-your-phonegap-app) - Raphael Kubo Da Costa
 - Case Study: StoryCorps App - [Dean Haddock](https://twitter.com/systemconscious)
 - [Closing Remarks](http://www.slideshare.net/shazron1/phonegap-day-eu-2016-closing-remarks) - [Shazron Abdullah](https://twitter.com/shazron)
 
-## Day 2 ##
+## Day 2
 
 We kicked off the workshop day with 2 separate tracks so attendees could choose their own adventure whether they wanted to learn more about plugin development or app submission best practices.
 
@@ -66,7 +66,7 @@ Check out the slides and resources from all the workshops below. We'll be adding
 - [Learn React with Onsen UI 2](https://docs.google.com/presentation/d/1j1lKqDBppJWKqptZc3BprpR17rQUXv9pU2dWw4W2DMI/pub?start=false&loop=false&delayms=3000) - [Masahiro Tanaka](https://twitter.com/massie)
 - [Developing Cordova apps on Ubuntu devices](http://www.slideshare.net/DavidBarth4/developing-cordova-apps-for-ubuntu) - David Barth
 - [PhoneGap Build](http://wildabeast.github.io/phonegap-day-workshop/) - Ryan Willoughby
-- [App Submission](https://github.com/timkim/phonegap-day-workshop-app-submission/wiki) - [Shazron Abdullah](https://twitter.com/shazron) 
+- [App Submission](https://github.com/timkim/phonegap-day-workshop-app-submission/wiki) - [Shazron Abdullah](https://twitter.com/shazron)
 
 Big thanks to all of our amazing sponsors!
 

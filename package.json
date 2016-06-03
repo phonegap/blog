@@ -1,0 +1,12 @@
+{
+  "name": "phonegap-blog",
+  "version": "0.0.1",
+  "description": "The official PhoneGap blog.",
+  "repository": "git@github.com:phonegap/blog.git",
+  "devDependencies": {
+    "markdownlint-cli": "^0.1.0"
+  },
+  "scripts": {
+    "lint": "markdownlint _posts/blog/*md"
+  }
+}

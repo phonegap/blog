@@ -15,14 +15,14 @@ From our investigation it looked like Electron 0.36.0 (used in PhoneGap Desktop 
 
 You'll need to manually update to 0.2.3.
 
-## Installation ##
+## Installation
 
 You can install the latest version of the PhoneGap Desktop App from our docs:
 
 - [Install on OS X](http://docs.phonegap.com/references/desktop-app/install/mac/)
 - [Install on Windows](http://docs.phonegap.com/references/desktop-app/install/win/)
 
-## What's New ##
+## What's New
 
 For those interested in the full CHANGELOG:
 
@@ -34,7 +34,7 @@ For those interested in the full CHANGELOG:
 [#557](https://github.com/phonegap/phonegap-app-desktop/issues/557) - issue connecting from OSX to iPhone
 [#558](https://github.com/phonegap/phonegap-app-desktop/issues/558) - PhoneGap Desktop quit unexpectedly when connecting to PhoneGap Developer App
 
-## Getting Involved ##
+## Getting Involved
 
 We would like to thank our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 
