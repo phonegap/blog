@@ -88,6 +88,20 @@ figure.highlight
       content: ','
 .blog-post__title
   font-size: 2rem
+.blog-filter
+  font-size: .875rem
+  color: #999
+  text-transform: uppercase
+  &::before
+    content: ''
+    background: url('{{ "/images/filter-icon.svg" | prepend: site.baseurl }}') no-repeat center
+    background-size: contain
+    display: inline-block
+    width: 12px
+    height: 8px
+    position: relative
+    top: -2px
+    margin-right: 7px
 .pagination
   color: #999
   font-size: 1.125rem
