@@ -166,17 +166,14 @@ figure.highlight
   display: block
   width: 100%
   padding-top: 44px
-  h5
-    margin-bottom: 16px
-    img
-      vertical-align: baseline
-      width: 21px
   ul
     list-style: none
     padding: 0
     margin: 0
   section
     margin-bottom: 50px
+.blog-aside__title
+  margin-bottom: 16px
 %blog-aside__header
   padding-left: 28px
   position: relative
@@ -201,10 +198,6 @@ figure.highlight
   @extend %blog-aside__header
   &::before
     background: url('{{ '/images/tag-icon.svg' | prepend: site.baseurl }}') no-repeat center
-.blog-aside__title
-  display: none
-.blog-aside__title--toggle
-  display: block
 .tag-list--top
   display: none
   li
@@ -268,7 +261,3 @@ figure.highlight
     display: block
   .pagination__page
     display: block
-  .blog-aside__title
-    display: block
-  .blog-aside__title--toggle
-    display: none
