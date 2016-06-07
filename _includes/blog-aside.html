@@ -1,12 +1,14 @@
 <aside class="blog-aside">
-  <section id="top-tag-list" class="tag-list__top">
-    <header>
-      <h5><img src="{{ '/images/trophy-icon.svg' | prepend: site.baseurl }}" alt="Trophy Icon"/> Top Tags</h5>
+  <section id="top-tag-list" class="tag-list--top">
+    <header class="blog-aside__header--top-tags">
+      <h5 class="blog-aside__title">Top Tags</h5>
+      <h5 class="blog-aside__title--toggle"><a href="#">Top Tags</a></h5>
     </header>
   </section>
   <section class="featured-posts__blog">
-    <header>
-      <h5><img src="{{ '/images/star-icon.svg' | prepend: site.baseurl }}" alt="Star Icon"/> Featured Posts</h5>
+    <header class="blog-aside__header--featured-posts">
+      <h5 class="blog-aside__title">Featured Posts</h5>
+      <h5 class="blog-aside__title--toggle"><a href="#">Featured Posts</a></h5>
     </header>
     <ul>
       {% assign counter = 0 %}
@@ -22,11 +24,12 @@
       {% endfor %}
     </ul>
   </section>
-  <section class="tag-list__all">
-    <header>
-      <h5><img src="{{ '/images/tag-icon.svg' | prepend: site.baseurl }}" alt="Tag Icon"/> All Tags</h5>
+  <section class="tag-list--all">
+    <header class="blog-aside__header--tag-list">
+      <h5 class="blog-aside__title">All Tags</h5>
+      <h5 class="blog-aside__title--toggle"><a href="#">All Tags</a></h5>
     </header>
-    <ul>
+    <ul class="tag-list__list">
       {% for page in site.pages %}
         {% if page.category contains 'tag_page' %}
           <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
