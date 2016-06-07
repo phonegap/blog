@@ -12,6 +12,10 @@
   -webkit-justify-content: space-between
   -ms-flex-pack: justify
   justify-content: space-between
+  -webkit-box-orient: vertical
+  -webkit-box-direction: normal
+  -ms-flex-direction: column
+  flex-direction: column
 .blog-post
   h2
     font-size: 1.875rem
@@ -159,22 +163,43 @@ figure.highlight
 .pagination--center
   @extend .pagination
 .blog-aside
+  display: block
   width: 100%
-  max-width: 300px
   padding-top: 44px
-  display: none
-  h5
-    margin-bottom: 16px
-    img
-      vertical-align: baseline
-      width: 21px
   ul
     list-style: none
     padding: 0
     margin: 0
   section
     margin-bottom: 50px
-.tag-list__top
+.blog-aside__title
+  margin-bottom: 16px
+%blog-aside__header
+  padding-left: 28px
+  position: relative
+  &::before
+    content: ''
+    width: 21px
+    height: 21px
+    display: inline-block
+    position: absolute
+    left: 0
+    top: 3px
+.blog-aside__header--top-tags
+  @extend %blog-aside__header
+  &::before
+    background: url('{{ '/images/trophy-icon.svg' | prepend: site.baseurl }}') no-repeat center
+.blog-aside__header--featured-posts
+  @extend %blog-aside__header
+  &::before
+    background: url('{{ '/images/star-icon.svg' | prepend: site.baseurl }}') no-repeat center
+    top: 2px
+.blog-aside__header--tag-list
+  @extend %blog-aside__header
+  &::before
+    background: url('{{ '/images/tag-icon.svg' | prepend: site.baseurl }}') no-repeat center
+.tag-list--top
+  display: none
   li
     line-height: 1.35rem
   span
@@ -187,11 +212,12 @@ figure.highlight
     font-size: 0.875rem
     color: #111
 .featured-posts__blog
+  display: none
   li
     font-size: 1.25rem
     line-height: 1.25rem
     margin-bottom: 10px
-.tag-list__all
+.tag-list--all
   li
     text-transform: uppercase
     font-size: 0.875rem
@@ -205,17 +231,33 @@ figure.highlight
     position: relative
     top: -1px
     margin-right: 2px
-@media (min-width: 920px)
+.tag-list__list
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  li
+    flex-basis: 33%
+    min-width: 175px
+@media (min-width: 620px)
+  .bounds--wide
+    -webkit-box-orient: horizontal
+    -webkit-box-direction: normal
+    -ms-flex-direction: row
+    flex-direction: row
+  .blog-aside
+    max-width: 300px
   .blog-post__preview-list
     margin: 0 30px 0 0
-  .blog-aside
-    display: block
   .blog-post__title
     font-size: 3.0625rem
     line-height: 3rem
-  .pagination__page
-    display: block
   .blog-post__preview, .blog-post
     img
       width: auto
       max-width: 100%
+  .tag-list--top
+    display: block
+  .featured-posts__blog
+    display: block
+  .pagination__page
+    display: block
