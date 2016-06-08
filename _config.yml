@@ -11,6 +11,7 @@ gems:
 
 paginate: 10
 paginate_list_count: 7
+paginate_list_mobile_count: 5
 paginate_path: "/page:num/"
 
 permalink: /:year/:month/:day/:title/
