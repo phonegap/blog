@@ -61,7 +61,7 @@ Check out the slides and resources from all the workshops below. We'll be adding
 - [Creating the ideal Cordova dev environment](http://www.slideshare.net/RyanJSalva/phonegap-day-2016-eu-creating-the-ideal-cordova-dev-environment) - [Ryan J Salva](https://twitter.com/ryanjsalva)
 - [Augmented reality apps with PhoneGap](https://github.com/AndreasSchacherbauerWikitude/presentations/tree/master/PhoneGap_day_2016) - [Andreas Schacherbauer](https://twitter.com/a_schacherbauer)
 - [Embedding PhoneGap in a native app](https://github.com/imhotep/PGDayEUWs2016) - [Anis Kadri](https://twitter.com/aniskadri) and [Eddy Verbruggen](https://twitter.com/eddyverbruggen)
-- [App Privacy and Security for PhoneGap Developers](http://www.slideshare.net/Stevengill97/pgday-eu-2016-workshop-privacy-and-security) - [Steve Gill](https://twitter.com/stevesgill)
+- [App Privacy and Security for PhoneGap Developers](http://www.slideshare.net/stevesgill/pgday-eu-2016-workshop-privacy-and-security) - [Steve Gill](https://twitter.com/stevesgill)
 - [PhoneGap Push Notifications](http://macdonst.github.io/push-workshop-eu/) - [Simon MacDonald](https://twitter.com/macdonst)
 - [Learn React with Onsen UI 2](https://docs.google.com/presentation/d/1j1lKqDBppJWKqptZc3BprpR17rQUXv9pU2dWw4W2DMI/pub?start=false&loop=false&delayms=3000) - [Masahiro Tanaka](https://twitter.com/massie)
 - [Developing Cordova apps on Ubuntu devices](http://www.slideshare.net/DavidBarth4/developing-cordova-apps-for-ubuntu) - David Barth
