@@ -7,20 +7,19 @@ tags:
 - Tutorial
 ---
 
-### January 7, 2013 Update: We are live!
+## January 7, 2013 Update: We are live!
+
 Apache Cordova 2.3.0 with full support for Windows Phone 8 is available.
 
 Here’s the quick list of steps to follow to get started:
 
 1. Download [Apache Cordova 2.3.0](http://bit.ly/ZhKa0B)
-
-2. Watch the [5’ tutorial on Channel9](http://bit.ly/WoH0WC)
-
-3. Read the new [‘Getting Started’ Guide](http://bit.ly/TH2FMX)
+1. Watch the [5’ tutorial on Channel9](http://bit.ly/WoH0WC)
+1. Read the new [‘Getting Started’ Guide](http://bit.ly/TH2FMX)
 
 Read the rest of the post below for all the details!
---
 
+---
 
 Over the last few months, we have been working to bring Windows Phone 8 (WP8) into Apache Cordova. I [originally announced](http://www.risingj.com/archives/314) the newly supported device at the Microsoft Build event at the end of October, but it has not made it into an official release until recently. Apache Cordova 2.3.0 will include full support for Windows Phone 8 applications. While it probably will not be officially released until the first week of January, you are welcome to go download and get started with the [Direct Link to Release Candidate 2](https://github.com/phonegap/phonegap/archive/2.3.0rc2.zip), or via the tags page at [github.com/phonegap/phonegap/tags](http://github.com/phonegap/phonegap/tags).
 
@@ -35,15 +34,13 @@ Ben Lobaugh of the Microsoft Open Technologies team has recorded a video explain
 
 If you are a developer coming from a Mac background, then Olivier Bloch [(@obloch)](http://twitter.com/obloch) has a great post on [How to develop for Windows Phone 8 on your Mac](http://blogs.msdn.com/b/interoperability/archive/2012/12/21/how-to-develop-for-windows-phone-8-on-your-mac.aspx).
 
-What’s New?
------------
+## What’s New?
 
 WP8 apps load faster because they do not need to unpack resources to Isolated Storage. In WP7 Cordova, when the app launched all of the JavaScript, CSS, and HTML had to be moved to the application’s sandboxed file system to allow linking to work. WP8 has removed this step.
 
 Multiple screen sizes, Scalable Vector Graphics (SVG), ES5, gesture events, [and more ...](http://msdn.microsoft.com/library/windowsphone/develop/jj206940(v=vs.105).aspx)
 
-The New Browser
----------------
+## The New Browser
 
 WP8 has a new browser! Internet Explorer 10 is the engine behind the WebBrowser control in Cordova for WP8, and this brings many enhancements.
 
@@ -62,8 +59,7 @@ Windows Phone 8 still requires user interaction in order to manipulate Contacts,
 
 If you are porting a Cordova app to WP8, there is an extremely useful blog post from the Windows Phone team outlining everything you need to know in the process. Read all about [Adapting your Webkit optimized site for Internet Explorer 10](http://blogs.windows.com/windows_phone/b/wpdev/archive/2012/11/15/adapting-your-webkit-optimized-site-for-internet-explorer-10.aspx)
 
-Next Steps
-----------
+## Next Steps
 
 CLI tooling needs to be brought up to date to match the other platforms. Visual Studio is great for development, but if you are coming from Android, or iOS, then you expect the same command line interface to work. This will also page the way for integration with tools, like [PhoneGap Build](http://build.phonegap.com/).
 
@@ -71,8 +67,7 @@ Windows Phone 7+8 are both using the same JavaScript file behind the scenes. I w
 
 Permission models are still a bit of a mess because of the way Cordova links to every device API. As we explore more plugin-unification this problem should disappear. Some experimentation is still warranted though.
 
-Your Assignment
----------------
+## Your Assignment
 
 Once you have ported your Cordova apps to Windows Phone 8, make sure you let everyone know. PhoneGap has a [community page](http://www.phonegap.com/app/submit) where you can post your progress, and get the attention you deserve.
 
@@ -82,6 +77,4 @@ If you want to keep a close eye on things as they develop, you can watch the [Ap
 
 As always, I welcome your comments and suggestions, both here, and on [twitter](http://twitter.com/purplecabbage).
 
-
-*Originally posted on [Jesse’s MacFadyen’s blog](http://www.risingj.com/archives/374)*
-
+> Originally posted on [Jesse’s MacFadyen’s blog](http://www.risingj.com/archives/374)
