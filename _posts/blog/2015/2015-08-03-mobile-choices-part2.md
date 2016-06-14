@@ -69,8 +69,8 @@ Lastly, we'd love to hear from you! Tell us about your own unique hybrid app dev
 
 ## Related Reading
 
-- [Why Hybrid doesn't suck (anymore)](https://www.airpair.com/javascript/posts/switching-from-ios-to-ionic)
-- [Evolution of WebViews for iOS and Android](https://www.airpair.com/android-webview/posts/evolution-of-webview-ios-and-android)
+- [Why Hybrid doesn't suck (anymore)](http://www.airpair.com/javascript/posts/switching-from-ios-to-ionic)
+- [Evolution of WebViews for iOS and Android](http://www.airpair.com/android-webview/posts/evolution-of-webview-ios-and-android)
 - [High Performance Embedded WebViews in Mobile Apps](https://engineering.zillow.com/high-performance-embedded-webviews-in-mobile-apps/)
 - [Whoa That Embedded Web View Looks Hot in your iOS App](http://engineeringblog.yelp.com/2013/11/whoa-that-embedded-web-view-looks-hot-in-your-ios-app.html)
 - [Mixing Cordova/PhoneGap Components with Native iOS](http://devgirl.org/2014/07/22/mixing-cordova-phonegap-components-with-nativ/)
