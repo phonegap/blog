@@ -2,7 +2,7 @@
 title: PhoneGap Build API for Node.js
 author: Michael Brooks
 date: '2013-01-15 12:02:05'
-tags: 
+tags:
 - PhoneGap Build
 - Framework
 - Guide
@@ -25,228 +25,269 @@ This is why we use libraries.
 
 For your coding pleasure, here is an exhaustive list of usage examples:
 
-### Authentication
+## Authentication
 
-    var client = require('phonegap-build-api');
+```js
+var client = require('phonegap-build-api');
+client.auth({ username: 'zelda', password: 'tr1f0rce' }, function(e, api) {
+  // use `api` to make requests
+});
+```
 
-    client.auth({ username: 'zelda', password: 'tr1f0rce' }, function(e, api) {
-        // use `api` to make requests
-    });
+## `GET https://build.phonegap.com/api/v1/me`
 
-### GET https://build.phonegap.com/api/v1/me
+```js
+api.get('/me', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.get('/me', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `GET https://build.phonegap.com/api/v1/apps`
 
-### GET https://build.phonegap.com/api/v1/apps
+```js
+api.get('/apps', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.get('/apps', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `GET https://build.phonegap.com/api/v1/apps/:id`
 
-### GET https://build.phonegap.com/api/v1/apps/:id
+```js
+api.get('/apps/199692', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.get('/apps/199692', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `GET https://build.phonegap.com/api/v1/apps/:id/icon`
 
-### GET https://build.phonegap.com/api/v1/apps/:id/icon
+```js
+api.get('/apps/199692/icon').pipe(fs.createWriteStream('icon.png'));
+```
 
-    api.get('/apps/199692/icon').pipe(fs.createWriteStream('icon.png'));
+## `GET https://build.phonegap.com/api/v1/apps/:id/:platform`
 
-### GET https://build.phonegap.com/api/v1/apps/:id/:platform
+```js
+api.get('/apps/199692/android').pipe(fs.createWriteStream('app.apk'));
+```
 
-    api.get('/apps/199692/android').pipe(fs.createWriteStream('app.apk'));
+## `GET https://build.phonegap.com/api/v1/keys`
 
-### GET https://build.phonegap.com/api/v1/keys
+```js
+api.get('/keys', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.get('/keys', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `GET https://build.phonegap.com/api/v1/keys/:platform`
 
-### GET https://build.phonegap.com/api/v1/keys/:platform
+```js
+api.get('/keys/ios', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.get('/keys/ios', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `GET https://build.phonegap.com/api/v1/keys/:platform/:id`
 
-### GET https://build.phonegap.com/api/v1/keys/:platform/:id
+```js
+api.get('/keys/ios/917', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.get('/keys/ios/917', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `POST https://build.phonegap.com/api/v1/apps`
 
-### POST https://build.phonegap.com/api/v1/apps
+```js
+var options = {
+  form: {
+    data: {
+      title: 'My App',
+      create_method: 'file'
+    },
+    file: '/path/to/app.zip'
+  }
+};
 
-    var options = {
-        form: {
-            data: {
-                title: 'My App',
-                create_method: 'file'
-            },
-            file: '/path/to/app.zip'
-        }
-    };
+api.post('/apps', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.post('/apps', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `PUT https://build.phonegap.com/api/v1/apps/:id`
 
-### PUT https://build.phonegap.com/api/v1/apps/:id
+```js
+var options = {
+  form: {
+    data: {
+      debug: false
+    },
+    file: '/path/to/app.zip'
+  }
+};
 
-    var options = {
-        form: {
-            data: {
-                debug: false
-            },
-            file: '/path/to/app.zip'
-        }
-    };
+api.put('/apps/197196', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.put('/apps/197196', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+## `POST https://build.phonegap.com/api/v1/apps/:id/icon`
 
-### POST https://build.phonegap.com/api/v1/apps/:id/icon
+```js
+var options = {
+  form: {
+    icon: 'my-icon.png'
+  }
+};
 
-    var options = {
-        form: {
-            icon: 'my-icon.png'
-        }
-    };
+api.post('/apps/232741/icon', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-    api.post('/apps/232741/icon', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
-
-### POST https://build.phonegap.com/api/v1/apps/:id/build
+## `POST https://build.phonegap.com/api/v1/apps/:id/build`
 
 Build all platforms:
 
-    api.post('/apps/232741/build', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
- 
+```js
+api.post('/apps/232741/build', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
+
 Build specific platforms:
 
-    var options = {
-        form: {
-            data: {
-                platforms: [ 'android', 'blackberry', 'ios', 'winphone', 'webos' ]
-            }
-        }
-    };
+```js
+var options = {
+  form: {
+    data: {
+      platforms: [ 'android', 'blackberry', 'ios', 'winphone', 'webos' ]
+    }
+  }
+};
 
-    api.post('/apps/232741/build', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+api.post('/apps/232741/build', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### POST https://build.phonegap.com/api/v1/apps/:id/build/:platform
+## `POST https://build.phonegap.com/api/v1/apps/:id/build/:platform`
 
-    api.post('/apps/232741/build/android', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+```js
+api.post('/apps/232741/build/android', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### POST https://build.phonegap.com/api/v1/apps/:id/collaborators
+## `POST https://build.phonegap.com/api/v1/apps/:id/collaborators`
 
-    var options = {
-        form: {
-            data: {
-                email: 'michael@michaelbrooks.ca',
-                role: 'dev'
-            }
-        }
-    };
+```js
+var options = {
+  form: {
+    data: {
+      email: 'michael@michaelbrooks.ca',
+      role: 'dev'
+    }
+  }
+};
 
-    api.post('/apps/232741/collaborators', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+api.post('/apps/232741/collaborators', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### PUT https://build.phonegap.com/api/v1/apps/:id/collaborators/:id
+## `PUT https://build.phonegap.com/api/v1/apps/:id/collaborators/:id`
 
-    var options = {
-        form: {
-            data: {
-                role: 'tester'
-            }
-        }
-    };
+```js
+var options = {
+  form: {
+    data: {
+      role: 'tester'
+    }
+  }
+};
 
-    api.put('/apps/232741/collaborators/263955', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+api.put('/apps/232741/collaborators/263955', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### POST https://build.phonegap.com/api/v1/keys/:platform
+## `POST https://build.phonegap.com/api/v1/keys/:platform`
 
-    var options = {
-        form: {
-            data: {
-                title: 'My BlackBerry Signing Key',
-                password: 'my-password'
-            },
-            db: '/path/to/sigtool.db',
-            csk: '/path/to/sigtool.csk'
-        }
-    };
+```js
+var options = {
+  form: {
+    data: {
+      title: 'My BlackBerry Signing Key',
+      password: 'my-password'
+    },
+    db: '/path/to/sigtool.db',
+    csk: '/path/to/sigtool.csk'
+  }
+};
 
-    api.post('/keys/blackberry', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+api.post('/keys/blackberry', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### PUT https://build.phonegap.com/api/v1/keys/:platform/:id
+## `PUT https://build.phonegap.com/api/v1/keys/:platform/:id`
 
-    var options = {
-        form: {
-            data: {
-                password: 'my-updated-password'
-            }
-        }
-    };
+```js
+var options = {
+  form: {
+    data: {
+      password: 'my-updated-password'
+    }
+  }
+};
 
-    api.put('/keys/blackberry/1505', options, function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+api.put('/keys/blackberry/1505', options, function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### DELETE https://build.phonegap.com/api/v1/apps/:id
+## `DELETE https://build.phonegap.com/api/v1/apps/:id`
 
-    api.del('/apps/14450', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+```js
+api.del('/apps/14450', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### DELETE https://build.phonegap.com/api/v1/apps/:id/collaborators/:id
+## `DELETE https://build.phonegap.com/api/v1/apps/:id/collaborators/:id`
 
-    api.del('/apps/232741/collaborators/263955', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+```js
+api.del('/apps/232741/collaborators/263955', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
-### DELETE https://build.phonegap.com/api/v1/keys/:platform/:id
+## `DELETE https://build.phonegap.com/api/v1/keys/:platform/:id`
 
-    api.del('/keys/ios/2729', function(e, data) {
-        console.log('error:', e);
-        console.log('data:', data);
-    });
+```js
+api.del('/keys/ios/2729', function(e, data) {
+  console.log('error:', e);
+  console.log('data:', data);
+});
+```
 
 Enjoy!
 
-*Originally posted on [http://log.michaelbrooks.ca/](http://log.michaelbrooks.ca/post/phonegap-build-api-for-node.js)*
-
-
+> Originally posted on [http://log.michaelbrooks.ca/](http://log.michaelbrooks.ca/post/phonegap-build-api-for-node.js)

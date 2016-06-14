@@ -1,6 +1,6 @@
 ---
 date: 2013-04-24 11:40:02
-author: "AT&T Developer Program" 
+author: "AT&T Developer Program"
 title: "New AT&T APIs for Adobe PhoneGap"
 tags:
 - Guest Post
@@ -16,7 +16,7 @@ Create a new revenue stream through the use of customized advertising. The Adver
 
 Powered by the AT&T Watson℠ speech engine, the Speech API supports speech-enabled apps that run on virtually any cellular network in the United States. There are seven speech contexts available that are built and maintained by AT&T, and we'll continue to tune them for you. Now with [Text to Speech](http://developer.att.com/developer/forward.jsp?passedItemId=12500023) functionality, you can just send us text as part of the API call, and one of our polite, well-versed characters will be happy to ‘say’ what you sent.
 
-If you are not a current user - the AT&T SDK enables [AT&T API Platform](http://developer.att.com) services to be accessible through the PhoneGap platform to help you quickly bring PhoneGap mobile applications to market. The AT&T SDK significantly reduces the complexity of building applications that use the AT&T APIs. 
+If you are not a current user - the AT&T SDK enables [AT&T API Platform](http://developer.att.com) services to be accessible through the PhoneGap platform to help you quickly bring PhoneGap mobile applications to market. The AT&T SDK significantly reduces the complexity of building applications that use the AT&T APIs.
 
 While we are working with PhoneGap to provide a separate developer tool for the AT&T HTML5 SDK, integration with Cordova web view tool and wrapping with PhoneGap allows you to integrate robust services like the AT&T Speech API into your app.
 
@@ -38,4 +38,3 @@ Multimedia Messaging Service (MMS) greatly enhances the power of your communicat
 
 Monetize your apps with the Payment API. The Payment API can give your customers the convenience and security of having their in-app purchases charged directly to their AT&T bill.
 Visit [developer.att.com](http://developer.att.com) to download and install the [AT&T API SDK](http://developer.att.com/phonegap).
-

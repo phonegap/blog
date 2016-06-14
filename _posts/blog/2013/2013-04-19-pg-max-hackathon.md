@@ -10,14 +10,17 @@ The PhoneGap + [Brackets](http://brackets.io) teams will be hosting a free 2-day
 
 Bring your laptop and come hack with the teams! There will be internet, power, and plenty of table space to comfortably work. No prior experience with PhoneGap or Brackets is required.
 
-## Registration ##
+## Registration
+
 Registration is not required, but it will get you an awesome t-shirt. Register on our [Eventbrite page](http://adobemaxhack.eventbrite.com/).
 
-## Resources ##
+## Resources
+
 * [Getting Started](http://docs.phonegap.com/en/2.6.0/guide_getting-started_index.md.html#Getting%20Started%20Guides)
 * [PhoneGap Download](http://phonegap.com/download/)
 * [Issue Tracker](https://issues.apache.org/jira/browse/CB)
 * [Cordova Wiki](http://wiki.cordova.io)
 
-## Inside the LA Convention Center ##
+## Inside the LA Convention Center
+
 ![](/blog/uploads/2013-04/adobemax-hackathon-map.png)

@@ -43,7 +43,7 @@ In order for phonegap.js to send a request to the device it simply sets the loca
 * `gap://` - This is a phonegap request and not a request to load a new page.
 * `CommandHandler` - This is a subset of device functionality that contains methods.  An example would be Accelerometer or Notification
 * `method` - Each CommandHandler defines it's own methods
-*  `arguments` - a URL encoded list of arguments that are passed to the method ( varies based on the method ) Note that phonegap.js will URLEncode the parameters for you.
+* `arguments` - a URL encoded list of arguments that are passed to the method ( varies based on the method ) Note that phonegap.js will URLEncode the parameters for you.
 
 and here's a concrete example:
 

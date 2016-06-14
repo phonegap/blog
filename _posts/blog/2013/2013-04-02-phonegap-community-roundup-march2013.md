@@ -10,7 +10,8 @@ Below is the March addition of our [PhoneGap Community Release Notes](http://pho
 
 We'll be posting the round up from each month and below is the roundup for the month of March.
 
-### EVENTS
+## EVENTS
+
 - March 7, [BlackBerry 10 with PhoneGap and Overview of Cordova's File APIs](http://www.meetup.com/PhoneGap-SF/events/105579202/), Tim Kim & Andrew Grieve
 - March 13, [NYC ColdFusion Users Group](http://www.meetup.com/NYC-ColdFusion-Users-Group/events/105550232/), Intro to PhoneGap, Ray Camden
 - March 18, [FINHTML5 Afterwork](http://lanyrd.com/2013/finhtml5afterwork1/), Brian LeRoux
@@ -19,7 +20,8 @@ We'll be posting the round up from each month and below is the roundup for the m
 - March 20, [NY Phonegap Discussion/LightningTalks](http://www.meetup.com/The-New-York-Phone-Gap-Devlopers-Enthusiasts-Meetup/events/106709332/)
 - March 29, [Ask A Pro: Building Mobile Apps with PhoneGap Build](http://www.adobe.com/cfusion/event/index.cfm?event=detail%26id=2008488%26loc=en_us), Ray Camden
 
-### ARTICLES
+## ARTICLES
+
 - [What's new in Cordova iOS 2.5.0](http://shazronatadobe.wordpress.com/2013/03/04/whats-new-in-cordova-ios-2-5-0/), Shazron Abdullah
 - [What's new in PhoneGap Android 2.5.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-250.html), Simon MacDonald
 - [PhoneGap Bluetooth Plugin Updated](http://simonmacdonald.blogspot.com/2013/03/phonegap-bluetooth-plugin-updated.html), Simon MacDonald
@@ -29,6 +31,4 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Testing PhoneGap, Parse, and Push? Read This](http://www.raymondcamden.com/2013/03/07/Testing-PhoneGap-Parse-and-Push-Read-This), Ray Camden
 - [PhoneGap Highlights: James Hickmott](http://phonegap.com/blog/2013/03/11/2013-03-11-highlight-1), Steve Gill
 - [Performance & UX Considerations For Successful PhoneGap Apps](http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/), Andy Trice
-- [The BYOD challenge to enterprise App development](http://phonegap.com/blog/2013/03/13/rover-phonegap), Steve Christianson 
-
-
+- [The BYOD challenge to enterprise App development](http://phonegap.com/blog/2013/03/13/rover-phonegap), Steve Christianson

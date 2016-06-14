@@ -43,6 +43,6 @@ The aim of PhoneGap is to bring mobile phone development to web developers just 
 
 There is still lots to be done!
 
-Image by http://flickr.com/photos/nielsvaneck
+Image by [http://flickr.com/photos/nielsvaneck](http://flickr.com/photos/nielsvaneck)
 
 [› Visit the original post](http://blogs.nitobi.com/dave/2008/09/18/phonegap-air-for-the-iphone/)

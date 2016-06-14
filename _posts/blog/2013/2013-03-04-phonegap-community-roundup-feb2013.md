@@ -10,7 +10,8 @@ Below is the February addition of our [PhoneGap Community Release Notes](http://
 
 We'll be posting the round up from each month and below is the roundup for the month of February.
 
-### EVENTS
+## EVENTS
+
 - February 4, [SF Developer Week](http://www.developerweek.com/index/labs), Andrew Trice and Joni Rustulka
 - February 7-8, [AppsWorld](http://www.apps-world.net/northamerica/agenda/tracks/html5-a-web-apps), Kevin Hoyt
 - February 8, [Getting Started with Apple Push Notifications and PhoneGap](http://techlive.adobe.com/ai1ec_event/getting-started-with-apple-push-notifications-and-phonegap/?instance_id=692), Holly Schinsky
@@ -20,7 +21,8 @@ We'll be posting the round up from each month and below is the roundup for the m
 - Feb 21, [Building Hybrid Apps with PhoneGap](http://oreillynet.com/pub/e/2523)
 - February 22, [Getting Started with Android Push Notifications and PhoneGap](http://techlive.adobe.com/ai1ec_event/getting-started-with-android-push-notifications-and-phonegap/?instance_id=714), Holly Schinsky
 
-### ARTICLES
+## ARTICLES
+
 - [What's new in Cordova iOS 2.4.0](http://shazronatadobe.wordpress.com/2013/02/08/whats-new-in-cordova-ios-2-4-0/), Shazron Abdullah
 - [What's new in PhoneGap Android 2.4.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-240.html), Simon MacDonald
 - [What else is new in Cordova Android 2.4.0](http://infil00p.org/android/cordova/phonegap/2013/02/14/what-else-is-new-in-cordova-android-2-4-0//), Joe Bowser
