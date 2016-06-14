@@ -3,13 +3,5 @@ layout: tag
 title: silentrob
 permalink: /author/silentrob/
 category: author_page
+filter_type: author
 ---
-<div class="bounds--wide">
-  <div class="blog-post__preview-list">
-    {% for post in site.posts %}
-      {% if post.author == page.title %}
-        {% include post-preview.html %}
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
