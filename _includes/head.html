@@ -3,8 +3,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | xml_escape | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | xml_escape }}{% endif %}">
 
   <script src="//use.typekit.net/exp7awb.js"></script>
   <script src="//assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-46e65db5bb0c375f8f64619be31cc9b29acf4867.js"></script>
@@ -18,6 +18,7 @@
   {% endif %}
   <script src="{{ '/scripts/taglist.js' | prepend: site.baseurl }}"></script>
   <link rel="stylesheet" type="text/css" href="{{ '/styles/main.css' | prepend: site.url }}"/>
+  <link rel="icon" type="image/png" href="http://phonegap.com/favicon.ico">
   <style type="text/css">
     {% capture include_to_sassify %}{% include blog.sass %}{% endcapture %}
     {{ include_to_sassify | sassify }}

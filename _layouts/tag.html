@@ -4,7 +4,7 @@ layout: default
 {% include subheader.html %}
 <div class="bounds--wide">
   <div class="blog-post__preview-list">
-    <div class="blog-filter">Filtering posts by {{ page.filter_type }}: {{ page.title }}</div>
+    <div class="blog-filter">Filtering posts by {{ page.filter_type }}: {{ page.title | xml_escape }}</div>
     {% if page.filter_type == 'tag' %}
     <div class="blog-post__preview-list">
       {% for post in site.posts %}
