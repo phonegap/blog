@@ -11,7 +11,7 @@ Today, the PhoneGap Team is proud to announce the release of the [PhoneGap Devel
 
 The PhoneGap Developer app aims to lower the barrier of entry to creating PhoneGap applications. You can now immediately preview your app on a device without installing platform SDKs, registering devices, or even compiling code. You have full access to the [official PhoneGap APIs][9]. You can even develop an iOS app on Windows - and soon - a Windows Phone app on OS X. Whether you're a novice or expert, we think the PhoneGap Developer app will become part of your personal toolkit!
 
-![PhoneGap Developer App](http://forms.phonegap.com/blog/uploads/2014-04/phonegap-developer-app-hero.png)
+![PhoneGap Developer App](/blog/uploads/2014-04/phonegap-developer-app-hero.png)
 
 ## Getting Started
 
@@ -67,7 +67,7 @@ $ phonegap serve
 
 Second, enter the server address into the PhoneGap Developer App. In this example, the address is `192.168.1.76:3000`.
 
-![Pairing the PhoneGap Developer App](http://forms.phonegap.com/blog/uploads/2014-04/phonegap-developer-app-pairing.png)
+![Pairing the PhoneGap Developer App](/blog/uploads/2014-04/phonegap-developer-app-pairing.png)
 
 Remember, both the CLI and PhoneGap Developer app must be on the same network in order for the address must to be reachable.
 
@@ -75,7 +75,7 @@ Remember, both the CLI and PhoneGap Developer app must be on the same network in
 
 Once paired, it's business as usual. You can freely add, edit, and remove files from your project. Every saved change will automatically update the preview displayed in the PhoneGap Developer App.
 
-![PhoneGap Developer App Workflow](http://forms.phonegap.com/blog/uploads/2014-04/phonegap-app-developer-workflow-v2.gif)
+![PhoneGap Developer App Workflow](/blog/uploads/2014-04/phonegap-app-developer-workflow-v2.gif)
 
 You can also use hidden touch gestures for additional control:
 

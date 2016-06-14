@@ -21,8 +21,8 @@ In this post, I'll explain how you can track what your users are doing in your P
 
 I'll walk you through the steps I took to track button clicks and display the results in a chart within my [example Hello World PhoneGap app](https://github.com/hex337/phonegap-keen).
 
-<img src="https://raw.githubusercontent.com/hex337/phonegap-keen/master/imgs/button_screen.PNG" style="margin-right:2px; max-width:350px;" alt="Simple button app screenshot">
-<img src="https://raw.githubusercontent.com/hex337/phonegap-keen/master/imgs/stats_screen.PNG" style="max-width:350px;" alt="Total clicks graph">
+![Simple button app screenshot](https://raw.githubusercontent.com/hex337/phonegap-keen/master/imgs/button_screen.PNG)
+![Total clicks graph](https://raw.githubusercontent.com/hex337/phonegap-keen/master/imgs/stats_screen.PNG)
 
 ### Things you'll need:
 
