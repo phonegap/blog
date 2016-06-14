@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>Next up is <a href="http://twitter.com/JorgeCasar">Jorge del Casar Sanchez</a>, Developer Evangelist for <a href="http://pgday.phonegap.com/eu2013">BlackBerry</a>, talking about HTML5 support in BlackBerry 10.</p>
+Next up is [Jorge del Casar Sanchez](http://twitter.com/JorgeCasar), Developer Evangelist for [BlackBerry](http://pgday.phonegap.com/eu2013), talking about HTML5 support in BlackBerry 10.
 
-<div class="video-wrapper"><iframe rc="//www.youtube.com/embed/VA72S4L4TEQ" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="VA72S4L4TEQ" %}

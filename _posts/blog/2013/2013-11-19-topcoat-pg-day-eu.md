@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>Our next video is <a href="http://twitter.com/dam">Kristofer Joseph</a>, JavaScript Frameworks Lead at <a href="http://adobe.com">Adobe</a>, talking about <a href="http://topcoat.io">Topcoat</a> and how to use it to create clean and fast apps.</p>
+Our next video is [Kristofer Joseph](http://twitter.com/dam), JavaScript Frameworks Lead at [Adobe](http://adobe.com), talking about [Topcoat](http://topcoat.io) and how to use it to create clean and fast apps.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/H1NcIYV--q4" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="H1NcIYV--q4" %}

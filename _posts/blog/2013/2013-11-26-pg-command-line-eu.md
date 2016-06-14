@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We've been posting videos from the conference for those of you who couldn't make it. View previous PhoneGap Day talks on our <a href="http://phonegap.com/blog/tag/phonegap-day/">blog</a> or on <a href="http://youtube.com/phonegap">YouTube.</a></p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We've been posting videos from the conference for those of you who couldn't make it. View previous PhoneGap Day talks on our [blog](http://phonegap.com/blog/tag/phonegap-day/) or on [YouTube.](http://youtube.com/phonegap)
 
-<p>Our next speaker is <a href="http://twitter.com/mwbrooks">Michael Brooks</a>, from the <a href="http://cordova.io">Cordova</a>/PhoneGap team, giving an overview of the PhoneGap Command-Line.</p>
+Our next speaker is [Michael Brooks](http://twitter.com/mwbrooks), from the [Cordova](http://cordova.io)/PhoneGap team, giving an overview of the PhoneGap Command-Line.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/S20fEr8zOzA" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="S20fEr8zOzA" %}

@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>Our next video is <a href="http://twitter.com/rdlauer">Rob Lauer</a>, Developer Advocate for <a href="http://www.telerik.com">Telerik</a>, talking about the most common reasons why hybrid mobile apps get rejected and what developers can do to avoid them</p>
+Our next video is [Rob Lauer](http://twitter.com/rdlauer), Developer Advocate for [Telerik](http://www.telerik.com), talking about the most common reasons why hybrid mobile apps get rejected and what developers can do to avoid them.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/-xIugmJ6ks4" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="-xIugmJ6ks4" %}

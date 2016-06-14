@@ -11,8 +11,9 @@ Today we’re celebrating the launch of PhoneGap 3.0 at PhoneGap Day in Portland
 
 Here’s our official announcement:
 
-**Adobe PhoneGap 3.0 Released at 3rd Annual PhoneGap Day**<br/>
-_Popular open source mobile development framework gets upgrades including new plugin architecture, improved tools, new platforms, and new APIs._ 
+## Adobe PhoneGap 3.0 Released at 3rd Annual PhoneGap Day
+
+Popular open source mobile development framework gets upgrades including new plugin architecture, improved tools, new platforms, and new APIs.
 
 Adobe® PhoneGap(tm), the popular open source mobile app development framework,  released PhoneGap 3.0 today at the 3rd annual PhoneGap Day in Portland, Oregon.
 PhoneGap allows developers to build cross-platform mobile applications using HTML5, CSS3 and Javascript. With PhoneGap, you can re-use your existing web developer skills and use the PhoneGap API to gain access to native features that aren’t accessible in mobile browsers.
@@ -29,9 +30,8 @@ We’re excited to announce the following major new features in PhoneGap 3.0:
 With the PhoneGap CLI, users will be able to directly install PhoneGap from the Node Package Manager (NPM). You no longer need to download a ZIP file every time PhoneGap has a new release. This is all part of our effort to improve user workflow and make the process lightning fast.
 
 > “PhoneGap 3 makes building for all the major mobile platforms a consistently smooth experience with the new CLI tools. I’m particularly excited to see what the community does with the new plugin infrastructure in the coming year. We’re committed to working with plugin developers to make sure the entire community ecosystem works well on the PhoneGap 3 bits.“ - Brian LeRoux
-
+>
 > “PhoneGap 3 represents a significant step forward in authoring mobile apps using HTML, CSS, JavaScript. We couldn’t have done it without the support of all the committers at Apache Cordova and our partners at Intel, Google, Microsoft, Blackberry, IBM, and Mozilla.” - Andre Charland
-
 
 Here is more information to get you on your way!
 
@@ -40,7 +40,5 @@ Here is more information to get you on your way!
 - **[PhoneGap CLI](https://github.com/mwbrooks/phonegap-cli/):** The PhoneGap CLI is a command line tool to build, deploy and manage PhoneGap based applications and has PhoneGap Build integration. It uses the Cordova-CLI under the hood. [Michael Brooks](https://twitter.com/mwbrooks) has a great post about getting started with the PhoneGap CLI on his [blog](http://log.michaelbrooks.ca/post/phonegap-cli-preview).
 - **[Cordova CLI](https://github.com/apache/cordova-cli/):** The Cordova CLI is a command line tool to build, deploy and manage Cordova based applications. Make sure to read our [Cordova CLI guide](http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Cordova%20Command-line%20Interface).
 - **[Plugman Usage Guide](http://cordova.apache.org/docs/en/edge/plugin_ref_plugman.md.html):** This guide has instructions on how to install the core plugins into your project using [Plugman](https://github.com/apache/cordova-plugman/). Users can see the repos where the core plugins now live.
-- **[PhoneGap 3.0 sample project  with plugins](https://github.com/phonegap/phonegap-2-style-3/):** This is a sample PhoneGap project that comes with all of the plugins installed. It requires either Cordova CLI or PhoneGap CLI to be installed. 
+- **[PhoneGap 3.0 sample project  with plugins](https://github.com/phonegap/phonegap-2-style-3/):** This is a sample PhoneGap project that comes with all of the plugins installed. It requires either Cordova CLI or PhoneGap CLI to be installed.
 - **[Plugin Development Guide](http://docs.phonegap.com/en/edge/guide_plugins_index.md.html#Plugin%20Development%20Guide):** This guide covers the basics of developing a plugin for PhoneGap.
-
-

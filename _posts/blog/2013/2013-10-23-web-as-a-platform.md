@@ -9,12 +9,10 @@ tags:
 - Community
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/us2013">PhoneGap Day US 2013</a> and made it such a huge success!</p>
+Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!
 
-<p>As we mentioned in our <a href="http://phonegap.com/blog/tag/phonegap-day/">previous PhoneGap Day posts</a>, the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person. Thankfully in this next video, we get some better audio at the 4 min mark. Now, on to the video!</p>
+As we mentioned in our [previous PhoneGap Day posts](http://phonegap.com/blog/tag/phonegap-day/), the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person. Thankfully in this next video, we get some better audio at the 4 min mark. Now, on to the video!
 
-<p>Our next speaker is <a href="http://twitter.com/cjgammon">Christopher Gammon</a>, Creative Developer at <a href="http://adobe.com">Adobe</a>, and his talk "The Web as a Platform".</p>
+Our next speaker is [Christopher Gammon](http://twitter.com/cjgammon), Creative Developer at [Adobe](http://adobe.com), and his talk "The Web as a Platform".
 
-<div class="video-wrapper">
-  <iframe src="//www.youtube.com/embed/1zuqpXsQ_9Q" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html id="1zuqpXsQ_9Q" %}

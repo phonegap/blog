@@ -9,12 +9,10 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/us2013">PhoneGap Day US 2013</a> and made it such a huge success!</p>
+Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!
 
-<p>As we mentioned in our <a href="http://phonegap.com/blog/tag/phonegap-day/">previous PhoneGap Day</a> posts, the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person! So, our apologies in advance but with that, on to the video!</p>
+As we mentioned in our [previous PhoneGap Day](http://phonegap.com/blog/tag/phonegap-day/) posts, the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person! So, our apologies in advance but with that, on to the video!
 
-<p>Our next speaker is <a href="http://twitter.com/andytrice">Andy Trice</a>, Developer Evangelist for Adobe, and his talk on "PhoneGap and Hardware".</p>
+Our next speaker is [Andy Trice](http://twitter.com/andytrice), Developer Evangelist for Adobe, and his talk on "PhoneGap and Hardware".
 
-<div class="video-wrapper">
-  <iframe src="//www.youtube.com/embed/0bN7o_ElRNQ" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include video.html id="0bN7o_ElRNQ" %}

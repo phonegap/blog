@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>Our next video is <a href="http://twitter.com/allyogilvie">Ally Ogilvie</a>, Lead Engineer / Mobile Dev at <a href="http://wizcorp.jp">Wizcorp</a>, talking about using HTML5 for gaming and covers specific plugins and strategies they used.</p>
+Our next video is [Ally Ogilvie](http://twitter.com/allyogilvie), Lead Engineer / Mobile Dev at [Wizcorp](http://wizcorp.jp), talking about using HTML5 for gaming and covers specific plugins and strategies they used.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/ldsP6bcQv98" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="ldsP6bcQv98" %}

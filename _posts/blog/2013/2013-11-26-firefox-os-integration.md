@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We've been posting videos from the conference for those of you who couldn't make it. View previous PhoneGap Day talks on our <a href="http://phonegap.com/blog/tag/phonegap-day/">blog</a> or on <a href="http://youtube.com/phonegap">YouTube.</a></p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We've been posting videos from the conference for those of you who couldn't make it. View previous PhoneGap Day talks on our [blog](http://phonegap.com/blog/tag/phonegap-day/) or on [YouTube.](http://youtube.com/phonegap)
 
-<p>Our next speaker is <a href="http://twitter.com/JasonWeathersby">Jason Weathersby</a>, Technical Evangelist from <a href="http://mozilla.org">Mozilla</a>, talking about Firefox OS Integration with <a href="http://cordova.io">Cordova</a>.</p>
+Our next speaker is [Jason Weathersby](http://twitter.com/JasonWeathersby), Technical Evangelist from [Mozilla](http://mozilla.org), talking about Firefox OS Integration with [Cordova](http://cordova.io).
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/5wiumzw79nc" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="5wiumzw79nc" %}

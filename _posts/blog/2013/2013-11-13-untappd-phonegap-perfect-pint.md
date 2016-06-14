@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>Next up is <a href="http://twitter.com/gregavola">Greg Avola</a>, co-founder and CTO of <a href="http://untappd.com">Untappd</a>, talking about the creation of the PhoneGap app Untappd and its growth.</p>
+Next up is [Greg Avola](http://twitter.com/gregavola), co-founder and CTO of [Untappd](http://untappd.com), talking about the creation of the PhoneGap app Untappd and its growth.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/isdUxWFSE50" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="isdUxWFSE50" %}

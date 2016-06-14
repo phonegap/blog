@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>Our next video is Masahiro Tanaka, CEO of <a href="http://www.asial.co.jp/">Asial Corporation</a>, talking about the difference between HTML5 based UI and native component based UI.</p>
+Our next video is Masahiro Tanaka, CEO of [Asial Corporation](http://www.asial.co.jp/), talking about the difference between HTML5 based UI and native component based UI.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/CidHx_Wh76E" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="CidHx_Wh76E" %}

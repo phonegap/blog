@@ -9,8 +9,8 @@ tags:
 - Community
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>Our next speaker is <a href="http://twitter.com/grieveandrew">Andrew Grieve</a>, developer at Google, giving an overview of Chrome plugins for <a href="http://cordova.io">Apache Cordova</a></p>
+Our next speaker is [Andrew Grieve](http://twitter.com/grieveandrew), developer at Google, giving an overview of Chrome plugins for [Apache Cordova](http://cordova.io)
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/-X9tLll41-U" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="-X9tLll41-U" %}

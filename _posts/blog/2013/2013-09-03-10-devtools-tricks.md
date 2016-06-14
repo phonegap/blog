@@ -9,10 +9,10 @@ tags:
 - Community
 ---
 
-<p>Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success! </p>
+Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success!
 
-<p>As we mentioned in our <a href="http://phonegap.com/blog/2013/08/29/mobile-is-not-a-thing/">last PhoneGap Day post</a>, the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person! So, our apologies in advance but with that, on to the video! </p>
+As we mentioned in our [last PhoneGap Day post](http://phonegap.com/blog/2013/08/29/mobile-is-not-a-thing/), the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person! So, our apologies in advance but with that, on to the video!
 
-<p>Our second speaker is <a href="http://twitter.com/canuckistani">Jeff Griffiths</a> from <a href="http://mozilla.org">Mozilla</a>, one of our PhoneGap Day US sponsors, speaking on "10 devtools tricks in 10 minutes".</p>
+Our second speaker is [Jeff Griffiths](http://twitter.com/canuckistani) from [Mozilla](http://mozilla.org), one of our PhoneGap Day US sponsors, speaking on "10 devtools tricks in 10 minutes".
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/bpPokgqtyEM" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="bpPokgqtyEM" %}

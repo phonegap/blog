@@ -50,7 +50,7 @@ If you weren't able to attend MAX, we have a video round-up of most of the sessi
 
 {% include video.html id="1217/18448" type="adobetv" %}
 
-## What else happened at MAX?  
+## What else happened at MAX?
 
 * We got some great coverage from the guys at [Nerd Radio](http://www.nerdradio.com/) in MAX's Community Pavilion. You can [listen to the interviews](http://blog.nerdradio.com/tagged/phonegap) to get even more insight into PhoneGap from [Ray Camden](http://twitter.com/cfjedimaster), [Brian LeRoux](http://twitter.com/brianleroux), [Joni Rustulka](http://twitter.com/jahoni), [Serge Jespers](http://twitter.com/sjespers), [Chris Griffith](http://twitter.com/chrisgriffith), and [Greg Avola](http://twitter.com/gregavola).
 * We also participated in a hackathon with the [Brackets](http://brackets.io) team on Monday and Tuesday in the Expo Hall. We had some couches, tables and plenty of people gathered around for some hacking. Thanks to those who showed up!

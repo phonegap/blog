@@ -15,4 +15,4 @@ tags:
 
 <p>Our next speaker is <a href="http://twitter.com/therealdevgeeks">Tommy Carlos-Wiliams</a> speaking on "SpiderOak - The road to a performant open source mobile app".</p>
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/IcxwjcYypPs" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="IcxwjcYypPs" %}

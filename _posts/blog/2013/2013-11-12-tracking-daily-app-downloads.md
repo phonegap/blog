@@ -9,8 +9,8 @@ tags:
 - Event
 ---
 
-<p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2013">PhoneGap Day EU</a>. We'll be rolling out all the videos over the coming days for those who weren't able to attend.</p>
+Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.
 
-<p>First up is <a href="http://twitter.com/hoogsteder">Vincent Hoogsteder</a>, CEO and co-founder of <a href="http://twitter.com/distimo">Distimo</a>, talking about tracking daily downloads and revenues from any app. Vincent shares Distimo's findings, including what is working for top-selling apps.</p>
+First up is [Vincent Hoogsteder](http://twitter.com/hoogsteder), CEO and co-founder of [Distimo](http://twitter.com/distimo), talking about tracking daily downloads and revenues from any app. Vincent shares Distimo's findings, including what is working for top-selling apps.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/RoHVYXRuh9A" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="RoHVYXRuh9A" %}

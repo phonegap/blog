@@ -28,7 +28,7 @@ Some code  here : [https://github.com/phonegap/phonegap-wp7](https://github.co
 
 ## What You'll Need to Get Started
 
-So you want to get on it, enough talk? You will need Visual Studio 2010 with the "WP7 SDK" : http://create.msdn.com/en-us/home/getting_started installed (the free express version works fine )
+So you want to get on it, enough talk? You will need Visual Studio 2010 with the "[WP7 SDK](http://create.msdn.com/en-us/home/getting_started)" installed (the free express version works fine)
 
 Detailed instructions will be posted shortly as a getting started guide on PhoneGap.com, in the meantime :
 

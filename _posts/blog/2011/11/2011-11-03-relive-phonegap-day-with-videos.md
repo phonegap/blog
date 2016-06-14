@@ -64,4 +64,6 @@ Miku Jha from [Worklight](http://www.worklight.com) talks about how Worklight us
 
 {% include video.html id="YroGTqecHOw" %}
 
-[Brian Leroux](http://twitter.com/#%21/brianleroux) talks about PhoneGap 2.0: http://youtu.be/nuxN9B_5ySc
+[Brian Leroux](http://twitter.com/#%21/brianleroux) talks about PhoneGap 2.0:
+
+{% include video.html id="nuxN9B_5ySc" %}

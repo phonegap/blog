@@ -9,10 +9,10 @@ tags:
 - Community
 ---
 
-<p>Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success. I know you've been anxiously awaiting the PhoneGap Day US videos -- us too! We're finally getting videos back and will be posting them as we receive them.</p>
+Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success. I know you've been anxiously awaiting the PhoneGap Day US videos -- us too! We're finally getting videos back and will be posting them as we receive them.
 
-<p>Note: the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person! So, our apologies in advance but with that, on to the video! </p>
+*Note:* the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person! So, our apologies in advance but with that, on to the video!
 
-<p>First up is <a href="http://twitter.com/joemccann">Joe McCann</a>, Director of Creative Technology, at Mother speaking on "Mobile is not a thing. It is everything."</p>
+First up is [Joe McCann](http://twitter.com/joemccann), Director of Creative Technology, at Mother speaking on "Mobile is not a thing. It is everything."
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/dS7qiTz05Z4" frameborder="0" allowfullscreen></iframe></div>
+{% include video.html id="dS7qiTz05Z4" %}

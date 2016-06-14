@@ -18,7 +18,7 @@ As this world begins to emerge, developers are being pushed to make an increasin
 
 1. In what language(s) should I develop my app?
 
-  If the future iFridge uses iOS as its base operating system, the Samsung equivalent runs on Android or some other Linux OS Distribution, and Whirlpool uses Windows, which OS should the developer build for?  
+  If the future iFridge uses iOS as its base operating system, the Samsung equivalent runs on Android or some other Linux OS Distribution, and Whirlpool uses Windows, which OS should the developer build for?
 
 1. How will I sync information across multiple “things” and also make the data available across apps?
 

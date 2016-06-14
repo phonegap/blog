@@ -8,25 +8,24 @@ tags:
 - Tutorial
 ---
 
-<p>At the end of September, the PhoneGap team travelled to Lisbon to attend and participate in <a href="http://2013.lxjs.org">LXJS 2013</a>. <a href="http://twitter.com/brianleroux">Brian LeRoux</a> and <a href="http://twitter.com/ccoenraets">Christophe Coenraets</a> co-hosted the workshop "Beyond the demos: Building Real-Life PhoneGap Apps".  Thanks to the awesome LXJS organizers, we've got a recording from that workshop to share with you! Enjoy.</p>
+At the end of September, the PhoneGap team travelled to Lisbon to attend and participate in [LXJS 2013](http://2013.lxjs.org). [Brian LeRoux](http://twitter.com/brianleroux) and [Christophe Coenraets](http://twitter.com/ccoenraets) co-hosted the workshop "Beyond the demos: Building Real-Life PhoneGap Apps". Thanks to the awesome LXJS organizers, we've got a recording from that workshop to share with you! Enjoy.
 
-<p><b>Abstract</b><br />
-Learn how to build large, complex, and native-like mobile apps using HTML, JavaScript, and CSS. In this workshop you'll learn modern strategies and architectural patterns to build real-life Hybrid Applications that work and perform like native apps. You'll also learn how to efficiently use PhoneGap to leverage the native capabilities of your device in JavaScript and to package your HTML application as a native app for distribution through the different app stores.</p>
+## Abstract
 
-<p><b>Topics</b>
-	<ul>
-    <li>The PhoneGap APIs</li>
-    <li>Topcoat</li>
-    <li>The Single Page Architecture</li>
-    <li>Client-side HTML templates</li>
-    <li>Effective Touch Events</li>
-    <li>Modularization Approaches</li>
-    <li>Mobile Performance Optimization Techniques</li>
-    <li>Comparison of Leading JavaScript frameworks</li>
-    <li>PhoneGap Plugins</li>
-</ul>
-</p>
+Learn how to build large, complex, and native-like mobile apps using HTML, JavaScript, and CSS. In this workshop you'll learn modern strategies and architectural patterns to build real-life Hybrid Applications that work and perform like native apps. You'll also learn how to efficiently use PhoneGap to leverage the native capabilities of your device in JavaScript and to package your HTML application as a native app for distribution through the different app stores.
 
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/ewcjipmphLg" frameborder="0" allowfullscreen></iframe></div>
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/9GTqlwsTZ3g" frameborder="0" allowfullscreen></iframe></div>
-<div class="video-wrapper"><iframe src="//www.youtube.com/embed/EjNeKqIMP2s" frameborder="0" allowfullscreen></iframe></div>
+## Topics
+
+* The PhoneGap APIs
+* Topcoat
+* The Single Page Architecture
+* Client-side HTML templates
+* Effective Touch Events
+* Modularization Approaches
+* Mobile Performance Optimization Techniques
+* Comparison of Leading JavaScript frameworks
+* PhoneGap Plugins
+
+{% include video.html id="ewcjipmphLg" %}
+{% include video.html id="9GTqlwsTZ3g" %}
+{% include video.html id="EjNeKqIMP2s" %}
