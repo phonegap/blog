@@ -1,6 +1,9 @@
 {
   "frontMatter": true,
   "MD002": false,
+  "MD003": {
+    "style": "atx"
+  },
   "MD006": false,
   "MD013": false,
   "MD014": false,

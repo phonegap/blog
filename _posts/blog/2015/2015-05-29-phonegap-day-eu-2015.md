@@ -8,15 +8,15 @@ tags:
 - PhoneGap Day
 ---
 
-The PhoneGap team was thrilled to be back in Amsterdam to celebrate PhoneGap Day EU 2015. We partnered with Web Conferences Amsterdam (the team behind [Mobilism](http://mobilism.nl/2015)) to host hundreds of members from the PhoneGap community and some amazing speakers from around the world to talk about the latest in mobile development. 
+The PhoneGap team was thrilled to be back in Amsterdam to celebrate PhoneGap Day EU 2015. We partnered with Web Conferences Amsterdam (the team behind [Mobilism](http://mobilism.nl/2015)) to host hundreds of members from the PhoneGap community and some amazing speakers from around the world to talk about the latest in mobile development.
 
-The conference was held in the beautiful [Het Compagnietheater](http://www.compagnietheater.nl/compagnietheater.html) right in the heart of Amsterdam and it was a packed house right from the get go. 
+The conference was held in the beautiful [Het Compagnietheater](http://www.compagnietheater.nl/compagnietheater.html) right in the heart of Amsterdam and it was a packed house right from the get go.
 
 ![](/blog/uploads/2015-05/pgday-eu-registration.jpeg)
 
-## Day one ##
+## Day one
 
-We were thrilled to be joined by amazing speakers who brought some of the best content we've seen at PhoneGap Day. [Michael Brooks](https://twitter.com/mwbrooks) kicked off the conference with "PhoneGap 2014 Review" where he covered the last year of PhoneGap development with over 300 releases! Whoa. 
+We were thrilled to be joined by amazing speakers who brought some of the best content we've seen at PhoneGap Day. [Michael Brooks](https://twitter.com/mwbrooks) kicked off the conference with "PhoneGap 2014 Review" where he covered the last year of PhoneGap development with over 300 releases! Whoa.
 
 ![](/blog/uploads/2015-05/pgday-eu-phonegap-2014-review.jpeg)
 
@@ -40,7 +40,7 @@ Be sure to peruse the presentations decks to catch all of the incredible talks (
 - Rupinder Mann - [Introducing the Ubuntu Phone](https://docs.google.com/presentation/d/1_Ofn0XndfTpfJ6WzsaqZftIOqxP5ni6ptmmN4W2BwCU/edit#slide=id.g2bd72ddee_2_2)
 - [Simon MacDonald](https://twitter.com/macdonst) - [Push n' Pull](http://slides.com/simonmacdonald/deck#/)
 
-## Day two ##
+## Day two
 
 Day two was our completely sold-out workshop day and was held at [Rockstart](http://www.rockstart.com/spaces/events-space/). There were sessions for everyone whether you are just getting started with PhoneGap or wanting to extend your PhoneGap app with plugins, advanced webviews or tools from around the ecosystem.
 
@@ -52,16 +52,16 @@ Day two was our completely sold-out workshop day and was held at [Rockstart](htt
 - [Anthony Rumsey](https://twitter.com/planetrumsey) - Advanced Enterprise: Intro to PhoneGap Enterprise and AEM Apps
 - Sebastian Witalec - Ecosystems: The Telerik platform
 
-And what would PhoneGap Day be without some sweet swag and beer?! 
+And what would PhoneGap Day be without some sweet swag and beer?!
 We loved meeting members of the PhoneGap EU community at the pub mixer to end the night and we hope everyone got a lot out of the conference and met some cool people as well. It never ceases to amaze us the amazing things you are all doing with PhoneGap. Keep it up!
 
 ![](/blog/uploads/2015-05/pgday-eu-shirts.jpeg)
 
-BIG THANKS to all our awesome sponsors! 
+BIG THANKS to all our awesome sponsors!
 
-[Canonical](http://www.canonical.com/)  
-[Crosswalk](https://crosswalk-project.org/)  
-[Ionic](http://ionicframework.com/)  
-[Telerik](http://www.telerik.com/)     
+[Canonical](http://www.canonical.com/)
+[Crosswalk](https://crosswalk-project.org/)
+[Ionic](http://ionicframework.com/)
+[Telerik](http://www.telerik.com/)
 
 Keep an eye out for more news on future PhoneGap days!

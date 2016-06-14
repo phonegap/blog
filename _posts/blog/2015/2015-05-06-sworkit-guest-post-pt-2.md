@@ -9,6 +9,7 @@ tags:
 Welcome back to Part 2 of our series. In [Part 1](http://phonegap.com/blog/2015/03/19/sworkit-guest-post-pt1/), I focused on best practices for design and development to ensure your well made hybrid apps have the best chance to reach their potential once released. In Part 2, I share marketing strategies that anyone can try that can help your app become more “well-known”.
 
 Topics:
+
 - Engaging with communities
 - Influencer outreach
 - Telling your own story
@@ -18,7 +19,7 @@ Topics:
 
 [Sworkit](http://sworkit.com/) has reached over 4 million downloads in part because of the rapid development and releasing that PhoneGap allows us, but also because everyone one on our team from the developers to the CEO have taken the time to experiment with a wide variety of marketing techniques.
 
-## Engaging Existing Communities ##
+## Engaging Existing Communities
 
 At the beginning of any project, you must understand as much about your potential users as possible. Who is your target audience? What communities are they involved in? How do they interact with apps? Are there things they want that competitors are failing to provide?
 
@@ -30,7 +31,7 @@ The simplest way to engage with communities is to simply ask for honest feedback
 
 Understanding your users and their communities will help you in the next step as you begin to increase awareness by pitching your app to media and other influencers. Picture where your users would discover an app like yours, and make that resource a priority.
 
-## Influencer Outreach ##
+## Influencer Outreach
 
 Influencer outreach is all about making contact with specific social influencers who may share your app with their audience. My process for influencer outreach is as follows:
 
@@ -48,12 +49,9 @@ Now that you know who you want contact, there are a few things you should consid
 
 Since influencer outreach is such a crucial step in being heard and since anyone can do it, here are few more links to help you with the process:
 
-[Kate Russell from BBC on How to Pitch Editorial Coverage](http://katerussell.co.uk/how-to-pitch-editorial-coverage/)
-
-[App Academy Podcast](https://itunes.apple.com/us/podcast/app-academy-podcast-jordan/id975943337)
-
-[Tiger Tiger's Growth Hacking Sourcebook](http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/)
-
+- [Kate Russell from BBC on How to Pitch Editorial Coverage](http://katerussell.co.uk/how-to-pitch-editorial-coverage/)
+- [App Academy Podcast](https://itunes.apple.com/us/podcast/app-academy-podcast-jordan/id975943337)
+- [Tiger Tiger's Growth Hacking Sourcebook](http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/)
 
 Just don’t let it take a toll on you mentally! Spread your emails out over a few days so that you feel motivated to continue writing original and personal emails. Keep exploring new and even obscure places and people to contact, from the tiniest blog to the biggest tech news sites.
 
@@ -61,13 +59,13 @@ One of the best ways to deliver a direct, concise and enticing pitch is on Twitt
 
 ![](/blog/uploads/2015-05/Sworkit-tweet.png)
 
-## Tell Your Story ##
+## Tell Your Story
 
 Don’t be afraid to put yourself out there and talk about why and how you built your app. Consider reaching out to the people behind the technologies used in your app, such as the frameworks and plugins providers, educational websites or courses you took, or other influences on your product.
 
 Telling your story can also make you seem more real to your users and the media. Look for opportunities to get up in front of audiences to speak about what you have been doing at Meetups and local events. It can be a great way to open to door to opportunities and relationships that may help you later on.
 
-## Shared Content Strategies ##
+## Shared Content Strategies
 
 You can also reach your audience and potential new users through your own newsletter, or other newsletters that you could provide guest content for.
 
@@ -75,7 +73,7 @@ No matter what your size, begin writing a newsletter and blog from the start. In
 
 As a newer company, you probably won’t have a big audience to reach out to yet. Try to find another newsletter, newsletter digest, or blog that is relevant and that you could create content for. As long as you can relate what you are doing to how it can benefit their audience, you are actually making that content creator’s job much easier by showing up with the work done for them. I would recommend presenting this content in a finished state that follows their normal layout to make it even easier for them say yes. If they don’t want it, feel free to slightly modify what you have created and pitch it to someone else.
 
-## Engage With Users ##
+## Engage With Users
 
 Once you have some initial users, you’ll want to focus on turning these early adopters into outspoken champions of your app. In Part 1, we talked about having simple ways for users to contact you from within the app. Now, we want to respond to users, not only to fix any issues they find, but also to engage them in real conversation.
 
@@ -83,7 +81,7 @@ Users are often amazed to get a response from a developer. Imagine what they wil
 
 Another great way to grow your app through interacting with existing users is to invite them to have phone conversations with you outside of the normal email support. Setting up just one call a week with users has increased Sworkit’s understanding of how our users use the app, who they are, and what they are most interested in seeing in the future.
 
-## Increasing Your Chances of Getting Featured in the App Stores ##
+## Increasing Your Chances of Getting Featured in the App Stores
 
 Getting featured in one of the app stores can lead to an immediate stream of downloads.
 
@@ -97,10 +95,10 @@ Google cares about all of the same things as Apple, but make sure you are making
 
 Above all for possible features, focus on having a great app while keeping in mind that the initial launch isn’t your only chance to grab attention. Updates, new features or big press coverage all provide great opportunities for exposure in the app stores or in new media outlets. It never hurts to leave a note to the reviewer that highlights new features that you really think are “featurable” for that particular store.
 
-## Parting Words ##
+## Parting Words
 
 Experiment with these approaches until you find what works best for you and your app.Don’t be discouraged if you don’t see an immediate flood of downloads to the app that you just worked so hard to create. All of these techniques will have a varying level of success depending on your actual project and it is worth trying as many as possible. Some other great ways to encourage growth include having a solid website with a focus on the download links, utilizing appropriate social media accounts, contacting app review sites, implementing app store optimization techniques, and researching direct contacts for the Apple and Google store teams.
 
 Hopefully this series has provided you with a few new tools and ideas to give your app the best chance for success. Whether it is a side project or a large-scale enterprise app, treat the marketing and distribution side of the app process as fun experimentation with the same enthusiasm you had when writing those first few lines of code.
 
-*Ryan Hanna is the Director of Engineering of the popular fitness app [Sworkit](http://sworkit.com/) where they champion that PhoneGap and hybrid development has given them a competitive advantage. Sworkit was acquired by Nexercise in 2014 and has reached over 4 million downloads with two versions of the app across three app stores in 13 languages. This exceptional growth is credited to the rapid development, testing and distribution that hybrid develoment provides this very small team compared to its competitors. Find Ryan on Twitter [@heryandotus](https://twitter.com/heryandotus)
+> Ryan Hanna is the Director of Engineering of the popular fitness app [Sworkit](http://sworkit.com/) where they champion that PhoneGap and hybrid development has given them a competitive advantage. Sworkit was acquired by Nexercise in 2014 and has reached over 4 million downloads with two versions of the app across three app stores in 13 languages. This exceptional growth is credited to the rapid development, testing and distribution that hybrid develoment provides this very small team compared to its competitors. Find Ryan on Twitter [@heryandotus](https://twitter.com/heryandotus)

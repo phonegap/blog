@@ -15,13 +15,13 @@ To reach this state of perfection, the first step is to understand your users.
 
 UXCam has built an innovative solution to understand users and their pain points and recently released an official PhoneGap plugin. Now, with a simple 2-line code integration on your PhoneGap application, you can:
 
-##See your app experience through the users eyes via Session Replay##
+## See your app experience through the users eyes via Session Replay
 
 You will be able to see screen replay and physical touch interactions on your app, providing insights into user behavior and helping you understand and solve problems that users encounter.
 
 ![](/blog/uploads/2015-08/UXCam.gif)
 
-##Analyze millions of users and sessions for UX issues with powerful tools##
+## Analyze millions of users and sessions for UX issues with powerful tools
 
 Powerful analysis and filtering tools helps to filter and analyze videos to pinpoint usability issues.
 
@@ -29,14 +29,22 @@ Powerful analysis and filtering tools helps to filter and analyze videos to pinp
 
 The SDK is lightweight, does not add performance overhead and takes less than 5 minutes to integrate.
 
-##Integration##
+## Integration
 
-	cordova plugin add com.uxcam.cordova.plugin
-	or
-	phonegap plugin add com.uxcam.cordova.plugin
+```sh
+cordova plugin add com.uxcam.cordova.plugin
+```
 
-and then call this method on deviceready
-	
-	UXCam.startWithKey("Account-key received from UXCam after signing up");
+or
+
+```sh
+phonegap plugin add com.uxcam.cordova.plugin
+```
+
+and then call this method on `deviceready`
+
+```js
+UXCam.startWithKey("Account-key received from UXCam after signing up");
+```
 
 Our friends at UXCam have a great promotion for PhoneGap users. Try UXCam for free for 14 days! Click [here](https://dashboard.uxcam.com/signup).

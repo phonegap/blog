@@ -19,6 +19,6 @@ We'll open up registration and begin announcing speakers, sponsors and sessions 
 - Interested in speaking? Be sure to fill out our Call for Speakers form [here](https://docs.google.com/forms/d/1T7dEnZ44bXC9zRtzyg0VMO9WTNlwSUtu-PgDGA2pTDg/viewform?usp=send_form).
 - Interested in sponsoring? Email Jen Gray at jgray@adobe.com.
 
-*Rumor is there's some pretty great skiing in Utah at the end of January :) More info to come on that soon!*
+Rumor is there's some pretty great skiing in Utah at the end of January :) More info to come on that soon!
 
 Can't wait to see you all!

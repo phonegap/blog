@@ -11,25 +11,23 @@ tags:
 ---
 
 ## What's New
+
 - Updated PhoneGap Developer App to use the Content Sync plugin
 - iOS orientation fix
 
-Hello everyone, I'm here to annouce that the PhoneGap Developer App has been updated to 1.5.2.
-With this release, we have finally fixed the CORS issues that were in our previous versions. 
-Plugins such as camera, file transfer, media should now be able to access assets off the file URI
-without returning an error. In addition, the proxying issues for your AJAX calls should be fixed as well.
+Hello everyone, I'm here to annouce that the PhoneGap Developer App has been updated to 1.5.2. With this release, we have finally fixed the CORS issues that were in our previous versions. Plugins such as camera, file transfer, media should now be able to access assets off the file URI without returning an error. In addition, the proxying issues for your AJAX calls should be fixed as well.
 
-With that said, an enormous amount has changed behind the scenes in the way the PhoneGap Developer App
-communicates with the Phonegap CLI. In order to get all of the new features 1.5.2 offers, please
-update the PhoneGap CLI to the latest version (`5.0.0-0.28.0` or newer):
+With that said, an enormous amount has changed behind the scenes in the way the PhoneGap Developer App communicates with the Phonegap CLI. In order to get all of the new features 1.5.2 offers, please update the PhoneGap CLI to the latest version (`5.0.0-0.28.0` or newer):
 
-
-    $ sudo npm update -g phonegap
+```sh
+$ sudo npm update -g phonegap
+```
 
 or
 
-    C:\> npm update -g phonegap
-
+```sh
+C:\> npm update -g phonegap
+```
 
 ## Download
 

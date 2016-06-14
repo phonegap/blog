@@ -10,16 +10,16 @@ tags:
 
 PhoneGap Desktop App 0.1.6 Beta is now available!
 
-## Installation ##
+## Installation
 
 Download and install PhoneGap Desktop App 0.1.6 Beta release:
 
 - __OS X__: Download [PhoneGap Desktop 0.1.6 for OS X](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.6/PhoneGapDesktop.dmg)
 - __Windows__: Download [PhoneGap Desktop 0.1.6 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.6/PhoneGapSetup.exe)
 
-_If you have an issue with PhoneGap Desktop's auto-updater, we recommend that you manually update using the download links provided above._
+_Note:_ If you have an issue with PhoneGap Desktop's auto-updater, we recommend that you manually update using the download links provided above.
 
-## What's New ##
+## What's New
 
 This release was mostly about cleaning up some technical debt and adding analytics.
 
@@ -31,7 +31,7 @@ For those interested in the full CHANGELOG:
 - [#350](https://github.com/phonegap/phonegap-app-desktop/issues/350) add analytics to track how many projects get loaded when PhoneGap Desktop is launched
 - [#354](https://github.com/phonegap/phonegap-app-desktop/issues/354) updated Windows & OSX installer scripts to use 64 bit paths by default
 
-## Getting Involved ##
+## Getting Involved
 
 We would like to thank our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 

@@ -24,7 +24,7 @@ I'll walk you through the steps I took to track button clicks and display the re
 <img src="https://raw.githubusercontent.com/hex337/phonegap-keen/master/imgs/button_screen.PNG" style="margin-right:2px; max-width:350px;" alt="Simple button app screenshot">
 <img src="https://raw.githubusercontent.com/hex337/phonegap-keen/master/imgs/stats_screen.PNG" style="max-width:350px;" alt="Total clicks graph">
 
-**Things you'll need:**
+### Things you'll need:
 
 - A [free Keen IO account](https://keen.io/signup?source=phonegap)
 - A working PhoneGap app - follow the [tutorial](http://docs.phonegap.com/getting-started/1-install-phonegap/desktop/) to set one up
@@ -33,17 +33,17 @@ I'll walk you through the steps I took to track button clicks and display the re
 
 1. [Download](https://d26b395fwzu5fz.cloudfront.net/3.2.6/keen.min.js) the latest version of the Keen IO JavaScript library and move it into the `www/js` folder of your PhoneGap project folder.
 
-2. Include the Keen IO library as part of the project. Open up `www/index.html` and add the following line just after the `index.js` file gets loaded:
+1. Include the Keen IO library as part of the project. Open up `www/index.html` and add the following line just after the `index.js` file gets loaded:
 
-```xml
-<script type="text/javascript" src="cordova.js"></script>
-<script type="text/javascript" src="js/index.js"></script>
-<script type="text/javascript" src="js/keen.min.js"></script>
-```
+  ```xml
+  <script type="text/javascript" src="cordova.js"></script>
+  <script type="text/javascript" src="js/index.js"></script>
+  <script type="text/javascript" src="js/keen.min.js"></script>
+  ```
 
 ## Tracking your events
 
-**1. Create an instance of the Keen Client object within your HTML file by adding the following:**
+### 1. Create an instance of the Keen Client object within your HTML file by adding the following:
 
 ```javascript
 initialize: function() {
@@ -61,7 +61,7 @@ You can grab your Keen API keys from your Keen IO project page after you create 
 
 You'll also notice that we’ve set a `self` variable to the current `this` context. The way this sample app is set up, when the event fires on the button, we won't have access to the current "app" context where the `this.client` variable lives. What this does is let us access the `client` from other callbacks via `self.client`. The declaration of the `self` variable is right up [here](https://github.com/hex337/phonegap-keen/blob/master/www/js/index.js#L20).
 
-**2. Collecting your important events**
+### 2. Collecting your important events
 
 For my example Hello World application, I wanted to track the number of button clicks. Here’s how I did it:
 
@@ -92,7 +92,7 @@ Now I am collecting all the clicks on my PhoneGap button. Whenever I click the b
 
 Right now, we are just logging the button color and the device information on every click event. The event data looks something like this:
 
-```javascript
+```js
 {
   "color": "red",
   "device": {
@@ -123,7 +123,7 @@ I wanted to display a chart within my Hello World app that shows the number of b
 
 The HTML for the charts is [here](https://github.com/hex337/phonegap-keen/blob/master/www/index.html#L56), but what we really care about is the JavaScript to fetch our desired data:
 
-```javascript
+```js
 onStatsLinkClick: function() {
    document.getElementById("button-page").setAttribute("style", "display:none");
    document.getElementById("stats-page").setAttribute("style", "display:block");

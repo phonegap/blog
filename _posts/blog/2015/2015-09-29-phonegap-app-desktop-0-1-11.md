@@ -10,16 +10,16 @@ tags:
 
 The PhoneGap Desktop App 0.1.11 is now available. This is a maintenance release that uses npm v3.3.3 to build the PhoneGap Desktop.
 
-## Installation ##
+## Installation
 
 You can install the latest version of the PhoneGap Desktop App from our docs:
 
 - [Install on OS X](http://docs.phonegap.com/references/desktop-app/install/mac/)
 - [Install on Windows](http://docs.phonegap.com/references/desktop-app/install/win/)
 
-_If you have an issue with PhoneGap Desktop's auto-updater, we recommend that you manually update using the instructions provided above._
+_Note_: If you have an issue with PhoneGap Desktop's auto-updater, we recommend that you manually update using the instructions provided above.
 
-## What's New ##
+## What's New
 
 For those interested in the full CHANGELOG:
 
@@ -28,7 +28,7 @@ For those interested in the full CHANGELOG:
 
 We're hoping the upgrade to npm v3.3.3 will resolve issue [#362](https://github.com/phonegap/phonegap-app-desktop/issues/362).
 
-## Getting Involved ##
+## Getting Involved
 
 We would like to thank our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 
