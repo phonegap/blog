@@ -64,8 +64,8 @@ Then open a browser to `http://localhost:4000/blog/`.
 * Name the file with the date first, followed by a url friendly version of the title. Example: `2016-02-24-phonegap-desktop-app-0.2.2.md`
 * Tag pages have to be set up manually; do your best to use existing ones, if you need to set up a new one, setup a new tag page in the `/blog/tags` using the [tag template](https://github.com/phonegap/blog/blob/master/blog/tags/_template.html)
 * Use [markdown](https://daringfireball.net/projects/markdown/) for simple formatting. It is converted to html using [Kramdown](http://kramdown.gettalong.org/)
-* HTML is also acceptable, just use the `.html` extension on the filename.
-* To keep videos and images responsive please don't add the `width` property. If images are too large you can add the `max-width` style: `<img src="/blog/uploads/2016-02/Browser.jpg" alt="Browser" style="max-width: 400px;"/>`
+* Avoid using inline html.
+* For videos use `{% include video.html id="<youtube or vimeo id>" %}`. You can also change the `type` to `vimeo` or `adobetv`; defaults to `youtube`.
 * To include images, add them to `/uploads/[4 digit year]-[2 digit month]`. If the directory you need for the month isn't there, feel free to add it. To include the image in the post just use the same directory structure: `![Browser](/blog/uploads/2016-02/Browser.jpg)`.
 * Kramdown is using [GitHub Flavored Markdown](https://help.github.com/articles/working-with-advanced-formatting/). The easiest way to add code snippets is to using [triple backticks](https://help.github.com/articles/creating-and-highlighting-code-blocks/#fenced-code-blocks); you can also define the language for better [syntax highlighting](https://help.github.com/articles/creating-and-highlighting-code-blocks/#syntax-highlighting). For a full list of languages [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 * You can preview the post locally using the setup and commands mentioned above in the [Setup](https://github.com/phonegap/blog/#setup) section.
@@ -74,6 +74,8 @@ Then open a browser to `http://localhost:4000/blog/`.
 
 
 ## Test Locally
+
+### HTML Proofer
 
 The site is using [Travis CI](https://travis-ci.org/phonegap/blog) and [HTML Proofer](https://github.com/gjtorikian/html-proofer) to check the html and referenced urls. Before you make a pull request it's a good idea to run the tests locally first.
 
@@ -96,4 +98,18 @@ Ran on 3 files!
 HTML-Proofer finished successfully.
 ```
 
-If it finds any errors be sure to fix them before making the pull-request.
+### Markdown Lint
+
+The markdown files are also checked with `markdownlint`. To run it locally use:
+
+```bash
+npm install
+```
+
+Then
+
+```bash
+npm run lint
+```
+
+If with tests find any errors be sure to fix them before making the pull-request.
