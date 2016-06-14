@@ -16,9 +16,9 @@ WordPress has a powerful templating and plugin platform that helps create very c
 
 AppPresser is setting out to help you do exactly that.
 
-**How it Works**
+## How it Works
 
-AppPresser is a free WordPress plugin that allows you to use the Phonegap API inside of a WordPress website. This gives you the vast feature set and ease of use of WordPress, combined with the power of Phonegap to create mobile apps.  
+AppPresser is a free WordPress plugin that allows you to use the Phonegap API inside of a WordPress website. This gives you the vast feature set and ease of use of WordPress, combined with the power of Phonegap to create mobile apps.
 
 Utilizing WordPress makes creating your app easier, and also introduces many powerful features that were previously very difficult to achieve.  For example, to create an ecommerce app, you can use a WordPress plugin such as [Woocommerce](http://www.woothemes.com/woocommerce/).
 
@@ -30,24 +30,23 @@ Ecommerce is just the start, you can build almost any type of app using WordPres
 
 Since the entire Phonegap API is exposed, you can create a WordPress plugin that uses any Phonegap feature.  For example, add geolocation, integrate with device contacts, and much more.
 
-AppPresser uses a webview to display WordPress inside your app, so it is best used for apps that require an internet connection.  Performance is a big concern to ensure a great user experience, so speed is imperative.  Hosting your site with a managed WordPress host such as [WP Engine](http://wpengine.com/) can offer a great user experience, even over slow 3G connections. 
+AppPresser uses a webview to display WordPress inside your app, so it is best used for apps that require an internet connection.  Performance is a big concern to ensure a great user experience, so speed is imperative.  Hosting your site with a managed WordPress host such as [WP Engine](http://wpengine.com/) can offer a great user experience, even over slow 3G connections.
 
 Offline apps are in the works for AppPresser, as well as loading content locally for a faster app.
 
-**Building Your App**
+## Building Your App
 
 AppPresser utilizes [Phonegap Build](http://build.phonegap.com) to create the app.
 
 Phonegap Build allows you to upload a .zip file of your project without messing with any Objective C or Java.  That means you only have to change a few lines in the config.xml file, and add your own splash/icon images and you’re ready to go!
 
-**How to get it**
+## How to get it
 
 You can download the core AppPresser plugin for free at [http://apppresser.com/download](http://apppresser.com/download)
 
 Other products to help you build your app are available for purchase at the AppPresser website.
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">![](/blog/uploads/2014-01/scott-headshot-150.jpg)</div>
+![](/blog/uploads/2014-01/scott-headshot-150.jpg)
 
-*Guest Post by Scott Bolinger*
-
-*Scott Bolinger is the co-founder of [AppPresser](http://apppresser.com/), the first mobile app framework for WordPress. You can find him on twitter [@scottbolinger](http://twitter.com/scottbolinger)*
+> Guest Post by Scott Bolinger
+> Scott Bolinger is the co-founder of [AppPresser](http://apppresser.com/), the first mobile app framework for WordPress. You can find him on twitter [@scottbolinger](http://twitter.com/scottbolinger)

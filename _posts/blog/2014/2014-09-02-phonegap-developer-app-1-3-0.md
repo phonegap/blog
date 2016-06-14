@@ -14,15 +14,15 @@ We hope all of our Canadian and Americian friends had a great long weekend! To h
 
 ## What's New
 
-__Updated to Android@3.5.1__
+### Updated to Android@3.5.1
 
 This addresses [three Android security vulnerabilities][1] that were fixed by Apache Cordova.
 
-__Added support for older CLI versions__
+### Added support for older CLI versions
 
 This will help to fix the 404 error on `/register` when using an outdated PhoneGap CLI.
 
-__Added support for Adobe Mobile Analytics__
+### Added support for Adobe Mobile Analytics
 
 While this is not directly benefical to you, it'll help provide the PhoneGap team with crash reports
 and usage analytics. Feel free to checkout the [Adobe Mobile Services plugin][5] source code to learn
@@ -32,21 +32,25 @@ You can also [read the complete change log][2] in our repository.
 
 ## How to Update
 
-__Updating the PhoneGap Developer App__
+### Updating the PhoneGap Developer App
 
 Your device should automatically receive the update. If this doesn't happen, then you may need to
 manually check for app store updates.
 
-__Updating the PhoneGap CLI__
+### Updating the PhoneGap CLI
 
 Many of the features and fixes are deployed through the CLI instead of the application. Please remember to
 update to the latest version of the CLI to receive these patches:
 
-    $ sudo npm update -g phonegap
+```sh
+$ sudo npm update -g phonegap
+```
 
 or
 
-    C:\> npm update -g phonegap
+```sh
+C:\> npm update -g phonegap
+```
 
 ## Getting Involved
 

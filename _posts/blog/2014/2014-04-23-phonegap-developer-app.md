@@ -11,7 +11,7 @@ Today, the PhoneGap Team is proud to announce the release of the [PhoneGap Devel
 
 The PhoneGap Developer app aims to lower the barrier of entry to creating PhoneGap applications. You can now immediately preview your app on a device without installing platform SDKs, registering devices, or even compiling code. You have full access to the [official PhoneGap APIs][9]. You can even develop an iOS app on Windows - and soon - a Windows Phone app on OS X. Whether you're a novice or expert, we think the PhoneGap Developer app will become part of your personal toolkit!
 
-<img src="http://forms.phonegap.com/blog/uploads/2014-04/phonegap-developer-app-hero.png" alt="PhoneGap Developer App" style="max-width: 500px;" />
+![PhoneGap Developer App](http://forms.phonegap.com/blog/uploads/2014-04/phonegap-developer-app-hero.png)
 
 ## Getting Started
 
@@ -19,7 +19,9 @@ The PhoneGap Developer app aims to lower the barrier of entry to creating PhoneG
 
 First, you need the latest version of the PhoneGap CLI:
 
-    $ sudo npm install -g phonegap
+```sh
+$ sudo npm install -g phonegap
+```
 
 You can read more about the installation details on our [installation page][1].
 
@@ -37,12 +39,16 @@ The PhoneGap Developer app is compatible with existing PhoneGap and Apache Cordo
 
 You can create a new app:
 
-    $ phonegap create my-app
-    $ cd my-app/
+```sh
+$ phonegap create my-app
+$ cd my-app/
+```
 
 Or open an existing app:
 
-    $ cd ~/Development/app/my-existing-app
+```sh
+$ cd ~/Development/app/my-existing-app
+```
 
 ### 4. Pair the CLI and Developer App
 
@@ -50,16 +56,18 @@ This is where the magic happens. The CLI starts a tiny web server to serve your 
 
 First, use the CLI to serve your project:
 
-    $ phonegap serve
-    [phonegap] starting app server...
-    [phonegap] listening on 192.168.1.76:3000
-    [phonegap]
-    [phonegap] ctrl-c to stop the server
-    [phonegap]
+```sh
+$ phonegap serve
+[phonegap] starting app server...
+[phonegap] listening on 192.168.1.76:3000
+[phonegap]
+[phonegap] ctrl-c to stop the server
+[phonegap]
+```
 
 Second, enter the server address into the PhoneGap Developer App. In this example, the address is `192.168.1.76:3000`.
 
-<img src="http://forms.phonegap.com/blog/uploads/2014-04/phonegap-developer-app-pairing.png" alt="Pairing the PhoneGap Developer App" style="max-width: 500px;" />
+![Pairing the PhoneGap Developer App](http://forms.phonegap.com/blog/uploads/2014-04/phonegap-developer-app-pairing.png)
 
 Remember, both the CLI and PhoneGap Developer app must be on the same network in order for the address must to be reachable.
 
@@ -67,7 +75,7 @@ Remember, both the CLI and PhoneGap Developer app must be on the same network in
 
 Once paired, it's business as usual. You can freely add, edit, and remove files from your project. Every saved change will automatically update the preview displayed in the PhoneGap Developer App.
 
-<img src="http://forms.phonegap.com/blog/uploads/2014-04/phonegap-app-developer-workflow-v2.gif" alt="PhoneGap Developer App Workflow" style="max-width: 500px;" height="auto" />
+![PhoneGap Developer App Workflow](http://forms.phonegap.com/blog/uploads/2014-04/phonegap-app-developer-workflow-v2.gif)
 
 You can also use hidden touch gestures for additional control:
 

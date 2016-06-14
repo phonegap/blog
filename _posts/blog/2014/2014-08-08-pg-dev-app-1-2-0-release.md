@@ -36,11 +36,15 @@ in order to get the new fixes:
 
 ### OS X and Linux
 
-    $ sudo npm update -g phonegap
+```sh
+$ sudo npm update -g phonegap
+```
 
 ### Windows
 
-    C:\> npm update -g phonegap
+```sh
+C:\> npm update -g phonegap
+```
 
 ## Getting Involved
 
@@ -56,4 +60,3 @@ Thanks for using our app!
 [5]: http://www.windowsphone.com/en-us/store/app/phonegap-developer/5c6a2d1e-4fad-4bf8-aaf7-71380cc84fe3?signin=true
 [6]: https://github.com/phonegap/phonegap-app-developer/issues/
 [7]: https://github.com/phonegap/phonegap-app-developer/milestones
-

@@ -21,17 +21,21 @@ The PhoneGap team is happy to announce the release of PhoneGap 3.5.0!
 
 ## Upgrading to PhoneGap 3.5.0
 
-    $ npm update -g phonegap
-    $ cd my-app/
-    $ phonegap platform update android
-    $ phonegap platform update ios
-    $ phonegap platform update wp8
+```sh
+$ npm update -g phonegap
+$ cd my-app/
+$ phonegap platform update android
+$ phonegap platform update ios
+$ phonegap platform update wp8
+```
 
 ## Installing PhoneGap 3.5.0
 
-    $ npm install -g phonegap
-    $ phonegap create my-app
-    $ cd my-app/
+```sh
+$ npm install -g phonegap
+$ phonegap create my-app
+$ cd my-app/
+```
 
 For more detail, see the [PhoneGap Install page](http://phonegap.com/install).
 

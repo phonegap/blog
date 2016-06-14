@@ -12,7 +12,7 @@ We're excited to announce that the [PhoneGap Developer App][1] is now
 available on the [Windows Phone Store][2]. It not only supports Windows Phone 8,
 but the upcoming 8.1 update!
 
-<img src="http://forms.phonegap.com/blog/uploads/2014-05/phonegap-app-developer-wp8.png" alt="PhoneGap Developer App for Windows Phone 8" />
+![PhoneGap Developer App for Windows Phone 8](http://forms.phonegap.com/blog/uploads/2014-05/phonegap-app-developer-wp8.png)
 
 For newcomers to the app, the PhoneGap Developer app aims to lower the barrier of entry to creating PhoneGap apps. You can immediately preview your app on a device without installing platform SDKs, registering devices, or even compiling code. Plus, you have full access to the official [PhoneGap APIs][3].
 

@@ -2,7 +2,7 @@
 date: 2014-03-04 14:00:05
 author: Lorin Beer
 title: "PhoneGap 3.4.0 Released"
-tags: 
+tags:
 - Release
 ---
 
@@ -20,39 +20,52 @@ To find out how to use the compiled FireFox OS package with the Mozilla App Mana
 
 This is on top of usual hardening and bug fixes.
 
-There are a large number of bug fixes and improvements to the Cordova engine across iOS, Android, BlackBerry10 and Windows Phone 8. 
+There are a large number of bug fixes and improvements to the Cordova engine across iOS, Android, BlackBerry10 and Windows Phone 8.
 
 If you’re interested in diving into the details, then [checkout the Cordova release notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12312420%26version=12324813).
 
-##How to Install PhoneGap
-###Mac and Linux:
+## How to Install PhoneGap
 
-    $ npm install -g phonegap
+### Mac and Linux:
 
-###Windows:
+```sh
+$ npm install -g phonegap
+```
 
-    C:\> npm install -g phonegap
+### Windows:
 
-##How to Upgrade PhoneGap
+```sh
+C:\> npm install -g phonegap
+```
 
-###Mac and Linux:
+## How to Upgrade PhoneGap
 
-    $ npm update -g phonegap 
+### Mac and Linux:
 
-###Windows:
+```sh
+$ npm update -g phonegap
+```
 
-    C:\> npm update -g phonegap
+### Windows:
 
-##How to Upgrade an App
+```sh
+C:\> npm update -g phonegap
+```
 
-    $ cd path/to/my-app
+## How to Upgrade an App
 
-    $ phonegap platform update <platform>
+```sh
+$ cd path/to/my-app
+
+$ phonegap platform update <platform>
+```
 
 where platform is your desired mobile platform
 
 ## Plugins
-the following plugins were tested against this release of PhoneGap
+
+the following plugins were tested against this release of PhoneGap:
+
 - cordova-plugin-battery-status: 0.2.7
 - cordova-plugin-camera: 0.2.7
 - cordova-plugin-console: 0.2.7
@@ -78,5 +91,3 @@ If you come across any issues while using PhoneGap, please file an issue! This c
 [All command-line usage issues can be submitted to the PhoneGap CLI Issue Tracker](https://github.com/phonegap/phonegap-cli/issues).
 
 [All application issues can be submitted to the Cordova Issue Tracker](https://issues.apache.org/jira/browse/CB).
-
-

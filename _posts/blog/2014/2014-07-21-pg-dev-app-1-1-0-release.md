@@ -34,11 +34,15 @@ and [Windows Phone][4] by searching for _PhoneGap Developer_.
 Also, remember to update your PhoneGap CLI to the latest version (`3.5.0-0.20.7`) to
 get multi-device and multi-version support:
 
-    $ sudo npm update -g phonegap
+```sh
+$ sudo npm update -g phonegap
+```
 
 or
 
-    C:\> npm update -g phonegap
+```sh
+C:\> npm update -g phonegap
+```
 
 ## Getting Involved
 
