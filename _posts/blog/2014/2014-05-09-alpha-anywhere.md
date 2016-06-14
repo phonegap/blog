@@ -9,7 +9,7 @@ According to [Gartner](http://www.gartner.com/newsroom/id/2324917), by 2016, Mor
 
 When we started thinking about integrating PhoneGap with our HTML5 mobile application development environment, [Alpha Anywhere](http://alphasoftware.com/products.asp), it became apparent very quickly that many of our developers would be overwhelmed by the process of building native business apps with the standard development tools for iOS, Android and Window Phone 8. When Adobe announced PhoneGap Build, which eliminates the hassle of using the native SDK’s for compiling and building the app, we hoped we could put it to work within Alpha Anywhere.
 
-In order to provide seamless integration of PhoneGap Build within our IDE, it was key to have access to an API that would allow our IDE to talk to PhoneGap Build directly. Fortunately, Adobe anticipated this requirement, and provides an excellent API for PhoneGap Build integration within any development framework. When using the PhoneGap Build API, you don’t have download and install anything in order to build native PhoneGap apps. Everything that you might want to access on PhoneGap Build is available through the numerous API calls. 
+In order to provide seamless integration of PhoneGap Build within our IDE, it was key to have access to an API that would allow our IDE to talk to PhoneGap Build directly. Fortunately, Adobe anticipated this requirement, and provides an excellent API for PhoneGap Build integration within any development framework. When using the PhoneGap Build API, you don’t have download and install anything in order to build native PhoneGap apps. Everything that you might want to access on PhoneGap Build is available through the numerous API calls.
 
 Using the PhoneGap Build API, we were able to build a sophisticated [PhoneGap App Builder](http://alphasoftware.com/alpha-anywhere-2.asp) that removes all of the complexity of building and testing PhoneGap Apps for Alpha Anywhere users. There’s no reason to worry about app configuration XML files, plugins, supported platforms, features or app packaging. It’s all handled through the integrated builder. We were also able to allow the capability to automatically generate all of the app icons and the splash screens for all of the supported platforms and at all of the required resolutions, handling both retina and non-retina displays. This is typically a day long process in itself, and we’ve boiled it down to picking a few images within the new Alpha Anywhere PhoneGap App Builder.
 
@@ -17,7 +17,7 @@ Our development environment supports the use of smart components that understand
 
 The PhoneGap Build API has proved to be quite robust and reliable. It has allowed us to simplify the process of PhoneGap application development, deployment and testing. It’s helping us to reach a wide range of HTML5 developers that may have been put off by the complexity of each platform’s native development toolset.
 
-**Bob Moore, VP, Mobile Development, Alpha Software, Inc.**
+Bob Moore, VP, Mobile Development, Alpha Software, Inc.
 
 Alpha Anywhere integration with PhoneGap Build allows developers to turn HTML5 business applications into hybrid applications within minutes:
 

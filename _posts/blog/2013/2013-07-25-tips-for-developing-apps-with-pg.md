@@ -15,7 +15,7 @@ The Which Blue Are You app has now secured over 7,000 downloads and the opportun
 
 Building these apps has been a learning process for us so I thought it might be useful to share some of things I’ve learned along the way.
 
-**Test on Real Phones**
+## Test on Real Phones
 
 In the world of iOS, things aren’t too bad, using Xcode and the iPhone emulator is fairly realistic. Even then however, there may be some nasty surprises if testing on real devices is left to the end of the project. For example, you might find that your animation looks great on the emulator but is painfully slow on an iPhone 3GS. Some features can't be emulated; for example if your app uses the accelerometer then there’s no way to emulate it (you can try shaking your laptop but it won’t get you very far).
 
@@ -25,59 +25,64 @@ How does a project decide which devices and versions of Android to test on? Ther
 
 ![](/blog/uploads/2013-07/wbay-rowing2.jpg)
 
-**CSS3 and HTML5**
+## CSS3 and HTML5
 
 One of the nice things about working on mobile apps is that you can use CSS3 and HTML5 without having to worry about providing fallbacks There will be no need for HTML5 shivs, no images pretending to be gradients, or workarounds for Internet Explorer. Sadly that doesn't mean everything will work exactly as you expect, here are a few things that might trip you up:
 
 1. Some CSS3 properties can affect performance, box-shadow is especially bad for this, so if your animations are looking choppy try removing any box-shadows, it may help.
+1. 3D CSS3 animations are hardware accelerated, but you can trick it into using hardware acceleration on 2D animations by adding:
 
-2. 3D CSS3 animations are hardware accelerated, but you can trick it into using hardware acceleration on 2D animations by adding:
+  ```css
+  -webkit-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+  ```
 
-	-webkit-transform: translate3d(0,0,0);  
-	transform: translate3d(0,0,0);
-
-3. Bear in mind that while many CSS3 properties no longer require prefixes, these may still be needed for earlier versions of Android and iOS. For example box-shadow requires the -webkit prefix in Android up to version 4 and iOS up to version 5. The ever-helpful http://caniuse.com includes mobile browsers in its compatibility tables. It's also worth noting that older versions may use different syntax for background gradients, but generators such as http://www.colorzilla.com can provide these for you.
+1. Bear in mind that while many CSS3 properties no longer require prefixes, these may still be needed for earlier versions of Android and iOS. For example box-shadow requires the -webkit prefix in Android up to version 4 and iOS up to version 5. The ever-helpful [Can I Use](http://caniuse.com) includes mobile browsers in its compatibility tables. It's also worth noting that older versions may use different syntax for background gradients, but generators such as [Colorzilla](http://www.colorzilla.com) can provide these for you.
 
 ![](/blog/uploads/2013-07/wbay-menu.jpg)
 
-**jQuery Mobile**
+## jQuery Mobile
 
 [jQuery mobile](http://jquerymobile.com/) can be very useful and time-saving when developing apps as it’s easy to use and well documented. From a front end point of view the ability to just be able to specify the desired transition directly on a link is great, it looks something like:
 
-	<a href="index.html" data-transition="slidedown">
+```html
+<a href="index.html" data-transition="slidedown">
+```
 
 However, where we found problems was when you need to have more control over the look and feel of your app. On another app we ended up removing jQuery mobile, writing our own page loader and spending time creating and tweaking a flip animation to get it to fit the client’s requirements exactly.
 
-**Handy Tips, or "Things that took far too long to find by Googling"**
+## Handy Tips, or "Things that took far too long to find by Googling"
 
 Renaming your App:
 
 1. **Android:** Edit the app-name in \[project-folder\]/android/\[project\]/res/values/strings.xml
-2. **iOS:** In xCode, select your project under Targets, then in the Info tab update the Bundle display name
+1. **iOS:** In xCode, select your project under Targets, then in the Info tab update the Bundle display name
 
 Force the phone to show the app in landscape mode:
 
 1. **Android:** In \[project-folder\]/android/\[project\]/AndroidManifest.xml add android:screenOrientation="landscape" to the activity tag
-2. **iOS:** In xCode, select your project under Targets, In the Summary tab make sure that either Landscape Right or Landscape Left is selected and the Portrait ones are not selected.
+1. **iOS:** In xCode, select your project under Targets, In the Summary tab make sure that either Landscape Right or Landscape Left is selected and the Portrait ones are not selected.
 
 Hide the phone status bar while the app is running:
 
 1. **Android:** In \[project-folder\]/android/\[project\]/res/xml/config.xml add
-2. **iOS:** In xCode, select your project under Targets, In the Summary tab select Visibility - Hide during application launch in the Status bar section.
+1. **iOS:** In xCode, select your project under Targets, In the Summary tab select Visibility - Hide during application launch in the Status bar section.
 
 Opening external links in the in-app browser:
 
 Without this a user can click on an external link in your app, and then can’t get back to the app, luckily the current version of PhoneGap comes with InAppBrowser which you can use with the window.open call. For example, you can open a URL using a command like:
 
-	onClick="window.open('http://google.com', '_blank', 'location=yes');"
-	
+```js
+onClick="window.open('http://google.com', '_blank', 'location=yes');"
+```
+
 ![](/blog/uploads/2013-07/wbay-landingscreen.jpg)
 
-**Developing with PhoneGap**
+## Developing with PhoneGap
 
 This has only been a brief overview of the learning process we have been through while developing these apps, but hopefully there will be tips here that are useful to other developers taking their first steps into app development. Using PhoneGap does comes with some limitations, but for our apps it has done the job and for web developers, especially front-end types like me, it’s a good way to get started and begin to learn about app development.
 
 The BNY Mellon Boat Race app is available for [Android](http://play.google.com/store/apps/details?id=com.inviqa.Rower) and for [iPhone](https://itunes.apple.com/us/app/boat-race/id606297975?mt=8%26ign-mpt=uo=2).
 
-*Guest Post by Amy Benson*
-*Amy is a front-end developer at [Inviqa](http://inviqa.com/). With several years of web design and development experience, Amy has worked on projects including iPhone and Android apps and responsive eCommerce sites.*
+>Guest Post by Amy Benson
+>Amy is a front-end developer at [Inviqa](http://inviqa.com/). With several years of web design and development experience, Amy has worked on projects including iPhone and Android apps and responsive eCommerce sites.

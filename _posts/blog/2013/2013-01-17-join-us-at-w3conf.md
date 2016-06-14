@@ -16,6 +16,6 @@ We’re excited to see this great line-up of speakers:
 - Ariya Hridayat – creator of PhantomJS, Esprima – with his talk on Fluid User Interface with Hardware Acceleration.
 - Nicolas Gallagher – creator of normalize.css, maintainer of HTML5 Boilerplate – with his talk on Questioning Best Practices.
 
-### Register + Save
+## Register + Save
 
 [Register](http://a3.acteva.com/orderbooking/loadEventRegistration.action?skuId=17163327013B443EEC11C9C8054FD44D%26catalogId=17163327013B4431DBFC59FF1E9D11F0%26catalogGoWord=w3conf%26emailAttendeeId=) for W3Conf and **save $100 off the early bird price of $300 by using the code ‘adobe’** (note it is all lowercase).

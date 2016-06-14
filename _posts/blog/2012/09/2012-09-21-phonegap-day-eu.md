@@ -18,7 +18,7 @@ We saw some great interactions on social media with our hashtag [#pgday](https:/
 
 ![](/blog/uploads/tweets-pgdayeu.png)
 
-Thank you to everyone who attended PhoneGap Day EU and for [PPK]((http://twitter.com/ppk) and [Krijn](http://twitter.com/krijnhoetmer) for helping us organize it. We can’t wait to jump on a plane next year and come back. For those of you who couldn’t make it, we’ll be videos from the day very soon!
+Thank you to everyone who attended PhoneGap Day EU and for [PPK](http://twitter.com/ppk) and [Krijn](http://twitter.com/krijnhoetmer) for helping us organize it. We can’t wait to jump on a plane next year and come back. For those of you who couldn’t make it, we’ll be videos from the day very soon!
 
 Check out the speaker slides below (we’ll be adding more as the slides come in):
 

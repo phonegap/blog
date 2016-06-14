@@ -2,7 +2,7 @@
 date: 2014-04-29 13:00:06
 author: Brian LeRoux
 title: "Embed PhoneGap into Corona"
-category: 
+category:
 ---
 
 Adding visual richness and interactivity to PhoneGap/Cordova-based apps is about to get a whole lot easier.
@@ -13,9 +13,11 @@ CoronaCards lets you take full advantage of Corona's richness and ease-of-use, e
 
 When you integrate CoronaCards into your app, it behaves just like any other widget/control in the view hierarchy. Once you have the plugin installed, you can instantiate a `CoronaView` in JavaScript:
 
-	var view = new CoronaView( x, y, w, h );
+```js
+var view = new CoronaView( x, y, w, h );
+```
 
-CoronaCards is available on iOS, and is currently in beta for Android, with Windows Phone 8 soon to follow. 
+CoronaCards is available on iOS, and is currently in beta for Android, with Windows Phone 8 soon to follow.
 
 [Download CoronaCards](http://developer.coronalabs.com/downloads/coronacards)
 

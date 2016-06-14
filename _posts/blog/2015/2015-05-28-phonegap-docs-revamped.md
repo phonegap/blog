@@ -11,7 +11,6 @@ The PhoneGap team is excited to announce the _long awaited_ and _much needed_ up
 
 ![](/blog/uploads/2015-05/phonegap-docs-homepage.png)
 
-
 We've completely redesigned the website and rewritten the content. The first release has focused on the **Getting Started** experience and more content is coming soon. Developers will be introduced to the different tools available to get up and running quickly on a mobile device using a combination of the PhoneGap Desktop, PhoneGap CLI and PhoneGap Developer tools.
 
 In the coming weeks we'll be rolling out a series of new guides on a regular basis to help lead developers through each stage of the mobile development process. We've already lined up tutorials on configuring, optimizing, debugging and testing as well as  submitting your apps to the various marketplaces in addition to general mobile development tips. We'll also provide guides to help developers properly configure their apps and put an effort into clearing up past confusion as we recognize the docs have been a sore spot for developers.

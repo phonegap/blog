@@ -14,14 +14,14 @@ This release enables the Desktop App to display multiple IP addresses when the c
 
 The next time that you launch the PhoneGap Desktop App, you'll see an update notification. Please follow the instructions to manually update to 0.2.1.
 
-## Installation ##
+## Installation
 
 You can install the latest version of the PhoneGap Desktop App from our docs:
 
 - [Install on OS X](http://docs.phonegap.com/references/desktop-app/install/mac/)
 - [Install on Windows](http://docs.phonegap.com/references/desktop-app/install/win/)
 
-## What's New ##
+## What's New
 
 For those interested in the full CHANGELOG:
 
@@ -33,7 +33,7 @@ For those interested in the full CHANGELOG:
 - [#510](https://github.com/phonegap/phonegap-app-desktop/issues/510) update to PhoneGap 5.3.9
 - [#512](https://github.com/phonegap/phonegap-app-desktop/issues/512) re-add license.txt to src folder
 
-## Getting Involved ##
+## Getting Involved
 
 We would like to thank our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 

@@ -10,15 +10,17 @@ Below is the January addition of our [PhoneGap Community Release Notes](http://p
 
 We'll be posting the round up from each month and below is the roundup for the month of January.
 
-### EVENTS
+## EVENTS
+
 - January 8-11, [CodeMash](http://codemash.org/), Ray Camden
 - January 17, [Open Online Phonegap Sesssion](http://techlive.adobe.com/ai1ec_event/open-phonegap-session), Ray Camden and Andrew Trice
 - January 17-18, [Take Off Conf](http://takeoffconf.com/), Alex Toul
 - January 21, [Mobile Monday GOTO Night](http://gotochicago.eventbrite.com/#), Brian LeRoux and Pat Mueller
 - January 23, [Vancouver PhoneGap Meetup](http://www.meetup.com/Vancouver-PhoneGap-Meetup/events/97957372/), Amrit Kahlon and Alex Toul from Hockey Community, Fil Maj. Slides: [Hockey Community](http://www.slideshare.net/hockeycommunity/hc-phonegap), [Fil Maj](http://t.co/TgpCeWEF)
 - January 24, [FinHTML5](http://finhtml5.fi/), Brian LeRoux
- 
-### ARTICLES
+
+## ARTICLES
+
 - [Introducing the PhoneGap Developer Directory](http://phonegap.com/blog/2013/01/03/introducing-the-phonegap-developer-directory/), Colene Chow
 - [PhoneGap Community Roundup - December 2012](http://www.phonegap.com/blog/2013/01/03/phonegap-community-roundup-dec2012/), Steve Gill
 - [PhoneGap 2.3.0 Released](http://www.phonegap.com/blog/2013/01/07/phonegap-230/), Steve Gill

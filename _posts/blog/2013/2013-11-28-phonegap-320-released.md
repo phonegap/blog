@@ -18,16 +18,22 @@ There are a large number of [bug fixes and improvements](http://cordova.apache.o
 
 Mac and Linux:
 
-    $ sudo npm install -g phonegap
+```sh
+$ sudo npm install -g phonegap
+```
 
 Windows:
 
-    C:\> npm install -g phonegap
+```sh
+C:\> npm install -g phonegap
+```
 
 ## How to Upgrade an App
 
-    $ cd path/to/my-app
-    $ phonegap platform update android
+```sh
+$ cd path/to/my-app
+$ phonegap platform update android
+```
 
 You can substitute `android` for any platform name.
 

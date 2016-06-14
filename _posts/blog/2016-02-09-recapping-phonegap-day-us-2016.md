@@ -15,7 +15,7 @@ With our sold out workshops and conference the Adobe Lehi office was bursting at
 
 ![](/blog/uploads/2016-02/pgd5.jpg)
 
-##Day 1##
+## Day 1
 
 We kicked off the workshop day with 3 separate tracks so attendees could choose their own adventure whether they wanted to learn more about plugin development or app submission best practices.
 
@@ -42,7 +42,7 @@ Check out the slides and resources from all the workshops below. We'll be adding
 - Optimizing Performance and User Interface - [Masa Tanaka](https://twitter.com/massie) (Monaca)
 - Microsoft Visual Studio - [Ryan J. Salva](https://twitter.com/ryanjsalva) (Microsoft Visual Studio)
 
-##Day 2##
+## Day 2
 
 We had one of the best PhoneGap Day conference lineups yet with representation from popular frameworks like Angular, React and Ember as well as some incredible case studies of apps built with PhoneGap. [Michael Brooks](https://twitter.com/mwbrooks) kicked off PhoneGap Day US 2016 with the history of PhoneGap Day, looking back on 2015 with Cordova and PhoneGap and looking forward to what's to come in 2016.
 
@@ -72,7 +72,7 @@ We were also joined by experts from the Angular, React and Ember communities as 
 - [Loading Native Code (plugins) Dynamically for the Enterprise](https://github.com/phonegap/native-plugin-sync-demo) - [Shazron Abdullah](https://twitter.com/shazron)
 - What's new for Apache Cordova - [Ryan J. Salva](https://twitter.com/ryanjsalva)
 
-##Day 3##
+## Day 3
 
 We ended the conference on the slopes at Sundance Mountain Resort. After a jam-packed 2 days of coding and learning, it was great to get out to enjoy Utah's famous snow.
 

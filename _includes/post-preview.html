@@ -1,16 +1,16 @@
 <article class="blog-post__preview">
   <header>
     <div class="blog__dateline">
-      <time class="blog-post__date" datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%SZ'}}">{{ post.date | date: '%B %d, %Y' }}</time> &bull; {% if post.author %}<a class="blog-post__author" href="{{ post.author | slugify | prepend: '/author/' | prepend: site.baseurl }}">{{ post.author }}</a>{% endif %}
+      <time class="blog-post__date" datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%SZ'}}">{{ post.date | date: '%B %d, %Y' }}</time> &bull; {% if post.author %}<a class="blog-post__author" href="{{ post.author | slugify | prepend: '/author/' | prepend: site.baseurl }}">{{ post.author | xml_escape }}</a>{% endif %}
     </div>
-    <h1 class="blog-post__title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h1>
+    <h1 class="blog-post__title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title | xml_escape }}</a></h1>
     {% include tag-list.html %}
   </header>
   <div class="blog-post__content">
     {% if post.format == 'html' %}
-      {{ post.content | strip_html | truncatewords: 50 }}
+      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
     {% else %}
-      {{ post.content | markdown | strip_html | truncatewords: 50 }}
+      {{ post.content | markdown | strip_html | xml_escape | truncatewords: 50 }}
     {% endif %}
   </div>
   <footer><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" class="button--pill--blog-post">READ MORE</a></footer>

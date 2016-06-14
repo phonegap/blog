@@ -11,7 +11,8 @@ Earlier this year we started the [PhoneGap Community Release Notes](http://phone
 
 We'll be posting the round up from each month and below is the roundup for the month of October.
 
-### EVENTS
+## EVENTS
+
 - October 1-3, [GOTOConf](http://gotocon.com/aarhus-2012/), Brian LeRoux
 - October 4-5, [Monktoberfest](http://monktoberfest.com/), Andre Charland (sponsor)
 - October 6-7, [JS Conf EU](http://2012.jsconf.eu/), Brian LeRoux (sponsor)
@@ -23,7 +24,8 @@ We'll be posting the round up from each month and below is the roundup for the m
 - Oct 26-27, [Test the Web Forward (Paris)](http://testthewebforward.org/paris-2012.html),  Michael Brooks
 - Oct 26-27, [JS Everywhere](http://www.jseverywhere.org/), Steve Gill
 
-### ARTICLES
+## ARTICLES
+
 - [PhoneGap: a misunderstood hybrid framework](http://blog.cuttleworks.com/2012/10/phonegap-a-misunderstood-hybrid-framework/), Romain Prieto
 - [What's New in Cordova iOS 2.2.0](http://shazronatadobe.wordpress.com/2012/10/27/whats-new-in-cordova-ios-2-2-0/), Shazron Abdullah
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
@@ -32,16 +34,16 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [PhoneGap, Apple Rejections & UI/UX Guidelines](http://www.tricedesigns.com/2012/10/03/phonegap-apple-rejections-uiux-guidelines/), Andy Trice
 - [Automated UI Testing in PhoneGap Apps](http://www.tricedesigns.com/2012/10/08/automated-ui-testing-in-phonegap-apps/), Andy Trice
 - [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App-Part-4), Ray Camden
-- [Apache Cordova Priniciple (for Android) ](http://abstractlayers.com/2012/10/19/apache-cordova-overview-part-1/), Santosh Rangarajan
-- [Apache Cordova Workflow (for Android) ](http://abstractlayers.com/2012/10/25/apache-cordova-workflow-part-2/), Santosh Rangarajan
+- [Apache Cordova Priniciple (for Android)](http://abstractlayers.com/2012/10/19/apache-cordova-overview-part-1/), Santosh Rangarajan
+- [Apache Cordova Workflow (for Android)](http://abstractlayers.com/2012/10/25/apache-cordova-workflow-part-2/), Santosh Rangarajan
 - [What's New in PhoneGap Android 2.2.0](http://simonmacdonald.blogspot.com/2012/10/whats-new-in-phonegap-android-220.html), Simon MacDonald
-- [Partial Support for the Video Tag in PhoneGap Android 2.2.0](http://simonmacdonald.blogspot.com/2012/10/partial-support-for-video-tag-in.html), Simon MacDonald 
+- [Partial Support for the Video Tag in PhoneGap Android 2.2.0](http://simonmacdonald.blogspot.com/2012/10/partial-support-for-video-tag-in.html), Simon MacDonald
 - [Adding Parse.com User support to your PhoneGap application](http://www.raymondcamden.com/2012/10/31/Adding-Parsecom-User-support-to-your-PhoneGap-application), Raymond Camden
-- [Displaying iCal data in PhoneGap?](http://www.raymondcamden.com/2012/10/12/Displaying-iCal-data-in-PhoneGap/), Raymond Camden 
+- [Displaying iCal data in PhoneGap?](http://www.raymondcamden.com/2012/10/12/Displaying-iCal-data-in-PhoneGap/), Raymond Camden
 - [PhoneGap, Parse.com, and Push Notifications](http://www.raymondcamden.com/2012/10/10/PhoneGap-Parsecom-and-Push-Notifications), Raymond Camden
 - [Building a Parse.com Enabled PhoneGap App - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App-Part-4), Raymond Camden
 - [Building a Parse.com Enabled PhoneGap App - Part 5](http://www.raymondcamden.com/2012/10/24/Building-a-Parsecom-Enabled-PhoneGap-App-Part-5), Raymond Camden
--[Windows 8 Security and Dynamic Code](http://www.risingj.com/archives/288), Jesse MacFadyen
+- [Windows 8 Security and Dynamic Code](http://www.risingj.com/archives/288), Jesse MacFadyen
 - [Announcing Apache Cordova support for Windows Phone 8](http://www.risingj.com/archives/314), Jesse MacFadyen
 - [Tutorial: Android Push Notifications With PhoneGap](http://devgirl.org/2012/10/25/tutorial-android-push-notifications-with-phonegap/), Holly Schinsky
 - [Tutorial: Apple Push Notifications with PhoneGap – Part 1](http://devgirl.org/2012/10/19/tutorial-apple-push-notifications-with-phonegap-part-1/), Holly Schinsky

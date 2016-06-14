@@ -10,16 +10,16 @@ tags:
 
 PhoneGap Desktop App 0.1.5 Beta is now available!
 
-## Installation ##
+## Installation
 
 Download and install the PhoneGap Desktop App 0.1.5 Beta release:
 
 - __OS X__: Download [PhoneGap Desktop 0.1.5 for OS X](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.5/PhoneGapDesktop.dmg)
 - __Windows__: Download [PhoneGap Desktop 0.1.5 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.5/PhoneGapSetup.exe)
 
-_Due to an issue with PhoneGap Desktop's auto-updater, we recommend that you manually update using the download links provided above._
+_Note:_ Due to an issue with PhoneGap Desktop's auto-updater, we recommend that you manually update using the download links provided above.
 
-## What's New ##
+## What's New
 
 This release focuses on adding auto-updates for OS X. After downloading and installing the release, all future releases will be auto-updated when the app is opened.
 
@@ -31,7 +31,7 @@ For those interested in the full CHANGELOG:
 - [#232](https://github.com/phonegap/phonegap-app-desktop/issues/232) Add auto-updater support
 - [#340](https://github.com/phonegap/phonegap-app-desktop/issues/340) Clean up the ISS script for compiling PhoneGapSetup.exe
 
-## Getting Involved ##
+## Getting Involved
 
 Once again, thank you to all of our users who have submitted feedback and issues to help improve the PhoneGap Desktop App!
 

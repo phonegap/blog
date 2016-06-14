@@ -91,4 +91,3 @@ available on GitHub. Please fork, submit issues, and send pull requests!
 [14]: http://emulate.phonegap.com?phonegap.com
 [15]: https://github.com/phonegap/emulate.phonegap.com
 [16]: https://github.com/blackberry/Ripple-UI
-

@@ -14,8 +14,8 @@ Which are the most popular cloud APIs? Does mobile, IoT or cloud development pay
 
 Participants can win awesome prizes like an MS Surface 3, Lumia 635, iPhone 6s, Parrot AR Drone 2.0, Blackberry Passport, as well as one of 200 Amazon vouchers! In addition to prizes, survey participants will also get the chance to see:
 
- 1. How they compare to other developers from their country/region
- 2. How their country compares to other countries from the developer landscape
+1. How they compare to other developers from their country/region
+1. How their country compares to other countries from the developer landscape
 
 Access to graphs will be given upon survey completion and upon survey closing respectively. As always, the key findings will be released as a free report in February.
 

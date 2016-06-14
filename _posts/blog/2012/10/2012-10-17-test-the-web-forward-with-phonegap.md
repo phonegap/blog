@@ -22,4 +22,3 @@ Thankfully, you're wrong.
 _Test the Web Forward_ is happening in [Paris, France on October 26-27th, 2012](http://testthewebforward.org/paris-2012.html). Along with experts from W3C, Mozilla, Opera, Google, and Microsoft, there will also be folks from Adobe and PhoneGap. We're attending to spread the word that PhoneGap is an incredible browser to test the future of the web today.
 
 Everyone is welcome to join us at the event. [Registration is free](http://testtwfparis.eventbrite.com/) and the event should not conflict with your work schedule. While attending, you'll have the chance to chat with the experts and hack on code that will help improve the web for everyone!
-

@@ -13,14 +13,14 @@ This release includes a fix for the `EADDRINUSE :::3000` issue and also adds an 
 
 You'll need to manually update to 0.2.2.
 
-## Installation ##
+## Installation
 
 You can install the latest version of the PhoneGap Desktop App from our docs:
 
 - [Install on OS X](http://docs.phonegap.com/references/desktop-app/install/mac/)
 - [Install on Windows](http://docs.phonegap.com/references/desktop-app/install/win/)
 
-## What's New ##
+## What's New
 
 For those interested in the full CHANGELOG:
 
@@ -30,11 +30,9 @@ For those interested in the full CHANGELOG:
 - [#537](https://github.com/phonegap/phonegap-app-desktop/issues/537) - EADDRINUSE error when pressing run multiple times
 - [#527](https://github.com/phonegap/phonegap-app-desktop/issues/527) - update pgVersion to 5.4.1
 - [#525](https://github.com/phonegap/phonegap-app-desktop/issues/525) - update connect-phonegap dependency to 0.19.0
-- [#521](https://github.com/phonegap/phonegap-app-desktop/issues/521) - update to
-Electron 0.36.0
+- [#521](https://github.com/phonegap/phonegap-app-desktop/issues/521) - update to Electron 0.36.0
 - [#518](https://github.com/phonegap/phonegap-app-desktop/issues/518) - EADDRINUSE error when changing projects
-- [#382](https://github.com/phonegap/phonegap-app-desktop/issues/382) - Electron
-Auto-update support for OSX
+- [#382](https://github.com/phonegap/phonegap-app-desktop/issues/382) - Electron Auto-update support for OSX
 
 Fix for `EADDRINUSE :::3000 error`:
 
@@ -45,7 +43,7 @@ Fix for `EADDRINUSE :::3000 error`:
 - [#532](https://github.com/phonegap/phonegap-app-desktop/issues/532)
 - [#531](https://github.com/phonegap/phonegap-app-desktop/issues/531)
 
-## Getting Involved ##
+## Getting Involved
 
 We would like to thank our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 

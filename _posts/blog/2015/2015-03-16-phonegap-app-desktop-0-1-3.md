@@ -16,7 +16,7 @@ Download and install the PhoneGap Desktop App Beta 0.1.3 release:
 - __OS X__: Download [PhoneGap Desktop 0.1.3 for OS X](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.3/PhoneGapDesktop.dmg)
 - __Windows__: Download [PhoneGap Desktop 0.1.3 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.3/PhoneGapSetup.exe)
 
-_Anyone already using the app will receive an update notification within the app._
+**Note:** Anyone already using the app will receive an update notification within the app.
 
 ## What's New
 

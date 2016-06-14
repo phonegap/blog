@@ -53,21 +53,21 @@ If you’re new, then you can download the latest release from the [iOS AppStore
 
 Next, update your PhoneGap CLI to the latest version (`3.6.3-0.22.5` or newer) to get the new features:
 
-    $ sudo npm install -g phonegap
+```sh
+$ sudo npm install -g phonegap
+```
 
 or
 
-    C:\> npm install -g phonegap
-
+```sh
+C:\> npm install -g phonegap
+```
 
 Please __do not__ use `npm update -g` because [it's currently broken in npm 2.x][10].
 
 ## Known Issues
 
-I'd like to remind everyone that there are known issues with how some plugins 
-work in the PhoneGap Developer App. The camera, file transfer, and media plugins
-all have issues when trying to access a file uri. The next release of the PhoneGap
-Developer App will focus on addressing these issues. Thanks for your patience!
+I'd like to remind everyone that there are known issues with how some plugins work in the PhoneGap Developer App. The camera, file transfer, and media plugins all have issues when trying to access a file uri. The next release of the PhoneGap Developer App will focus on addressing these issues. Thanks for your patience!
 
 If you're interested in learning more about the issues, you can checkout:
 
@@ -81,7 +81,7 @@ You can keep up-to-date on our work by following the repositories [issue tracker
 
 Thanks for using the app!
 
-[1]: https://github.com/phonegap/phonegap-app-developer/issues/172 
+[1]: https://github.com/phonegap/phonegap-app-developer/issues/172
 [2]: https://github.com/phonegap/phonegap-app-developer/issues/173
 [3]: https://github.com/phonegap/phonegap-app-developer/issues/174
 [4]: https://itunes.apple.com/app/id843536693

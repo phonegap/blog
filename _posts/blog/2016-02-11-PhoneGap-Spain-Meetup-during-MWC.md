@@ -19,10 +19,10 @@ Here's a quick look at what we have lined up:
 
 - [José Jesús](https://twitter.com/JoseJ_PR), Adobe User Group Manager - PhoneGap Spain, will give tips for startups developing mobile apps.
 
-If you're already headed to Mobile World Congress, your ticket includes entry to the 4YFN conference. 
+If you're already headed to Mobile World Congress, your ticket includes entry to the 4YFN conference.
 
-If you'd like to attend 4YFN and the PhoneGap meetup, **Adobe is offering to sponsor your attendance for a limited time only**. Available for the first 45 who register so act quick! 
+If you'd like to attend 4YFN and the PhoneGap meetup, **Adobe is offering to sponsor your attendance for a limited time only**. Available for the first 45 who register so act quick!
 
 [Register today!](http://adobephonegapbarcelona.phonegapspain.com/)
 
-We look forward to seeing you there. 
+We look forward to seeing you there.

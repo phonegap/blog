@@ -10,18 +10,18 @@ tags:
 
 PhoneGap Desktop App 0.1.9 is all about analytics. We've fixed up some of the data tracking and added Google Analytics support.
 
-## Installation ##
+## Installation
 
 Download and install PhoneGap Desktop App 0.1.9 Beta release:
 
 - __OS X__: Download [PhoneGap Desktop 0.1.9 for OS X](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.9/PhoneGapDesktop.dmg)
 - __Windows__: Download [PhoneGap Desktop 0.1.9 for Windows](https://github.com/phonegap/phonegap-app-desktop/releases/download/0.1.9/PhoneGapSetup.exe)
 
-_If you have an issue with the PhoneGap Desktop's auto-updater, we recommend that you manually update using the download links provided above._
+_Note:_ If you have an issue with the PhoneGap Desktop's auto-updater, we recommend that you manually update using the download links provided above.
 
-## What's New ##
+## What's New
 
-This release is all about house cleaning. We've cleaned up the code behind the scenes, fixed some event tracking, and added Google Analytics support. 
+This release is all about house cleaning. We've cleaned up the code behind the scenes, fixed some event tracking, and added Google Analytics support.
 
 For those interested in the full CHANGELOG:
 
@@ -34,7 +34,7 @@ For those interested in the full CHANGELOG:
 - [#403](https://github.com/phonegap/phonegap-app-desktop/issues/403) Replace grunt-node-webkit-builder dependency
 - [#405](https://github.com/phonegap/phonegap-app-desktop/issues/405) Add debug flag and disable tracking flag to Google Analytics
 
-## Getting Involved ##
+## Getting Involved
 
 As always, a big thanks goes out to our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 

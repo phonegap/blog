@@ -16,4 +16,3 @@ Adobe PhoneGap enabled T1M to rapidly prototype the app and get immediate feedba
 [Ming Chan](http://twitter.com/mingAtT1M), CEO of T1M, explained the value of using PhoneGap, saying, “We knew we wanted to build a web app, but have it available for download across mobile platforms. Using PhoneGap, we were able to easily involve the client in the development process and successfully deliver on client expectations, while saving time and money.”
 
 [Read the story](http://adobe.ly/1g2QHdg)
-

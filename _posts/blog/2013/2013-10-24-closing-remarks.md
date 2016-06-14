@@ -1,0 +1,17 @@
+---
+date: 2013-10-24 08:20:02
+author: Colene Chow
+title: "PhoneGap Day US 2013: Closing Remarks"
+format: html
+tags:
+- PhoneGap Day
+- Community
+- Event
+---
+Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!
+
+As we mentioned in our [previous PhoneGap Day posts](http://phonegap.com/blog/tag/phonegap-day/), the audio quality is not what we were hoping for due to some technical glitches. We've been working madly to get it improved which is why we've been delayed in sharing them. Nothing too shabby, but not as good as being at PhoneGap Day in person. So, our apologies in advance but with that, on to the video!
+
+Our next speaker is [Brian LeRoux](http://twitter.com/brianleroux) from the PhoneGap/Cordova team and his closing remarks for PhoneGap Day US.
+
+{% include video.html id="7FvVPC71r28" %}

@@ -15,8 +15,9 @@ Today we’re celebrating the launch of PhoneGap 2.0 at PhoneGap Day in Portland
 
 Here’s our official announcement:
 
-### Adobe PhoneGap 2.0 Released at 2nd Annual PhoneGap Day###
-_Popular Open Source Mobile Development Framework Gets Upgrades Including Improved Plugin Support, Embeddable Webviews, Command Line Tooling and more_
+## Adobe PhoneGap 2.0 Released at 2nd Annual PhoneGap Day
+
+### Popular Open Source Mobile Development Framework Gets Upgrades Including Improved Plugin Support, Embeddable Webviews, Command Line Tooling and more
 
 Adobe® PhoneGap, the popular open source mobile app development framework, was released today at the 2nd annual PhoneGap Day in Portland, Oregon.
 PhoneGap allows developers to build cross-platform mobile applications using HTML5, CSS3 and Javascript. With PhoneGap, you can re-use your existing web developer skills and use the PhoneGap API to gain access to native features that aren’t accessible in mobile browsers.
@@ -24,18 +25,12 @@ PhoneGap allows developers to build cross-platform mobile applications using HTM
 We’re excited to announce the following major new features in PhoneGap 2.0:
 
 - **Cordova WebView** - This allows for the integration of PhoneGap, as a view fragment, into a bigger native application.
-
 - **Command Line Tooling (CLI) (Android, iOS and BlackBerry)** - CLI tooling brings a standard nomenclature to common tasks across platforms such as project creation, debugging, and emulation. Normally, these are different incantations for each platform vendor making cross platform development workflow inconsistent and jarring; we’ve fixed that.
-
 - **Enhanced documentation** – Getting-started guides, plugins, migration guides and more to help accelerate the development of mobile applications and make it even easier.
-
 - **Web Inspector Remote (Weinre)** ported to nodejs – The availability of a node module means easy installation using Node Package Manager (NPM).
-
 - **Cordovajs** (Support for unified Javascript across platforms) - We’ve seen dramatic advancements to performance, security, and API symmetry across platforms thanks to the herculean effort of unifying our JS layer.
-
 - **Transition to Apache Cordova** and nearing graduation from incubation
-
-- **Windows Phone support**
+- **Windows Phone support**.
 
 - **Improvement to iOS app creation** - We’ve implemented significant changes for the iOS platform. [Get a deeper dive into all the changes from Shaz, our PhoneGap iOS lead developer](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/).
 

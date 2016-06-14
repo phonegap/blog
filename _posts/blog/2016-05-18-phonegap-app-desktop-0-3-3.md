@@ -11,14 +11,14 @@ PhoneGap Desktop 0.3.3 is a maintenance release that includes updates to the lat
 
 For a full list of changes made, see the CHANGELOG below.
 
-## Installation ##
+## Installation
 
 You can install the latest version of the PhoneGap Desktop App from our docs:
 
 - [Install on OS X](http://docs.phonegap.com/references/desktop-app/install/mac/)
 - [Install on Windows](http://docs.phonegap.com/references/desktop-app/install/win/)
 
-## What's New ##
+## What's New
 
 For those interested in the full CHANGELOG:
 
@@ -28,7 +28,7 @@ For those interested in the full CHANGELOG:
 - [#624](https://github.com/phonegap/phonegap-app-desktop/issues/624) - update connect-phonegap & phonegap-cli dependencies to latest versions
 - [#627](https://github.com/phonegap/phonegap-app-desktop/issues/627) - fix code formatting in project-widget.js
 
-## Getting Involved ##
+## Getting Involved
 
 We would like to thank our users for helping us improve the PhoneGap Desktop App by submitting feedback and issues.
 

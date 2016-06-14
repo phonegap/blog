@@ -14,4 +14,3 @@ Developers who are wondering how long it will take them to build v1 of a native 
 [View original](http://www.kinvey.com/blog/2086/how-long-does-it-take-to-build-a-mobile-app)
 
 Of course, the Kinvey and PhoneGap can cut this time dramatically. For more on what Kinvey and PhoneGap can do for you, check out our integration [here](http://www.kinvey.com/phonegap).
-

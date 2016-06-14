@@ -9,7 +9,7 @@ tags:
   - Plugin
 ---
 
-We are proud to announce that we are including the [Wikitude Cordova plugin](http://www.wikitude.com/products/extensions/cordova-plugin-augmented-reality/) into the [PhoneGap Developer App](http://phonegap.com/products/). Now users of the PhoneGap Developer App will be able to develop augmented reality projects. 
+We are proud to announce that we are including the [Wikitude Cordova plugin](http://www.wikitude.com/products/extensions/cordova-plugin-augmented-reality/) into the [PhoneGap Developer App](http://phonegap.com/products/). Now users of the PhoneGap Developer App will be able to develop augmented reality projects.
 
 ## About Wikitude
 
@@ -32,20 +32,20 @@ The Wikitude SDK is based on web technologies, and provides the same method of a
 
 ## Getting Started
 
-Haven't installed the PhoneGap Developer App yet? Well get to it! 
+Haven't installed the PhoneGap Developer App yet? Well get to it!
 
 The PhoneGap Developer App is a mobile app that runs on devices and allows you to preview and test the PhoneGap mobile apps you build across platforms without additional platform SDK setup. **Getting started instructions** [here](http://docs.phonegap.com/getting-started/2-install-mobile-app/).
 
-Now create your first project and try out Augmented Reality! The plugin specifically allows image recognition, image tracking, geo based augmented reality, and 3D rendering and animations to be inserted into scene. Additionally, users can sign up for Wikitude's services to upload their own images to augment or play around with the samples the PhoneGap team will provide. 
+Now create your first project and try out Augmented Reality! The plugin specifically allows image recognition, image tracking, geo based augmented reality, and 3D rendering and animations to be inserted into scene. Additionally, users can sign up for Wikitude's services to upload their own images to augment or play around with the samples the PhoneGap team will provide.
 
 ## See it in Action
 
-Watch this [quick demo](https://www.youtube.com/watch?v=hNOzc9rwiRg) to see the Wikitude Cordova plugin in action with our new PhoneGap Samurai bot 
+Watch this [quick demo](https://www.youtube.com/watch?v=hNOzc9rwiRg) to see the Wikitude Cordova plugin in action with our new PhoneGap Samurai bot
 
 or..
 
 Come to [PhoneGap Day EU](http://pgday.phonegap.com/eu2016/) in Amsterdam on May 19-20 to try it out on our new swag. Can't make it to Amsterdam? Be sure to download the [PhoneGap Developer App](http://docs.phonegap.com/getting-started/2-install-mobile-app/) and follow us on [Twitter](https://twitter.com/phonegap) to play along at home.
 
-*sneak peek at our new swag*
+*sneak peek* at our new swag
 
 ![Samurai-bot-shirt](/blog/uploads/2016-04/Samurai-bot.png)

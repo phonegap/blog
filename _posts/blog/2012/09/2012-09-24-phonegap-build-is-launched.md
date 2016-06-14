@@ -17,11 +17,11 @@ Since launching the PhoneGap Build service in Beta in November 2010, the PhoneGa
 * Install Apps Directly – During development, install PhoneGap Build apps directly on your devices. Simply launch your favourite QR code reader app, point your device at your app’s code and follow the link. It even works for iOS!
 * Display sub-views in your app– Official support for the popular ChildBrowser plugin for Android and iOS. The ChildBrowser plugin allows you to display external web pages within your app, in a subview. It is preferable to a regular link in that it allows the user to press a button to dismiss that view, returning control back to your app.
 
-Since announcing our initial pricing plans last Fall, we’ve simplified the plans to give you more private apps and private collaborators, for less! We’ll also continue to give everyone the ability to create unlimited open source apps. 
+Since announcing our initial pricing plans last Fall, we’ve simplified the plans to give you more private apps and private collaborators, for less! We’ll also continue to give everyone the ability to create unlimited open source apps. \
 
 ![](/uploads/2012/09/buildpricechange.png)
 
-Interested in trying out PhoneGap Build? There will continue to be a free option for developers. PhoneGap Build can be used absolutely for free for one private app and an unlimited number of open source apps. If you haven’t already, try the service for free and you’ll see how awesome it is. 
+Interested in trying out PhoneGap Build? There will continue to be a free option for developers. PhoneGap Build can be used absolutely for free for one private app and an unlimited number of open source apps. If you haven’t already, try the service for free and you’ll see how awesome it is.
 
 "We're excited to release PhoneGap Build out of Beta and to share it with the community," said Andre Charland, director of product management, Web Platform and Authoring at Adobe. "PhoneGap Build is a powerful tool stacked with features to make mobile app development easier. We couldn't have done it without our community, especially our beta users."
 

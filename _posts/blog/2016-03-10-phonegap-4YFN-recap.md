@@ -6,7 +6,7 @@ tags:
 - Community
 ---
 
-We hosted our second PhoneGap Spain meetup a few weeks ago at 4YFN (a conference within Mobile World Congress focused on startups). What a week! 4YFN, in its 3rd edition with 12,500 attendees, was an incredible event! It was great to connect with startups from around the world and show how they can accelerate their mobile strategy with PhoneGap. 
+We hosted our second PhoneGap Spain meetup a few weeks ago at 4YFN (a conference within Mobile World Congress focused on startups). What a week! 4YFN, in its 3rd edition with 12,500 attendees, was an incredible event! It was great to connect with startups from around the world and show how they can accelerate their mobile strategy with PhoneGap.
 
 ![4YFN-venue](/blog/uploads/2016-03/4yfn-1.jpg)
 

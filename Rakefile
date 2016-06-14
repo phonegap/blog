@@ -259,6 +259,7 @@ task :test do
     Rake::Task[:deleteOldFiles].invoke
   end
   HTMLProofer.check_directory("./_site-test", {
+    :check_html => true,
     :empty_alt_ignore => true,
     :http_status_ignore => [0],
     :url_ignore => [

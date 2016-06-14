@@ -34,6 +34,6 @@ Lastly, we've got some awesome new swag items for all attendees. Here's a sneak 
 
 This year promises to be better than ever with more speakers, hands-on conference workshops and, of course, networking with some of the brightest minds in mobile.
 
-[Register for PhoneGap Day EU 2015](https://phonegapdayeu.paydro.net/) | [Read more about the event](http://pgday.phonegap.com/eu2015/) 
+[Register for PhoneGap Day EU 2015](https://phonegapdayeu.paydro.net/) | [Read more about the event](http://pgday.phonegap.com/eu2015/)
 
 Hope to see you there!

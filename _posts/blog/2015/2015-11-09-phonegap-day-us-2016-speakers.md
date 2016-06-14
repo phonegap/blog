@@ -22,10 +22,10 @@ PhoneGap Day US 2016 is happening on January 29th in Utah. We're excited to anno
 Tickets are going fast so be sure to register quick! Still need some convincing? Here are our top 5 reasons to attend:
 
 1. Front row seats to key conversations around mobile and web development from experts around the community
-2. Meet and mingle with other people who use PhoneGap as part of their mobile app development as well as the PhoneGap team and other industry experts
-3. Get the inside scoop on the latest and greatest with PhoneGap tools, apps and more
-4. Take home valuable, actionable tips and tricks to help improve your next development project
-5. Exclusive, limited edition swag for all attendees (we're not saying to only come for the swag... but it's pretty awesome)
+1. Meet and mingle with other people who use PhoneGap as part of their mobile app development as well as the PhoneGap team and other industry experts
+1. Get the inside scoop on the latest and greatest with PhoneGap tools, apps and more
+1. Take home valuable, actionable tips and tricks to help improve your next development project
+1. Exclusive, limited edition swag for all attendees (we're not saying to only come for the swag... but it's pretty awesome)
 
 [REGISTER for PhoneGap Day](http://www.eventbrite.com/e/phonegap-day-us-2016-tickets-18659846102)
 
@@ -33,4 +33,4 @@ See the full list of speakers on the [PhoneGap Day website](http://pgday.phonega
 
 Make sure to spread the word with #pgday! We want everyone to enjoy the presentations, swag and fun in Utah.
 
-*Can't make it to Utah in January? We'll be hosting PhoneGap Day EU in Amsterdam again on May 19th. More details to come on that soon!*
+*Can't make it to Utah in January?* We'll be hosting PhoneGap Day EU in Amsterdam again on May 19th. More details to come on that soon!

@@ -11,7 +11,7 @@ Many developers have been using [Firebase](https://www.firebase.com/) in their P
 
 Today, we're announcing that the Adobe PhoneGap / Apache Cordova platform is fully-supported by Firebase and works out of the box to offer the full suite of functionality that Firebase provides on the web.
 
-**Aligned Philosophies**
+## Aligned Philosophies
 
 At Firebase, we're big believers in the power and flexibility in writing applications entirely using client-side code without managing your own servers. PhoneGap embodies this same philosophy in enabling developers to write mobile applications for a broad suite of devices using only client-side JavaScript.
 
@@ -23,8 +23,8 @@ With Firebase, you no longer need to store all of your data locally on the devic
 
 Ready to start building? [Head to our web quickstart guide](http://www.firebase.com/docs/web-quickstart.html).
 
-**What's New**
+## What's New
 
 Firebase Simple Login is now fully supported in PhoneGap with the release of PhoneGap 2.3.0, making use of the InAppBrowser for OAuth-based authentication. You can now use Facebook, Twitter, GitHub, and password-based authentication in your PhoneGap application purely with a script include, free from the hassle of configuring application domains or bundle IDs. To see it in action, clone our [sample repo](https://github.com/firebase/firebase-simple-login-phonegap) and head to the documentation for [Firebase Simple Login](https://www.firebase.com/docs/security/simple-login-overview.html).
 
-*Guest blog post by [Rob DiMarco](<mailto:rob@firebase.com>) from Firebase*
+> Guest blog post by [Rob DiMarco](<mailto:rob@firebase.com>) from Firebase

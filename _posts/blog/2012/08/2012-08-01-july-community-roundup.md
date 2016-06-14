@@ -11,8 +11,7 @@ A few months ago we started the [PhoneGap Community Release Notes](http://phoneg
 
 We'll be posting the round up from each month and below is the roundup for the month of July.
 
-
-### Article
+## Article
 
 - [Simple Mobile UI Patterns: Page Swipe with Zepto.js and PhoneGap](http://coenraets.org/blog/2012/07/simple-mobile-ui-patterns-page-swipe-with-zepto-js-and-phonegap/) by Christophe Coenraets
 - [PhoneGap/Cordova Template/Tutorial for Sharing Code Between Platforms](http://devgirl.org/2012/07/16/phonegapcordova-templatetutorial-for-sharing-code-between-platforms/) by Holly Schinsky
@@ -25,7 +24,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [A Look Back at PhoneGap Day US](http://phonegap.com/blog/2012/07/27/a-look-back-at-phonegap-day/) by Colene Chow
 - [Adobe PhoneGap and Project Primetime Power BBC’s Coverage of the Olympics](http://phonegap.com/blog/2012/07/28/adobe-phonegap-and-project-primetime-power-bbcs-coverage-of-the-olympics/) by Steve Gill
 
-### EVENTS
+## EVENTS
 
 - July 10, [Interactive Developers of Nashville](http://www.idofnashville.com/events/68154052/?eventId=68154052%26action=detail) (Nashville), Greg Wilson and Raymond Camden
 - July 16-20, [OSCON](http://www.oscon.com/oscon2012), "Viewports: Handling the many screens on Mobile Web", Joe Bowser

@@ -11,32 +11,33 @@ It's been a couple of months but we've just released version 1.6.0 of phonegap-p
 
 Installation of the plugin has changed a little bit. Now when you install the plugin you specify the GCM Sender ID as one of the variables. This is to resolve a warning that was confusing users being thrown by GCM but it also sets us up to evolve the API. Soon you won't need to put you sender ID in your JS code.
 
-```
+```bash
 phonegap plugin add phonegap-plugin-push --variable SENDER_ID="My Sender ID"
 ```
 
 If you are not using GCM to send messages on iOS or you are not using GCM at all you can put in any value for the variable.
 
-```
+```bash
 phonegap plugin add phonegap-plugin-push --variable SENDER_ID="My Fake Sender ID"
 ```
 
-## What's New ##
+## What's New
 
 For those interested in the full CHANGELOG:
 
 ## [1.6.0](https://github.com/phonegap/phonegap-plugin-push/tree/1.6.0) (2016-03-09)
+
 [Full Changelog](https://github.com/phonegap/phonegap-plugin-push/compare/1.5.3...1.6.0)
 
-**Implemented enhancements:**
+### Implemented enhancements:
 
 - Background processing with coldstart on iOS [\#583](https://github.com/phonegap/phonegap-plugin-push/issues/583)
 
-**Fixed bugs:**
+### Fixed bugs:
 
 - Android: notification does not dismiss after selection button \(1.6.x dev\) [\#610](https://github.com/phonegap/phonegap-plugin-push/issues/610)
 
-**Closed issues:**
+### Closed issues:
 
 - XDK doesn't work with v1.5.x. Are you going to have a non-gradle version for v1.5.x [\#675](https://github.com/phonegap/phonegap-plugin-push/issues/675)
 - emoji support [\#668](https://github.com/phonegap/phonegap-plugin-push/issues/668)
