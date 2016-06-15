@@ -1,6 +1,6 @@
 ---
 author: Sondre Bjornebekk
-title: "How PhoneGap Helps Users Create Interactive Content with TapBookAuthor.com"
+title: "How TapBookAuthor.com Helps Users Create Interactive Content with PhoneGap"
 tags:
 - Guest Post
 - Community
