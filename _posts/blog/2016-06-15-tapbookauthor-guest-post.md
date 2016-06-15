@@ -292,4 +292,4 @@ I will just give a quick overview of the building blocks we have used for this, 
 - Currently we are working on visualizations, hot candidate libraries here include [D3](https://d3js.org/), Charts.js and HighCharts - with the former having high potential, but also considerably more manual work than the two latter alternatives
 
 
-That completes our walkthrough of the 7 samples of how PhoneGap helps our users create interactive content via TapBookAuthor.com. Hope it can be helpful for some of the readers. If you have great ideas for usage of our platform or want to play with the API, let me know. Also: If you have any corrections or comments to the above, do reach
+That completes our walkthrough of the 7 samples of how PhoneGap helps our users create interactive content via TapBookAuthor.com. Hope it can be helpful for some of the readers. If you have great ideas for usage of our platform or want to play with the API, let me know. Also: If you have any corrections or comments to the above, do reach out!
