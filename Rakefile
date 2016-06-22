@@ -268,6 +268,7 @@ task :test do
       '/about/faq/',
       '/about/license/',
       '/about/logos/',
+      '/about/contact/',
       '/app/',
       '/book/',
       '/event/',
