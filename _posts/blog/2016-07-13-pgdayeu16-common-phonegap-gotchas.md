@@ -19,7 +19,7 @@ Kerri goes over:
 - Network connectivity
 - Icons and launch screens
 
-{commonphonegapgotchas.html id="<https://www.youtube.com/embed/gDPjPpVeBXk?list=PLqoBTl91Z2GFQU9pPGmy5j-lW8CuZFvzs>" %}`
+{% include video.html id="gDPjPpVeBXk?list=PLqoBTl91Z2GFQU9pPGmy5j-lW8CuZFvzs" %}
 
 || FULL PhoneGap Day EU 2016 playlist [here](https://www.youtube.com/playlist?list=PLqoBTl91Z2GFQU9pPGmy5j-lW8CuZFvzs) ||
 
