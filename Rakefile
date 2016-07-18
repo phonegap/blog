@@ -277,7 +277,8 @@ task :test do
       '/tool/',
       'http://phonegap.com/blog/feed.xml',
       '/blog/tag/phonegap-network/',
-      /\/blog\/(200\d|201[0-4])\/(\S)*/
+      /\/blog\/(200\d|201[0-4])\/(\S)*/,
+      /http(s)?:\/\/(www.)?linkedin\.com\/in\/([-a-zA-Z0-9@:%_\+.~#?&\/=]*)/
     ],
     :cache => {
       :timeframe => '1d'
