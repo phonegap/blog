@@ -11,7 +11,7 @@ PhoneGap 6.3.0 is now available on [PhoneGap Build](https://build.phonegap.com)!
 
     <preference name="phonegap-version" value="cli-6.3.0" />
 
-We've also now made this version the default, so if you're not locking the phonegap-version in your config.xml, they will be built with `cli-6.3.0` (we encourage you to lock your PhoneGap version, especially if you're extensively using device API's and plugins).
+Also noteworthy is that this version has been made the new default, so if you're not locking the phonegap-version in your app's config.xml, it will be built with `cli-6.3.0` (we encourage you to lock your PhoneGap version, especially if you're extensively using device API's and plugins).
 
 The [platform version breakdown](https://build.phonegap.com/current-support) for `cli-6.3.0` (and a link to each version's release notes) is as follows:
 
