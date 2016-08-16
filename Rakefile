@@ -261,7 +261,7 @@ task :test do
   HTMLProofer.check_directory("./_site-test", {
     :check_html => true,
     :empty_alt_ignore => true,
-    :http_status_ignore => [0, 403],
+    :http_status_ignore => [0, 403, 999],
     :url_ignore => [
       '/',
       '/about/',
