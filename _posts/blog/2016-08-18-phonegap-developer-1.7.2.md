@@ -12,9 +12,9 @@ tags:
 Hello to our users, the PhoneGap Developer App has released a new version 1.7.2. This update includes some new plugins for you to use! 
 
 Installed in this update:
-- [cordova-plugin-socialsharing](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)
-- [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner)
-- [phonegap-plugin-mobile-accessibility](https://github.com/phonegap/phonegap-mobile-accessibility)
+- [_cordova-plugin-socialsharing_](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin)
+- [_phonegap-plugin-barcodescanner_](https://github.com/phonegap/phonegap-plugin-barcodescanner)
+- [_phonegap-plugin-mobile-accessibility_](https://github.com/phonegap/phonegap-mobile-accessibility)
 
 The cordova-plugin-socialsharing will allow developers to share content (text, links, images, etc) from their app to their Twitter, Facebook, or other social services.
 ![Social Sharing](/blog/uploads/2016-08/screenshot-ios7-share.png)
