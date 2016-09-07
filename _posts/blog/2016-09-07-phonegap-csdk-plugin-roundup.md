@@ -15,8 +15,6 @@ Let's talk about each and give you a look at all the great templates to help you
 
 ## About the Adobe Creative Cloud SDK
 
-![](/blog/uploads/2016-08/CC_SDK_stacked_black.png)
-
 The Adobe Creative Cloud provides the world’s best creative tools and content. Now, with the [Creative SDK](https://creativesdk.adobe.com/), you can access a number of UI components and headless APIs to give your users these creative tools and connect them to the Creative Cloud platform right within your mobile or web app. It’s the engine behind some of the best creative apps on the market and at the heart of Adobe’s own mobile offerings.
 
 ## About the plugins
