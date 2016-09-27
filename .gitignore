@@ -4,4 +4,4 @@ _site
 tmp
 Gemfile.lock
 _site-test
-.node_modules
+node_modules
