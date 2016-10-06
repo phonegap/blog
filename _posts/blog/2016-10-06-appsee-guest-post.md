@@ -29,8 +29,8 @@ To integrate Appsee in your phonegap app - you can use our npm plugin in 2 easy 
 
 This is how your code should look like:
 
-
-```var app = {
+```
+var app = {
     // Application Constructor
     initialize: function() {
         this.bindEvents();
@@ -62,7 +62,8 @@ This is how your code should look like:
 
         Appsee.start("d3y87d2h723dh8237hd7823");
     }
-};```
+};
+```
 
 ![](/blog/uploads/userrecordings.png)
 Example of Appsee’s User Recordings
