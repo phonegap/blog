@@ -85,8 +85,6 @@ function downloadProjectArchive(projectId, activeProjectId, successCallback, err
 	}, 500);
 }
 ```
-The native implementation for iOS platform can be found [here](http://tapbookauthor.com/codesamples/FileDownloader.m) while the native implementation for Android platform can be found [here](http://tapbookauthor.com/codesamples/FileDownloader.java).
-
 
 ## Camera interactions
 
@@ -276,8 +274,6 @@ createAudioFileBeforeRecording: function () {
 	});
 }
 ```
- The native implementation for the iOS platform can be found [here](http://tapbookauthor.com/codesamples/AudioHandler.m), while the native implementation for the Android platform can be found [here](http://tapbookauthor.com/codesamples/AudioHandler.java).
-
 
 ## Reading Analytics
 

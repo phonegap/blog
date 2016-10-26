@@ -16,6 +16,6 @@ Ryan talks about all the cool stuff happening around Cordova and how it affects 
 
 Ryan also demos VS Code tools for Cordova and introduces Project Ace for leveraging native UI in Cordova apps.
 
-Learn more about TACO [here](http://taco.tools/articles/ace.html) and watch the presentation recording below.
+Learn more about TACO [here](https://taco.visualstudio.com/tools/) and watch the presentation recording below.
 
 {% include video.html id="q13wJF3fGUQ?list=PLqoBTl91Z2GHdHR-gLfEjvglADszHuc0N" %}
