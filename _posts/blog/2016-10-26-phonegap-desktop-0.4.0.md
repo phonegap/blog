@@ -1,6 +1,6 @@
 ---
-author: PhoneGap Desktop Team
-title: "PhoneGap Desktop 0.4.0 Released"
+author: Holly Schinsky
+title: "PhoneGap Desktop 0.4.0 Released!"
 tags:
 - Desktop 
 - Release
