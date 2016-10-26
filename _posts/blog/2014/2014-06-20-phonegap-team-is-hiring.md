@@ -50,7 +50,7 @@ To apply for this position email Andre Charland (dre @ adobe.com)
 PhoneGap Build is looking for a passionate and motivated DevOps Engineer to focus on security. PhoneGap Build maintains high traffic, high visibility applications with immense amounts of data, numerous third party integrations, and challenging scaling problems.
 
 See the full job posting here:
-[http://adobe.ly/1npoVpp](http://adobe.ly/1npoVpp)
+*The job post has been closed.*
 
 ---
 
@@ -59,4 +59,4 @@ See the full job posting here:
 PhoneGap Build is looking for a passionate and motivated front end engineer to join our team to take the Build service to the next level. You will have the opportunity to work on all aspects of the project - from front end mobile development with JavaScript + CSS and platform architecture to server operations and deployment, and everything in between - but the right candidate has to bring strong UX/UI and front end engineering skills to the table. Maybe most importantly, the right person is passionate about creating tools that developers love to use every day.
 
 See the full job posting here:
-[http://adobe.ly/1npp1gJ](http://adobe.ly/1npp1gJ)
+*The job post has been closed.*
