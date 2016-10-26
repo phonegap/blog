@@ -1,11 +1,11 @@
 ---
-author: Steve Gill
-categories: app
-date: '2010-12-14 07:02:43'
-link: http://blogs.nitobi.com/steve/2010/12/14/phonegap-getting-started-screencasts/
-slug: phonegap-getting-started-screencasts
-status: publish
 title: PhoneGap Getting Started Screencasts
+date: 2010-12-14 07:02:43 Z
+categories:
+- app
+author: Steve Gill
+link: http://blogs.nitobi.com/steve/2010/12/14/phonegap-getting-started-screencasts/
+status: publish
 type: post
 format: html
 tags_old:

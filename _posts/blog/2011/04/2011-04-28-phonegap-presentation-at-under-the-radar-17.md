@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-04-28 23:27:29'
-link: http://blogs.nitobi.com/andre/index.php/2011/04/28/phonegap-presentation-at-under-the-radar-17/
-slug: phonegap-presentation-at-under-the-radar-17
-status: publish
 title: 'PhoneGap Presentation at Under The Radar #17!'
+date: 2011-04-28 23:27:29 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/04/28/phonegap-presentation-at-under-the-radar-17/
+status: publish
 type: post
 format: html
 ---

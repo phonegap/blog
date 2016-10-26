@@ -1,10 +1,10 @@
 ---
-date: 2013-05-20 11:40:03
-author: Colene Chow
-title: "Join the PhoneGap Windows Phone Porting Challenge"
+title: Join the PhoneGap Windows Phone Porting Challenge
+date: 2013-05-20 11:40:03 Z
 tags:
 - Windows Phone
 - News
+author: Colene Chow
 ---
 
 As you may know, PhoneGap supports the Windows Phone platform including the new capabilities in [Windows Phone 8](http://phonegap.com/blog/2012/12/21/apache-cordova-and-windows-phone-8)

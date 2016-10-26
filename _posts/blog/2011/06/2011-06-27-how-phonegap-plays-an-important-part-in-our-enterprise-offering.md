@@ -1,10 +1,10 @@
 ---
-author: admin
-categories: app
-date: '2011-06-27 19:37:13'
-slug: how-phonegap-plays-an-important-part-in-our-enterprise-offering
-status: publish
 title: How PhoneGap plays an important part in our Enterprise offering
+date: 2011-06-27 19:37:13 Z
+categories:
+- app
+author: admin
+status: publish
 type: post
 format: html
 ---

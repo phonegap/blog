@@ -1,12 +1,12 @@
 ---
-date: 2016-02-09 10:00:04
-author: Jen Gray
-title: "Recapping PhoneGap Day US 2016"
+title: Recapping PhoneGap Day US 2016
+date: 2016-02-09 10:00:04 Z
 tags:
 - Event
 - News
 - PhoneGap Day
 - Community
+author: Jen Gray
 ---
 
 We just wrapped up PhoneGap Day US 2016 in Lehi, UT! It was an incredible few days and we can't wait to do it again.

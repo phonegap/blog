@@ -1,10 +1,11 @@
 ---
-author: Herm Wong
-title: "PhoneGap Desktop App 0.3.3"
+title: PhoneGap Desktop App 0.3.3
+date: 2016-05-18 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop 0.3.3 is a maintenance release that includes updates to the latest versions of the `connect-phonegap` & `phonegap-cli` dependencies.

@@ -1,11 +1,12 @@
 ---
-date: 2015-08-18 08:00:02
-author: Alex Kleissner
-title: "How to Add Analytics to your PhoneGap App"
+title: How to Add Analytics to your PhoneGap App
+date: 2015-08-18 08:00:02 Z
 tags:
 - Guest Post
 - Guide
+author: Alex Kleissner
 ---
+
 When you're building apps it's important to have an understanding of how your users are behaving. This will help you identify areas of friction and come up with ideas and tests for improvement. It's a good idea to answer questions like:
 
 - Which features of your app do people use most?

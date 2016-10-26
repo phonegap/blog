@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2010-04-21 05:52:13'
-link: http://blogs.nitobi.com/jesse/2010/04/20/introducing-iphone-cleavage/
-slug: introducing-iphone-cleavage
-status: publish
 title: Introducing iPhone Cleavage
+date: 2010-04-21 05:52:13 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2010/04/20/introducing-iphone-cleavage/
+status: publish
 type: post
 format: html
 ---

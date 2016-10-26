@@ -1,10 +1,11 @@
 ---
-author: Brett Rudd 
-title: "PhoneGap Build Public Plugin Repository Shutting Down"
-category: build
-date: 2016-10-13 10:00:00
+title: PhoneGap Build Public Plugin Repository Shutting Down
+date: 2016-10-13 10:00:00 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Brett Rudd
 ---
 
 We announced the deprecation of the public repository on PhoneGap Build in this this 

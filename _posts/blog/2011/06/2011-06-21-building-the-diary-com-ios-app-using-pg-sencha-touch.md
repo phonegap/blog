@@ -1,10 +1,10 @@
 ---
-author: admin
-categories: app
-date: '2011-06-21 01:27:30'
-slug: building-the-diary-com-ios-app-using-pg-sencha-touch
-status: publish
 title: Building the Diary.com iOS App using PG & Sencha Touch
+date: 2011-06-21 01:27:30 Z
+categories:
+- app
+author: admin
+status: publish
 type: post
 format: html
 ---

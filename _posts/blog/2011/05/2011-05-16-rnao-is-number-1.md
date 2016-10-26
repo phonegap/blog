@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-05-16 19:58:10'
-slug: rnao-is-number-1
-status: publish
 title: RNAO is Number 1!
+date: 2011-05-16 19:58:10 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

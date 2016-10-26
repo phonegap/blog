@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-03-02 09:10:17'
-link: http://blogs.nitobi.com/andre/index.php/2011/03/02/looking-for-a-browser-based-emulator-for-phonegap-try-ripple/
-slug: looking-for-a-browser-based-emulator-for-phonegap-try-ripple
-status: publish
 title: Looking for a browser based emulator for PhoneGap? Try Ripple.
+date: 2011-03-02 09:10:17 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/03/02/looking-for-a-browser-based-emulator-for-phonegap-try-ripple/
+status: publish
 type: post
 format: html
 ---

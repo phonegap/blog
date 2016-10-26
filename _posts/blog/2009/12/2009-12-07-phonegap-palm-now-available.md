@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2009-12-07 20:47:39'
-link: http://blogs.nitobi.com/ryan/index.php/2009/12/07/phonegap-palm-now-availableg/
-slug: phonegap-palm-now-available
-status: publish
 title: PhoneGap Palm now available
+date: 2009-12-07 20:47:39 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2009/12/07/phonegap-palm-now-availableg/
+status: publish
 type: post
 format: html
 ---

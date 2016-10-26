@@ -1,10 +1,10 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-09-02 22:46:41'
-slug: where-to-find-us-in-september
-status: publish
 title: Where to find us in September
+date: 2011-09-02 22:46:41 Z
+categories:
+- app
+author: Colene Chow
+status: publish
 type: post
 format: html
 ---

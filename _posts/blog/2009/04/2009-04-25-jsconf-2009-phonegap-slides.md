@@ -1,11 +1,11 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2009-04-25 10:22:59'
-link: http://blogs.nitobi.com/brian/2009/04/25/jsconf-2009-phonegap-slides/
-slug: jsconf-2009-phonegap-slides
-status: publish
 title: JSConf 2009 PhoneGap slides
+date: 2009-04-25 10:22:59 Z
+categories:
+- app
+author: Brian LeRoux
+link: http://blogs.nitobi.com/brian/2009/04/25/jsconf-2009-phonegap-slides/
+status: publish
 type: post
 format: html
 ---

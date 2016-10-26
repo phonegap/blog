@@ -1,11 +1,11 @@
 ---
-author: Andrew Lunny
-categories: app
-date: '2009-01-20 00:00:00'
-link: http://blogs.nitobi.com/andrew/2009/07/28/phonegap-iphone-javascript-gotcha
-slug: phonegap-iphone-javascript-gotcha
-status: publish
 title: PhoneGap-iPhone-JavaScript Gotcha
+date: 2009-01-20 00:00:00 Z
+categories:
+- app
+author: Andrew Lunny
+link: http://blogs.nitobi.com/andrew/2009/07/28/phonegap-iphone-javascript-gotcha
+status: publish
 type: post
 format: html
 ---

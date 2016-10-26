@@ -1,12 +1,12 @@
 ---
-date: 2015-01-20 16:00:02
-author: Jen Gray
-title: "PhoneGap Day US 2014: Advanced and God Mode Tracks"
-format: html
+title: 'PhoneGap Day US 2014: Advanced and God Mode Tracks'
+date: 2015-01-20 16:00:02 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Jen Gray
+format: html
 ---
 
 We had some incredible workshops at PhoneGap Day US 2014 with content to help those new to PhoneGap as well as seasoned veterans.

@@ -1,10 +1,10 @@
 ---
-author: Hiedi Utley
-categories: app
-date: '2011-05-18 20:10:33'
-slug: debugging-phonegap-javascript
-status: publish
 title: Debugging PhoneGap & JavaScript
+date: 2011-05-18 20:10:33 Z
+categories:
+- app
+author: Hiedi Utley
+status: publish
 type: post
 format: html
 tags_old:

@@ -1,16 +1,16 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-04-10 23:33:04'
-slug: new-wikipedia-ios-app-is-powered-by-phonegap
-status: publish
 title: New Wikipedia iOS app is powered by PhoneGap
-type: post
-format: html
+date: 2012-04-10 23:33:04 Z
+categories:
+- app
 tags:
 - iOS
 - App
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 **Update Apr 25:** They've now ported it over to BlackBerry Playbook too! Check it out [here](http://appworld.blackberry.com/webstore/content/105171/?lang=en).

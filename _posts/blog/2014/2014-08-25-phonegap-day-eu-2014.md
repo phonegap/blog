@@ -1,10 +1,11 @@
 ---
-date: 2014-08-25 07:40:24
-author: Brian LeRoux
-title: "PhoneGap Day EU Sept 26 in Berlin"
+title: PhoneGap Day EU Sept 26 in Berlin
+date: 2014-08-25 07:40:24 Z
 tags:
 - News
+author: Brian LeRoux
 ---
+
 Hey everyone! It’s that time again: [PhoneGap Day EU!](http://pgday.phonegap.com/eu2014/) This year we’ve moved the event to Berlin on September 26. PhoneGap has grown significantly these past years with many thousands of developers publishing apps on all the stores.
 
 We’d like to invite you to join us and share in the community experiences, learn best practices from each other, and sample fine German beer!!!

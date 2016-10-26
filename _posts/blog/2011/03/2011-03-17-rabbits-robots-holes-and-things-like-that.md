@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2011-03-17 23:25:55'
-link: http://blogs.nitobi.com/joe/2011/03/17/rabbits-robots-holes-and-things-like-that/
-slug: rabbits-robots-holes-and-things-like-that
-status: publish
 title: Rabbits, Robots, Holes and Things like that
+date: 2011-03-17 23:25:55 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2011/03/17/rabbits-robots-holes-and-things-like-that/
+status: publish
 type: post
 format: html
 ---

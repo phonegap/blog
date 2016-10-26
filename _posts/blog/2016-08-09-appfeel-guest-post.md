@@ -1,9 +1,10 @@
 ---
-author: Miquel Martín Goula
-title: "Easily Monetize PhoneGap Apps with Admob Plugins"
+title: Easily Monetize PhoneGap Apps with Admob Plugins
+date: 2016-08-09 00:00:00 Z
 tags:
 - Guest Post
 - Community
+author: Miquel Martín Goula
 ---
 
 ## Introduction

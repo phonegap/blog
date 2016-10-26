@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-03-10 23:45:07'
-link: http://blogs.nitobi.com/andre/index.php/2011/03/10/performance-tips-for-phonegap-apps/
-slug: performance-tips-for-phonegap-apps
-status: publish
 title: Performance Tips for PhoneGap Apps
+date: 2011-03-10 23:45:07 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/03/10/performance-tips-for-phonegap-apps/
+status: publish
 type: post
 format: html
 ---

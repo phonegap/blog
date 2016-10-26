@@ -1,9 +1,10 @@
 ---
 title: A Look Back at PhoneGap Day EU
-author: Colene Chow
+date: 2012-09-21 00:00:00 Z
 tags:
 - PhoneGap Day
 - Event
+author: Colene Chow
 ---
 
 We’re back from Amsterdam after celebrating our 1st annual PhoneGap Day EU! We took all the fun and learning from PhoneGap Day US in Portland and transported it to our European friends.

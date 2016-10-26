@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-04-18 23:06:14'
-link: http://blogs.nitobi.com/andre/index.php/2011/04/18/phonegap-talk-at-where-2-0-2011/
-slug: phonegap-talk-at-where-2-0-2011
-status: publish
 title: PhoneGap Talk at Where 2.0 2011
+date: 2011-04-18 23:06:14 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/04/18/phonegap-talk-at-where-2-0-2011/
+status: publish
 type: post
 format: html
 ---

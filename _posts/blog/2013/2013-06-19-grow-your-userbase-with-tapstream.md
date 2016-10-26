@@ -1,9 +1,9 @@
 ---
-date: 2013-06-19 16:40:02
-author: Robin Campbell
-title: "Grow your App's Userbase with Tapstream and PhoneGap"
+title: Grow your App's Userbase with Tapstream and PhoneGap
+date: 2013-06-19 16:40:02 Z
 tags:
 - Guest Post
+author: Robin Campbell
 ---
 
 ## Now Supporting PhoneGap: How to Use Tapstream to Grow Your App’s Userbase

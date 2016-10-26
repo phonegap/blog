@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-05-13 22:17:48'
-slug: ibm-websphere-and-phonegap
-status: publish
 title: IBM WebSphere and PhoneGap!
+date: 2011-05-13 22:17:48 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

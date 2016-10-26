@@ -1,12 +1,13 @@
 ---
-date: 2013-09-30 08:40:02
-author: Colene Chow
-title: "PhoneGap Day US 2013: SpiderOak - The road to a performant open source mobile app"
-format: html
+title: 'PhoneGap Day US 2013: SpiderOak - The road to a performant open source mobile
+  app'
+date: 2013-09-30 08:40:02 Z
 tags:
 - PhoneGap Day
 - Community
 - Event
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!

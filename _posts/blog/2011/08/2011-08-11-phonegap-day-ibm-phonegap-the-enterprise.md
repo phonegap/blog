@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-08-11 18:45:16'
-slug: phonegap-day-ibm-phonegap-the-enterprise
-status: publish
 title: 'PhoneGap Day: IBM, PhoneGap & the Enterprise'
+date: 2011-08-11 18:45:16 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

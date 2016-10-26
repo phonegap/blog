@@ -1,11 +1,11 @@
 ---
-author: Andrew Lunny
-categories: app
-date: '2010-01-20 00:00:00'
-link: http://blogs.nitobi.com/andrew/2010/11/28/introducing-sleight
-slug: introducing-sleight
-status: publish
 title: Introducing Sleight
+date: 2010-01-20 00:00:00 Z
+categories:
+- app
+author: Andrew Lunny
+link: http://blogs.nitobi.com/andrew/2010/11/28/introducing-sleight
+status: publish
 type: post
 format: html
 ---

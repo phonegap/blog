@@ -1,10 +1,11 @@
 ---
 title: 'Cordova.js: JavaScript is Magic from PhoneGap Day EU 2012'
-author: Colene Chow
-format: html
+date: 2012-10-31 00:00:00 Z
 tags:
 - Video
 - PhoneGap Day
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2012/) and made it such a huge success. Here's the next video in our series.

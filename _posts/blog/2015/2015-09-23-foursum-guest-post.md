@@ -1,10 +1,10 @@
 ---
-date: 2015-09-23 11:00:02
-author: Andrew Buzzell
-title: "A hole-in-one with PhoneGap at Foursum"
+title: A hole-in-one with PhoneGap at Foursum
+date: 2015-09-23 11:00:02 Z
 tags:
 - Guest Post
 - App
+author: Andrew Buzzell
 ---
 
 ![](/blog/uploads/2015-10/foursum_phonegap_cover.png)

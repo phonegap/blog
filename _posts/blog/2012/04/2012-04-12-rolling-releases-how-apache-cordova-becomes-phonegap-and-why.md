@@ -1,15 +1,15 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2012-04-12 17:47:19'
-slug: rolling-releases-how-apache-cordova-becomes-phonegap-and-why
-status: publish
 title: 'Rolling Releases: How Apache Cordova becomes PhoneGap and Why'
+date: 2012-04-12 17:47:19 Z
+categories:
+- app
+tags:
+- Insight
+author: Brian LeRoux
+status: publish
 type: post
 priority: 5
 format: html
-tags:
-- Insight
 featured: true
 ---
 

@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-03-06 01:02:59'
-slug: phonegap-1-5-released
-status: publish
 title: PhoneGap 1.5 Released!
-type: post
-format: html
+date: 2012-03-06 01:02:59 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.5](http://phonegap.com/download)! This release contains many bug fixes from version 1.4.1.

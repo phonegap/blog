@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-04-01 23:44:32'
-slug: phonegap-meetups-everywhere
-status: publish
 title: PhoneGap Meetups Everywhere!
+date: 2011-04-01 23:44:32 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

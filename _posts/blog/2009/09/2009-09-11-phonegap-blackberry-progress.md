@@ -1,11 +1,11 @@
 ---
-author: Fil
-categories: app
-date: '2009-09-11 18:35:30'
-link: http://blogs.nitobi.com/fil/2009/09/11/phonegap-blackberry-progress/
-slug: phonegap-blackberry-progress
-status: publish
 title: PhoneGap BlackBerry Progress
+date: 2009-09-11 18:35:30 Z
+categories:
+- app
+author: Fil
+link: http://blogs.nitobi.com/fil/2009/09/11/phonegap-blackberry-progress/
+status: publish
 type: post
 format: html
 ---

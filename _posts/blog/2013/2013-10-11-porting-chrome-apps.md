@@ -1,12 +1,12 @@
 ---
-date: 2013-10-11 08:40:02
-author: Colene Chow
-title: "PhoneGap Day US 2013: Porting Chrome Packaged Apps to Mobile using Cordova"
-format: html
+title: 'PhoneGap Day US 2013: Porting Chrome Packaged Apps to Mobile using Cordova'
+date: 2013-10-11 08:40:02 Z
 tags:
 - PhoneGap Day
 - Community
 - Event
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!

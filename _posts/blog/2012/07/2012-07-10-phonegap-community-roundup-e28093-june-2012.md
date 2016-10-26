@@ -1,15 +1,15 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-07-10 20:59:08'
-slug: phonegap-community-roundup-%e2%80%93-june-2012
-status: publish
 title: PhoneGap Community Roundup – June 2012
-type: post
-format: html
+date: 2012-07-10 20:59:08 Z
+categories:
+- app
 tags:
 - Community
 - Event
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 Two months ago we started the [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).

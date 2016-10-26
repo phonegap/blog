@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2010-11-06 01:56:26'
-link: http://blogs.nitobi.com/shazron/2010/11/06/ios-keychain-plugin-for-phonegap/
-slug: ios-keychain-plugin-for-phonegap
-status: publish
 title: iOS Keychain Plugin for PhoneGap
+date: 2010-11-06 01:56:26 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2010/11/06/ios-keychain-plugin-for-phonegap/
+status: publish
 type: post
 format: html
 ---

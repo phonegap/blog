@@ -1,10 +1,10 @@
 ---
-author: Tim Kim
-categories: app
-date: '2011-07-20 00:26:58'
-slug: making-jsonp-calls-with-zepto-on-android-device
-status: publish
 title: Making JSONP calls with Zepto on Android Device
+date: 2011-07-20 00:26:58 Z
+categories:
+- app
+author: Tim Kim
+status: publish
 type: post
 format: html
 ---

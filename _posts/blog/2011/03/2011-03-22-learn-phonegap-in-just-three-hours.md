@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2011-03-22 16:54:17'
-slug: learn-phonegap-in-just-three-hours
-status: publish
 title: Learn PhoneGap in Just Three Hours
+date: 2011-03-22 16:54:17 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 ---

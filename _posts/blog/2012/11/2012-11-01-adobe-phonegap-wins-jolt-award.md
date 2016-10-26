@@ -1,9 +1,9 @@
 ---
 title: Adobe PhoneGap named Best Mobile Development Tool by Dr. Dobb's Jolt Awards
-author: Colene Chow
-date: 2012-11-01 11:00:00
+date: 2012-11-01 11:00:00 Z
 tags:
 - News
+author: Colene Chow
 ---
 
 Adobe PhoneGap has received a Jolt Award for best mobile development tool by Dr. Dobb's!

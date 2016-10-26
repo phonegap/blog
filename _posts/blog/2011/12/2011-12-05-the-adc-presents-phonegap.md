@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-12-05 21:15:04'
-slug: the-adc-presents-phonegap
-status: publish
 title: The ADC presents PhoneGap
-type: post
-format: html
+date: 2011-12-05 21:15:04 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 The Adobe Developer Connection (ADC) is your source for technical articles and how-to videos that cover Adobe developer products and technologies. Recently, they launched a new PhoneGap series with Adobe Developer Evangelist [Kevin Hoyt](http://twitter.com/krhoyt).

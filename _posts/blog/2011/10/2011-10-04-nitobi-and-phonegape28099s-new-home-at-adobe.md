@@ -1,15 +1,15 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-10-04 20:45:36'
-link: http://blogs.nitobi.com/andre/index.php/2011/10/04/nitobi-and-phonegaps-new-home-at-adobe/
-slug: nitobi-and-phonegap%e2%80%99s-new-home-at-adobe
-status: publish
 title: Nitobi and PhoneGap’s new home at Adobe
-type: post
-format: html
+date: 2011-10-04 20:45:36 Z
+categories:
+- app
 tags:
 - News
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/10/04/nitobi-and-phonegaps-new-home-at-adobe/
+status: publish
+type: post
+format: html
 ---
 
 This is a very exciting time in the industry and for our team. However, it's also a time of great change which is often met with skepticism and possibly some fear. Let's get to the point: PhoneGap and all the code that makes it awesome is staying free and open source. Maybe more so than ever with our contribution to the Apache Software Foundation.

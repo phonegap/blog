@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-10-24 21:55:25'
-slug: wikipedia-goes-android-and-needs-developers
-status: publish
 title: Wikipedia goes Android and needs Developers
-type: post
-format: html
+date: 2011-10-24 21:55:25 Z
+categories:
+- app
 tags:
 - App
 - Android
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 _Written by: Tomasz Finc, Director of Mobile and Special Projects, Wikimedia Foundation. (See Tomasz's original post on Wikimedia [here](http://blog.wikimedia.org/c/technology/))_

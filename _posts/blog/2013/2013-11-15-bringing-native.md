@@ -1,12 +1,12 @@
 ---
-date: 2013-11-15 10:00:05
-author: Colene Chow
-title: "PhoneGap Day EU 2013: Bringing Native UI to PhoneGap Apps"
-format: html
+title: 'PhoneGap Day EU 2013: Bringing Native UI to PhoneGap Apps'
+date: 2013-11-15 10:00:05 Z
 tags:
 - PhoneGap Day
 - Community
 - Event
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.

@@ -1,11 +1,11 @@
 ---
-author: Anis Kadri
-categories: app
-date: '2010-03-27 01:04:52'
-link: http://blogs.nitobi.com/anis/?p=3
-slug: mobile-spec-test-suite-on-each-phonegap-platform-2
-status: publish
 title: mobile-spec test suite on each phonegap platform
+date: 2010-03-27 01:04:52 Z
+categories:
+- app
+author: Anis Kadri
+link: http://blogs.nitobi.com/anis/?p=3
+status: publish
 type: post
 format: html
 ---

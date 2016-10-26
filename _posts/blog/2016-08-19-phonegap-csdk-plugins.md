@@ -1,12 +1,13 @@
 ---
-author: Simon MacDonald
-title: "Adobe Creative SDK Plugins for PhoneGap"
+title: Adobe Creative SDK Plugins for PhoneGap
+date: 2016-08-19 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
 - Plugin
 - Announcement
+author: Simon MacDonald
 ---
 
 We've been working on this with the Creative SDK team for a bit and now we are happy to announce the release of the first two PhoneGap Plugins to make use of Adobe's Creative SDK.

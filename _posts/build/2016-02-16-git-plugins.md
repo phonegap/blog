@@ -1,10 +1,11 @@
 ---
-date: 2016-02-16 17:00:04
-author: Brett Rudd
-title: "Plugins From Git Repositories Are Now Available on PhoneGap Build!"
-category: build
+title: Plugins From Git Repositories Are Now Available on PhoneGap Build!
+date: 2016-02-16 17:00:04 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Brett Rudd
 ---
 
 Hey folks, we are happy to announce you can now use git-backed **public** plugins on PhoneGap Build.

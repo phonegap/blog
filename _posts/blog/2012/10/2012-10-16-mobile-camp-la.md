@@ -1,10 +1,10 @@
 ---
 title: Mobile Camp LA
-author: Michael Brooks
-date: 2012-10-16 11:42:00
+date: 2012-10-16 11:42:00 Z
 tags:
 - Event
 - Community
+author: Michael Brooks
 ---
 
 An amazing crew in Los Angeles have got together and organized [Mobile Camp LA](http://mobilecampla.com/) for October 18th, 2012. Among these extraordinary people are [PhoneGap LA Meetup](http://www.meetup.com/laphonegap/) organizers [George McKinney](https://twitter.com/georgemck/) and [Josue Bustos](https://twitter.com/hozwe).

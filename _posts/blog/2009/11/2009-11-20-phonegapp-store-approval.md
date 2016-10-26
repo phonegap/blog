@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-11-20 15:29:27'
-link: http://blogs.nitobi.com/jesse/2009/11/20/phonegapp-store-approval/
-slug: phonegapp-store-approval
-status: publish
 title: PhoneGApp Store Approval
+date: 2009-11-20 15:29:27 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/11/20/phonegapp-store-approval/
+status: publish
 type: post
 format: html
 ---

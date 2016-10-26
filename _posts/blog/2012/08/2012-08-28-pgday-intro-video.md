@@ -1,10 +1,11 @@
 ---
 title: PhoneGap Day US Videos
-author: Steve Gill
-format: html
+date: 2012-08-28 00:00:00 Z
 tags:
 - PhoneGap Day
 - Video
+author: Steve Gill
+format: html
 ---
 
 [PhoneGap Day US](http://pgday.phonegap.com/us2012/) was a huge success thanks to all of the speakers and attendees. To not lose the memory of this great event, we decided to film all of the sessions and have decided to release those videos for free to our wonderful community!

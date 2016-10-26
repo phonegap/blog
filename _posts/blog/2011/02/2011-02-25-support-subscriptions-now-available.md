@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2011-02-25 17:47:53'
-slug: support-subscriptions-now-available
-status: publish
 title: Support Subscriptions Now Available!
+date: 2011-02-25 17:47:53 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 ---

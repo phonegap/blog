@@ -1,9 +1,10 @@
 ---
-author: Appsee Team
-title: "Add analytics to your PhoneGap app with Appsee"
+title: Add analytics to your PhoneGap app with Appsee
+date: 2016-10-06 00:00:00 Z
 tags:
 - Guest Post
 - Community
+author: Appsee Team
 ---
 
 ![](/blog/uploads/appsee.png)

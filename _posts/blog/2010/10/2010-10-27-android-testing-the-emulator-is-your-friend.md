@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-10-27 00:44:02'
-link: http://blogs.nitobi.com/joe/2010/10/26/android-testing-the-emulator-is-your-friend/
-slug: android-testing-the-emulator-is-your-friend
-status: publish
 title: 'Android Testing: The Emulator is your friend'
+date: 2010-10-27 00:44:02 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/10/26/android-testing-the-emulator-is-your-friend/
+status: publish
 type: post
 format: html
 ---

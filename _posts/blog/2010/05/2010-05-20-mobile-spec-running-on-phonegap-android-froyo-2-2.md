@@ -1,11 +1,11 @@
 ---
-author: Anis Kadri
-categories: app
-date: '2010-05-20 22:08:04'
-link: http://blogs.nitobi.com/anis/?p=51
-slug: mobile-spec-running-on-phonegap-android-froyo-2-2
-status: publish
 title: mobile-spec running on PhoneGap Android Froyo 2.2
+date: 2010-05-20 22:08:04 Z
+categories:
+- app
+author: Anis Kadri
+link: http://blogs.nitobi.com/anis/?p=51
+status: publish
 type: post
 format: html
 ---

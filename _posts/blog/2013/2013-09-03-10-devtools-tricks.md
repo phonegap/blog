@@ -1,12 +1,12 @@
 ---
-date: 2013-09-03 12:20:03
-author: Colene Chow
-title: "PhoneGap Day US 2013: 10 devtools tricks in 10 minutes"
-format: html
+title: 'PhoneGap Day US 2013: 10 devtools tricks in 10 minutes'
+date: 2013-09-03 12:20:03 Z
 tags:
 - Event
 - PhoneGap Day
 - Community
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success!

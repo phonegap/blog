@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-06-07 17:41:03'
-slug: sproutcore-and-phonegap
-status: publish
 title: SproutCore and PhoneGap
+date: 2011-06-07 17:41:03 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

@@ -1,14 +1,14 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2012-03-19 21:32:42'
-slug: phonegap-cordova-and-what%e2%80%99s-in-a-name
-status: publish
 title: PhoneGap, Cordova, and what’s in a name?
-type: post
-format: html
+date: 2012-03-19 21:32:42 Z
+categories:
+- app
 tags:
 - Insight
+author: Brian LeRoux
+status: publish
+type: post
+format: html
 featured: true
 ---
 

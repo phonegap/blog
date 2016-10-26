@@ -1,9 +1,10 @@
 ---
 title: PhoneGap Build is Launched!
-author: Colene Chow
+date: 2012-09-24 00:00:00 Z
 tags:
 - PhoneGap Build
 - News
+author: Colene Chow
 ---
 
 Adobe is proud to officially launch [PhoneGap Build](http://build.phonegap.com)! The PhoneGap framework allows developers to build native mobile applications using the standard web tech: HTML, CSS and JavaScript. With the PhoneGap Build service, you can ease the development process by conveniently uploading assets or referencing a GitHub repo. Then, PhoneGap Build does the job of compiling apps — in the cloud. Quickly and easily get back app-store ready apps for multiple platforms, including: Apple iOS, Google Android, Palm, Symbian, BlackBerry and more.

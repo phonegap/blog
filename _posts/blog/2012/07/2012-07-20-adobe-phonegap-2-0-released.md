@@ -1,16 +1,16 @@
 ---
-author: Colene Chow
-date: '2012-07-20 08:00:00'
-slug: adobe-phonegap-2-0-released
-status: publish
 title: Adobe PhoneGap 2.0 Released
-type: post
-format: markdown
+date: 2012-07-20 08:00:00 Z
 tags:
 - Release
 - PhoneGap Day
 - News
+author: Colene Chow
+status: publish
+type: post
+format: markdown
 ---
+
 Today we’re celebrating the launch of PhoneGap 2.0 at PhoneGap Day in Portland!  Thank you to the whole PhoneGap/Apache Cordova community for working toward this major milestone. Your time and expertise is greatly appreciated and we’ll be toasting your efforts today!
 
 Here’s our official announcement:

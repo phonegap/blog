@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-02-08 07:00:28'
-link: http://blogs.nitobi.com/andre/index.php/2011/02/08/ns-basicapp-studio-now-supports-phonegap/
-slug: ns-basicapp-studio-now-supports-phonegap
-status: publish
 title: NS Basic/App Studio Now Supports PhoneGap
+date: 2011-02-08 07:00:28 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/02/08/ns-basicapp-studio-now-supports-phonegap/
+status: publish
 type: post
 format: html
 ---

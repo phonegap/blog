@@ -1,9 +1,9 @@
 ---
-date: 2014-04-28 11:20:04
-author: Brian LeRoux
-title: "Discover augmented reality on smart glasses with PhoneGap"
+title: Discover augmented reality on smart glasses with PhoneGap
+date: 2014-04-28 11:20:04 Z
 tags:
 - Plugin
+author: Brian LeRoux
 ---
 
 ![Google Glass Wikitude SDK](/blog/uploads/2014-04/Google_Glass_Getting_Started.jpg)

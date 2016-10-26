@@ -1,9 +1,9 @@
 ---
-date: 2015-10-27 09:00:03
-author: Martin Poschenrieder
-title: "Automated Testing of PhoneGap & Cordova Apps"
+title: Automated Testing of PhoneGap & Cordova Apps
+date: 2015-10-27 09:00:03 Z
 tags:
 - Guest Post
+author: Martin Poschenrieder
 ---
 
 As a company that automates mobile application testing, we see our fair share of different technologies. Today, we want to highlight apps developed using the Phonegap/Cordova framework. We will demonstrate a few examples of how to automate functional testing for this framework. These so-called “hybrid” apps use html, css, and/or javascript as part of a general native wrapper. Testmunk is the perfect platform for testing such apps, because our testing technology leverages [“Cross Platform Testing.”](http://blog.testmunk.com/cross-platform-mobile-testing-page-object/) Cross Platform Testing means that test cases that were scripted for one platform (for example iOS) can easily be executed on another (e.g. Android) platform as well, saving resources and time.

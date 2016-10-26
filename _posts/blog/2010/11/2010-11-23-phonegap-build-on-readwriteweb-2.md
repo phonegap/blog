@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-23 22:56:23'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/23/phonegap-build-on-readwriteweb/
-slug: phonegap-build-on-readwriteweb-2
-status: publish
 title: PhoneGap Build on ReadWriteWeb
+date: 2010-11-23 22:56:23 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/23/phonegap-build-on-readwriteweb/
+status: publish
 type: post
 format: html
 ---

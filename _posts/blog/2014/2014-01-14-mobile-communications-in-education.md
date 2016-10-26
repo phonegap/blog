@@ -1,9 +1,9 @@
 ---
-date: 2014-01-14 12:20:03
-author: Mallory O’Connor
-title: "Mobile communications in education"
+title: Mobile communications in education
+date: 2014-01-14 12:20:03 Z
 tags:
 - Guest Post
+author: Mallory O’Connor
 ---
 
 The Surrey School District is the largest school district in British Columbia, so it’s no surprise that the challenge of efficiently and effectively communicating with multiple audiences can be a challenge. While the school websites offered a good framework for district communications and school communications, they were an inadequate channel for parents, who needed to stay up-to-date in real time.

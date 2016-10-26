@@ -1,12 +1,12 @@
 ---
-date: 2015-02-17 11:00:02
-author: Jen Gray
-title: "PhoneGap Day US 2014: Firefox OS App Workshop"
-format: html
+title: 'PhoneGap Day US 2014: Firefox OS App Workshop'
+date: 2015-02-17 11:00:02 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Jen Gray
+format: html
 ---
 
 Firefox OS is an open source operating system for mobile built using HTML5, Javascript and open web standards. Firefox OS integration with Apache Cordova / Adobe PhoneGap began early this year, and development is ongoing. As Firefox OS continues to expand to new markets around the world, there's a great opportunity for multi-platform app developers like you. If you are interested in porting an application built with Cordova to Firefox OS, this workshop will get you up and running. Participants will have the opportunity to go home with a Firefox OS Flame reference device.

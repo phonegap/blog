@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2011-05-05 23:57:23'
-link: http://blogs.nitobi.com/shazron/2011/05/05/phonegap-xcode-4-template/
-slug: phonegap-xcode-4-template-beta
-status: publish
 title: PhoneGap Xcode 4 Template (beta)
+date: 2011-05-05 23:57:23 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2011/05/05/phonegap-xcode-4-template/
+status: publish
 type: post
 format: html
 ---

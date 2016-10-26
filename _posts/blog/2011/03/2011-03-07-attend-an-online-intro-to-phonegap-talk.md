@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-03-07 22:52:02'
-slug: attend-an-online-intro-to-phonegap-talk
-status: publish
 title: Attend an Online Intro to PhoneGap Talk
+date: 2011-03-07 22:52:02 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

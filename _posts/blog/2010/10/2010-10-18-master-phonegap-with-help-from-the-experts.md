@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2010-10-18 19:48:28'
-slug: master-phonegap-with-help-from-the-experts
-status: publish
 title: Master PhoneGap with Help from the Experts
+date: 2010-10-18 19:48:28 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 tags_old:

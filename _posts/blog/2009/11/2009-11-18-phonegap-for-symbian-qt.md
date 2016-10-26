@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2009-11-18 21:45:53'
-link: http://blogs.nitobi.com/ryan/index.php/2009/11/18/phonegap-for-symbian-qt/
-slug: phonegap-for-symbian-qt
-status: publish
 title: 'PhoneGap for Symbian: Qt'
+date: 2009-11-18 21:45:53 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2009/11/18/phonegap-for-symbian-qt/
+status: publish
 type: post
 format: html
 ---

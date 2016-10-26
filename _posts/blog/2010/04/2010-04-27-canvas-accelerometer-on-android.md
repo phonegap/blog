@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-04-27 20:34:17'
-link: http://blogs.nitobi.com/joe/2010/04/27/canvas-accelerometer-on-android/
-slug: canvas-accelerometer-on-android
-status: publish
 title: Canvas + Accelerometer on Android
+date: 2010-04-27 20:34:17 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/04/27/canvas-accelerometer-on-android/
+status: publish
 type: post
 format: html
 ---

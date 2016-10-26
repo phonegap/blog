@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2011-04-19 00:25:50'
-link: http://blogs.nitobi.com/joe/2011/04/18/shame-doesnt-work-in-open-source/
-slug: shame-doesn%e2%80%99t-work-in-open-source
-status: publish
 title: Shame doesn’t work in Open Source
+date: 2011-04-19 00:25:50 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2011/04/18/shame-doesnt-work-in-open-source/
+status: publish
 type: post
 format: html
 ---

@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-02-17 17:15:43'
-link: http://blogs.nitobi.com/jesse/2009/02/17/overlaytv-youtube-uploader-pt2/
-slug: overlay-tv-%e2%80%93-youtube-uploader-pt-2
-status: publish
 title: Overlay.tv – YouTube Uploader Pt.2
+date: 2009-02-17 17:15:43 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/02/17/overlaytv-youtube-uploader-pt2/
+status: publish
 type: post
 format: html
 ---

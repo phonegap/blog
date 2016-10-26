@@ -1,12 +1,12 @@
 ---
-date: 2015-12-01 07:00:03
-author: Jen Gray
-title: "What's new for PhoneGap Day US 2016"
+title: What's new for PhoneGap Day US 2016
+date: 2015-12-01 07:00:03 Z
 tags:
 - Event
 - News
 - PhoneGap Day
 - Community
+author: Jen Gray
 ---
 
 We're about 2 months away from [PhoneGap Day US 2016](http://pgday.phonegap.com/) happening on Jan 28-29 in Lehi, Utah. As you may have noticed, we're shaking things up a bit. Along with a new location, we're changing a few things around to make sure this is your most successful PhoneGap Day yet. From brand new content to a bonus ski day, you don't want to miss this! Read on for the conference agenda, workshop topics and ski day details.

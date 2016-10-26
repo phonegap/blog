@@ -1,10 +1,10 @@
 ---
-date: 2015-07-27 09:00:02
-author: "Michael Brooks"
-title: "The Metrics that Matter at PhoneGap"
+title: The Metrics that Matter at PhoneGap
+date: 2015-07-27 09:00:02 Z
 tags:
 - Desktop
 - App
+author: Michael Brooks
 ---
 
 At PhoneGap, we make decisions from user feedback. We're known for getting out, attending conferences, hosting events, and talking to developers. This is because we care deeply for our users and work hard to hear their questions, issues, and needs. Until now, we've gathered this information from direct, casual conversations - sometimes virtually, but usually in-person with a coffee or beer in our hand.

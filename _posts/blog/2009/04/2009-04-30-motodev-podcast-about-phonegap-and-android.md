@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2009-04-30 15:44:35'
-link: http://blogs.nitobi.com/andre/index.php/2009/04/30/motodev-podcast-about-phonegap-and-android/
-slug: motodev-podcast-about-phonegap-and-android
-status: publish
 title: MOTODEV Podcast about PhoneGap and Android
+date: 2009-04-30 15:44:35 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2009/04/30/motodev-podcast-about-phonegap-and-android/
+status: publish
 type: post
 format: html
 ---

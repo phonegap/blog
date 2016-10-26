@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-03-23 22:47:42'
-slug: phonegap-meetup-in-vancouver
-status: publish
 title: 'PhoneGap Meetup in Vancouver '
+date: 2011-03-23 22:47:42 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

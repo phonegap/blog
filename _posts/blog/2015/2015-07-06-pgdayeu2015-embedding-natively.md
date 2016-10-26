@@ -1,12 +1,12 @@
 ---
-date: 2015-07-06 09:00:02
-author: Jen Gray
-title: "PhoneGap Day EU 2015: Embedding Natively - The Hybrid Sweet Spot"
-format: html
+title: 'PhoneGap Day EU 2015: Embedding Natively - The Hybrid Sweet Spot'
+date: 2015-07-06 09:00:02 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Jen Gray
+format: html
 ---
 
 A big thanks to everyone who was able to make it to PhoneGap Day EU 2015 in Amsterdam. We'll be posting more videos from the conference so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).

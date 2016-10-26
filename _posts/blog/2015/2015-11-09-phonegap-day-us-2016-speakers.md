@@ -1,12 +1,12 @@
 ---
-date: 2015-11-09 15:00:03
-author: Jen Gray
-title: "Crazy good speaker lineup for PhoneGap Day US 2016"
+title: Crazy good speaker lineup for PhoneGap Day US 2016
+date: 2015-11-09 15:00:03 Z
 tags:
 - Event
 - News
 - PhoneGap Day
 - Community
+author: Jen Gray
 ---
 
 15+ workshops. 10+ mainstage talks. Hundreds of web and mobile developers. Bonus ski day for all attendees. 1 amazing conference. Are you ready?

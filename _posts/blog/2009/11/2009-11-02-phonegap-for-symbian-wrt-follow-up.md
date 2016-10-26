@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2009-11-02 00:00:37'
-link: http://blogs.nitobi.com/ryan/index.php/2009/11/01/phonegap-for-symbian-wrt-follow-up/
-slug: phonegap-for-symbian-wrt-follow-up
-status: publish
 title: PhoneGap for Symbian.WRT follow-up
+date: 2009-11-02 00:00:37 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2009/11/01/phonegap-for-symbian-wrt-follow-up/
+status: publish
 type: post
 format: html
 ---

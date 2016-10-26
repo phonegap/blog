@@ -1,12 +1,12 @@
 ---
 title: PhoneGap Build API for Node.js
-author: Michael Brooks
-date: '2013-01-15 12:02:05'
+date: 2013-01-15 12:02:05 Z
 tags:
 - PhoneGap Build
 - Framework
 - Guide
 - Tutorial
+author: Michael Brooks
 ---
 
 [Adobe PhoneGap Build](http://build.phonegap.com/) has a powerful [RESTful API](http://build.phonegap.com/docs/api) that you can use to tap into PhoneGap Build's functionality. With the API, you can authenticate as a user and create, build, update, and download PhoneGap applications.

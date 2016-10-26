@@ -1,10 +1,11 @@
 ---
+title: Bigger Apps have Arrived
+date: 2013-11-14 10:40:03 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2013-11-14 10:40:03
 author: Colene Chow
-title: "Bigger Apps have Arrived"
-category: build
 ---
 
 The PhoneGap Build team is happy to announce the **increase of file sizes to 40MB for paid users of PhoneGap Build**.

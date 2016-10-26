@@ -1,15 +1,15 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-07-16 18:23:13'
-slug: phonegap-2-0-0rc1-released
-status: publish
 title: PhoneGap 2.0.0rc1 Released!
-type: post
-format: html
+date: 2012-07-16 18:23:13 Z
+categories:
+- app
 tags:
 - Release
 - News
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We have just released the first release candidate (RC) for [PhoneGap 2.0.0](https://github.com/phonegap/phonegap/zipball/2.0.0rc1). We're really excited about this major milestone for the PhoneGap project! A changelog can be found within the download.

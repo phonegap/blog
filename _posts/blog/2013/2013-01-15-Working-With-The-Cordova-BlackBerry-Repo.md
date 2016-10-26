@@ -1,10 +1,11 @@
 ---
-author: Tim Kim
 title: Working With The Cordova BlackBerry Repo
+date: 2013-01-15 00:00:00 Z
 tags:
 - Blackberry
 - Guide
 - Tutorial
+author: Tim Kim
 ---
 
 ## Intro

@@ -1,10 +1,9 @@
 ---
+title: PhoneGap 2.9.0 Now on Build
+date: 2013-06-27 20:33:35 Z
 tags:
 - PhoneGap Build
-date: 2013-06-27 15:20:02
 author: Ryan Willoughby
-title: PhoneGap 2.9.0 Now on Build
-date: Thu Jun 27 13:33:35 -0700 2013
 ---
 
 We've just added support for [PhoneGap 2.9.0](http://phonegap.com/blog/2013/06/26/pg-290-released/) to PhoneGap Build!

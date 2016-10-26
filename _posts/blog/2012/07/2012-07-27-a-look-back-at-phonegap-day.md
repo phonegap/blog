@@ -1,8 +1,9 @@
 ---
-author: Colene Chow
 title: A Look Back at PhoneGap Day US
+date: 2012-07-27 00:00:00 Z
 tags:
 - PhoneGap Day
+author: Colene Chow
 ---
 
 We're back from Portland after celebrating our 2nd annual PhoneGap Day US!  It was great to come together to officially release Adobe PhoneGap 2.0, see the latest and greatest from [PhoneGap Build](https://build.phonegap.com/), and of course, drink beers with the community.

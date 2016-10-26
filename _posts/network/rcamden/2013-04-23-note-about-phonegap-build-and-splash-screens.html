@@ -1,15 +1,16 @@
---- 
-link: http://www.raymondcamden.com/2013/04/23/Note-about-PhoneGap-Build-and-Splash-Screens
-type: post
+---
 title: Note about PhoneGap Build and Splash Screens
 date: 2013-04-23 15:54:00 Z
-format: html
-status: publish
 tags:
 - PhoneGap Network
+link: http://www.raymondcamden.com/2013/04/23/Note-about-PhoneGap-Build-and-Splash-Screens
+type: post
+format: html
+status: publish
 external: true
 author: Raymond Camden
 ---
+
 I'm currently working on my MAX <a href="https://bit.ly/Wc52VD">Advanced PhoneGap Build</a> presentation (wait, scratch that, of course I'm done already, I mean, who waits to the last minute???) and ran into an interesting issue. Using a splash screen is rather easy via the PhoneGap Build <a href="https://build.phonegap.com/docs/config-xml">config.xml</a> file.To test this feature, I used <a href="http://www.placekitten.com">Placekitten.com</a> to quickly create an image sizes 320x480. PhoneGap Build supports multiple splash screens of multiple sizes and densities, but I wanted to see how well a default splash screen would work. I dropped the kitten in my folder and added this to config.xml:
 
 &lt;gap:splash src="splash.png" /&gt;

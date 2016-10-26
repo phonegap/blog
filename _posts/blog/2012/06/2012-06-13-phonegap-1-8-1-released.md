@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-06-13 21:35:45'
-slug: phonegap-1-8-1-released
-status: publish
 title: PhoneGap 1.8.1 Released!
-type: post
-format: html
+date: 2012-06-13 21:35:45 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We have just released PhoneGap 1.8.1\. This latest patch addresses a critical bug found on iOS which caused PhoneGap apps to crash. Please visit our [issue tracker](https://issues.apache.org/jira/browse/CB-885) to view the details of the problem.

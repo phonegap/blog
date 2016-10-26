@@ -1,14 +1,14 @@
 ---
-author: Andrew Trice
-categories: app
-date: '2012-05-02 00:59:22'
-slug: phonegap-explained-visually
-status: publish
 title: PhoneGap Explained Visually
-type: post
-format: html
+date: 2012-05-02 00:59:22 Z
+categories:
+- app
 tags:
 - Insight
+author: Andrew Trice
+status: publish
+type: post
+format: html
 ---
 
 I've been "out and about" lately, attending tech conferences, meetup groups, and meeting with developers in their offices, and I am getting great feedback on mobile development and PhoneGap. There are some common questions that I am often asked, and I hope this post helps everyone understand PhoneGap better.

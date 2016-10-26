@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-10-27 00:01:01'
-slug: day-1-nitobi-joins-adobe
-status: publish
 title: 'Day 1: Nitobi joins Adobe'
-type: post
-format: html
+date: 2011-10-27 00:01:01 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 We’re excited to announce that Adobe’s acquisition of Nitobi closed today! The Nitobi team is looking forward to joining Adobe and with their support, continue to work on simplifying cross-platform mobile development via the PhoneGap project. We can’t wait to work on it full-time!

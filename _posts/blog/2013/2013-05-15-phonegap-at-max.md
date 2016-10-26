@@ -1,11 +1,11 @@
 ---
-date: 2013-05-15 15:40:02
-author: Colene Chow
-title: "PhoneGap at Adobe MAX 2013"
-format: html
+title: PhoneGap at Adobe MAX 2013
+date: 2013-05-15 15:40:02 Z
 tags:
 - Event
 - Video
+author: Colene Chow
+format: html
 ---
 
 The PhoneGap team headed to LA from May 4-8 to attend [Adobe MAX](http://max.adobe.com). We were stoked to have so many PhoneGap and PhoneGap Build sessions there! We met tons of people who were new to PhoneGap and lots who were already familiar with us and wanted to take it to the next level.

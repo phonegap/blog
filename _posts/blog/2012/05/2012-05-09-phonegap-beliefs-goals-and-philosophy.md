@@ -1,16 +1,16 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2012-05-09 09:06:35'
-slug: phonegap-beliefs-goals-and-philosophy
-status: publish
 title: PhoneGap Beliefs, Goals, and Philosophy
+date: 2012-05-09 09:06:35 Z
+categories:
+- app
+tags:
+- Insight
+author: Brian LeRoux
+status: publish
 type: post
 priority: 5
 format: html
 featured: true
-tags:
-- Insight
 ---
 
 This article seeks to clear up misunderstandings about the goals of PhoneGap.

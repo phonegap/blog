@@ -1,10 +1,11 @@
 ---
 title: Adobe PhoneGap 3.0 Released
-author: Colene Chow
+date: 2013-07-19 00:00:00 Z
 tags:
 - Community
 - News
 - Release
+author: Colene Chow
 ---
 
 Today we’re celebrating the launch of PhoneGap 3.0 at PhoneGap Day in Portland, OR!  We couldn’t have done it without the entire PhoneGap/Apache Cordova community working together to hit this major milestone. Thank you for all for your hard work!

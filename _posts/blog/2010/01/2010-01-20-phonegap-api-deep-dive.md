@@ -1,11 +1,11 @@
 ---
-author: Andrew Lunny
-categories: app
-date: '2010-01-20 00:00:00'
-link: http://blogs.nitobi.com/andrew/2010/07/09/PhoneGap-API-Deep-Dive
-slug: phonegap-api-deep-dive
-status: publish
 title: Phonegap Api Deep Dive
+date: 2010-01-20 00:00:00 Z
+categories:
+- app
+author: Andrew Lunny
+link: http://blogs.nitobi.com/andrew/2010/07/09/PhoneGap-API-Deep-Dive
+status: publish
 type: post
 format: html
 ---

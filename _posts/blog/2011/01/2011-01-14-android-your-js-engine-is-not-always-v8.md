@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2011-01-14 18:59:54'
-link: http://blogs.nitobi.com/joe/2011/01/14/android-your-js-engine-is-not-always-v8/
-slug: android-your-js-engine-is-not-always-v8
-status: publish
 title: 'Android: Your JS Engine is not always V8'
+date: 2011-01-14 18:59:54 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2011/01/14/android-your-js-engine-is-not-always-v8/
+status: publish
 type: post
 format: html
 ---

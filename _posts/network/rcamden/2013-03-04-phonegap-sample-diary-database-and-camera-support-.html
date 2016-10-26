@@ -1,15 +1,16 @@
---- 
+---
+title: PhoneGap Sample - Diary (Database and Camera support)
+date: 2013-03-04 18:14:00 Z
+tags:
+- PhoneGap Network
 format: html
 link: http://www.raymondcamden.com/2013/03/04/phonegap-sample-diary-database-and-camera-support/
 author: Raymond Camden
-title: PhoneGap Sample - Diary (Database and Camera support)
 type: post
-date: 2013-03-04 18:14:00 Z
 external: true
 status: publish
-tags:
-- PhoneGap Network
 ---
+
 Last week a reader wrote in with an interesting problem. They had a simple application that made use of PhoneGap's <a href="http://docs.phonegap.com/en/2.5.0/cordova_storage_storage.md.html#Storage">database</a> support. They wanted to add <a href="http://docs.phonegap.com/en/2.5.0/cordova_camera_camera.md.html#Camera">camera</a> support as well. Their idea was that a picture could be associated with their content. But then they ran into this issue:<blockquote>
 iOS Quirks:<br>
 When destinationType.FILE_URI is used, photos are saved in the application's temporary directory. Developers may delete the contents of this directory using the navigator.fileMgr APIs if storage space is a concern.

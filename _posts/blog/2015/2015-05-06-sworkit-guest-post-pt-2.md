@@ -1,9 +1,9 @@
 ---
-date: 2015-05-06 09:00:02
-author: Ryan Hanna
-title: "Well-Made to Well-Known: Unlocking your App's Potential Pt. 2"
+title: 'Well-Made to Well-Known: Unlocking your App''s Potential Pt. 2'
+date: 2015-05-06 09:00:02 Z
 tags:
 - Guest Post
+author: Ryan Hanna
 ---
 
 Welcome back to Part 2 of our series. In [Part 1](http://phonegap.com/blog/2015/03/19/sworkit-guest-post-pt1/), I focused on best practices for design and development to ensure your well made hybrid apps have the best chance to reach their potential once released. In Part 2, I share marketing strategies that anyone can try that can help your app become more “well-known”.

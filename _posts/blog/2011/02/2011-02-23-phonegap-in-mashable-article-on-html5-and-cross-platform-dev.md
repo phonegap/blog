@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-02-23 22:03:00'
-link: http://blogs.nitobi.com/andre/index.php/2011/02/23/great-mashable-article-on-html5-and-cross-platform-dev/
-slug: phonegap-in-mashable-article-on-html5-and-cross-platform-dev
-status: publish
 title: PhoneGap in Mashable Article on HTML5 and Cross Platform Dev
+date: 2011-02-23 22:03:00 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/02/23/great-mashable-article-on-html5-and-cross-platform-dev/
+status: publish
 type: post
 format: html
 ---

@@ -1,11 +1,11 @@
 ---
-date: 2015-04-16 10:00:02
-author: Jen Gray
-title: "Announcements for PhoneGap Day EU 2015"
+title: Announcements for PhoneGap Day EU 2015
+date: 2015-04-16 10:00:02 Z
 tags:
 - Event
 - News
 - PhoneGap Day
+author: Jen Gray
 ---
 
 We're getting ready for PhoneGap Day EU 2015 in Amsterdam next month on May 18-19 and we have some exciting announcements.

@@ -1,9 +1,10 @@
 ---
-author: Jen Gray
 title: A look back at PhoneGap at 4YFN and MWC 2016
+date: 2016-03-10 00:00:00 Z
 tags:
 - Event
 - Community
+author: Jen Gray
 ---
 
 We hosted our second PhoneGap Spain meetup a few weeks ago at 4YFN (a conference within Mobile World Congress focused on startups). What a week! 4YFN, in its 3rd edition with 12,500 attendees, was an incredible event! It was great to connect with startups from around the world and show how they can accelerate their mobile strategy with PhoneGap.

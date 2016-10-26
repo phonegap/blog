@@ -1,9 +1,9 @@
 ---
-date: 2013-04-24 11:40:02
-author: "AT&T Developer Program"
-title: "New AT&T APIs for Adobe PhoneGap"
+title: New AT&T APIs for Adobe PhoneGap
+date: 2013-04-24 11:40:02 Z
 tags:
 - Guest Post
+author: AT&T Developer Program
 ---
 
 We’re delighted to introduce two new features for AT&T SDK for PhoneGap– [Advertising API](http://developer.att.com/developer/forward.jsp?passedItemId=13400964) and [Text to Speech transcription](http://developer.att.com/developer/forward.jsp?passedItemId=12500023#link02) (part of the Speech API update).

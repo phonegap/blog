@@ -1,10 +1,11 @@
 ---
-date: 2013-09-05 09:20:02
-author: Couchbase
-title: "PhoneGap and Couchbase Discuss the Future of Mobile at Couchbase SF on Sept 13th"
+title: PhoneGap and Couchbase Discuss the Future of Mobile at Couchbase SF on Sept
+  13th
+date: 2013-09-05 09:20:02 Z
 tags:
 - Community
 - Event
+author: Couchbase
 ---
 
 Join us at Couchbase \[SF\], where Lorin Beer from PhoneGap will be on “The Future of Mobile” panel at the show. We will be demoing PhoneGap live, showing how to develop some amazing next generation applications. As an attendee, you’ll get to download the product first, get your hands on it, and meet the team who developed it.

@@ -1,12 +1,13 @@
 ---
-author: "Tim Kim"
-title: "PhoneGap Developer App 1.7.2 Update"
+title: PhoneGap Developer App 1.7.2 Update
+date: 2016-08-18 00:00:00 Z
 tags:
 - Release
 - App
 - Windows Phone
 - Android
 - iOS
+author: Tim Kim
 ---
 
 Hello to our users, the PhoneGap Developer App has released a new version 1.7.2. This update includes some new plugins for you to use! 

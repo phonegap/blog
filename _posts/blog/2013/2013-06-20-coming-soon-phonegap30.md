@@ -1,10 +1,10 @@
 ---
-date: 2013-06-20 16:00:03
-author: Brian LeRoux
-title: "Coming soon! What to expect in PhoneGap 3.0"
+title: Coming soon! What to expect in PhoneGap 3.0
+date: 2013-06-20 16:00:03 Z
 tags:
 - Framework
 - News
+author: Brian LeRoux
 ---
 
 The team has been hardcore hacking on the future of the mobile web. Our theme this past year has been developer ergonomics, which sounds as comfy as it is. There is a Canadian metric TONNE of new things to be excited about!

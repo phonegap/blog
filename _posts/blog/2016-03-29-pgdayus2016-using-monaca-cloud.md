@@ -1,11 +1,12 @@
 ---
-author: Jen Gray
-title: "PhoneGap Day US 2016: Using Monaca Cloud to Enhance Cordova Development"
-format: html
+title: 'PhoneGap Day US 2016: Using Monaca Cloud to Enhance Cordova Development'
+date: 2016-03-29 00:00:00 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Jen Gray
+format: html
 ---
 
 A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We'll be posting more videos from the conference (and the workshops!) so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).

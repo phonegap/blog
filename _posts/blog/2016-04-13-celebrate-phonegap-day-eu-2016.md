@@ -1,11 +1,12 @@
 ---
-author: Jen Gray
-title: "Celebrate PhoneGap Day EU 2016 in Amsterdam"
+title: Celebrate PhoneGap Day EU 2016 in Amsterdam
+date: 2016-04-13 00:00:00 Z
 tags:
 - Event
 - News
 - PhoneGap Day
 - Community
+author: Jen Gray
 ---
 
 Who wants to see beautiful Amsterdam this Spring? Not to mention, hang out and learn from some pretty cool people in the PhoneGap/Cordova community? Uh. We do! Come join us in Amsterdam May 19-20 for [PhoneGap Day EU 2016](http://pgday.phonegap.com/eu2016/).

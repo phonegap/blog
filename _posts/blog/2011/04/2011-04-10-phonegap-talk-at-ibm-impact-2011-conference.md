@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-04-10 23:46:23'
-link: http://blogs.nitobi.com/andre/index.php/2011/04/10/phonegap-talk-at-ibm-impact-2011-conference/
-slug: phonegap-talk-at-ibm-impact-2011-conference
-status: publish
 title: PhoneGap Talk at IBM Impact 2011 Conference
+date: 2011-04-10 23:46:23 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/04/10/phonegap-talk-at-ibm-impact-2011-conference/
+status: publish
 type: post
 format: html
 ---

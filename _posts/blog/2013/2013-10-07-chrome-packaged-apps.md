@@ -1,12 +1,12 @@
 ---
-date: 2013-10-07 01:40:04
-author: Colene Chow
-title: "PhoneGap Day US 2013: Chrome Packaged Apps"
-format: html
+title: 'PhoneGap Day US 2013: Chrome Packaged Apps'
+date: 2013-10-07 01:40:04 Z
 tags:
 - PhoneGap Day
 - Community
 - Event
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!

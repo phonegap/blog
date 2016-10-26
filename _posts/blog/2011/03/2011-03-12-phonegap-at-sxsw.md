@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-03-12 04:48:00'
-link: http://blogs.nitobi.com/andre/index.php/2011/03/12/phonegap-at-sxsw/
-slug: phonegap-at-sxsw
-status: publish
 title: PhoneGap at SXSW
+date: 2011-03-12 04:48:00 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/03/12/phonegap-at-sxsw/
+status: publish
 type: post
 format: html
 ---

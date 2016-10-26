@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-06-12 20:27:34'
-slug: adobe-phonegap-named-best-cross-platform-development-tool-by-codeproject
-status: publish
 title: Adobe PhoneGap named Best Cross-Platform Development Tool by CodeProject
-type: post
-format: html
+date: 2012-06-12 20:27:34 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 We’re excited to announce that Adobe PhoneGap was named Best Cross-Platform Development Tool by [CodeProject’s 2012 Members Choice Awards](http://www.codeproject.com/PressReleases/5777/CODEPROJECT-ANNOUNCES-FOURTH-ANNUAL-MEMBERS-CHOICE.aspx)! CodeProject, one of the world’s largest independent online developer communities, present awards to the best development products and tools based on votes by their members. [![](/uploads/2012/06/awards-code-project-2012.png)](/uploads/2012/06/awards-code-project-2012.png) CodeProject.com members were asked to nominate and rate their favourite products and CodeProject editors compiled the highest rated listings. The results reflect products that developers value most and members chose which companies or products deserve recognition, based on in-the-field experience.

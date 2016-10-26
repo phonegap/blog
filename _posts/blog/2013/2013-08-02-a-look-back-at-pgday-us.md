@@ -1,10 +1,10 @@
 ---
-date: 2013-08-02 15:00:04
-author: Colene Chow
-title: "A Look Back at PhoneGap Day US 2013"
+title: A Look Back at PhoneGap Day US 2013
+date: 2013-08-02 15:00:04 Z
 tags:
 - Event
 - News
+author: Colene Chow
 ---
 
 Another one for the record books! The PhoneGap and PhoneGap Build teams travelled to Portland, OR to release Adobe PhoneGap 3.0 as well as celebrate with the community at our 3rd annual PhoneGap Day US! We had a great time at the Leftbank Annex hearing from an amazing [line-up of speakers](http://pgday.phonegap.com/us2013/#speakers), chatting with many of you, and enjoying the laser show (pew, pew!).

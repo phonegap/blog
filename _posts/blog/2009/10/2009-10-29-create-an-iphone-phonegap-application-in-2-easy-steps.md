@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2009-10-29 19:48:19'
-link: http://blogs.nitobi.com/shazron/2009/10/29/create-an-iphone-phonegap-application-in-2-easy-steps/
-slug: create-an-iphone-phonegap-application-in-2-easy-steps
-status: publish
 title: Create an iPhone PhoneGap application in 2 easy steps
+date: 2009-10-29 19:48:19 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2009/10/29/create-an-iphone-phonegap-application-in-2-easy-steps/
+status: publish
 type: post
 format: html
 ---

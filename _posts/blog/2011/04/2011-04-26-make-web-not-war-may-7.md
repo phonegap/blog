@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-04-26 20:43:11'
-slug: make-web-not-war-may-7
-status: publish
 title: Make Web Not War - May 7
+date: 2011-04-26 20:43:11 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

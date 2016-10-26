@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2010-09-03 05:15:45'
-slug: vote-phonegap-for-best-of-the-web
-status: publish
 title: Vote PhoneGap for "Best of the Web"
+date: 2010-09-03 05:15:45 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 tags_old:

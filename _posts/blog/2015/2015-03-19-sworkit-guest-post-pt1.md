@@ -1,9 +1,9 @@
 ---
-date: 2015-03-19 08:00:03
-author: Ryan Hanna
-title: "Well-Made to Well-Known: Unlocking your App's Potential Pt. 1"
+title: 'Well-Made to Well-Known: Unlocking your App''s Potential Pt. 1'
+date: 2015-03-19 08:00:03 Z
 tags:
 - Guest Post
+author: Ryan Hanna
 ---
 
 In this two-part series, I will share development decisions that help create a well-made app and marketing methods that will allow that app to become well-known. This series will cover ways to delight your users, entice their friends, tell your story and sustain your future.

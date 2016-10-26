@@ -1,9 +1,9 @@
 ---
+title: Introducing GenericPush Plugin
+date: 2013-01-24 22:17:30 Z
 tags:
 - PhoneGap Build
 author: Colene Chow
-title: Introducing GenericPush Plugin
-date: Thu Jan 24 14:17:30 -0800 2013
 ---
 
 We're happy to announce the support of a new plugin! The

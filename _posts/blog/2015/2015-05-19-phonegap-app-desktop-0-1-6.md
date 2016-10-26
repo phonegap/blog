@@ -1,11 +1,11 @@
 ---
-date: 2015-05-19 11:00:03
-author: Herm Wong
-title: "PhonGap Desktop App 0.1.6"
+title: PhonGap Desktop App 0.1.6
+date: 2015-05-19 11:00:03 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop App 0.1.6 Beta is now available!

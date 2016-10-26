@@ -1,12 +1,12 @@
 ---
-date: 2013-10-17 08:20:03
-author: Colene Chow
-title: "PhoneGap Day US 2013: Making Real Sh_t"
-format: html
+title: 'PhoneGap Day US 2013: Making Real Sh_t'
+date: 2013-10-17 08:20:03 Z
 tags:
 - PhoneGap Day
 - Community
 - Event
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!

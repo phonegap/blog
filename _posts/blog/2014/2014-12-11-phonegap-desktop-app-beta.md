@@ -1,10 +1,10 @@
 ---
-date: 2014-12-11 11:00:02
-author: Herm Wong
-title: "PhoneGap Desktop App 0.1.1 Beta"
+title: PhoneGap Desktop App 0.1.1 Beta
+date: 2014-12-11 11:00:02 Z
 tags:
 - App
 - News
+author: Herm Wong
 ---
 
 Today, we're announcing the release of the __PhoneGap Desktop App__ beta!

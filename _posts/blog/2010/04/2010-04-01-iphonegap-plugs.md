@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2010-04-01 16:57:29'
-link: http://blogs.nitobi.com/jesse/2010/04/01/iphonegap-plugs/
-slug: iphonegap-plugs
-status: publish
 title: iPhoneGap Plugs
+date: 2010-04-01 16:57:29 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2010/04/01/iphonegap-plugs/
+status: publish
 type: post
 format: html
 ---

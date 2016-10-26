@@ -1,10 +1,10 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-09-28 21:54:24'
-slug: phonegap-at-microsoft
-status: publish
 title: PhoneGap Meetup at Microsoft
+date: 2011-09-28 21:54:24 Z
+categories:
+- app
+author: Colene Chow
+status: publish
 type: post
 format: html
 ---

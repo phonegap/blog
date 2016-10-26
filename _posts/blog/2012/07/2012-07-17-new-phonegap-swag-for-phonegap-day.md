@@ -1,15 +1,15 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-07-17 17:34:12'
-slug: new-phonegap-swag-for-phonegap-day
-status: publish
 title: New PhoneGap Swag for PhoneGap Day
-type: post
-format: html
+date: 2012-07-17 17:34:12 Z
+categories:
+- app
 tags:
 - PhoneGap Day
 - News
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 Coming to [PhoneGap Day](http://pgday.phonegap.com/us2012/) this Friday? We've got some awesome new swag items for all attendees. Here are some pictures to show you what we are going to be giving away!

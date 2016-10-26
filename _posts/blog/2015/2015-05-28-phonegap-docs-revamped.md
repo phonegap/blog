@@ -1,10 +1,10 @@
 ---
-date: 2015-05-28 11:00:02
-author: Holly Schinsky
-title: "PhoneGap Docs Revamped"
+title: PhoneGap Docs Revamped
+date: 2015-05-28 11:00:02 Z
 tags:
 - Documentation
 - Release
+author: Holly Schinsky
 ---
 
 The PhoneGap team is excited to announce the _long awaited_ and _much needed_ updated to the [PhoneGap Docs](http://docs.phonegap.com/)!

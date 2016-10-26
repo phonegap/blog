@@ -1,11 +1,11 @@
 ---
-date: 2013-04-18 10:20:02
-author: Steve Gill
-title: "PhoneGap Facebook Plugin"
-format: html
+title: PhoneGap Facebook Plugin
+date: 2013-04-18 10:20:02 Z
 tags:
 - Plugin
 - Community
+author: Steve Gill
+format: html
 ---
 
 The PhoneGap Facebook Plugin has been named to the [Facebook Technology Partners Program](https://developers.facebook.com/docs/facebook-technology-partners/)! Check out the plugin repository on [Github](https://github.com/phonegap/phonegap-facebook-plugin).

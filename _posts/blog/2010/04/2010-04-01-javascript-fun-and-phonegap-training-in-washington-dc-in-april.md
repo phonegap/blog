@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-04-01 05:07:19'
-link: http://blogs.nitobi.com/andre/index.php/2010/04/01/javascript-fun-and-phonegap-training-in-washington-dc-in-april/
-slug: javascript-fun-and-phonegap-training-in-washington-dc-in-april
-status: publish
 title: JavaScript Fun and PhoneGap Training in Washington DC in April
+date: 2010-04-01 05:07:19 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/04/01/javascript-fun-and-phonegap-training-in-washington-dc-in-april/
+status: publish
 type: post
 format: html
 ---

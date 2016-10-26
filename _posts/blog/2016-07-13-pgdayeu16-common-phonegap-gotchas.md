@@ -1,11 +1,12 @@
 ---
-author: Jen Gray
-title: "Awesome PGDay video: Common PhoneGap Gotchas"
+title: 'Awesome PGDay video: Common PhoneGap Gotchas'
+date: 2016-07-13 00:00:00 Z
 tags:
 - Event
 - News
 - PhoneGap Day
 - Community
+author: Jen Gray
 ---
 
 We had some amazing presentations at PhoneGap Day EU this year. Conference videos are now live on our [Youtube channel](https://www.youtube.com/user/PhoneGap). 

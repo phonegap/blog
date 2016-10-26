@@ -1,11 +1,11 @@
 ---
+title: "“Just One More” – PhoneGap based iPad App featured by Apple"
+date: 2011-02-24 05:49:10 Z
+categories:
+- app
 author: Andre Charland
-categories: app
-date: '2011-02-24 05:49:10'
 link: http://blogs.nitobi.com/andre/index.php/2011/02/24/just-one-more-phonegap-based-ipad-app-featured-by-apple/
-slug: '%e2%80%9cjust-one-more%e2%80%9d-%e2%80%93-phonegap-based-ipad-app-featured-by-apple'
 status: publish
-title: “Just One More” – PhoneGap based iPad App featured by Apple
 type: post
 format: html
 ---

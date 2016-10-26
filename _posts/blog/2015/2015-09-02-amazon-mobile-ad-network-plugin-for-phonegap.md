@@ -1,10 +1,10 @@
 ---
-date: 2015-09-02 09:00:02
-author: Sachi Massengale
-title: "Amazon Mobile Ad Network Plug-in Now Available for PhoneGap"
+title: Amazon Mobile Ad Network Plug-in Now Available for PhoneGap
+date: 2015-09-02 09:00:02 Z
 tags:
 - Guest Post
 - Community
+author: Sachi Massengale
 ---
 
 ![](/blog/uploads/2015-09/Amazon1.png)

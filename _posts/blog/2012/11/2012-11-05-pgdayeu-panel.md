@@ -1,11 +1,12 @@
 ---
-title: 'Committer Panel from PhoneGap Day EU 2012'
-author: Steve Gill
-format: html
+title: Committer Panel from PhoneGap Day EU 2012
+date: 2012-11-05 00:00:00 Z
 tags:
 - Video
 - Event
 - PhoneGap Day
+author: Steve Gill
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2012/) and made it such a huge success. Here's the next video in our series.

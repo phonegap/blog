@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2011-07-13 05:01:55'
-slug: phonegap-and-worklight-enable-mobile-apps-for-the-enterprise
-status: publish
 title: PhoneGap and Worklight Enable Mobile Apps for the Enterprise
+date: 2011-07-13 05:01:55 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 tags_old:

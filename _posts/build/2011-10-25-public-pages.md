@@ -1,10 +1,11 @@
 ---
+title: Public Pages
+date: 2011-10-25 20:05:57 Z
 tags:
 - PhoneGap Build
 author: Andrew Lunny
-title: Public Pages
-date: Tue Oct 25 13:05:57 -0700 2011
 ---
+
 We're happy to announce that public pages are now available for your apps on PhoneGap Build - any app you build on our site can now be easily distributed to clients, friends, enemies, or whoever, just through the power of the internet.
 
 To make an existing app public, just make the change on your app edit page and hit save:

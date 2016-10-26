@@ -1,9 +1,9 @@
 ---
+title: Install iOS Apps Directly
+date: 2012-02-24 17:33:25 Z
 tags:
 - PhoneGap Build
 author: Andrew Lunny
-title: Install iOS Apps Directly
-date: Fri Feb 24 09:33:25 -0800 2012
 ---
 
 A small but much-demanded new feature for our iOS users to announce - you can now install Adobe® PhoneGap™ Build directly on your iOS devices, without syncing through iTunes or XCode!

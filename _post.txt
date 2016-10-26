@@ -1,6 +1,5 @@
 ---
 author: The PhoneGap Team
-title:
 tags:
 - Announcement
 ---

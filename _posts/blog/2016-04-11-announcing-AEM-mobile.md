@@ -1,9 +1,10 @@
 ---
-author: Jen Gray
-title: "Announcing Adobe Experience Manager Mobile"
+title: Announcing Adobe Experience Manager Mobile
+date: 2016-04-11 00:00:00 Z
 tags:
 - Announcement
 - PhoneGap Enterprise
+author: Jen Gray
 ---
 
 <h1>Adobe Experience Manager Mobile</h1>

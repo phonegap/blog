@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-06-23 22:22:33'
-slug: use-google-docs-as-a-webservice
-status: publish
 title: Use Google Docs as a WebService
+date: 2011-06-23 22:22:33 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

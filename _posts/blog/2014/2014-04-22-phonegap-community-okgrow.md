@@ -1,9 +1,9 @@
 ---
-date: 2014-04-22 08:20:03
-author: Colene Chow
-title: "PhoneGap Community Highlight: OK GROW!"
+title: 'PhoneGap Community Highlight: OK GROW!'
+date: 2014-04-22 08:20:03 Z
 tags:
 - Community
+author: Colene Chow
 ---
 
 We’re excited to highlight people in the PhoneGap community who are creating awesome work. Our popularity and success is due to our hardworking community and we want to showcase their great work:

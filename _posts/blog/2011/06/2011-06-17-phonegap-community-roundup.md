@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-06-17 01:40:48'
-slug: phonegap-community-roundup
-status: publish
 title: PhoneGap Community Roundup
+date: 2011-06-17 01:40:48 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

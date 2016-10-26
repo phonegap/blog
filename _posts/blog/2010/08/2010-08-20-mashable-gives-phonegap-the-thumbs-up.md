@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2010-08-20 01:19:05'
-slug: mashable-gives-phonegap-the-thumbs-up
-status: publish
 title: Mashable Gives PhoneGap the Thumbs-Up
+date: 2010-08-20 01:19:05 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 ---

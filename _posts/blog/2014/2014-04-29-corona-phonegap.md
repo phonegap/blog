@@ -1,8 +1,7 @@
 ---
-date: 2014-04-29 13:00:06
+title: Embed PhoneGap into Corona
+date: 2014-04-29 13:00:06 Z
 author: Brian LeRoux
-title: "Embed PhoneGap into Corona"
-category:
 ---
 
 Adding visual richness and interactivity to PhoneGap/Cordova-based apps is about to get a whole lot easier.

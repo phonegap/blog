@@ -1,10 +1,11 @@
 ---
-author: Brett Rudd
-title: "You Can Now Link Your BitBucket and GitLab Account to PhoneGap Build"
-category: build
-date: 2016-04-11 12:08:00
+title: You Can Now Link Your BitBucket and GitLab Account to PhoneGap Build
+date: 2016-04-11 12:08:00 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Brett Rudd
 ---
 
 Just a quick update, we have added the ability to link your PhoneGap Build account to an existing [BitBucket](https://bitbucket.org/) or [GitLab](https://gitlab.com) account. This will allow you to build your private BitBucket or GitLab hosted repository without having to resort to insecure basic authentication (yes people are doing that!).

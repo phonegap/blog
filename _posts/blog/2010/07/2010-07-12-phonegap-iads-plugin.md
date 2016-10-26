@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2010-07-12 09:25:55'
-link: http://blogs.nitobi.com/shazron/2010/07/12/phonegap-iads-plugin/
-slug: phonegap-iads-plugin
-status: publish
 title: PhoneGap iAds Plugin
+date: 2010-07-12 09:25:55 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2010/07/12/phonegap-iads-plugin/
+status: publish
 type: post
 format: html
 ---

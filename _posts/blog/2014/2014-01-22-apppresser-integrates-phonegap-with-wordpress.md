@@ -1,9 +1,9 @@
 ---
-date: 2014-01-22 00:40:04
-author: Scott Bolinger
-title: "AppPresser Integrates Phonegap with WordPress"
+title: AppPresser Integrates Phonegap with WordPress
+date: 2014-01-22 00:40:04 Z
 tags:
 - Guest Post
+author: Scott Bolinger
 ---
 
 [AppPresser](http://apppresser.com/) is an open source plugin that integrates Phonegap with WordPress.

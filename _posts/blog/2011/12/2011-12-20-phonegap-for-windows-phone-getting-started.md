@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-12-20 22:38:51'
-slug: phonegap-for-windows-phone-getting-started
-status: publish
 title: 'PhoneGap for Windows Phone: Getting Started'
-type: post
-format: html
+date: 2011-12-20 22:38:51 Z
+categories:
+- app
 tags:
 - Windows Phone
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Yesterday, we [announced](http://phonegap.com/2011/12/19/phonegap-1-3-released/) the release of PhoneGap 1.3.0\. This early holiday present included many improvements, new features and bug fixes across many platforms.

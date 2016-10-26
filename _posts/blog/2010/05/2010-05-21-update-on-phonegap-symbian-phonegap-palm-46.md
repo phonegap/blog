@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2010-05-21 19:11:47'
-link: http://blogs.nitobi.com/ryan/index.php/2010/05/21/update-on-phonegap-symbian-phonegap-palm/
-slug: update-on-phonegap-symbian-phonegap-palm-46
-status: publish
 title: Update on PhoneGap Symbian & PhoneGap Palm
+date: 2010-05-21 19:11:47 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2010/05/21/update-on-phonegap-symbian-phonegap-palm/
+status: publish
 type: post
 format: html
 ---

@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-07-19 10:00:57'
-link: http://blogs.nitobi.com/andre/index.php/2010/07/19/its-easier-than-ever-for-symbian-developers-to-build-mobile-apps-with-phonegap/
-slug: it%e2%80%99s-easier-than-ever-for-symbian-developers-to-build-mobile-apps-with-phonegap
-status: publish
 title: It’s Easier Than Ever for Symbian Developers to Build Mobile Apps with PhoneGap
+date: 2010-07-19 10:00:57 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/07/19/its-easier-than-ever-for-symbian-developers-to-build-mobile-apps-with-phonegap/
+status: publish
 type: post
 format: html
 ---

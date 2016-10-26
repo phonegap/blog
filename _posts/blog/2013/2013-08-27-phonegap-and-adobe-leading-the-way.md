@@ -1,9 +1,9 @@
 ---
-date: 2013-08-27 13:20:03
-author: Colene Chow
-title: "PhoneGap and Adobe Leading the Way"
+title: PhoneGap and Adobe Leading the Way
+date: 2013-08-27 13:20:03 Z
 tags:
 - News
+author: Colene Chow
 ---
 
 Great news! Two reports were recently published by Gartner that demonstrate what we've long been working toward -- Adobe, with PhoneGap in particular, is a leader in the mobile app development space.

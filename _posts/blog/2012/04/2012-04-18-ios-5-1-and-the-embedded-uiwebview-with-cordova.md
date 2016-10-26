@@ -1,15 +1,15 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2012-04-18 20:18:24'
-slug: ios-5-1-and-the-embedded-uiwebview-with-cordova
-status: publish
 title: iOS 5.1 and the embedded UIWebView with Cordova
-type: post
-format: html
+date: 2012-04-18 20:18:24 Z
+categories:
+- app
 tags:
 - Guide
 - iOS
+author: Shazron Abdullah
+status: publish
+type: post
+format: html
 ---
 
 [![](/uploads/2012/04/ios51_cordova.png)](/uploads/2012/04/ios51_cordova.png)There are two issues with Apple's iOS 5.1 SDK that are important to Cordova and web developers that use the embedded UIWebView:

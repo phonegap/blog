@@ -1,9 +1,9 @@
 ---
+title: ChildBrowser Plugin
+date: 2012-02-21 20:31:00 Z
 tags:
 - PhoneGap Build
 author: Andrew Lunny
-title: ChildBrowser Plugin
-date: Tue Feb 21 12:31:00 -0800 2012
 ---
 
 One of most highly demanded features on Adobe® PhoneGap™ Build has been support for PhoneGap Plugins, so we're happy to announce official support for the popular ChildBrowser plugin for Android and iOS - more details can be found in [the docs](/docs/plugins).

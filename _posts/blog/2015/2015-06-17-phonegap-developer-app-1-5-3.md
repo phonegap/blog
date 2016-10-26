@@ -1,14 +1,14 @@
 ---
-date: 2015-06-17 08:00:02
-author: Tim Kim
-title: "PhoneGap Developer App 1.5.3"
+title: PhoneGap Developer App 1.5.3
+date: 2015-06-17 08:00:02 Z
 tags:
 - App
-- Desktop 
+- Desktop
 - News
 - Windows Phone
 - iOS
 - Android
+author: Tim Kim
 ---
 
 Yesterday we release a minor update to the PhoneGap Developer app!

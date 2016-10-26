@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2010-05-26 00:10:19'
-link: http://blogs.nitobi.com/ryan/index.php/2010/05/25/html-select-tag-unsupported-in-palm-webos-application-framework/
-slug: html-select-tag-unsupported-in-palm-webos-application-framework
-status: publish
 title: HTML Select tag unsupported in Palm WebOS application framework
+date: 2010-05-26 00:10:19 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2010/05/25/html-select-tag-unsupported-in-palm-webos-application-framework/
+status: publish
 type: post
 format: html
 ---

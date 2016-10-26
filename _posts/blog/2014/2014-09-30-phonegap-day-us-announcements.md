@@ -1,10 +1,10 @@
 ---
-date: 2014-09-30 11:00:02
-author: PhoneGap Team
-title: "PhoneGap Day US Announcements"
+title: PhoneGap Day US Announcements
+date: 2014-09-30 11:00:02 Z
 tags:
 - Community
 - News
+author: PhoneGap Team
 ---
 
 [PhoneGap Day US](http://pgday.phonegap.com/us2014/) is just around the corner on October 23rd and 24th in San Francisco and we'd like to announce some details about the upcoming event!

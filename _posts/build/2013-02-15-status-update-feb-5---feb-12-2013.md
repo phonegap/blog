@@ -1,9 +1,9 @@
 ---
+title: 'Status Update: Feb 5 - Feb 12, 2013'
+date: 2013-02-15 20:52:56 Z
 tags:
 - PhoneGap Build
 author: Hardeep Shoker
-title: "Status Update: Feb 5 - Feb 12, 2013"
-date: Wed Feb 15 12:52:56 -0800 2013
 ---
 
 We made some great progress last week! Here's what we were busy with last

@@ -1,10 +1,11 @@
 ---
+title: Deprecation and Removal of iOS SDK 6.1 on PhoneGap Build
+date: 2014-03-18 14:20:03 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2014-03-18 14:20:03
 author: Ryan Willoughby
-title: "Deprecation and Removal of iOS SDK 6.1 on PhoneGap Build"
-category: build
 ---
 
 [From Apple](https://developer.apple.com/news/index.php?id=12172013a): 

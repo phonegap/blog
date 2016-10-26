@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-03-01 19:55:40'
-link: http://blogs.nitobi.com/andre/index.php/2010/03/01/learn-phonegap-from-the-experts-in-seattle-on-march-11/
-slug: learn-phonegap-from-the-experts-in-seattle-on-march-11
-status: publish
 title: Learn PhoneGap from The Experts in Seattle on March 11
+date: 2010-03-01 19:55:40 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/03/01/learn-phonegap-from-the-experts-in-seattle-on-march-11/
+status: publish
 type: post
 format: html
 ---

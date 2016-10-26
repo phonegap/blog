@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-06-24 19:41:11'
-slug: celebrate-everything-phonegap-on-phonegap-day
-status: publish
 title: Celebrate Everything PhoneGap on PhoneGap Day
+date: 2011-06-24 19:41:11 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

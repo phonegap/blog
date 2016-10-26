@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-04-18 22:24:07'
-slug: phonegap-1-6-1-released
-status: publish
 title: PhoneGap 1.6.1 Released!
-type: post
-format: html
+date: 2012-04-18 22:24:07 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We have just released [PhoneGap 1.6.1](http://phonegap.com/download)! The PhoneGap/Apache Cordova Community has worked hard to fix some bugs that arose from the 1.6.0 release that needed to be addressed immediately.

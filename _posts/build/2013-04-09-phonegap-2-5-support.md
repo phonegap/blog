@@ -1,12 +1,13 @@
 ---
-date: 2013-04-09 14:10:44
-author: Colene Chow
-title: "PhoneGap Build now supports PhoneGap 2.5"
-category: build
+title: PhoneGap Build now supports PhoneGap 2.5
+date: 2013-04-09 14:10:44 Z
+categories:
+- build
 tags:
 - News
 - Release
 - PhoneGap Build
+author: Colene Chow
 ---
 
 Great news, the PhoneGap Build team has been working hard and we now support PhoneGap 2.5.0. Happy building!

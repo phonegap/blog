@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-09 22:57:53'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/09/build-phonegap-com-private-beta-opening/
-slug: build-phonegap-com-%e2%80%93-private-beta-opening
-status: publish
 title: Build.PhoneGap.com – Private Beta Opening!
+date: 2010-11-09 22:57:53 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/09/build-phonegap-com-private-beta-opening/
+status: publish
 type: post
 format: html
 ---

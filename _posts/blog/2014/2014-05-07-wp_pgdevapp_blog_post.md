@@ -1,11 +1,11 @@
 ---
-date: 2014-05-07 11:20:03
-author: Tim Kim
-title: "PhoneGap Developer App for Windows Phone 8"
+title: PhoneGap Developer App for Windows Phone 8
+date: 2014-05-07 11:20:03 Z
 tags:
 - App
 - News
 - Windows Phone
+author: Tim Kim
 ---
 
 We're excited to announce that the [PhoneGap Developer App][1] is now

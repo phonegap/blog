@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-07-19 00:42:51'
-slug: intro-to-phonegap-training-on-july-26
-status: publish
 title: Intro to PhoneGap training on July 26!
+date: 2011-07-19 00:42:51 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

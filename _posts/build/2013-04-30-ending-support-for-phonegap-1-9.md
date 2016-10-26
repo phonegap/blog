@@ -1,10 +1,11 @@
 ---
+title: Ending Support for PhoneGap 1.9 and Below on PG Build
+date: 2013-04-30 00:27:39 Z
 tags:
 - PhoneGap Build
 author: Ryan Willoughby
-title: Ending Support for PhoneGap 1.9 and Below on PG Build
-date: Mon Apr 29 17:27:39 -0700 2013
 ---
+
 In an effort to focus the efforts of the PhoneGap Build development team, we will be ending support for all PhoneGap versions prior to 2.0 with our upcoming release of Phonegap 2.7. We're currently aiming to release 2.7 around May 15.
 
 With the evolution of PhoneGap since 1.x, the [Cordova](http://cordova.apache.org/) architecture has gone through numerous improvements and redesigns. Removing support for 1.9 and earlier will allow us to simplify our infrastructure and improve the performance of PhoneGap Build.

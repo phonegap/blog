@@ -1,10 +1,11 @@
 ---
+title: Cordova 2.9, WebOS, Symbian, Blackberry and Windows Phone 7 Deprecations
+date: 2014-10-01 17:00:02 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2014-10-01 17:00:02
 author: Brett Rudd
-title: "Cordova 2.9, WebOS, Symbian, Blackberry and Windows Phone 7 Deprecations"
-category: build
 ---
 
 On October 15th, 2014 we will be removing support for WebOS, Symbian, Blackberry

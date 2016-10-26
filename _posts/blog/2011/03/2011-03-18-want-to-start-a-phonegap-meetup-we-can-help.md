@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-03-18 22:30:54'
-slug: want-to-start-a-phonegap-meetup-we-can-help
-status: publish
 title: Want to Start a PhoneGap Meetup? We Can Help
+date: 2011-03-18 22:30:54 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

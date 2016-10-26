@@ -1,3 +1,8 @@
+---
+title: Phonegap 1 8 0 Released
+date: 2012-06-06 00:00:00 Z
+---
+
 We have just released PhoneGap 1.8.0! Thanks to everyone who downloaded 1.8.0rc1\. This release focuses on bug fixes!
 
 Curious about our release schedule? Read [Brian LeRoux's](http://twitter.com/brianleroux) blog post, [Rolling Releases: How Apache Cordova becomes PhoneGap and Why](http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/) to get more background.

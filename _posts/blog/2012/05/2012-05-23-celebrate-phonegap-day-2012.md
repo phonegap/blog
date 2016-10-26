@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-05-23 22:46:41'
-slug: celebrate-phonegap-day-2012
-status: publish
 title: Celebrate PhoneGap Day 2012
-type: post
-format: html
+date: 2012-05-23 22:46:41 Z
+categories:
+- app
 tags:
 - PhoneGap Day
 - Event
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Last year, we hosted our first ever PhoneGap Day in Portland, Oregon and we're excited to announce that we're doing it again! On Friday, July 20th, we're hosting our second PhoneGap Day at [The LeftBank Annex](http://leftbankannex.com/) in Portland, Oregon.

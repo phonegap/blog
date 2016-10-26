@@ -1,10 +1,11 @@
 ---
 title: Apache Cordova and Windows Phone 8
-author: Jesse MacFadyen
+date: 2012-12-21 00:00:00 Z
 tags:
 - Windows Phone
 - Guide
 - Tutorial
+author: Jesse MacFadyen
 ---
 
 ## January 7, 2013 Update: We are live!

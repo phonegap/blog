@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2010-01-15 19:34:34'
-link: http://blogs.nitobi.com/ryan/index.php/2010/01/15/update-on-phonegap-port-to-qt-for-symbian/
-slug: update-on-phonegap-port-to-qt-for-symbian
-status: publish
 title: Update on PhoneGap port to Qt for Symbian
+date: 2010-01-15 19:34:34 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2010/01/15/update-on-phonegap-port-to-qt-for-symbian/
+status: publish
 type: post
 format: html
 ---

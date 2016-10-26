@@ -1,10 +1,10 @@
 ---
-date: 2014-04-15 14:00:05
-author: Dan Wilson
-title: "SceneScout: Flexibility with PhoneGap"
+title: 'SceneScout: Flexibility with PhoneGap'
+date: 2014-04-15 14:00:05 Z
 tags:
 - Guest Post
 - App
+author: Dan Wilson
 ---
 
 Hybrid applications take many forms. You can create something that mimics the look and feel of native...or you can create something that stands on its own. Trying to recreate native elements can be troublesome because it’s all the more evident when it does not work exactly as expected. Crafting your own design allows you to play to the strengths of your technology (web) while still feeling at home on your chosen platforms.

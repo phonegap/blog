@@ -1,11 +1,11 @@
 ---
-author: Anis Kadri
-categories: app
-date: '2011-04-14 21:34:19'
-link: http://blogs.nitobi.com/anis/?p=79
-slug: phonegap-for-samsung-bada
-status: publish
 title: PhoneGap for Samsung Bada
+date: 2011-04-14 21:34:19 Z
+categories:
+- app
+author: Anis Kadri
+link: http://blogs.nitobi.com/anis/?p=79
+status: publish
 type: post
 format: html
 ---

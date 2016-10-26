@@ -1,15 +1,16 @@
---- 
+---
+title: Building a Parse.com Enabled PhoneGap App - Part 3
 date: 2012-09-27 18:45:00 Z
+tags:
+- PhoneGap Network
 external: true
 author: Raymond Camden
 link: http://www.raymondcamden.com/2012/09/27/Building-a-Parsecom-Enabled-PhoneGap-App-Part-3
 type: post
-title: Building a Parse.com Enabled PhoneGap App - Part 3
 status: publish
-tags:
-- PhoneGap Network
 format: html
 ---
+
 Welcome to the third part of my blog series on building a <a href="http://www.parse.com">Parse.com</a> enabled <a href="http://www.phonegap.com">PhoneGap</a> application. If you haven't yet read the earlier entries in this series, please see the links at the bottom for background and the story so far. In today's entry, I finally get to some code! Not a whole lot of code, but actual data gets created and displayed which is quite a bit farther than we've gotten so far.My goal for today's post is to build the initial layout of the application. That includes the home page, the Add Tip page, and the Get Tips page. I wanted the Add Tip page to actually support creating content while the Get Tips page would list out existing data in a simple list format. The fancy map stuff will come later.
 
 Before I got started, I had a decision to make. I wanted my application to look nice on mobile devices. I could have used <a href="http://www.jquerymobile.com">jQuery Mobile</a>. But I didn't want jQuery Mobile set up to be a concern for folks reading this series. Whenever I blog about a particular topic, I try my best to focus in as narrowly as possible on that topic and avoid things that could cause distractions. I didn't want folks going through these blog entries to have issues with jQuery Mobile. Don't get me wrong - jQuery Mobile is very easy to use and I don't think it would cause any problems, but it nagged at me enough for me to consider other options.

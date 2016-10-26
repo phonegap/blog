@@ -1,9 +1,9 @@
 ---
-date: 2013-11-28 12:00:05
-author: Mark Wheeler
-title: "Discover Emerging Music Videos with PhoneGap"
+title: Discover Emerging Music Videos with PhoneGap
+date: 2013-11-28 12:00:05 Z
 tags:
 - Guest Post
+author: Mark Wheeler
 ---
 
 ## A bit of background on Rormix

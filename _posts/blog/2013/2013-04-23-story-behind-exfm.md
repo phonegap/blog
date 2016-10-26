@@ -1,9 +1,9 @@
 ---
-date: 2013-04-23 08:40:02
-author: Dan Kantor
-title: "The Story behind Exfm"
+title: The Story behind Exfm
+date: 2013-04-23 08:40:02 Z
 tags:
 - Guest Post
+author: Dan Kantor
 ---
 
 Six months ago, [Exfm](http://ex.fm) had a native iPhone app that was rated 4 stars in the App Store. We also had a native app in Google Play, along with an HTML5 webapp for both desktop and mobile. As a small team of six, we do most of our development in-house, but had contracted out a lot of the native mobile app work. Around this time, I sat down with Lucas Hrabovsky, CTO of Exfm to plan for the future. We looked at our native mobile apps, our Python back-end and our Javascript front-end. We thought about our hiring needs in the next 12 months. We came to the conclusion that the six of us all knew Javascript really well and moving forward we were going to build everything we could in JS. That meant node.js on the back-end and PhoneGap for mobile. Here is the story of how we went from a native iPhone app to one built with PhoneGap. The end result is we now have a 4.5 star rated app, with more daily installs now than we ever did with our native app.

@@ -1,11 +1,11 @@
 ---
-author: Fil
-categories: app
-date: '2009-12-01 22:01:50'
-link: http://blogs.nitobi.com/fil/2009/12/01/blackberry-build-script/
-slug: blackberry-build-script
-status: publish
 title: BlackBerry Build Script
+date: 2009-12-01 22:01:50 Z
+categories:
+- app
+author: Fil
+link: http://blogs.nitobi.com/fil/2009/12/01/blackberry-build-script/
+status: publish
 type: post
 format: html
 tags_old:

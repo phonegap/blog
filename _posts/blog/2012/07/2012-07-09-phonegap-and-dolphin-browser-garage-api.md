@@ -1,15 +1,13 @@
 ---
-author: eyeung
-categories: app
-date: '2012-07-09 22:03:00'
-slug: phonegap-and-dolphin-browser-garage-api
-status: publish
 title: Introducing Dolphin Garage's APIs for PhoneGap
-type: post
-format: html
+date: 2012-07-09 22:03:00 Z
 categories:
 - News
 - Tweet
+author: eyeung
+status: publish
+type: post
+format: html
 tas:
 - News
 - App

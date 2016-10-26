@@ -1,9 +1,8 @@
 ---
-author: Urban Airship
-date: '2012-07-19 17:34:12'
-slug: urban-airship-unveils-updated-intergration-with-latest-version-of-phonegap
-status: publish
 title: Urban Airship Unveils Updated Integration with Latest Version of PhoneGap
+date: 2012-07-19 17:34:12 Z
+author: Urban Airship
+status: publish
 type: post
 format: markdown
 ---

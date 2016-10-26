@@ -1,11 +1,11 @@
 ---
-date: 2015-05-29 11:00:02
-author: Jen Gray
-title: "Looking back at PhoneGap Day EU 2015"
+title: Looking back at PhoneGap Day EU 2015
+date: 2015-05-29 11:00:02 Z
 tags:
 - Event
 - News
 - PhoneGap Day
+author: Jen Gray
 ---
 
 The PhoneGap team was thrilled to be back in Amsterdam to celebrate PhoneGap Day EU 2015. We partnered with Web Conferences Amsterdam (the team behind [Mobilism](http://mobilism.nl/2015)) to host hundreds of members from the PhoneGap community and some amazing speakers from around the world to talk about the latest in mobile development.

@@ -1,9 +1,9 @@
 ---
-date: 2015-08-03 08:00:02
-author: Holly Schinsky
-title: "Choosing a Mobile Strategy: Part 2"
+title: 'Choosing a Mobile Strategy: Part 2'
+date: 2015-08-03 08:00:02 Z
 tags:
 - Guide
+author: Holly Schinsky
 ---
 
 This post is part 2 of a series on choosing a mobile strategy. [Part 1](http://phonegap.com/blog/2015/03/12/mobile-choices-post1) focused on providing a general overview of the approaches available and highlighted important characteristics of each.

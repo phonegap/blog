@@ -1,9 +1,9 @@
 ---
+title: My First Mobile Game in HTML with PhoneGap Build
+date: 2013-01-18 19:39:05 Z
 tags:
 - PhoneGap Build
 author: Baptiste Brunet
-title: My First Mobile Game in HTML with PhoneGap Build
-date: Fri Jan 18 11:39:05 -0800 2013
 ---
 
 In this post, I'll explain how I created a simple puzzle-game in HTML then turned it into an Android app.

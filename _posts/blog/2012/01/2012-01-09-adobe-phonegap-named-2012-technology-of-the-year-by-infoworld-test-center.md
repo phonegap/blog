@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-01-09 18:46:00'
-slug: adobe-phonegap-named-2012-technology-of-the-year-by-infoworld-test-center
-status: publish
 title: Adobe PhoneGap named 2012 Technology of the Year by InfoWorld Test Center
-type: post
-format: html
+date: 2012-01-09 18:46:00 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Today Adobe PhoneGap was named a [2012 Technology of the Year Award recipient](http://www.infoworld.com/t/cloud-computing/the-years-best-hardware-software-and-cloud-services-183199?page=0,0) by IDG’s InfoWorld Test Center! Selected by editors and reviewers from the InfoWorld Test Center, the annual awards identify the best and most innovative products on the IT landscape that were tested in the past year and PhoneGap was selected for being the leading open source mobile framework for cross-platform app development.

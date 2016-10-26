@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-07-19 18:32:27'
-slug: phonegap-1-0-0-release-candidate-2
-status: publish
 title: PhoneGap 1.0.0 Release Candidate 2!
+date: 2011-07-19 18:32:27 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

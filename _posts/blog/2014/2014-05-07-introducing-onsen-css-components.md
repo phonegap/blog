@@ -1,13 +1,13 @@
 ---
-date: 2014-05-07 12:00:05
-author: OnsenUI
-title: "Introducing Onsen CSS Components"
+title: Introducing Onsen CSS Components
+date: 2014-05-07 12:00:05 Z
 tags:
 - Community
 - Framework
 - Release
 - News
 - Guest Post
+author: OnsenUI
 ---
 
 Onsen CSS Components is a web-based theme roller for Topcoat that lets PhoneGap developers create beautiful UIs easily. Many standard UI components are supported and are easily customizable via a web interface. It also has a growing selection of beautiful UI patterns, each containing HTML and CSS to show how to reproduce the pattern.

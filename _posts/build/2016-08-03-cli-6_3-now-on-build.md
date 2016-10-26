@@ -1,10 +1,11 @@
 ---
-author: Ryan Willoughby 
-title: "PhoneGap CLI-6.3.0 Now on Build"
-category: build
-date: 2016-08-03 10:00:00
+title: PhoneGap CLI-6.3.0 Now on Build
+date: 2016-08-03 10:00:00 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Ryan Willoughby
 ---
 
 PhoneGap 6.3.0 is now available on [PhoneGap Build](https://build.phonegap.com)! To use it, add the following to your config.xml file:

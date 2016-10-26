@@ -1,8 +1,9 @@
 ---
 title: Fill out our Mobile Dev Survey
-author: Colene Chow
+date: 2012-08-01 00:00:00 Z
 tags:
 - News
+author: Colene Chow
 ---
 
 We're studying the everyday work processes and tool choices of mobile developers and want to hear from you! We're interested in a wide range of perspectives, from experienced PhoneGap developers to people who haven't tried PhoneGap yet. All programming languages and levels of expertise are welcome.

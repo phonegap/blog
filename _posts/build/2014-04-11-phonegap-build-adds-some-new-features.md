@@ -1,10 +1,11 @@
 ---
-date: 2014-04-11 16:20:04
-author: Brett Rudd
-title: "PhoneGap Build Adds Some New Features!"
-category: build
+title: PhoneGap Build Adds Some New Features!
+date: 2014-04-11 16:20:04 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Brett Rudd
 ---
 
 Hi. I'm Brett (@brettrudd) from the build team and i'm happy to announce a few new features that have been deployed to build in the last week.

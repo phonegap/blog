@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: 2011-11-14 21:24:10
-slug: plugins-for-phonegap-windows-phone-mango
-status: publish
 title: Plugins for PhoneGap + Windows Phone Mango
-type: post
-format: html
+date: 2011-11-14 21:24:10 Z
+categories:
+- app
 tags:
 - Plugin
 - Windows Phone
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 In early September, we announced PhoneGap for Windows Phone Mango. Since then, we've still been hard at work and [Jesse MacFadyen](http://twitter.com/purplecabbage), a core developer for PhoneGap, recently blogged about adding plugin support to WP7 PhoneGap apps:

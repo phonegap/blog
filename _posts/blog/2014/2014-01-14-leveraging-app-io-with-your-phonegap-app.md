@@ -1,10 +1,10 @@
 ---
-date: 2014-01-14 11:00:04
-author: David Truong
-title: "Leveraging App.io with your PhoneGap App"
-format: html
+title: Leveraging App.io with your PhoneGap App
+date: 2014-01-14 11:00:04 Z
 tags:
 - Guest Post
+author: David Truong
+format: html
 ---
 
 Ever wanted to quickly test your PhoneGap app in an iPhone, without actually having an iPhone? App.io is a relatively new service that allows you to run your native iOS app in any browser, on any device, without the need for complicated provisioning or plugins. This means that you are now able to run and test the app you built with PhoneGap, directly in the browser!

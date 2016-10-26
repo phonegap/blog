@@ -1,9 +1,9 @@
 ---
-date: 2014-03-04 14:00:05
-author: Lorin Beer
-title: "PhoneGap 3.4.0 Released"
+title: PhoneGap 3.4.0 Released
+date: 2014-03-04 14:00:05 Z
 tags:
 - Release
+author: Lorin Beer
 ---
 
 The Adobe PhoneGap team is happy to announce the release of PhoneGap 3.4.0!

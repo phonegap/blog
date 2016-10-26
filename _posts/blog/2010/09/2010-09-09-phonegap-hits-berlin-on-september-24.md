@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2010-09-09 22:08:53'
-slug: phonegap-hits-berlin-on-september-24
-status: publish
 title: PhoneGap Hits Berlin on September 24
+date: 2010-09-09 22:08:53 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 ---

@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-03-12 23:47:10'
-link: http://blogs.nitobi.com/joe/2010/03/12/curiosity-of-the-day-droidscript/
-slug: curiosity-of-the-day-droidscript
-status: publish
 title: 'Curiosity of the Day: DroidScript'
+date: 2010-03-12 23:47:10 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/03/12/curiosity-of-the-day-droidscript/
+status: publish
 type: post
 format: html
 ---

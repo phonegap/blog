@@ -1,12 +1,12 @@
 ---
-date: 2013-10-10 09:00:05
-author: Colene Chow
-title: "PhoneGap Day US 2013: Speech Recognition"
-format: html
+title: 'PhoneGap Day US 2013: Speech Recognition'
+date: 2013-10-10 09:00:05 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!

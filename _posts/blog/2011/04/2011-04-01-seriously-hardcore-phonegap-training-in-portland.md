@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-04-01 23:03:55'
-slug: seriously-hardcore-phonegap-training-in-portland
-status: publish
 title: Seriously Hardcore PhoneGap Training in Portland
+date: 2011-04-01 23:03:55 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

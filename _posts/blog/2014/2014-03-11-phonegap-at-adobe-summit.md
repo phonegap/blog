@@ -1,10 +1,10 @@
 ---
-date: 2014-03-11 09:00:40
-author: Colene Chow
-title: "PhoneGap at Adobe Summit"
+title: PhoneGap at Adobe Summit
+date: 2014-03-11 09:00:40 Z
 tags:
 - Event
 - Community
+author: Colene Chow
 ---
 
 The PhoneGap team is excited to be headed to the [Adobe Summit](http://summit.adobe.com/na/) from March 24-28 in Salt Lake City, UT. We'll be sharing some news as well as have a hands-on lab to learn more about a new offering, PhoneGap Enterprise.

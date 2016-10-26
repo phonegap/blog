@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-05-28 18:32:14'
-link: http://blogs.nitobi.com/jesse/2009/05/28/yutuplr-getting-started/
-slug: yutuplr-%e2%80%93-getting-started
-status: publish
 title: YuTuplr – Getting Started.
+date: 2009-05-28 18:32:14 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/05/28/yutuplr-getting-started/
+status: publish
 type: post
 format: html
 ---

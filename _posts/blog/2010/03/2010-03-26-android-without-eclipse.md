@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-03-26 23:32:23'
-link: http://blogs.nitobi.com/joe/2010/03/26/android-without-eclips/
-slug: android-without-eclipse
-status: publish
 title: Android without Eclipse
+date: 2010-03-26 23:32:23 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/03/26/android-without-eclips/
+status: publish
 type: post
 format: html
 ---

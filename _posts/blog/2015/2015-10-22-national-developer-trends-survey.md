@@ -1,10 +1,11 @@
 ---
-date: 2015-10-22 07:00:03
-author: PhoneGap Team
-title: "Participate in this year's National Developer Trends Survey and win some cool prizes!"
+title: Participate in this year's National Developer Trends Survey and win some cool
+  prizes!
+date: 2015-10-22 07:00:03 Z
 tags:
 - Guest Post
 - Community
+author: PhoneGap Team
 ---
 
 ![](/blog/uploads/2015-10/developersurvey.jpg)

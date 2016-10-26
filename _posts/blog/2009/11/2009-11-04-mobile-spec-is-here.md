@@ -1,11 +1,11 @@
 ---
-author: Fil
-categories: app
-date: '2009-11-04 18:29:54'
-link: http://blogs.nitobi.com/fil/2009/11/04/mobile-spec-is-here/
-slug: mobile-spec-is-here
-status: publish
 title: Mobile Spec is here
+date: 2009-11-04 18:29:54 Z
+categories:
+- app
+author: Fil
+link: http://blogs.nitobi.com/fil/2009/11/04/mobile-spec-is-here/
+status: publish
 type: post
 format: html
 ---

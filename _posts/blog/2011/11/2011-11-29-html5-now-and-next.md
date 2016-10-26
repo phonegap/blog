@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-11-29 23:53:59'
-slug: html5-now-and-next
-status: publish
 title: HTML5 Now and Next
-type: post
-format: html
+date: 2011-11-29 23:53:59 Z
+categories:
+- app
 tags:
 - Event
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Where are we at with HTML5 and where are we going? Find out at Adobe's meetup "HTML5 Now and Next" in San Francisco on Monday, December 5th at 6pm.

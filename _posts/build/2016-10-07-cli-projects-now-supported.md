@@ -1,10 +1,11 @@
 ---
-author: Brett Rudd 
-title: "PhoneGap Build Now Accepts CLI Projects"
-category: build
-date: 2016-10-07 10:00:00
+title: PhoneGap Build Now Accepts CLI Projects
+date: 2016-10-07 10:00:00 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Brett Rudd
 ---
 
 PhoneGap Build started with "Initial Commit" in August 2010. It is now October 2016 and we just committed "fixed typo".  A lot has changed in those years, including a fixed typo. But more importantly, during this time Cordova and PhoneGap Build have diverged in how projects have been structured, and we are now closing that (ahem) gap.

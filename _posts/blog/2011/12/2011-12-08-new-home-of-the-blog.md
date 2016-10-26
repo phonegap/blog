@@ -1,15 +1,15 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2011-12-08 22:25:25'
-link: http://blogs.nitobi.com/jesse/2011/12/08/new-home-of-the-blog/
-slug: new-home-of-the-blog
-status: publish
 title: New home of the blog
-type: post
-format: html
+date: 2011-12-08 22:25:25 Z
+categories:
+- app
 tags:
 - News
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2011/12/08/new-home-of-the-blog/
+status: publish
+type: post
+format: html
 ---
 
 All posts have been migrated to my new blog site: [RisingJ.com](http://www.risingj.com)

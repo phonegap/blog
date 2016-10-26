@@ -1,10 +1,11 @@
 ---
-author: Herm Wong
-title: "PhoneGap Desktop App 0.3.1"
+title: PhoneGap Desktop App 0.3.1
+date: 2016-04-21 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop 0.3.1 addresses an issue where some users could not get past the loading screen.

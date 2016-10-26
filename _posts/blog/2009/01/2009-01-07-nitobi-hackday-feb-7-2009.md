@@ -1,11 +1,11 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2009-01-07 15:49:30'
-link: http://blogs.nitobi.com/brian/2009/01/07/nitobi-hackday-feb-7-2009/
-slug: nitobi-hackday-feb-7-2009
-status: publish
 title: Nitobi Hackday Feb 7, 2009
+date: 2009-01-07 15:49:30 Z
+categories:
+- app
+author: Brian LeRoux
+link: http://blogs.nitobi.com/brian/2009/01/07/nitobi-hackday-feb-7-2009/
+status: publish
 type: post
 format: html
 ---

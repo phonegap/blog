@@ -1,14 +1,12 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2011-05-04 23:19:49'
-slug: phonegap-alytics
-status: publish
 title: PhoneGap-alytics
-type: post
-format: html
+date: 2011-05-04 23:19:49 Z
 categories:
 - Plugins
+author: Jesse MacFadyen
+status: publish
+type: post
+format: html
 ---
 
 _Do you want to gain marketing intelligence and information on how users interact with your PhoneGap app? **You need this plugin!**_

@@ -1,11 +1,11 @@
 ---
-author: Anis Kadri
-categories: app
-date: '2010-11-22 22:55:35'
-link: http://blogs.nitobi.com/anis/?p=73
-slug: phonegap-textmate-bundle-2
-status: publish
 title: PhoneGap TextMate Bundle
+date: 2010-11-22 22:55:35 Z
+categories:
+- app
+author: Anis Kadri
+link: http://blogs.nitobi.com/anis/?p=73
+status: publish
 type: post
 format: html
 ---

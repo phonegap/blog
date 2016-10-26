@@ -1,10 +1,10 @@
 ---
-date: 2015-03-02 15:00:02
-author: Michael Brooks
-title: "PhoneGap Desktop App 0.1.2"
+title: PhoneGap Desktop App 0.1.2
+date: 2015-03-02 15:00:02 Z
 tags:
 - Release
 - News
+author: Michael Brooks
 ---
 
 Last week, we quietly updated the PhoneGap Desktop app to Beta 0.1.2!

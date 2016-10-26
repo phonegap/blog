@@ -1,10 +1,10 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2011-06-08 23:43:25'
-slug: phonegap-bugs-in-the-wild
-status: publish
 title: PhoneGap Android bugs in the wild
+date: 2011-06-08 23:43:25 Z
+categories:
+- app
+author: Joe Bowser
+status: publish
 type: post
 format: html
 ---

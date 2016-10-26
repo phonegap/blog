@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2010-02-01 17:47:31'
-link: http://blogs.nitobi.com/jesse/2010/02/01/phonegap-contributor-agreement/
-slug: phonegap-contributor-agreement
-status: publish
 title: Phonegap contributor agreement
+date: 2010-02-01 17:47:31 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2010/02/01/phonegap-contributor-agreement/
+status: publish
 type: post
 format: html
 ---

@@ -1,10 +1,11 @@
 ---
-title: 'Opening Remarks from PhoneGap Day EU 2012'
-author: Steve Gill
-format: html
+title: Opening Remarks from PhoneGap Day EU 2012
+date: 2012-10-03 00:00:00 Z
 tags:
 - PhoneGap Day
 - Video
+author: Steve Gill
+format: html
 ---
 
 <p>Thank you to everyone who attended <a href="http://pgday.phonegap.com/eu2012/">PhoneGap Day EU</a> and made it such a huge success. We have decided to highlight each video for those of you who weren't able to attend.</p>

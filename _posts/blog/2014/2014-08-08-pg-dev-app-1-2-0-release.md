@@ -1,13 +1,13 @@
 ---
-date: 2014-08-08 10:20:03
-author: Tim Kim
-title: "PhoneGap Developer App 1.2.0 Release"
+title: PhoneGap Developer App 1.2.0 Release
+date: 2014-08-08 10:20:03 Z
 tags:
 - App
 - News
 - Windows Phone
 - iOS
 - Android
+author: Tim Kim
 ---
 
 The PhoneGap Developer App has just released 1.2.0. In this update, you'll find an important

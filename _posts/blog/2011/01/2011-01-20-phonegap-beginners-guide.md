@@ -1,11 +1,11 @@
 ---
-author: Andrew Lunny
-categories: app
-date: '2011-01-20 00:00:00'
-link: http://blogs.nitobi.com/andrew/2011/10/26/PhoneGap-Beginners-Guide
-slug: phonegap-beginners-guide
-status: publish
 title: 'Phonegap: Beginner''s Guide'
+date: 2011-01-20 00:00:00 Z
+categories:
+- app
+author: Andrew Lunny
+link: http://blogs.nitobi.com/andrew/2011/10/26/PhoneGap-Beginners-Guide
+status: publish
 type: post
 format: html
 ---

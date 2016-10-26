@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2011-03-22 21:34:53'
-slug: eclipse-foundation-opens-orionhub-beta
-status: publish
 title: 'Eclipse Foundation Opens OrionHub Beta '
+date: 2011-03-22 21:34:53 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 ---

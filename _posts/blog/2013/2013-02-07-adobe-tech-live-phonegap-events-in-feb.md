@@ -1,10 +1,10 @@
 ---
-date: 2013-02-07 21:20:02
-author: Colene Chow
-title: "Adobe TechLive + PhoneGap Events in February"
+title: Adobe TechLive + PhoneGap Events in February
+date: 2013-02-07 21:20:02 Z
 tags:
 - Community
 - Event
+author: Colene Chow
 ---
 
 [Adobe TechLive](http://techlive.adobe.com) is a new Adobe offering that delivers live interactive technical events. All events take place in Adobe Connect sessions so you can engage and get your questions answered from a variety of people: Adobe Developer Evangelists, Product Managers, and more. This is awesome for those who can't attend a meetup or live too far away!

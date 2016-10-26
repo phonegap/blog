@@ -1,10 +1,11 @@
 ---
-author: Herm Wong
-title: "PhoneGap Desktop App 0.3.2"
+title: PhoneGap Desktop App 0.3.2
+date: 2016-05-11 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop 0.3.2 is addresses an issue with plugins not loading in the browser platform and several bug fixes. See the CHANGELOG below for more details.

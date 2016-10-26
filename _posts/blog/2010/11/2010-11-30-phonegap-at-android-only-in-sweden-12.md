@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-30 00:57:15'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/29/phonegap-at-android-only-in-sweden/
-slug: phonegap-at-android-only-in-sweden-12
-status: publish
 title: PhoneGap at Android Only in Sweden
+date: 2010-11-30 00:57:15 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/29/phonegap-at-android-only-in-sweden/
+status: publish
 type: post
 format: html
 ---

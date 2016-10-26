@@ -1,11 +1,11 @@
 ---
-date: 2013-11-12 11:20:03
-author: Colene Chow
-title: "LXJS Workshop - Beyond the demos: Building Real-Life PhoneGap Apps"
-format: html
+title: 'LXJS Workshop - Beyond the demos: Building Real-Life PhoneGap Apps'
+date: 2013-11-12 11:20:03 Z
 tags:
 - Video
 - Tutorial
+author: Colene Chow
+format: html
 ---
 
 At the end of September, the PhoneGap team travelled to Lisbon to attend and participate in [LXJS 2013](http://2013.lxjs.org). [Brian LeRoux](http://twitter.com/brianleroux) and [Christophe Coenraets](http://twitter.com/ccoenraets) co-hosted the workshop "Beyond the demos: Building Real-Life PhoneGap Apps". Thanks to the awesome LXJS organizers, we've got a recording from that workshop to share with you! Enjoy.

@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2011-03-08 00:09:29'
-link: http://blogs.nitobi.com/jesse/2011/03/07/supporting-custom-urls-in-phonegap-iphone-apps-pt-1-of-2/
-slug: supporting-custom-urls-in-phonegap-iphone-apps-pt-1-of-2
-status: publish
 title: Supporting Custom URLs in PhoneGap-iPhone apps pt 1 of 2
+date: 2011-03-08 00:09:29 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2011/03/07/supporting-custom-urls-in-phonegap-iphone-apps-pt-1-of-2/
+status: publish
 type: post
 format: html
 ---

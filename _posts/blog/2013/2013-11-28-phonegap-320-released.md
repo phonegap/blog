@@ -1,9 +1,9 @@
 ---
-date: 2013-11-28 11:00:05
-author: Michael Brooks
-title: "PhoneGap 3.2.0 Released"
+title: PhoneGap 3.2.0 Released
+date: 2013-11-28 11:00:05 Z
 tags:
 - Release
+author: Michael Brooks
 ---
 
 For your enjoyment, PhoneGap 3.2.0 has been packaged and shipped out the door!

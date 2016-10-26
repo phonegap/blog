@@ -1,10 +1,11 @@
 ---
-author: Herm Wong
-title: "PhoneGap Desktop App 0.3.5"
+title: PhoneGap Desktop App 0.3.5
+date: 2016-07-28 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop 0.3.5 contains a hotfix for an issue where the previewed project was not refreshing / updating properly in the PhoneGap Developer App.

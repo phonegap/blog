@@ -1,10 +1,11 @@
 ---
+title: Cordova 3.5.0 Now on PhoneGap Build
+date: 2014-07-17 15:40:03 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2014-07-17 15:40:03
 author: Ryan Willoughby
-title: "Cordova 3.5.0 Now on PhoneGap Build"
-category: build
 ---
 
 [PhoneGap Build](http://build.phonegap.com) has added support for Cordova 3.5.0. For more info about this release, check out these handy links:

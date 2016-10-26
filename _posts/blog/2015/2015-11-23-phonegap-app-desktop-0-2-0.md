@@ -1,11 +1,11 @@
 ---
-date: 2015-11-23 17:00:02
-author: Herm Wong
-title: "PhoneGap Desktop App 0.2.0"
+title: PhoneGap Desktop App 0.2.0
+date: 2015-11-23 17:00:02 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 We're releasing PhoneGap Desktop App 0.2.0. For everyone who is running an older version you'll see a banner like this:

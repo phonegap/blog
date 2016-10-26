@@ -1,11 +1,11 @@
 ---
-date: 2015-05-03 11:00:02
-author: Jen Gray
-title: "Killer agenda announced for PhoneGap Day EU 2015"
+title: Killer agenda announced for PhoneGap Day EU 2015
+date: 2015-05-03 11:00:02 Z
 tags:
 - Event
 - News
 - PhoneGap Day
+author: Jen Gray
 ---
 
 PhoneGap Day EU is just around the corner on May 18-19 in Amsterdam! We’re getting ready to host hundreds of PhoneGap users as well as 15+ speakers from around the globe ready to share how they’re innovating with PhoneGap and improving their mobile development.

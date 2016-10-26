@@ -1,11 +1,11 @@
 ---
-date: 2015-09-16 17:00:02
-author: Herm Wong
-title: "PhoneGap Desktop App 0.1.10"
+title: PhoneGap Desktop App 0.1.10
+date: 2015-09-16 17:00:02 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 The PhoneGap Desktop App 0.1.10 is now available. This is a maintenance release that upgrades to Node v4.0 and adds support for the latest PhoneGap Developer App 1.5.5.

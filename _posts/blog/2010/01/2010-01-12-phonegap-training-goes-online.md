@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-01-12 00:04:56'
-link: http://blogs.nitobi.com/andre/index.php/2010/01/11/phonegap-training-goes-online/
-slug: phonegap-training-goes-online
-status: publish
 title: PhoneGap Training Goes Online
+date: 2010-01-12 00:04:56 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/01/11/phonegap-training-goes-online/
+status: publish
 type: post
 format: html
 ---

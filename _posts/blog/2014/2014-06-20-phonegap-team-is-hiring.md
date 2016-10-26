@@ -1,9 +1,9 @@
 ---
-date: 2014-06-20 14:40:03
-author: Andre Charland
-title: "PhoneGap Team is Hiring"
+title: PhoneGap Team is Hiring
+date: 2014-06-20 14:40:03 Z
 tags:
 - News
+author: Andre Charland
 ---
 
 Adobe's PhoneGap team is looking for 3 people to join our team! Have a read below for 3 roles we're looking to fill:

@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2009-11-23 17:42:15'
-link: http://blogs.nitobi.com/shazron/2009/11/23/contributing-to-iphone-phonegap-part-1/
-slug: contributing-to-iphone-phonegap-%e2%80%93-part-1
-status: publish
 title: Contributing to iPhone PhoneGap – Part 1
+date: 2009-11-23 17:42:15 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2009/11/23/contributing-to-iphone-phonegap-part-1/
+status: publish
 type: post
 format: html
 ---

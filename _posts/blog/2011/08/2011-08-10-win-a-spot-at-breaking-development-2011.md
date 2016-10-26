@@ -1,14 +1,12 @@
 ---
-author: Capulet
-categories: app
-date: '2011-08-10 22:55:36'
-slug: win-a-spot-at-breaking-development-2011
-status: publish
 title: Win a Spot at Breaking Development 2011
-type: post
-format: html
+date: 2011-08-10 22:55:36 Z
 categories:
 - News
+author: Capulet
+status: publish
+type: post
+format: html
 ---
 
 [![](/uploads/2011/08/bd_logo.jpg)](http://www.bdconf.com)As a sponsor of the excellent [Breaking Development 2011 conference](http://www.bdconf.com/) we'll be giving away a pass to one lucky PhoneGap app developer. The pass, worth $1545, gets you in to the conference and the full day of workshops!

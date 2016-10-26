@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2009-12-09 00:15:00'
-link: http://blogs.nitobi.com/joe/2009/12/08/edge-update-android-1-x-database-storage/
-slug: edge-update-android-1-x-database-storage
-status: publish
 title: 'EDGE UPDATE: Android 1.x Database Storage'
+date: 2009-12-09 00:15:00 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2009/12/08/edge-update-android-1-x-database-storage/
+status: publish
 type: post
 format: html
 ---

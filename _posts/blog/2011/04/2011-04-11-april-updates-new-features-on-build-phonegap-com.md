@@ -1,14 +1,12 @@
 ---
-author: Fil
-categories: app
-date: '2011-04-11 18:26:20'
-slug: april-updates-new-features-on-build-phonegap-com
-status: publish
 title: 'April Updates: New Features on build.phonegap.com'
-type: post
-format: html
+date: 2011-04-11 18:26:20 Z
 categories:
 - PhoneGap Build
+author: Fil
+status: publish
+type: post
+format: html
 ---
 
 [![](/uploads/2011/04/PhoneGap-Build-Winning.jpg)](/uploads/2011/04/PhoneGap-Build-Winning.jpg)

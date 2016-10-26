@@ -1,10 +1,9 @@
 ---
-date: 2015-03-12 08:00:02
-author: Holly Schinsky
-title: "Choosing a Mobile Strategy"
+title: Choosing a Mobile Strategy
+date: 2015-03-12 08:00:02 Z
 tags:
 - Community
-
+author: Holly Schinsky
 ---
 
 ## Mobile App Development Choices

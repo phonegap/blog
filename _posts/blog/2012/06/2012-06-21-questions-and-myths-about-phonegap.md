@@ -1,15 +1,15 @@
 ---
-author: Andrew Trice
-categories: app
-date: '2012-06-21 19:22:28'
-slug: questions-and-myths-about-phonegap
-status: publish
 title: Questions and Myths About PhoneGap
-type: post
-format: html
+date: 2012-06-21 19:22:28 Z
+categories:
+- app
 tags:
 - App
 - Guest Post
+author: Andrew Trice
+status: publish
+type: post
+format: html
 ---
 
 When technology teams are making decisions of whether or not to adopt a mobile strategy revolving around PhoneGap, lots of questions arise. This is natural - investing in any technology is a big decision, and the proper course is to evaluate its strengths and weaknesses. Phonegap is a relatively new concept to many IT organizations, so there are many unanswered questions and misunderstandings about PhoneGap and [Apache Cordova](http://incubator.apache.org/cordova/).  In this post, I'll try to answer a few of these questions, clear up a few misunderstandings, and dispel some of the myths. Before I get started, I want to highlight two previous entries on the PhoneGap blog:

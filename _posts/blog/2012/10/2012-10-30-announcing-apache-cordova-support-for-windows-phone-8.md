@@ -1,8 +1,9 @@
 ---
 title: Announcing Apache Cordova support for Windows Phone 8
-author: Jesse MacFadyen
+date: 2012-10-30 00:00:00 Z
 tags:
 - Windows Phone
+author: Jesse MacFadyen
 ---
 
 It’s been a busy morning here at the [//build conference](http://www.buildwindows.com) in Redmond, just piecing it all together now...

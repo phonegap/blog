@@ -1,9 +1,9 @@
 ---
-title: "Device Wall – The Hack Begins!"
-author: Yohei Shimomae
-date: 2012-10-22 15:00:00
+title: Device Wall – The Hack Begins!
+date: 2012-10-22 15:00:00 Z
 tags:
 - News
+author: Yohei Shimomae
 ---
 
 We've started brain storming for some projects that utilize our [device wall](/2012/03/29/phonegaps-new-device-wall/) here in the Adobe Vancouver office. We have lots of cool ideas, but before we can get on those, we have to start with some basic stuff.

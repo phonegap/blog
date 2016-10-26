@@ -1,9 +1,10 @@
 ---
 title: Introducing PhoneGap Emulation
-author: Michael Brooks
+date: 2012-08-10 00:00:00 Z
 tags:
 - Tutorial
 - Guide
+author: Michael Brooks
 ---
 
 At [PhoneGap Day US 2012][1], [Dan Silivestru][2] [spoke about the Ripple Emulator][5]

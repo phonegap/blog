@@ -1,13 +1,14 @@
 ---
-author: Capulet
-categories: app
-date: '2010-08-12 19:35:07'
-slug: phonegap-webinars-for-all-levels
-status: publish
 title: PhoneGap Webinars for All Levels
+date: 2010-08-12 19:35:07 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 ---
+
 If you're using PhoneGap, then don't miss this month's training webinars to get a solid foundation for your development projects. We're running Intro and Advanced webinars where you'll learn tips and tricks that will save you development time.
 
 **Intro to PhoneGap** covers how you can use your HTML/JavaScript skills to build cross-platform applications for mobile platforms including iPhone, Google Android, Blackberry, Symbian, Palm and more.

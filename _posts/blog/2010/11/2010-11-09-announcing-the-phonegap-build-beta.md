@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2010-11-09 16:40:40'
-slug: announcing-the-phonegap-build-beta
-status: publish
 title: Announcing the PhoneGap Build Beta
+date: 2010-11-09 16:40:40 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 tags_old:

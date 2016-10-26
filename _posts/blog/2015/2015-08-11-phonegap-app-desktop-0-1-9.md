@@ -1,11 +1,11 @@
 ---
-date: 2015-08-11 12:00:03
-author: Herm Wong
-title: "PhoneGap Desktop App 0.1.9"
+title: PhoneGap Desktop App 0.1.9
+date: 2015-08-11 12:00:03 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop App 0.1.9 is all about analytics. We've fixed up some of the data tracking and added Google Analytics support.

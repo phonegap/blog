@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-09-09 17:09:29'
-link: http://blogs.nitobi.com/andre/index.php/2010/09/09/blackberry-devcon-bound/
-slug: blackberry-devcon-bound
-status: publish
 title: BlackBerry DEVCON Bound
+date: 2010-09-09 17:09:29 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/09/09/blackberry-devcon-bound/
+status: publish
 type: post
 format: html
 ---

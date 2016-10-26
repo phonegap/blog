@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-09-24 22:45:05'
-link: http://blogs.nitobi.com/jesse/2009/09/24/image-caching-with-the-html5-canvas/
-slug: image-caching-with-the-html5-canvas
-status: publish
 title: Image Caching with the HTML5 Canvas
+date: 2009-09-24 22:45:05 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/09/24/image-caching-with-the-html5-canvas/
+status: publish
 type: post
 format: html
 ---

@@ -1,10 +1,11 @@
 ---
+title: Upcoming Security Changes
+date: 2012-11-07 18:49:46 Z
 tags:
 - PhoneGap Build
 author: Andrew Lunny
-title: Upcoming Security Changes
-date: Wed Nov 07 11:49:46 -0700 2012
 ---
+
 Hi everyone,
 
 We're making some small changes to how we handle signing keys on PhoneGap Build,

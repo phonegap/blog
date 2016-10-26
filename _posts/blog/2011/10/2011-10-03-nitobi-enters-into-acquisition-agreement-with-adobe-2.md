@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-10-03 16:54:12'
-slug: nitobi-enters-into-acquisition-agreement-with-adobe-2
-status: publish
 title: Nitobi enters into Acquisition Agreement with Adobe
-type: post
-format: html
+date: 2011-10-03 16:54:12 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 We have exciting news to share—we're being acquired by Adobe! Adobe has entered into a definitive agreement to acquire Nitobi (including PhoneGap and PhoneGap Build). This was officially announced today at Adobe's MAX 2011 technology Conference in Los Angeles.

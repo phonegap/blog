@@ -1,11 +1,12 @@
 ---
-date: 2014-04-01 23:40:04
-author: Matthew Netkow
-title: "Creating a Top 5 Fitness App with PhoneGap Build"
-category: build
+title: Creating a Top 5 Fitness App with PhoneGap Build
+date: 2014-04-01 23:40:04 Z
+categories:
+- build
 tags:
 - Guest Post
 - PhoneGap Build
+author: Matthew Netkow
 ---
 
 Fitbit creates wireless activity trackers that empower people to live healthier lives. My new mobile app, Fitwatchr, allows Fitbit users to combine their daily calorie tracking features with scientific formulas, motivating them to lose weight, earn extra calories, and achieve their weight loss goals. It is available on [iOS](https://itunes.apple.com/us/app/fitwatchr-advanced-fitbit/id684005201?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.netkow.fitwatchr).

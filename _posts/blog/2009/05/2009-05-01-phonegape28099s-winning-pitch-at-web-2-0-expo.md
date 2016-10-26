@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2009-05-01 00:14:16'
-link: http://blogs.nitobi.com/andre/index.php/2009/04/30/phonegaps-winning-pitch-at-web-20-expo/
-slug: phonegap%e2%80%99s-winning-pitch-at-web-2-0-expo
-status: publish
 title: PhoneGap’s Winning Pitch at Web 2.0 Expo
+date: 2009-05-01 00:14:16 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2009/04/30/phonegaps-winning-pitch-at-web-20-expo/
+status: publish
 type: post
 format: html
 ---

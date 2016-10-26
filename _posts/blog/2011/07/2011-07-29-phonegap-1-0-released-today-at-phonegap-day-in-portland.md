@@ -1,14 +1,12 @@
 ---
-author: Capulet
-categories: app
-date: '2011-07-29 08:00:03'
-slug: phonegap-1-0-released-today-at-phonegap-day-in-portland
-status: publish
 title: PhoneGap 1.0 Released Today at PhoneGap Day in Portland
-type: post
-format: html
+date: 2011-07-29 08:00:03 Z
 categories:
 - News
+author: Capulet
+status: publish
+type: post
+format: html
 tags_old:
 - andre charland
 - brian leroux

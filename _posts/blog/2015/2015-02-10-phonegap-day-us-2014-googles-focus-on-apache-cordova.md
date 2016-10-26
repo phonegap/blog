@@ -1,12 +1,13 @@
 ---
-date: 2015-02-10 14:00:02
-author: Jen Gray
-title: "PhoneGap Day US 2014: Google's Focus on Apache Cordova and Building a Chrome App for Android"
-format: html
+title: 'PhoneGap Day US 2014: Google''s Focus on Apache Cordova and Building a Chrome
+  App for Android'
+date: 2015-02-10 14:00:02 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Jen Gray
+format: html
 ---
 
 [Michael Mocny](https://twitter.com/mmocny), Software Engineer at Google joined us at PhoneGap Day US 2014. Check out his sessions:

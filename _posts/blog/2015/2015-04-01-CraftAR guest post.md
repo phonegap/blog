@@ -1,9 +1,9 @@
 ---
-date: 2015-04-01 09:00:03
-author: Richard Ferraro
-title: "Embrace the Augmented Reality Race with PhoneGap"
+title: Embrace the Augmented Reality Race with PhoneGap
+date: 2015-04-01 09:00:03 Z
 tags:
 - Guest Post
+author: Richard Ferraro
 ---
 
 Augmented Reality and Image Recognition tools offer a unique experience to users that can significantly impact customer engagement and make an app stand out from the others. Over the past year, we've seen a tremendous growth in interest from brands and publishers to integrate those capabilities into their apps.

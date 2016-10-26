@@ -1,9 +1,9 @@
 ---
+title: PhoneGap 2.7.0 now on Build
+date: 2013-05-21 11:40:02 Z
 tags:
 - PhoneGap Build
-date: 2013-05-21 11:40:02
 author: Ryan Willoughby
-title: "PhoneGap 2.7.0 now on Build"
 ---
 
 Great news, we've pushed 2.7.0 support to PhoneGap Build! With this release we're deprecating anything less than PhoneGap 2.0.0. Check out [the blog post where 'we told you so'](http://phonegap.com/blog/build/ending-support-for-phonegap-1-9/) for more info on why.

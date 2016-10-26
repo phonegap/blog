@@ -1,10 +1,10 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-08-26 22:57:47'
-slug: phonegap-at-dreamforce-aug-30-sept-2-2011
-status: publish
 title: PhoneGap at DreamForce, Aug 30-Sept 2, 2011
+date: 2011-08-26 22:57:47 Z
+categories:
+- app
+author: Colene Chow
+status: publish
 type: post
 format: html
 ---

@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-05-02 17:37:10'
-slug: phonegap-1-7-0-released
-status: publish
 title: PhoneGap 1.7.0 Released!
-type: post
-format: html
+date: 2012-05-02 17:37:10 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We have just released PhoneGap 1.7.0! Thanks to everyone who downloaded 1.7.0rc1\. This release focuses on bug fixes, bug fixes and... more bug fixes! We also added support for Bada 2.0!

@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2011-07-22 16:26:36'
-slug: phono-mobile-is-powered-by-phonegap
-status: publish
 title: Phono Mobile is Powered by PhoneGap!
+date: 2011-07-22 16:26:36 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 tags_old:

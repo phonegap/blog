@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2009-09-16 17:59:44'
-link: http://blogs.nitobi.com/ryan/index.php/2009/09/16/phonegap-nokia/
-slug: phonegap-nokia
-status: publish
 title: PhoneGap Nokia
+date: 2009-09-16 17:59:44 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2009/09/16/phonegap-nokia/
+status: publish
 type: post
 format: html
 ---

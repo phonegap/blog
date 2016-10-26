@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-06-20 23:29:17'
-slug: phonegap-meetup
-status: publish
 title: PhoneGap Meetup
+date: 2011-06-20 23:29:17 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

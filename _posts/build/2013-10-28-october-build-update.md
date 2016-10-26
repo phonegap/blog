@@ -1,10 +1,11 @@
 ---
+title: October Build Update
+date: 2013-10-28 09:00:05 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2013-10-28 09:00:05
 author: Mike Harris
-title: "October Build Update"
-category: build
 ---
 
 In addition to providing support for Cordova 3.0, 3.1 and Windows Phone 8 platform, we've also been able to tackle:

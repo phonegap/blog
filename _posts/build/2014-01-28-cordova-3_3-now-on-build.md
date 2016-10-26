@@ -1,10 +1,11 @@
 ---
+title: Cordova 3.3.0 Now on PhoneGap Build
+date: 2014-01-28 10:20:04 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2014-01-28 10:20:04
 author: Ryan Willoughby
-title: "Cordova 3.3.0 Now on PhoneGap Build"
-category: build
 ---
 
 Now that our holiday shakes are finally gone, [PhoneGap Build](http://build.phonegap.com) can release Cordova 3.3.0! Here's more info on what's included:

@@ -1,10 +1,11 @@
 ---
-author: Ryan Willoughby 
-title: "Windows 10 and PhoneGap CLI-6.1.0 Now on Build"
-category: build
-date: 2016-04-25 10:00:00
+title: Windows 10 and PhoneGap CLI-6.1.0 Now on Build
+date: 2016-04-25 10:00:00 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Ryan Willoughby
 ---
 
 PhoneGap 6.1.0 is now available on Build, and with this release we're adding support for **Windows 10 Builds**! To use it, add the following to your config.xml file:

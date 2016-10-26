@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-06-09 21:51:20'
-slug: building-a-phonegap-application-with-sencha-touch-training
-status: publish
 title: Building a Application with Sencha Touch & PhoneGap
+date: 2011-06-09 21:51:20 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

@@ -1,11 +1,11 @@
 ---
-date: 2015-03-25 10:00:02
-author: Jen Gray
-title: "PhoneGap Day EU 2015 - Speakers announced and top 5 reasons to attend"
+title: PhoneGap Day EU 2015 - Speakers announced and top 5 reasons to attend
+date: 2015-03-25 10:00:02 Z
 tags:
 - Event
 - News
 - PhoneGap Day
+author: Jen Gray
 ---
 
 We had an awesome turnout for our first PhoneGap Day EU in 2013 and we're thrilled to do it again! On Monday, May 18th, we're hosting our second PhoneGap Day EU at [Het Compagnietheater](http://www.compagnietheater.nl/compagnietheater.html) in Amsterdam.

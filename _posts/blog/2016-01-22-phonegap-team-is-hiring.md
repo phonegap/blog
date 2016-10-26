@@ -1,10 +1,10 @@
 ---
-date: 2016-01-22 08:00:03
-author: Jen Gray
-title: "The PhoneGap Team is Hiring!"
+title: The PhoneGap Team is Hiring!
+date: 2016-01-22 08:00:03 Z
 tags:
 - News
 - Community
+author: Jen Gray
 ---
 
 We're looking for a Product Manager to join the Adobe PhoneGap team!

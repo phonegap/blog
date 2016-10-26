@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-03-29 22:40:39'
-slug: phonegaps-new-device-wall
-status: publish
 title: PhoneGap's new Device Wall
-type: post
-format: html
+date: 2012-03-29 22:40:39 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 The Device Wall was born from a simple question: How can we create a test lab for past, current, and future mobile device technology?

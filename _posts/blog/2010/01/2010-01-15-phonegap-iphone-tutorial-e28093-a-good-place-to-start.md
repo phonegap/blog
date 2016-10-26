@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2010-01-15 01:51:26'
-link: http://blogs.nitobi.com/jesse/2010/01/14/phonegap-iphone-tutorial-a-good-place-to-start/
-slug: phonegap-iphone-tutorial-%e2%80%93-a-good-place-to-start
-status: publish
 title: PhoneGap iPhone Tutorial – A good place to start
+date: 2010-01-15 01:51:26 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2010/01/14/phonegap-iphone-tutorial-a-good-place-to-start/
+status: publish
 type: post
 format: html
 ---

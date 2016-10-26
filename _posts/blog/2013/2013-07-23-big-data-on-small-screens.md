@@ -1,10 +1,10 @@
 ---
-date: 2013-07-23 18:00:04
-author: Colene Chow
-title: "Big Data on Small Screens"
+title: Big Data on Small Screens
+date: 2013-07-23 18:00:04 Z
 tags:
 - App
 - Community
+author: Colene Chow
 ---
 
 If you’ve never heard of MEASURE DHS, you’ve surely heard statistics from the more than 300 surveys the project conducts in more than 90 countries. This information about population, health, HIV, and nutrition guides both policy and humanitarian and aid programs around the world. To make this data more widely available, MEASURE DHS worked with Blue Raster to create a mobile app using Adobe PhoneGap that is accessible across iOS and Android devices.

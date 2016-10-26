@@ -1,10 +1,11 @@
 ---
+title: iOS 64-bit Support Now Available on PhoneGap Build
+date: 2015-01-20 10:00:02 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2015-01-20 10:00:02
 author: Brett Rudd
-title: "iOS 64-bit Support Now Available on PhoneGap Build"
-category: build
 ---
 
 Starting today iOS builds using **PhoneGap 3.5.0** and above will now include the

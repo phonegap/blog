@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-10-12 00:20:19'
-slug: mobile-development-with-orion-and-phonegap
-status: publish
 title: Mobile Development with Orion and PhoneGap
-type: post
-format: html
+date: 2011-10-12 00:20:19 Z
+categories:
+- app
 tags:
 - App
 - PhoneGap Build
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 What would it take to build a complete mobile tool chain in the browser? The question is quite relevant for today's mobile developers, who currently have to download large SDK's to develop and build their mobile applications (and buy a Mac if you want to develop for iOS). If you want to target several mobile platforms, and maybe even some future mobile-friendly desktop platforms, you're going to have to download, learn, and maintain quite a few of these SDK's.

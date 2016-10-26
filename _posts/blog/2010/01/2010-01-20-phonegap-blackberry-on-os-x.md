@@ -1,11 +1,11 @@
 ---
-author: Andrew Lunny
-categories: app
-date: '2010-01-20 00:00:00'
-link: http://blogs.nitobi.com/andrew/2010/01/30/phonegap-blackberry-on-osx
-slug: phonegap-blackberry-on-os-x
-status: publish
 title: PhoneGap Blackberry on OS X
+date: 2010-01-20 00:00:00 Z
+categories:
+- app
+author: Andrew Lunny
+link: http://blogs.nitobi.com/andrew/2010/01/30/phonegap-blackberry-on-osx
+status: publish
 type: post
 format: html
 ---

@@ -1,10 +1,10 @@
 ---
-date: 2016-02-11 16:00:04
-author: Jen Gray
-title: "Join us in Barcelona during Mobile World Congress"
+title: Join us in Barcelona during Mobile World Congress
+date: 2016-02-11 16:00:04 Z
 tags:
 - Event
 - Community
+author: Jen Gray
 ---
 
 We're excited to join one of the largest PhoneGap user communities again in [Barcelona on Wednesday, February 24](http://adobephonegapbarcelona.phonegapspain.com/) during Mobile World Congress.

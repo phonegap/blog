@@ -1,14 +1,12 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-08-30 16:56:31'
-slug: phonegap-facebook-connect-plugin-simplifies-log-in-for-mobile-users
-status: publish
 title: PhoneGap Facebook Platform Plugin Simplifies Log In for Mobile Users
-type: post
-format: html
+date: 2011-08-30 16:56:31 Z
 categories:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 We're proud to announce the launch of a new PhoneGap Facebook Platform plugin! This plugin makes it easy for any PhoneGap developer to add Facebook's single sign-on functionality to their mobile apps. Plus, single sign-on functionality improves the experience for end users. With more than 250 million people accessing Facebook on their phones each month, this is sure to be a popular plugin.

@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-10-28 14:54:25'
-link: http://blogs.nitobi.com/jesse/2009/10/28/running-jqtouch-in-phonegap/
-slug: running-jqtouch-in-phonegap
-status: publish
 title: Running jQTouch in PhoneGap
+date: 2009-10-28 14:54:25 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/10/28/running-jqtouch-in-phonegap/
+status: publish
 type: post
 format: html
 ---

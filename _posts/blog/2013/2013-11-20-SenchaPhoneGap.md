@@ -1,9 +1,9 @@
 ---
-date: 2013-11-20 12:40:04
-author: Ross Gerbasi
-title: "Leveraging PhoneGap within Sencha Touch"
+title: Leveraging PhoneGap within Sencha Touch
+date: 2013-11-20 12:40:04 Z
 tags:
 - Guest Post
+author: Ross Gerbasi
 ---
 
 ## Introduction

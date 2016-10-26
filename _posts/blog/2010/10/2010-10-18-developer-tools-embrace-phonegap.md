@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2010-10-18 21:10:27'
-slug: developer-tools-embrace-phonegap
-status: publish
 title: Developer Tools Embrace PhoneGap
+date: 2010-10-18 21:10:27 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 tags_old:

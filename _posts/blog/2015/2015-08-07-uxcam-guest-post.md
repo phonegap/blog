@@ -1,10 +1,10 @@
 ---
-date: 2015-08-07 08:00:02
-author: UXCam
-title: "Find UX Issues on your PhoneGap Apps with UXCam"
+title: Find UX Issues on your PhoneGap Apps with UXCam
+date: 2015-08-07 08:00:02 Z
 tags:
 - Guest Post
 - Community
+author: UXCam
 ---
 
 There are hundreds of apps executing similar ideas, but what separates an app between low and high ratings is user experience. [Q Manning at Code Mag](http://www.codemag.com/Article/1401041) sums up his thoughts on this matter very well:

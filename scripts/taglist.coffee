@@ -1,5 +1,6 @@
 ---
 ---
+
 document.addEventListener "DOMContentLoaded", (event) ->
   tagListElement = document.getElementById('top-tag-list')
   x = new XMLHttpRequest()

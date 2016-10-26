@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-10-25 23:16:05'
-slug: mad-science-with-processing-js
-status: publish
 title: Mad Science with Processing.js
-type: post
-format: html
+date: 2011-10-25 23:16:05 Z
+categories:
+- app
 tags:
 - App
 - Guest Post
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Let's build a perfect scenario: You're sitting in a dim subway station and a train goes zooming past you. Attached to the side of the train is a tall, narrow strip of LCD's that are processing and displaying single columns of pixels of an image in a loop. As the train moves by the loop of columns are displaying at a rate fast enough that your eye stitches all the pieces of this image together to form a holograph, visible to the naked eye for a fraction of a second.

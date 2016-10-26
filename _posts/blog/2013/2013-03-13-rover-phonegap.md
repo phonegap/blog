@@ -1,10 +1,10 @@
 ---
-date: 2013-03-13 14:00:02
-author: Steve Christianson
-title: "The BYOD challenge to enterprise App development"
+title: The BYOD challenge to enterprise App development
+date: 2013-03-13 14:00:02 Z
 tags:
 - Guest Post
 - Framework
+author: Steve Christianson
 ---
 
 Mobile BYOD in enterprise means security can no longer be focused at the device level, but now needs to consider the App level. This puts a big burden on corporate developers and small ISVs, as handling security, communications and authentication can be a tough job and one where the consequences of data leakage are severe. Coupled with the further challenge of how to author a mobile-friendly solution that runs across multiple mobile OS platforms and does not require expensive or proprietary tooling for authoring, these developers have a big challenge to address. If building using tools that output native applications, they now need to generate one app per target platform, each with potential complexities and costs. IT departments also face the challenge of distributing and managing access to all these apps as well. In some cases, the projections are for dozens to hundreds of internally developed apps in an organization. Managing that times three or so platforms is a huge administrative burden for IT, and a significant cost for development.

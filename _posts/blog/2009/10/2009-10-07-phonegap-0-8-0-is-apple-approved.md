@@ -1,11 +1,11 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2009-10-07 11:10:55'
-link: http://blogs.nitobi.com/brian/2009/10/07/phonegap-0-8-0-is-apple-approved/
-slug: phonegap-0-8-0-is-apple-approved
-status: publish
 title: PhoneGap 0.8.0 is Apple Approved
+date: 2009-10-07 11:10:55 Z
+categories:
+- app
+author: Brian LeRoux
+link: http://blogs.nitobi.com/brian/2009/10/07/phonegap-0-8-0-is-apple-approved/
+status: publish
 type: post
 format: html
 ---

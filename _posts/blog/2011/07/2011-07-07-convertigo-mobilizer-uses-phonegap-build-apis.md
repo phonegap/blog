@@ -1,14 +1,12 @@
 ---
-author: Capulet
-categories: app
-date: '2011-07-07 16:57:53'
-slug: convertigo-mobilizer-uses-phonegap-build-apis
-status: publish
 title: Convertigo Mobilizer Uses PhoneGap Build APIs
-type: post
-format: html
+date: 2011-07-07 16:57:53 Z
 categories:
 - PhoneGap Build
+author: Capulet
+status: publish
+type: post
+format: html
 tags_old:
 - convertigo
 - phonegap

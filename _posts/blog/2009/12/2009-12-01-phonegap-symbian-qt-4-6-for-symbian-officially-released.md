@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2009-12-01 21:36:06'
-link: http://blogs.nitobi.com/ryan/index.php/2009/12/01/phonegap-symbian-qt-4-6-for-symbian-officially-released/
-slug: phonegap-symbian-qt-4-6-for-symbian-officially-released
-status: publish
 title: 'PhoneGap Symbian: Qt 4.6 for Symbian officially released'
+date: 2009-12-01 21:36:06 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2009/12/01/phonegap-symbian-qt-4-6-for-symbian-officially-released/
+status: publish
 type: post
 format: html
 ---

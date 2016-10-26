@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-06-29 23:19:18'
-slug: phonegap-presentation-at-bay-area-mobile-meetup
-status: publish
 title: PhoneGap Presentation at Bay Area Mobile Meetup
+date: 2011-06-29 23:19:18 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

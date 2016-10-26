@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-05-31 19:27:20'
-link: http://blogs.nitobi.com/joe/2010/05/31/using-phonegap-across-all-android-devices/
-slug: using-phonegap-across-all-android-devices
-status: publish
 title: Using PhoneGap across ALL ANDROID DEVICES
+date: 2010-05-31 19:27:20 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/05/31/using-phonegap-across-all-android-devices/
+status: publish
 type: post
 format: html
 ---

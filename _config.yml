@@ -1,43 +1,43 @@
+---
 title: Blog
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 description: All the latest news and insights on PhoneGap
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://phonegap.com" # the base hostname & protocol for your site
-
+baseurl: "/blog"
+url: http://phonegap.com
 gems:
-  - jekyll-paginate
-  - jekyll-coffeescript
-  - jekyll-redirect-from
-  - jekyll-sitemap
-
+- jekyll-paginate
+- jekyll-coffeescript
+- jekyll-redirect-from
+- jekyll-sitemap
 exclude:
-  - node_modules
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - package.json
-  - Rakefile
-  - README.md
-
+- node_modules
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- package.json
+- Rakefile
+- README.md
 paginate: 10
 paginate_list_count: 7
 paginate_list_mobile_count: 5
 paginate_path: "/page:num/"
-
-permalink: /:year/:month/:day/:title/
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "post"
-
+permalink: "/:year/:month/:day/:title/"
 post:
   template: _post.txt
   extension: md
-
 markdown: kramdown
-
 kramdown:
   input: GFM

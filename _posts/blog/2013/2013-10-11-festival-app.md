@@ -1,10 +1,10 @@
 ---
-date: 2013-10-11 10:00:03
-author: Colene Chow
-title: "Festival app for beer lovers"
+title: Festival app for beer lovers
+date: 2013-10-11 10:00:03 Z
 tags:
 - Community
 - App
+author: Colene Chow
 ---
 
 Yesterday was the first day of the [Great American Beer Festival](http://www.greatamericanbeerfestival.com/) (GABF) in Denver, Colorado. Those lucky enough to attend the three-day festival can make sure they don’t miss anything (or get lost) by downloading the *My GABF* app. Created for The Brewers Association by Adobe agency partner [The1stMovment (T1M)](http://www.the1stmovement.com/), the festival app helps the more than 49,000 attendees navigate the hall, locate information on more than 600 breweries and 3,000+ beers, take notes, rate tastings, and receive event notifications in real time.

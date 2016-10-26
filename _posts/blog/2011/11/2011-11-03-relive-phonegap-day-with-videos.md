@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-11-03 22:54:19'
-slug: relive-phonegap-day-with-videos
-status: publish
 title: Relive PhoneGap Day with videos
-type: post
-format: html
+date: 2011-11-03 22:54:19 Z
+categories:
+- app
 tags:
 - PhoneGap Day
 - Video
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 We hosted our first ever PhoneGap Day earlier this year in Portland. In case you hadn't noticed, we've uploaded [all the videos](http://www.youtube.com/phonegap) from that day onto our YouTube channel.

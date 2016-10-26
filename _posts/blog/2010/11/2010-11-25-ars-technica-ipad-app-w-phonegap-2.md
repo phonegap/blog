@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-25 01:50:56'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/24/ars-technica-ipad-app-w-phonegap/
-slug: ars-technica-ipad-app-w-phonegap-2
-status: publish
 title: Ars Technica iPad App w/ PhoneGap
+date: 2010-11-25 01:50:56 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/24/ars-technica-ipad-app-w-phonegap/
+status: publish
 type: post
 format: html
 ---

@@ -1,10 +1,10 @@
 ---
-date: 2013-04-16 09:00:02
-author: Rob DiMarco
-title: "Firebase Adds PhoneGap Integration"
+title: Firebase Adds PhoneGap Integration
+date: 2013-04-16 09:00:02 Z
 tags:
 - Guest Post
 - News
+author: Rob DiMarco
 ---
 
 Many developers have been using [Firebase](https://www.firebase.com/) in their PhoneGap applications since our beta launch nearly a year ago. We know many of you encountered some rough edges, so we've put a lot of work into making sure the experience of developing with PhoneGap and Firebase is a smooth one.

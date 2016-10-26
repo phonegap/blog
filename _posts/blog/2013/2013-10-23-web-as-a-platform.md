@@ -1,12 +1,12 @@
 ---
-date: 2013-10-23 10:00:04
-author: Colene Chow
-title: "PhoneGap Day US 2013: The Web as a Platform"
-format: html
+title: 'PhoneGap Day US 2013: The Web as a Platform'
+date: 2013-10-23 10:00:04 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!

@@ -1,10 +1,10 @@
 ---
-date: 2013-05-16 15:40:02
-author: Lorin Beer
-title: "Cordova will no longer support BlackBerry 7 and Below post 3.0"
+title: Cordova will no longer support BlackBerry 7 and Below post 3.0
+date: 2013-05-16 15:40:02 Z
 tags:
 - Blackberry
 - News
+author: Lorin Beer
 ---
 
 With the release of the BlackBerry 10 platform, the [Apache Cordova](http://cordova.io)/PhoneGap team have decided to focus efforts on creating the best possible framework for mobile apps on BlackBerry devices. To further this goal, support will be deprecated for the venerable BlackBerry Java platform with the release of Cordova 3.0 in July 2013.

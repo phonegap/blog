@@ -1,15 +1,16 @@
---- 
+---
+title: PhoneGap, Parse.com, and Push Notifications
+date: 2012-10-10 19:15:00 Z
+tags:
+- PhoneGap Network
 link: http://www.raymondcamden.com/2012/10/10/PhoneGap-Parsecom-and-Push-Notifications
 author: Raymond Camden
 type: post
 external: true
 format: html
 status: publish
-tags:
-- PhoneGap Network
-date: 2012-10-10 19:15:00 Z
-title: PhoneGap, Parse.com, and Push Notifications
 ---
+
 As I've been working my way through a sample application that makes use of <a href="http://www.parse.com">Parse.com</a> and <a href="http://www.phonegap.com">PhoneGap</a>, I wanted to take a look at how Parse handles Push Notifications. I assumed it would be easy and I'd simply include it into my series, but it turned out to be a more complex than I anticipated. Therefore, I've decided to blog about it on it's own so as to keep things as simple and direct as possible.  In the end, the process to get notifications working with PhoneGap and Parse wasn't terribly difficult, but there are a few things you have to orchestrate just right to get the desired results.The first thing I need to warn you about is that notifications are going to be slightly different based on each platform. In general, you can do many of the same things between Android and iOS, but there are a few differences. You can take a look at the <a href="https://parse.com/docs/android_guide#push">Android docs</a> and the <a href="https://parse.com/docs/ios_guide#push">iOS docs</a> as well as checking out a  <a href="https://parse.com/tutorials/ios-push-notifications">video</a> the Parse team made just for iOS. You may notice that the JavaScript API has a section on Push Notifications as well, but it only supports <i>creating</i> new notifications. This confused me for a while until I remembered that outside of native applications, it wouldn't make sense for JavaScript to handle receiving notifications. Therefore, you have to use a native solution. Luckily PhoneGap allows us to do that <i>and</i> make use of the JavaScript API as well.
 
 In this blog post I'll be using Android. Only the initial setup aspects though will be Android specific, The PhoneGap code we use later should work fine in iOS as well.

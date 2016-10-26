@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-02-20 22:49:41'
-slug: where-to-find-us-in-feb-march
-status: publish
 title: Where to find us in Feb + March
-type: post
-format: html
+date: 2012-02-20 22:49:41 Z
+categories:
+- app
 tags:
 - News
 - Event
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 In between working hard on Phonegap, we're hitting up some events and showing our support to the community too. Here's where you can find us:

@@ -1,15 +1,14 @@
 ---
-tags:
-- PhoneGap Build
-date: 2013-02-18 15:00:02
-author: Colene Chow
-title: "Getting Started with PhoneGap and PhoneGap Build"
-category: build
-priority: 5
+title: Getting Started with PhoneGap and PhoneGap Build
+date: 2013-02-18 15:00:02 Z
+categories:
+- build
 tags:
 - Guide
 - PhoneGap Build
 - Tutorial
+author: Colene Chow
+priority: 5
 ---
 
 Are you brand new to PhoneGap? Where do you start?  What about PhoneGap Build? There are a ton of resources out there and I’ve pulled it all together to help you get started, get some tips, and figure out where to get help.

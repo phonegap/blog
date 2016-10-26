@@ -1,12 +1,12 @@
 ---
-date: 2013-09-19 15:20:02
-author: Colene Chow
-title: "PhoneGap Day US 2013: Topcoat loves Phonegap"
-format: html
+title: 'PhoneGap Day US 2013: Topcoat loves Phonegap'
+date: 2013-09-19 15:20:02 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day US 2013](http://pgday.phonegap.com/us2013) and made it such a huge success!

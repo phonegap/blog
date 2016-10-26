@@ -1,10 +1,10 @@
 ---
-date: 2015-02-27 11:00:02
-author: Jen Gray
-title: "Join us in Barcelona for the Adobe Mobile Meetup"
+title: Join us in Barcelona for the Adobe Mobile Meetup
+date: 2015-02-27 11:00:02 Z
 tags:
 - Event
 - Community
+author: Jen Gray
 ---
 
 We're excited to join one of our vibrant PhoneGap user communities in [Barcelona on Monday, March 2nd](http://adobemobilebarcelona.phonegapspain.com/) to discuss how to create high-impact digital content and engaging mobile apps.

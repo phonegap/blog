@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-06-09 18:04:30'
-link: http://blogs.nitobi.com/joe/2010/06/09/not-all-cameras-are-equal/
-slug: not-all-cameras-are-equal
-status: publish
 title: Not all cameras are equal
+date: 2010-06-09 18:04:30 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/06/09/not-all-cameras-are-equal/
+status: publish
 type: post
 format: html
 ---

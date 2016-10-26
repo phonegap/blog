@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-03-10 01:31:28'
-slug: la-and-online-phonegap-meetup-follow-up
-status: publish
 title: LA and Online PhoneGap meetup follow up
+date: 2011-03-10 01:31:28 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

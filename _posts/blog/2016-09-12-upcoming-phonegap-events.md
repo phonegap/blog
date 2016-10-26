@@ -1,11 +1,12 @@
 ---
-author: Jen Gray
-title: "Come see us at upcoming PhoneGap events"
+title: Come see us at upcoming PhoneGap events
+date: 2016-09-12 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Community
 - Event
 - News
+author: Jen Gray
 ---
 
 The PhoneGap team is going on the road over the next few months and you should come join us. We're going to be presenting at a few conferences and hosting some awesome local meetups. If you're going to be in the area, we'd love to see you!

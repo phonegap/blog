@@ -1,10 +1,11 @@
 ---
+title: Retiring git.phonegap.com
+date: 2012-10-01 17:00:00 Z
 tags:
 - PhoneGap Build
 author: Andrew Lunny
-title: Retiring git.phonegap.com
-date: Mon Oct 01 10:00:00 -0700 2012
 ---
+
 We're announcing today that our git hosting service, available at 
 `git.phonegap.com`, will be shut-down on December 1 this year, in two months. We
 will be disabling support for creating new apps linked to `git.phonegap.com` in

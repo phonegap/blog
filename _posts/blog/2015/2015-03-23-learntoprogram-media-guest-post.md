@@ -1,9 +1,9 @@
 ---
-date: 2015-03-23 12:00:02
-author: Mark Lassoff
-title: "Learn PhoneGap by Building PhoneGap Apps"
+title: Learn PhoneGap by Building PhoneGap Apps
+date: 2015-03-23 12:00:02 Z
 tags:
 - Guest Post
+author: Mark Lassoff
 ---
 
 If you like to learn a new technology by “just building something,” there is a new program from technical publisher [LearnToProgram Media](http://www.learntoprogram.tv/) that might be perfect for you.

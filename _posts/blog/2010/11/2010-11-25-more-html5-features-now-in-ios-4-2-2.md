@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-25 00:38:05'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/24/more-html5-features-now-in-ios-4-2/
-slug: more-html5-features-now-in-ios-4-2-2
-status: publish
 title: More HTML5 features now in iOS 4.2
+date: 2010-11-25 00:38:05 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/24/more-html5-features-now-in-ios-4-2/
+status: publish
 type: post
 format: html
 ---

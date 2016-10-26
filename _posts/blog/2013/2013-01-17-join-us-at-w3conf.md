@@ -1,8 +1,9 @@
 ---
 title: Join us at W3Conf
-author: Colene Chow
+date: 2013-01-17 00:00:00 Z
 tags:
 - Event
+author: Colene Chow
 ---
 
 The PhoneGap team is part of an awesome group within Adobe that's committed to making web standards as accessible as possible to web developers. One of our goals is to base the PhoneGap API on web standards, and in turn see some of these standards be implemented in today’s modern browsers.

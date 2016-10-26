@@ -1,15 +1,15 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2012-05-22 23:04:00'
-slug: windows-phone-apache-cordovaphonegap-hackathon
-status: publish
 title: Windows Phone & Apache Cordova/PhoneGap Hackathon
-type: post
-format: html
+date: 2012-05-22 23:04:00 Z
+categories:
+- app
 tags:
 - Windows Phone
 - Event
+author: Jesse MacFadyen
+status: publish
+type: post
+format: html
 ---
 
 A couple weeks ago I had the pleasure of travelling to San Francisco to participate in a mobile app porting event organized and sponsored by Microsoft. This post is a little overdue now, however this was such a great event I just had to write about it.

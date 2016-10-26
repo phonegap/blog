@@ -1,11 +1,13 @@
 ---
 title: The PhoneGap Extension for Brackets
-author: Colene Chow
-format: html
+date: 2012-09-28 00:00:00 Z
 tags:
 - PhoneGap Build
 - Video
+author: Colene Chow
+format: html
 ---
+
 This week we announced the official launch of [PhoneGap Build](http://build.phonegap.com) — a service that compiles your PhoneGap applications in the cloud, saving you the hassle of installing and maintaining SDKs for every mobile platform you want to target.
 
 There are two ways to submit code to the PhoneGap Build service: the first is by uploading your files, and the second is by pointing your PhoneGap Build project to a [GitHub](http://github.com) repository.

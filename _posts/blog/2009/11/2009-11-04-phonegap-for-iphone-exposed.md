@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-11-04 15:32:30'
-link: http://blogs.nitobi.com/jesse/2009/11/04/phonegap-for-iphone-exposed/
-slug: phonegap-for-iphone-exposed
-status: publish
 title: PhoneGap for iPhone exposed
+date: 2009-11-04 15:32:30 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/11/04/phonegap-for-iphone-exposed/
+status: publish
 type: post
 format: html
 ---

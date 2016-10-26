@@ -1,9 +1,9 @@
 ---
+title: Introducing Hydration
+date: 2012-08-23 17:38:56 Z
 tags:
 - PhoneGap Build
 author: Hardeep Shoker
-title: Introducing Hydration
-date: Thu Aug 23 10:38:56 -0700 2012
 ---
 
 The PhoneGap Build team would like to introduce our latest feature -

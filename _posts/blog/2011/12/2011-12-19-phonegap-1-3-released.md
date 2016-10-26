@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-12-19 18:05:17'
-slug: phonegap-1-3-released
-status: publish
 title: PhoneGap 1.3 Released
-type: post
-format: html
+date: 2011-12-19 18:05:17 Z
+categories:
+- app
 tags:
 - Release
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.3](http://phonegap.com/download)! In this release, we’ve made great progress with BlackBerry and Windows Phone.

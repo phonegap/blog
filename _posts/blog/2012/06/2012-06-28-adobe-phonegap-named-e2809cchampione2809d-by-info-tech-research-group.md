@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-06-28 19:21:12'
-slug: adobe-phonegap-named-%e2%80%9cchampion%e2%80%9d-by-info-tech-research-group
-status: publish
 title: Adobe PhoneGap named “Champion” by Info-Tech Research Group
-type: post
-format: html
+date: 2012-06-28 19:21:12 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Adobe PhoneGap was recognized as a “Champion” by Info-Tech Research Group in its 2012 Vendor Landscape: Mobile Development Platforms. Evaluated against four competitors in the Mobile Development Platform market, Info-Tech Research Group placed PhoneGap in the top-right Champion quadrant.

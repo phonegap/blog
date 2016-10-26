@@ -1,10 +1,10 @@
 ---
-date: 2014-03-24 19:00:05
-author: Andre Charland
-title: "Introducing PhoneGap for the Enterprise"
+title: Introducing PhoneGap for the Enterprise
+date: 2014-03-24 19:00:05 Z
 tags:
 - News
 - Release
+author: Andre Charland
 ---
 
 Today at Adobe Summit, we are excited to announce a new offering -  PhoneGap Enterprise.  Through conversations with enterprise PhoneGap developers we’ve recognized their need for a more robust set of tools with which to build mobile apps and collaborate with business stakeholders.

@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-01-22 00:55:34'
-link: http://blogs.nitobi.com/andre/index.php/2010/01/21/get-your-phonegap-app-in-our-new-video/
-slug: get-your-phonegap-app-in-our-new-video
-status: publish
 title: Get your PhoneGap app in our new video
+date: 2010-01-22 00:55:34 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/01/21/get-your-phonegap-app-in-our-new-video/
+status: publish
 type: post
 format: html
 ---

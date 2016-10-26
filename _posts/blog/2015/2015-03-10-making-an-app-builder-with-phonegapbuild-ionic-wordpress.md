@@ -1,9 +1,9 @@
 ---
-date: 2015-03-10 11:00:02
-author: Scott Bolinger
-title: "Making an app builder with PhoneGap Build + Ionic + WordPress"
+title: Making an app builder with PhoneGap Build + Ionic + WordPress
+date: 2015-03-10 11:00:02 Z
 tags:
 - Guest Post
+author: Scott Bolinger
 ---
 
 For the past several months I’ve been working on creating an app builder for WordPress called [Reactor](http://reactor.apppresser.com/).

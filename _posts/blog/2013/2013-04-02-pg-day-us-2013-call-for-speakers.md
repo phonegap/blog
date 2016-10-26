@@ -1,9 +1,9 @@
 ---
-date: 2013-04-02 16:20:02
-author: Colene Chow
-title: "PhoneGap Day US 2013 - Call for Speakers"
+title: PhoneGap Day US 2013 - Call for Speakers
+date: 2013-04-02 16:20:02 Z
 tags:
 - Event
+author: Colene Chow
 ---
 
 [PhoneGap Day US 2013](http://pgday.phonegap.com) is headed to Portland, OR again this year and we want to see you there! Mark your calendars for July 19, 2013.

@@ -1,11 +1,12 @@
 ---
-author: Tommy-Carlos Williams
-title: "Introducing: Star Track by PhoneGap"
+title: 'Introducing: Star Track by PhoneGap'
+date: 2016-04-21 00:00:00 Z
 tags:
-  - Announcement
-  - Framework
-  - Documentation
-  - App
+- Announcement
+- Framework
+- Documentation
+- App
+author: Tommy-Carlos Williams
 ---
 
 A Complete PhoneGap Example App Using [Framework7][framework7.io] and the [Spotify API][spotify-api]

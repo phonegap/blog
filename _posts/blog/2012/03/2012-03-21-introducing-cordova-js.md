@@ -1,14 +1,14 @@
 ---
-author: Fil
-categories: app
-date: '2012-03-21 19:38:38'
-slug: introducing-cordova-js
-status: publish
 title: Introducing Cordova-JS
-type: post
-format: html
+date: 2012-03-21 19:38:38 Z
+categories:
+- app
 tags:
 - News
+author: Fil
+status: publish
+type: post
+format: html
 ---
 
 A lot of exciting things have happened in the past six months or so: my former employer [Nitobi](http://nitobi.com) got acquired by [Adobe](http://adobe.com) and our team of about 18 more or less got split right down the middle. Half are now settling into San Francisco, while the rest (me included) are holding down the Canadian fort in Vancouver and doing our best to represent [Adobe](http://adobe.com) up in the Great White North.

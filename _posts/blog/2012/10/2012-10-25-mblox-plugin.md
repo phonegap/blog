@@ -1,12 +1,13 @@
 ---
 title: Push Messaging plugin from mBlox
-author: mBlox
+date: 2012-10-25 00:00:00 Z
 tags:
 - Guest Post
 - Plugin
 - Android
 - iOS
 - Guide
+author: mBlox
 ---
 
 Push messaging can help keep users active and engaged. This is especially true of consumer apps where usage drops off rapidly after the initial install. Push messaging can also be used to inform users of any updates on the server. For enterprise apps, this prevents unnecessary queries that burden the server and saves battery life.

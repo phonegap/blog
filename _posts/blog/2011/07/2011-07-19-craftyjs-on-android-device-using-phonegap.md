@@ -1,10 +1,10 @@
 ---
-author: Tim Kim
-categories: app
-date: '2011-07-19 21:11:14'
-slug: craftyjs-on-android-device-using-phonegap
-status: publish
 title: CraftyJS on Android Device Using PhoneGap
+date: 2011-07-19 21:11:14 Z
+categories:
+- app
+author: Tim Kim
+status: publish
 type: post
 format: html
 ---

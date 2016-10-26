@@ -1,10 +1,11 @@
 ---
-author: Simon MacDonald
-title: "PhoneGap Push Plugin 1.6.0"
+title: PhoneGap Push Plugin 1.6.0
+date: 2016-03-08 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Simon MacDonald
 ---
 
 It's been a couple of months but we've just released version 1.6.0 of phonegap-plugin-push. The big changes this time around have to do with Action Button support. Numerous issues and improvements were made to the Action Buttons. For instance, specifying an icon on Android is now optional. Clicking on an Action Button on Android now correctly removes the notification. On both Android and iOS you can now click an Action Button and have it's JavaScript callback execute without bringing the app to the foreground. Read more about it in the [Android](https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/PAYLOAD.md#action-buttons) and [iOS](https://github.com/phonegap/phonegap-plugin-push/blob/master/docs/PAYLOAD.md#action-buttons-1) section of the docs.

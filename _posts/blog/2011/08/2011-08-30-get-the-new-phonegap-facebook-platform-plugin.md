@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-08-30 15:33:54'
-link: http://blogs.nitobi.com/andre/index.php/2011/08/30/get-the-phonegap-facebook-connect-plugin/
-slug: get-the-new-phonegap-facebook-platform-plugin
-status: publish
 title: Get the New PhoneGap Facebook Platform Plugin
+date: 2011-08-30 15:33:54 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/08/30/get-the-phonegap-facebook-connect-plugin/
+status: publish
 type: post
 format: html
 ---

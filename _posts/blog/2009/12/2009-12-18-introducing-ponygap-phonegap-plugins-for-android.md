@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2009-12-18 00:42:17'
-link: http://blogs.nitobi.com/joe/2009/12/17/introducing-ponygap-phonegap-plugins-for-android/
-slug: introducing-ponygap-phonegap-plugins-for-android
-status: publish
 title: 'Introducing PonyGap: PhoneGap Plugins for Android'
+date: 2009-12-18 00:42:17 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2009/12/17/introducing-ponygap-phonegap-plugins-for-android/
+status: publish
 type: post
 format: html
 ---

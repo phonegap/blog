@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-09 23:38:46'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/09/phonegap-build-presentation-at-deploy2010/
-slug: phonegap-build-presentation-at-deploy2010-2
-status: publish
 title: PhoneGap Build Presentation at Deploy2010
+date: 2010-11-09 23:38:46 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/09/phonegap-build-presentation-at-deploy2010/
+status: publish
 type: post
 format: html
 ---

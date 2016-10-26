@@ -1,11 +1,11 @@
 ---
-date: 2015-09-09 10:00:02
-author: PhoneGap Team
-title: "PhoneGap Enterprise Feature Sneak Peek - Design Evolution 3.0 D2W"
-format: html
+title: PhoneGap Enterprise Feature Sneak Peek - Design Evolution 3.0 D2W
+date: 2015-09-09 10:00:02 Z
 tags:
 - News
 - PhoneGap Enterprise
+author: PhoneGap Team
+format: html
 ---
 
 PhoneGap Enterprise is a new enterprise offering from Adobe providing the ability for both developers and marketers to optimize and speed up the delivery of engaging mobile app experiences across all channels. We went through the benefits of PhoneGap Enterprise in a [previous post](http://phonegap.com/blog/2015/01/23/phonegap-enterprise-post/) and we're working on some new features. We're continually trying to make mobile app development easier so here's a sneak peek at what's to come!

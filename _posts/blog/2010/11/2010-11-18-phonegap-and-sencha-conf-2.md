@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-18 22:56:01'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/18/phonegap-and-sencha-conf/
-slug: phonegap-and-sencha-conf-2
-status: publish
 title: PhoneGap and Sencha Conf
+date: 2010-11-18 22:56:01 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/18/phonegap-and-sencha-conf/
+status: publish
 type: post
 format: html
 ---

@@ -1,9 +1,9 @@
 ---
-date: 2014-02-20 15:20:03
-author: Colene Chow
-title: "Windows Azure Mobile Services, now with integrated PhoneGap support"
+title: Windows Azure Mobile Services, now with integrated PhoneGap support
+date: 2014-02-20 15:20:03 Z
 tags:
 - Community
+author: Colene Chow
 ---
 
 As announced by [@ScottGu](http://twitter.com/scottgu) today, our Microsoft friends have added [integrated support for PhoneGap to Azure Mobile Services](http://weblogs.asp.net/scottgu/archive/2014/02/20/azure-expressroute-dedicated-networking-web-site-backup-restore-mobile-services-net-support-hadoop-2-2-and-more.aspx).

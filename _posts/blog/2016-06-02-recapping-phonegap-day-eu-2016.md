@@ -1,12 +1,12 @@
 ---
-date: 2016-06-02 10:00:04
-author: Simon MacDonald
-title: "Recapping PhoneGap Day EU 2016"
+title: Recapping PhoneGap Day EU 2016
+date: 2016-06-02 10:00:04 Z
 tags:
 - Event
 - News
 - PhoneGap Day
 - Community
+author: Simon MacDonald
 ---
 
 Whoa, can you believe it's been two weeks since PhoneGap Day EU 2016 in Amsterdam? It was an honor to host members of the PhoneGap community from all over the world at the beautiful [Het Compagnietheater](http://www.compagnietheater.nl/compagnietheater.html). We couldn't have done it without our partners Web Conferences Amsterdam (the team behind [Mobilism](http://mobilism.nl/2015)).

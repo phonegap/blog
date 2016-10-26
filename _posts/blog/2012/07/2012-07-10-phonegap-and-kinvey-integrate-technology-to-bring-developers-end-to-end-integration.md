@@ -1,14 +1,14 @@
 ---
-author: abourne
-categories: app
-date: '2012-07-10 18:45:48'
-slug: phonegap-and-kinvey-integrate-technology-to-bring-developers-end-to-end-integration
-status: publish
 title: 'PhoneGap and Kinvey Integrate Technology to Bring Developers End-to-End Integration '
-type: post
-format: html
+date: 2012-07-10 18:45:48 Z
+categories:
+- app
 tags:
 - Guest Post
+author: abourne
+status: publish
+type: post
+format: html
 ---
 
 PhoneGap and Kinvey, Inc., the leading Backend as a Service company that makes it easy for developers to setup and operate scalable cloud backends for mobile, tablet and web apps, today announce an “end-to-end” technical integration between the PhoneGap environment and Kinvey’s Backend as a Service.  With this new solution, developers using PhoneGap to build mobile applications can now save themselves the time and aggravation of building the backend "plumbing" that every data-driven application requires. Kinvey offers developers a full-featured, scalable cloud backend, out of the box and ready to grow through every stage of the development life cycle - from prototype to worldwide adoption or “chart-topper”.

@@ -1,12 +1,12 @@
 ---
 title: Automating PhoneGap Build from PhoneGap Day EU 2012
-author: Colene Chow
-date: 2012-10-16 14:42:00
-format: html
+date: 2012-10-16 14:42:00 Z
 tags:
 - PhoneGap Day
 - Video
 - PhoneGap Build
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2012/) and made it such a huge success. We're sharing videos from the event for those of you who weren't able to attend.

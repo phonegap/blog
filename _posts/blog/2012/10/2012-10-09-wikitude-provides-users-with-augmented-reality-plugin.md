@@ -1,9 +1,10 @@
 ---
 title: Wikitude provides PhoneGap users with augmented reality plugin
-author: Dan Taylor
+date: 2012-10-09 00:00:00 Z
 tags:
 - Guest Post
 - Plugin
+author: Dan Taylor
 ---
 
 Here at Wikitude, we’re constantly striving to deliver the very best in augmented reality experiences. In addition to building and developing the Wikitude app and Architect engine, we’re also app makers ourselves.  A count around the office reveals that we have no fewer than 18 Android or iPhone app publishers amongst us. We’re no gurus, but we’re fairly confident that we understand the sometimes frustrating process of building apps.

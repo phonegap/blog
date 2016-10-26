@@ -1,9 +1,9 @@
 ---
+title: Important Update to Google Analytics Plugin
+date: 2013-05-09 23:00:39 Z
 tags:
 - PhoneGap Build
 author: Bob Easterday
-title: Important Update to Google Analytics Plugin
-date: Thu May 9 16:00:39 -0700 2013
 ---
 
 Google has recently deprecated version 1 of the Google Analytics SDK, on which GAPlugin was based. Accordingly, we have updated the plugin to use Google Analytics SDK v2. We have attempted to maintain backwards compatibility with the v1 plugin. However, depending on your usage, you **may** need to make some minor changes to your App.

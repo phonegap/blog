@@ -1,10 +1,11 @@
 ---
-author: Ryan Willoughby 
-title: "PhoneGap Build config.xml Now Required, and Other Updates"
-category: build
-date: 2016-02-24 12:08:00
+title: PhoneGap Build config.xml Now Required, and Other Updates
+date: 2016-02-24 12:08:00 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Ryan Willoughby
 ---
 
 We're introducing two changes to PhoneGap Build: 

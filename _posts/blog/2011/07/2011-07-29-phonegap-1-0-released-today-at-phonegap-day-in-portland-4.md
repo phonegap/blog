@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-07-29 12:00:23'
-link: http://blogs.nitobi.com/andre/index.php/2011/07/29/phonegap-1-0-released-today-at-phonegap-day-in-portland/
-slug: phonegap-1-0-released-today-at-phonegap-day-in-portland-4
-status: publish
 title: PhoneGap 1.0 Released Today at PhoneGap Day in Portland
+date: 2011-07-29 12:00:23 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/07/29/phonegap-1-0-released-today-at-phonegap-day-in-portland/
+status: publish
 type: post
 format: html
 ---

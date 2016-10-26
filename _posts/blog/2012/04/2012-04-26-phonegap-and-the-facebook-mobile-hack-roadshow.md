@@ -1,15 +1,15 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-04-26 19:23:55'
-slug: phonegap-and-the-facebook-mobile-hack-roadshow
-status: publish
 title: PhoneGap and The Facebook Mobile Hack Roadshow
-type: post
-format: html
+date: 2012-04-26 19:23:55 Z
+categories:
+- app
 tags:
 - Event
 - News
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 Last month, I represented the PhoneGap team at the [Facebook Mobile Hack Roadshow](https://developers.facebook.com/blog/post/2012/04/12/mobile-hacks-roadshow--and-the-winners-are/) events happening around the world.

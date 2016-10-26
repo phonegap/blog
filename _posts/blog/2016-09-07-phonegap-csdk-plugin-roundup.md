@@ -1,12 +1,13 @@
 ---
-author: Jen Gray
-title: "Adobe Creative SDK Plugin Roundup"
+title: Adobe Creative SDK Plugin Roundup
+date: 2016-09-07 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
 - Plugin
 - Announcement
+author: Jen Gray
 ---
 
 We're so excited to announce a slew of plugins that enable developers to take advantage of the Creative SDK native components for iOS and Android without writing a single line of Objective-C, Swift, or Java. 

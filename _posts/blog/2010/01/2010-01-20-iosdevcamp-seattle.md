@@ -1,11 +1,11 @@
 ---
-author: Andrew Lunny
-categories: app
-date: '2010-01-20 00:00:00'
-link: http://blogs.nitobi.com/andrew/2010/08/22/iOSDevCamp-Seattle
-slug: iosdevcamp-seattle
-status: publish
 title: iOSDevCamp Seattle
+date: 2010-01-20 00:00:00 Z
+categories:
+- app
+author: Andrew Lunny
+link: http://blogs.nitobi.com/andrew/2010/08/22/iOSDevCamp-Seattle
+status: publish
 type: post
 format: html
 ---

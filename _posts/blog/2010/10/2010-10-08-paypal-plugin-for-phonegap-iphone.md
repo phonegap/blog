@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2010-10-08 19:01:09'
-link: http://blogs.nitobi.com/shazron/2010/10/08/paypal-plugin-for-phonegap-iphone/
-slug: paypal-plugin-for-phonegap-iphone
-status: publish
 title: PayPal Plugin for PhoneGap iPhone
+date: 2010-10-08 19:01:09 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2010/10/08/paypal-plugin-for-phonegap-iphone/
+status: publish
 type: post
 format: html
 ---

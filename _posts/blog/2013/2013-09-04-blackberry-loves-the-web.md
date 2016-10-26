@@ -1,12 +1,12 @@
 ---
-date: 2013-09-04 15:20:04
-author: Colene Chow
-title: "PhoneGap Day US 2013: BlackBerry Loves the Web"
-format: html
+title: 'PhoneGap Day US 2013: BlackBerry Loves the Web'
+date: 2013-09-04 15:20:04 Z
 tags:
 - PhoneGap Day
 - Community
 - Event
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success!

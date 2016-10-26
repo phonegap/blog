@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-03-21 05:37:34'
-link: http://blogs.nitobi.com/andre/index.php/2011/03/21/phonegap-at-ctia-wireless/
-slug: phonegap-at-ctia-wireless
-status: publish
 title: PhoneGap at CTIA Wireless
+date: 2011-03-21 05:37:34 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/03/21/phonegap-at-ctia-wireless/
+status: publish
 type: post
 format: html
 ---

@@ -1,14 +1,12 @@
 ---
-author: Capulet
-categories: app
-date: '2011-08-08 15:54:57'
-slug: phonegap-1-0-creates-a-stir
-status: publish
 title: PhoneGap 1.0 Creates a Stir
-type: post
-format: html
+date: 2011-08-08 15:54:57 Z
 categories:
 - News
+author: Capulet
+status: publish
+type: post
+format: html
 tags_old:
 - phonegap 1.0
 ---

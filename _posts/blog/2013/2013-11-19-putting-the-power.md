@@ -1,9 +1,9 @@
 ---
-date: 2013-11-19 10:40:03
-author: Philipp Nagele
-title: "Putting the power of AR in your projects"
+title: Putting the power of AR in your projects
+date: 2013-11-19 10:40:03 Z
 tags:
 - Guest Post
+author: Philipp Nagele
 ---
 
 If we take a look back at the state of progress of technology, there’s a clear trajectory. We’ve moved from the desktop to the laptop to the handheld, and next, the wearable. Since the beginning of computing, we as humans have strived to remove the unnatural input mechanism, primarily, the keyboard. This problem isn’t exactly solved through wearable technology but we’re getting closer by the day.

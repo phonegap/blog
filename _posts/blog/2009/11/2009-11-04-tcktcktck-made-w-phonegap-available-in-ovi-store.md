@@ -1,11 +1,11 @@
 ---
-author: Ryan Willoughby
-categories: app
-date: '2009-11-04 10:03:18'
-link: http://blogs.nitobi.com/ryan/index.php/2009/11/04/tcktcktck-made-w-phonegap-available-in-ovi-store/
-slug: tcktcktck-made-w-phonegap-available-in-ovi-store
-status: publish
 title: Tcktcktck (made w/ phonegap) available in ovi store
+date: 2009-11-04 10:03:18 Z
+categories:
+- app
+author: Ryan Willoughby
+link: http://blogs.nitobi.com/ryan/index.php/2009/11/04/tcktcktck-made-w-phonegap-available-in-ovi-store/
+status: publish
 type: post
 format: html
 ---

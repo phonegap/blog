@@ -1,16 +1,16 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-06-12 21:46:17'
-slug: limited-time-offer-on-pg-day
-status: publish
 title: Limited time offer on PG Day US Tickets
-type: post
-format: html
+date: 2012-06-12 21:46:17 Z
+categories:
+- app
 tags:
 - News
 - PhoneGap Day
 - Event
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Good news! Thanks to generous sponsorship from our friends at [Intel](http://intel.com), we're lowering the price of [PhoneGap Day](http://pgday.phonegap.com/us2012) tickets. **We are now offering tickets for PhoneGap day for only $50!**

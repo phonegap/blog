@@ -1,13 +1,13 @@
 ---
-date: 2014-09-02 10:00:28
-author: Michael Brooks
-title: "PhoneGap Developer App 1.3.0"
+title: PhoneGap Developer App 1.3.0
+date: 2014-09-02 10:00:28 Z
 tags:
 - App
 - News
 - Android
 - iOS
 - Windows Phone
+author: Michael Brooks
 ---
 
 We hope all of our Canadian and Americian friends had a great long weekend! To help kick off the new week, we're releasing the PhoneGap Developer App 1.3.0!

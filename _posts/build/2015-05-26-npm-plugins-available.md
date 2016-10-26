@@ -1,11 +1,11 @@
 ---
+title: npm Plugins Are Now on PhoneGap Build!
+date: 2015-05-26 13:00:02 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2015-05-26 15:00:02
-date: 2015-05-26 13:00:02
 author: Brett Rudd
-title: "npm Plugins Are Now on PhoneGap Build!"
-category: build
 ---
 
 As announced in this [blog post](http://cordova.apache.org/announcements/2015/04/21/plugins-release-and-move-to-npm.html),

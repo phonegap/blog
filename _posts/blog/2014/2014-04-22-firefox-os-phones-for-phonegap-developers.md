@@ -1,7 +1,7 @@
 ---
-date: 2014-04-22 09:40:03
+title: Firefox OS Phones for PhoneGap Devs
+date: 2014-04-22 09:40:03 Z
 author: Brian LeRoux
-title: "Firefox OS Phones for PhoneGap Devs"
 ---
 
 Mozilla is focused on finding the very best Open Web Apps to bring to Firefox OS — apps that deliver great experiences and local relevance to Firefox OS mobile users around the world.  For HTML5 developers, powerful cross-platform tools make it easier to build apps for native platforms and to access native device APIs.

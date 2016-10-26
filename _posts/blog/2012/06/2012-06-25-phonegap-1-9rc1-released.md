@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-06-25 19:03:53'
-slug: phonegap-1-9rc1-released
-status: publish
 title: PhoneGap 1.9rc1 Released
-type: post
-format: html
+date: 2012-06-25 19:03:53 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We have just released the first release candidate (RC) for [PhoneGap 1.9.0](https://github.com/phonegap/phonegap/zipball/1.9.0rc1)! This version of PhoneGap is composed mainly of bug fixes and the addition of Cordova webview for Android.

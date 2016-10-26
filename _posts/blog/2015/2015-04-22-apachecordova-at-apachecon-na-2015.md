@@ -1,10 +1,10 @@
 ---
-date: 2015-04-22 11:00:02
-author: Anis Kadri
-title: "Apache Cordova at ApacheCon NA 2015"
+title: Apache Cordova at ApacheCon NA 2015
+date: 2015-04-22 11:00:02 Z
 tags:
 - Event
 - Community
+author: Anis Kadri
 ---
 
 ApacheCon NA took place last week in Austin, TX. The conference was managed by the Linux Foundation and was really well organized. It was mostly focused on infrastructure projects (Big Data, Clusters, DB & Storage, …) but Apache Cordova was still represented and had 4 dedicated talks. It was a good opportunity for Cordova committers from different companies to get together, talk about the project and share some ideas. There were people from Microsoft, Adobe, Google, Intel and Ionic. It was also a good opportunity to talk to the people behind the Apache Software foundation and discuss the pain points that Apache Cordova faces.

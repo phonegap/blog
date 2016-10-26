@@ -1,10 +1,10 @@
 ---
-date: 2013-10-11 15:40:03
-author: Colene Chow
-title: "InfoWorld Bossie Award for Best Open Source Development Tool"
+title: InfoWorld Bossie Award for Best Open Source Development Tool
+date: 2013-10-11 15:40:03 Z
 tags:
 - News
 - Community
+author: Colene Chow
 ---
 
 Adobe PhoneGap has received a Bossie Award for Best Open Source Application Development Tool!

@@ -1,9 +1,10 @@
 ---
-author: Suraj Pindoria
 title: PhoneGap Push Plugin 1.8.0
+date: 2016-07-26 00:00:00 Z
 tags:
 - Release
 - News
+author: Suraj Pindoria
 ---
 
 We haven't done a post regarding phonegap-plugin-push for awhile, but we have just

@@ -1,10 +1,11 @@
 ---
+title: Cordova 3.1.0 Now on PhoneGap Build
+date: 2013-10-24 11:00:05 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2013-10-24 11:00:05
 author: Ryan Willoughby
-title: "Cordova 3.1.0 Now on PhoneGap Build"
-category: build
 ---
 
 [PhoneGap Build](http://build.phonegap.com) is happy to announce that we now support Cordova 3.1.0. For more info on what's included in 

@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-25 16:40:37'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/25/a-vc-html5-mobile-apps-fred-wilson-gets-it/
-slug: a-vc-html5-mobile-apps-%e2%80%93-fred-wilson-gets-it-3
-status: publish
 title: 'A VC: HTML5 Mobile Apps – Fred Wilson Gets It!'
+date: 2010-11-25 16:40:37 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/25/a-vc-html5-mobile-apps-fred-wilson-gets-it/
+status: publish
 type: post
 format: html
 ---

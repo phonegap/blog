@@ -1,10 +1,12 @@
 ---
-date: 2014-12-09 13:00:03
-author: Brett Rudd
-title: "New PhoneGap Build Features: new app size limits, support for external plugins, and more!"
-category: build
+title: 'New PhoneGap Build Features: new app size limits, support for external plugins,
+  and more!'
+date: 2014-12-09 13:00:03 Z
+categories:
+- build
 tags:
 - PhoneGap Build
+author: Brett Rudd
 ---
 
 The PhoneGap Build team is excited to announce some big changes all designed to make your dev life easier. Say goodbye to plugin restrictions and no more waiting for reviews and approvals.

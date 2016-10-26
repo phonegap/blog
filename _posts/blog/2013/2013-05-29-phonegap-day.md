@@ -1,11 +1,11 @@
 ---
-date: 2013-05-29 23:20:02
-author: Colene Chow
-title: "Celebrate PhoneGap Day US 2013"
+title: Celebrate PhoneGap Day US 2013
+date: 2013-05-29 23:20:02 Z
 tags:
 - Event
 - Community
 - News
+author: Colene Chow
 ---
 
 We're excited to announce our 3rd Annual PhoneGap Day! On Friday July 19th, we're celebrating PhoneGap Day at [The LeftBank Annex](http://leftbankannex.com) in Portland, Oregon.

@@ -1,10 +1,10 @@
 ---
-date: 2013-06-13 16:15:00
-author: Matt Van Veenendaal
-format: html
-title: "Power Your PhoneGap App with the New ShowKit SDK"
+title: Power Your PhoneGap App with the New ShowKit SDK
+date: 2013-06-13 16:15:00 Z
 tags:
 - Guest Post
+author: Matt Van Veenendaal
+format: html
 ---
 
 ShowKit, a powerful mobile SDK that allows developers to easily integrate audio/video conferencing, screen sharing, and remote gesture control into any mobile application, is happy to announce that our latest release now supports PhoneGap [integration](http://blog.showkit.com/post/52806556213/showkit-now-supports-phonegap).

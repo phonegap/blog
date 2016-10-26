@@ -1,11 +1,11 @@
 ---
-author: Steve Gill
-categories: app
-date: '2010-05-31 19:51:40'
-link: http://blogs.nitobi.com/steve/?p=23
-slug: converting-an-iphone-phonegap-app-to-a-palm-phonegap-app-in-10-minutes-2
-status: publish
 title: Converting an iPhone PhoneGap app to a Palm PhoneGap app in 10 minutes
+date: 2010-05-31 19:51:40 Z
+categories:
+- app
+author: Steve Gill
+link: http://blogs.nitobi.com/steve/?p=23
+status: publish
 type: post
 format: html
 ---

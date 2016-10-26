@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-10-27 13:54:48'
-link: http://blogs.nitobi.com/jesse/2009/10/27/iphonegap/
-slug: phonegap-static-lib-for-iphone-xcode
-status: publish
 title: PhoneGap Static lib for iPhone-XCode
+date: 2009-10-27 13:54:48 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/10/27/iphonegap/
+status: publish
 type: post
 format: html
 ---

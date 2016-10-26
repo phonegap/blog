@@ -1,10 +1,10 @@
 ---
-date: 2015-04-28 15:00:02
-author: Steve Gill
-title: "PhoneGap CLI 5.0.0 Released!"
+title: PhoneGap CLI 5.0.0 Released!
+date: 2015-04-28 15:00:02 Z
 tags:
 - Release
 - Announcement
+author: Steve Gill
 ---
 
 We have just released a new version of the [PhoneGap CLI 5.0.0](https://www.npmjs.com/package/phonegap)!

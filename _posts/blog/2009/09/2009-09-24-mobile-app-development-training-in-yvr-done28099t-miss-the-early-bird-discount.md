@@ -1,11 +1,11 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2009-09-24 10:57:35'
-link: http://blogs.nitobi.com/brian/2009/09/24/mobile-app-development-training-in-yvr-dont-miss-the-early-bird-discount/
-slug: mobile-app-development-training-in-yvr-don%e2%80%99t-miss-the-early-bird-discount
-status: publish
 title: Mobile App Development Training in YVR, Don’t Miss the Early Bird Discount
+date: 2009-09-24 10:57:35 Z
+categories:
+- app
+author: Brian LeRoux
+link: http://blogs.nitobi.com/brian/2009/09/24/mobile-app-development-training-in-yvr-dont-miss-the-early-bird-discount/
+status: publish
 type: post
 format: html
 ---

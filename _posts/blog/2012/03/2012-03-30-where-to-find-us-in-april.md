@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-03-30 23:54:31'
-slug: where-to-find-us-in-april
-status: publish
 title: Where to find us in April
-type: post
-format: html
+date: 2012-03-30 23:54:31 Z
+categories:
+- app
 tags:
 - News
 - Event
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 The PhoneGap team is off to more conferences and meet ups in April. Check out where we're headed:

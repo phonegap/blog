@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2010-12-04 02:00:05'
-link: http://blogs.nitobi.com/shazron/2010/12/04/xcode-shell-build-phase-reporting-of-errors/
-slug: xcode-shell-build-phase-reporting-of-errors
-status: publish
 title: Xcode shell build phase, reporting of errors
+date: 2010-12-04 02:00:05 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2010/12/04/xcode-shell-build-phase-reporting-of-errors/
+status: publish
 type: post
 format: html
 ---

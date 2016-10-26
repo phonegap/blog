@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-03-25 18:06:18'
-slug: phonegap-tech-talk-at-facebook-hq
-status: publish
 title: PhoneGap Tech Talk at Facebook HQ
+date: 2011-03-25 18:06:18 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

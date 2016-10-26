@@ -1,9 +1,10 @@
 ---
 title: Appliness features PhoneGap
-author: Steve Gill
+date: 2012-08-02 00:00:00 Z
 tags:
 - App
 - News
+author: Steve Gill
 ---
 
 [Appliness](http://www.appliness.com) is the first digital magazine for web application developers. Their focus is on HTML, JavaScript, jQuery, BackBone, PhoneGap and other related technologies. This interactive magazine is created by developers for developers and has over 10,000 readers.

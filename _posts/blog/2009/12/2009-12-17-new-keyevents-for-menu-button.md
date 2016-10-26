@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2009-12-17 19:43:17'
-link: http://blogs.nitobi.com/joe/2009/12/17/new-keyevents-for-menu-button/
-slug: new-keyevents-for-menu-button
-status: publish
 title: 'New: KeyEvents for Menu Button'
+date: 2009-12-17 19:43:17 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2009/12/17/new-keyevents-for-menu-button/
+status: publish
 type: post
 format: html
 ---

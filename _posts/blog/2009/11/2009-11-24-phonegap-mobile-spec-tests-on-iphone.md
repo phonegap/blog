@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2009-11-24 19:01:05'
-link: http://blogs.nitobi.com/shazron/2009/11/24/phonegap-mobile-spec-tests-on-iphone/
-slug: phonegap-mobile-spec-tests-on-iphone
-status: publish
 title: PhoneGap Mobile Spec tests on iPhone
+date: 2009-11-24 19:01:05 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2009/11/24/phonegap-mobile-spec-tests-on-iphone/
+status: publish
 type: post
 format: html
 ---

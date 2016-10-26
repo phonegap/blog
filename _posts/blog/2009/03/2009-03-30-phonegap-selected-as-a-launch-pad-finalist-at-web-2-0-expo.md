@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2009-03-30 22:36:29'
-link: http://blogs.nitobi.com/andre/index.php/2009/03/30/phonegap-selected-as-a-launch-pad-finalist-at-web-20-expo/
-slug: phonegap-selected-as-a-launch-pad-finalist-at-web-2-0-expo
-status: publish
 title: PhoneGap selected as a Launch Pad Finalist at Web 2.0 Expo
+date: 2009-03-30 22:36:29 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2009/03/30/phonegap-selected-as-a-launch-pad-finalist-at-web-20-expo/
+status: publish
 type: post
 format: html
 ---

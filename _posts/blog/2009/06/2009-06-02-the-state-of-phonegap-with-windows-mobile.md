@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2009-06-02 12:22:08'
-link: http://blogs.nitobi.com/shazron/2009/06/02/the-state-of-phonegap-with-windows-mobile/
-slug: the-state-of-phonegap-with-windows-mobile
-status: publish
 title: The State of PhoneGap with Windows Mobile
+date: 2009-06-02 12:22:08 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2009/06/02/the-state-of-phonegap-with-windows-mobile/
+status: publish
 type: post
 format: html
 ---

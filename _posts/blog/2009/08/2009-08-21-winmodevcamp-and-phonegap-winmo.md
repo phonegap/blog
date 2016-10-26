@@ -1,11 +1,11 @@
 ---
-author: Fil
-categories: app
-date: '2009-08-21 22:11:57'
-link: http://blogs.nitobi.com/fil/2009/08/21/winmodevcamp-and-phonegap-winmo/
-slug: winmodevcamp-and-phonegap-winmo
-status: publish
 title: WinMoDevCamp and PhoneGap WinMo
+date: 2009-08-21 22:11:57 Z
+categories:
+- app
+author: Fil
+link: http://blogs.nitobi.com/fil/2009/08/21/winmodevcamp-and-phonegap-winmo/
+status: publish
 type: post
 format: html
 ---

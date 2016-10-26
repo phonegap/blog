@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-04-11 20:14:35'
-slug: phonegap-1-6-released
-status: publish
 title: PhoneGap 1.6 Released!
-type: post
-format: html
+date: 2012-04-11 20:14:35 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We are happy to announce the release of [PhoneGap 1.6](http://phonegap.com/download)! The PhoneGap/Apache Cordova Community has worked hard to fix many bugs (including the nasty local storage bug caused by the iOS 5.1 update) and added some new features.

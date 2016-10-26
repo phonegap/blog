@@ -1,10 +1,10 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-09-14 22:29:32'
-slug: special-webinar-phonegap-worklight
-status: publish
 title: 'Special Webinar: PhoneGap & Worklight'
+date: 2011-09-14 22:29:32 Z
+categories:
+- app
+author: Colene Chow
+status: publish
 type: post
 format: html
 ---

@@ -1,16 +1,16 @@
 ---
-author: Dave Johnson
-categories: app
-date: '2008-09-18 16:57:28'
-slug: phonegap-its-like-air-for-the-iphone
-status: publish
 title: 'PhoneGap: It’s Like AIR for the IPhone'
+date: 2008-09-18 16:57:28 Z
+categories:
+- app
+author: Dave Johnson
+status: publish
 type: post
 format: html
 tags_old:
 - ios
 redirect_from:
-  - /2008/09/18/phonegap-ite28099s-like-air-for-the-iphone/
+- "/2008/09/18/phonegap-ite28099s-like-air-for-the-iphone/"
 ---
 
 ![](http://farm2.static.flickr.com/1413/1490570992_3ed3f29633_m.jpg) A few weeks back Brock and Rob from here at Nitobi built an amazing IPhone framework down at [IPhoneDevCamp](http://www.iphonedevcamp.org/) that we have named [PhoneGap](http://phonegap.com). While I have attributed the injustice of us not winning any of the competition categories of IPhoneDevCamp to the completely jaw dropping achievement of our team, in just two days of development (with most of the competition winners having developed their apps weeks or months before IPhoneDevCamp) it does not take away from the excitement I have for our PhoneGap framework. And there is lots of excitement around PhoneGap with [some](http://iphonemicrosites.com/news/phonegap-converts-webapps-to-native-apps/) [blogs](http://britg.com/2008/08/21/phonegap-native-iphone-apps-running-your-html-css-javascript-code/) [about it](http://appleiphoneapps.org/2008/08/22/phonegap-native-iphone-apps-running-your-html-css-javascript-code/), lots of activity over at [GitHub](http://github.com/sintaxi/gap), and 60 people signed up to the [PhoneGap Google Group](http://groups.google.com/group/phonegap) in just a few short weeks!

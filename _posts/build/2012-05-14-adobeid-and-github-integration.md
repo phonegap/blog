@@ -1,9 +1,9 @@
 ---
+title: Register and sign in with AdobeID and Github
+date: 2012-05-14 16:16:42 Z
 tags:
 - PhoneGap Build
 author: Ryan Betts
-title: Register and sign in with AdobeID and Github
-date: Mon May 14 09:16:42 -0700 2012
 ---
 
 Good news, folks - you can now [register](/people/sign_up) for Adobe® PhoneGap™ Build using your AdobeID or Github account. 

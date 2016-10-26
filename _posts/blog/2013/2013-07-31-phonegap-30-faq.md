@@ -1,11 +1,11 @@
 ---
-date: 2013-07-31 14:00:05
-author: Colene Chow
-title: "PhoneGap 3.0 FAQ"
+title: PhoneGap 3.0 FAQ
+date: 2013-07-31 14:00:05 Z
 tags:
 - Framework
 - PhoneGap Build
 - News
+author: Colene Chow
 ---
 
 Since we released [PhoneGap 3.0](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released), we’ve received a lot of positive feedback from the community. Thanks guys! We’ve also received some great questions, so we’ve compiled this FAQ to help clear things up.

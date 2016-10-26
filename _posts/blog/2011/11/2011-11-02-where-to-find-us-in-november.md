@@ -1,16 +1,16 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-11-02 17:47:27'
-slug: where-to-find-us-in-november
-status: publish
 title: Where to find us in November
-type: post
-format: html
+date: 2011-11-02 17:47:27 Z
+categories:
+- app
 tags:
 - News
 - Community
 - Event
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 We're nearing the end of the year but we still have time to squeeze in some road trips! We'll be at the following conferences and events in November:

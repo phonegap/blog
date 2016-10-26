@@ -1,10 +1,10 @@
 ---
-author: admin
-categories: app
-date: '2008-08-07 05:50:48'
-slug: unofficial-announcement-of-phonegap
-status: publish
 title: Unofficial announcement of PhoneGap
+date: 2008-08-07 05:50:48 Z
+categories:
+- app
+author: admin
+status: publish
 type: post
 format: html
 tags_old:

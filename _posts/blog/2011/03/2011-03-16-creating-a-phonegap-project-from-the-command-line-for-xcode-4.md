@@ -1,11 +1,11 @@
 ---
-author: Shazron Abdullah
-categories: app
-date: '2011-03-16 01:06:37'
-link: http://blogs.nitobi.com/shazron/2011/03/16/creating-a-phonegap-project-from-the-command-line-for-xcode-4/
-slug: creating-a-phonegap-project-from-the-command-line-for-xcode-4
-status: publish
 title: Creating a PhoneGap project from the command line (for Xcode 4)
+date: 2011-03-16 01:06:37 Z
+categories:
+- app
+author: Shazron Abdullah
+link: http://blogs.nitobi.com/shazron/2011/03/16/creating-a-phonegap-project-from-the-command-line-for-xcode-4/
+status: publish
 type: post
 format: html
 ---

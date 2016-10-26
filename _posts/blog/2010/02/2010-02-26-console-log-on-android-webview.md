@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-02-26 19:18:57'
-link: http://blogs.nitobi.com/joe/2010/02/26/console-log-on-android-webview/
-slug: console-log-on-android-webview
-status: publish
 title: console.log on Android WebView
+date: 2010-02-26 19:18:57 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/02/26/console-log-on-android-webview/
+status: publish
 type: post
 format: html
 ---

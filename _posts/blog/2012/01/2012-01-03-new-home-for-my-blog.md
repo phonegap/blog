@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2012-01-03 10:15:06'
-link: http://blogs.nitobi.com/jesse/2012/01/03/new-home-for-my-blog/
-slug: new-home-for-my-blog
-status: publish
 title: New home for my blog
+date: 2012-01-03 10:15:06 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2012/01/03/new-home-for-my-blog/
+status: publish
 type: post
 format: html
 ---

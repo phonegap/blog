@@ -1,12 +1,12 @@
 ---
-date: 2013-11-22 11:40:04
-author: Colene Chow
-title: "PhoneGap Day EU 2013: Chrome Plugins for Cordova"
-format: html
+title: 'PhoneGap Day EU 2013: Chrome Plugins for Cordova'
+date: 2013-11-22 11:40:04 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2013). We'll be rolling out all the videos over the coming days for those who weren't able to attend.

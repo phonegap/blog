@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2010-04-14 22:35:07'
-link: http://blogs.nitobi.com/jesse/2010/04/14/phonegap-and-the-apple-developer-license-agreement/
-slug: phonegap-and-the-apple-developer-license-agreement
-status: publish
 title: PhoneGap and the Apple developer license agreement.
+date: 2010-04-14 22:35:07 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2010/04/14/phonegap-and-the-apple-developer-license-agreement/
+status: publish
 type: post
 format: html
 ---

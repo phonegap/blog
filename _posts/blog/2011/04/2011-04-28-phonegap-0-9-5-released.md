@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-04-28 21:40:18'
-slug: phonegap-0-9-5-released
-status: publish
 title: PhoneGap 0.9.5 Released!
+date: 2011-04-28 21:40:18 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

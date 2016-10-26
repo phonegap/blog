@@ -1,14 +1,14 @@
 ---
-author: Michael Brooks
-categories: app
-date: '2012-05-18 00:10:29'
-slug: phonegap-community-release-notes
-status: publish
 title: PhoneGap Community Release Notes
-type: post
-format: html
+date: 2012-05-18 00:10:29 Z
+categories:
+- app
 tags:
 - Community
+author: Michael Brooks
+status: publish
+type: post
+format: html
 ---
 
 We're proud to announce that yesterday we open sourced the [PhoneGap Community Release Notes](https://github.com/phonegap/phonegap-community).

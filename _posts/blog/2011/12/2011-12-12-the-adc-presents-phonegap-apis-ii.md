@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-12-12 20:07:59'
-slug: the-adc-presents-phonegap-apis-ii
-status: publish
 title: The ADC presents PhoneGap APIs II
-type: post
-format: html
+date: 2011-12-12 20:07:59 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Adobe Developer Evangelist [Kevin Hoyt](http://twitter.com/krhoyt) has released new videos covering more PhoneGap APIs. In these step-by-step videos he covers how to use the Connection, Contacts and Device APIs.

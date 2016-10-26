@@ -1,8 +1,7 @@
 ---
-date: 2013-12-13 18:40:03
+title: PhoneGap 3.3.0 Released
+date: 2013-12-13 18:40:03 Z
 author: Lorin Beer
-title: "PhoneGap 3.3.0 Released"
-tags:
 ---
 
 The Adobe PhoneGap team is happy to announce the release of PhoneGap 3.3.0. Just in time for the holidays!

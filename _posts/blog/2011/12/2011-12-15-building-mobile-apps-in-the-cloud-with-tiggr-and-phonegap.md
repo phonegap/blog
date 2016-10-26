@@ -1,16 +1,16 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-12-15 00:57:37'
-slug: building-mobile-apps-in-the-cloud-with-tiggr-and-phonegap
-status: publish
 title: Building Mobile Apps in the Cloud with Tiggr and PhoneGap
-type: post
-format: html
+date: 2011-12-15 00:57:37 Z
+categories:
+- app
 tags:
 - Guest Post
 - App
 - iOS
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 > Guest blog post by Max Katz

@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-03-31 00:36:12'
-slug: phonegap-at-mobile-app-hack-a-thon
-status: publish
 title: PhoneGap at Mobile App Hack-A-Thon
+date: 2011-03-31 00:36:12 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

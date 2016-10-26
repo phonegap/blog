@@ -1,9 +1,9 @@
 ---
-date: 2014-06-12 14:20:04
-author: Lorin Beer
-title: "PhoneGap 3.5.0 Release"
+title: PhoneGap 3.5.0 Release
+date: 2014-06-12 14:20:04 Z
 tags:
 - Release
+author: Lorin Beer
 ---
 
 The PhoneGap team is happy to announce the release of PhoneGap 3.5.0!

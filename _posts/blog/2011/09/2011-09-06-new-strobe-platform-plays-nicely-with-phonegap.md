@@ -1,14 +1,12 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-09-06 22:16:43'
-slug: new-strobe-platform-plays-nicely-with-phonegap
-status: publish
 title: New Strobe Platform plays nicely with PhoneGap
-type: post
-format: html
+date: 2011-09-06 22:16:43 Z
 categories:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 Congratulations to [Strobe](http://www.strobecorp.com/) on its recent launch! Strobe is a new app platform and delivery network that helps developers build HTML5-based Web applications for desktops, smartphones and tablets, while centrally managing them from a single interface. The best part? Strobe has [PhoneGap Build](https://build.phonegap.com/) integration built in, which allows users to build for iOS, Android, BB, Symbian, and webOS without having to download all the necessary SDK's and IDE's.

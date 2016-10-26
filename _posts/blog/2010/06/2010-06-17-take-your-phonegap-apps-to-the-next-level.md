@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-06-17 22:19:38'
-link: http://blogs.nitobi.com/andre/index.php/2010/06/17/take-your-phonegap-apps-to-the-next-level/
-slug: take-your-phonegap-apps-to-the-next-level
-status: publish
 title: Take Your PhoneGap Apps to the Next Level
+date: 2010-06-17 22:19:38 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/06/17/take-your-phonegap-apps-to-the-next-level/
+status: publish
 type: post
 format: html
 ---

@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2009-04-17 02:44:55'
-link: http://blogs.nitobi.com/jesse/2009/04/17/the-race-to-the-megatweet/
-slug: the-race-to-the-megatweet
-status: publish
 title: The race to the MegaTweet
+date: 2009-04-17 02:44:55 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2009/04/17/the-race-to-the-megatweet/
+status: publish
 type: post
 format: html
 ---

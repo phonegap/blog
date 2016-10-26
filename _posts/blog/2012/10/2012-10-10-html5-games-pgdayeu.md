@@ -1,10 +1,11 @@
 ---
 title: Building Games with HTML5 from PhoneGap Day EU 2012
-author: Steve Gill
-format: html
+date: 2012-10-10 00:00:00 Z
 tags:
 - PhoneGap Day
 - Event
+author: Steve Gill
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2012/) and made it such a huge success. We have decided to highlight each video for those of you who weren't able to attend.

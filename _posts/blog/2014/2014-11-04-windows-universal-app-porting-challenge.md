@@ -1,9 +1,9 @@
 ---
-date: 2014-11-04 12:00:02
-author: Ryan Lowdermilk
-title: "Windows Universal App Porting Challenge"
+title: Windows Universal App Porting Challenge
+date: 2014-11-04 12:00:02 Z
 tags:
 - Guest Post
+author: Ryan Lowdermilk
 ---
 
 I'm excited to announce our Windows Universal App Porting Challenge for all U.S. PhoneGap developers. Take your Google Play Store or Apple Store app, port it to a Windows Universal App and submit it to our Windows and Windows Phone Store for a chance to win.

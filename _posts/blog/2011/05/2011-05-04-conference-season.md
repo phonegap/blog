@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2011-05-04 17:46:07'
-link: http://blogs.nitobi.com/joe/2011/05/04/conference-season/
-slug: conference-season
-status: publish
 title: Conference Season
+date: 2011-05-04 17:46:07 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2011/05/04/conference-season/
+status: publish
 type: post
 format: html
 ---

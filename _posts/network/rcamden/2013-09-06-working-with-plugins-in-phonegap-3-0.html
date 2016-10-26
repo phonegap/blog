@@ -1,15 +1,16 @@
---- 
-author: Raymond Camden
-link: http://www.raymondcamden.com/2013/09/06/Working-with-Plugins-in-PhoneGap-30
-date: 2013-09-06 13:21:00 Z
-type: post
-external: true
+---
 title: Working with Plugins in PhoneGap 3.0
-status: publish
+date: 2013-09-06 13:21:00 Z
 tags:
 - PhoneGap Network
+author: Raymond Camden
+link: http://www.raymondcamden.com/2013/09/06/Working-with-Plugins-in-PhoneGap-30
+type: post
+external: true
+status: publish
 format: html
 ---
+
 Another post about PhoneGap 3.0! So - I don't work with plugins a lot. I play with them every now and then, but I would certainly not consider myself an expert. Therefore, most of what I'm about to share here may be common knowledge, and if so, great, but I lost an hour or so yesterday trying to understand how to install a plugin via the command line and I figured a quick overview may help others.As you know, <a href="http://www.raymondcamden.com/2013/07/19/PhoneGap-30-Released-Things-You-Should-Know">PhoneGap 3</a> made it so that all of the core features (accelerometer, camera, etc) were plugins. To use those features you first had to add the plugin to your project. Luckily, this is rather easy to do at the command line. So for example, here is how you add Camera support:
 
 phonegap local plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-camera.git

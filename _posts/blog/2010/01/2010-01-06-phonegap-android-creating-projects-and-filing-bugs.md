@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2010-01-06 18:35:10'
-link: http://blogs.nitobi.com/joe/2010/01/06/phonegap-android-creating-projects-and-filing-bugs/
-slug: phonegap-android-creating-projects-and-filing-bugs
-status: publish
 title: 'PhoneGap Android: Creating projects and filing bugs'
+date: 2010-01-06 18:35:10 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2010/01/06/phonegap-android-creating-projects-and-filing-bugs/
+status: publish
 type: post
 format: html
 ---

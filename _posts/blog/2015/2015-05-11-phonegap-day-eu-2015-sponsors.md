@@ -1,11 +1,11 @@
 ---
-date: 2015-05-11 08:00:02
-author: Jen Gray
-title: "Big thanks to our PhoneGap Day EU 2015 sponsors"
+title: Big thanks to our PhoneGap Day EU 2015 sponsors
+date: 2015-05-11 08:00:02 Z
 tags:
 - Event
 - News
 - PhoneGap Day
+author: Jen Gray
 ---
 
 We're one week away from [PhoneGap Day EU 2015](http://pgday.phonegap.com/eu2015/) and we can't wait to join hundreds of PhoneGap users, industry experts and our sponsors: [Canonical](http://www.canonical.com/), [Crosswalk](https://crosswalk-project.org/), [Ionic](http://ionicframework.com/) and [Telerik](http://www.telerik.com/) in Amsterdam May 18-19. Here's a quick look at what each one has in store for attendees:

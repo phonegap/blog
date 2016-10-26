@@ -1,11 +1,11 @@
 ---
-date: 2015-07-07 11:00:03
-author: Herm Wong
-title: "PhoneGap Desktop App 0.1.8"
+title: PhoneGap Desktop App 0.1.8
+date: 2015-07-07 11:00:03 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop App 0.1.8 mostly consists of minor code clean up and maintenance related issues.

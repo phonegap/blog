@@ -1,11 +1,11 @@
 ---
-author: Joe Bowser
-categories: app
-date: '2009-11-26 12:41:58'
-link: http://blogs.nitobi.com/joe/2009/11/26/android-1-5-to-2-0-support-in-edge/
-slug: android-1-5-to-2-0-support-in-edge
-status: publish
 title: Android 1.5 to 2.0 Support in EDGE
+date: 2009-11-26 12:41:58 Z
+categories:
+- app
+author: Joe Bowser
+link: http://blogs.nitobi.com/joe/2009/11/26/android-1-5-to-2-0-support-in-edge/
+status: publish
 type: post
 format: html
 ---

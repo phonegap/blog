@@ -1,12 +1,12 @@
 ---
-date: 2013-08-29 12:20:03
-author: Colene Chow
-format: html
-title: "PhoneGap Day US 2013: Mobile is not a thing. It is Everything."
+title: 'PhoneGap Day US 2013: Mobile is not a thing. It is Everything.'
+date: 2013-08-29 12:20:03 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success. I know you've been anxiously awaiting the PhoneGap Day US videos -- us too! We're finally getting videos back and will be posting them as we receive them.

@@ -1,11 +1,11 @@
 ---
-author: silentrob
-categories: app
-date: '2009-11-05 12:01:04'
-link: http://blogs.nitobi.com/rob/index.php/2009/11/05/xui-sweeter-then-ever/
-slug: xui-sweeter-then-ever
-status: publish
 title: XUI Sweeter then ever.
+date: 2009-11-05 12:01:04 Z
+categories:
+- app
+author: silentrob
+link: http://blogs.nitobi.com/rob/index.php/2009/11/05/xui-sweeter-then-ever/
+status: publish
 type: post
 format: html
 ---

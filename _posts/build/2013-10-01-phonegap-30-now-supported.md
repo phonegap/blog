@@ -1,10 +1,11 @@
 ---
+title: PhoneGap 3.0 Now Supported in PhoneGap Build
+date: 2013-10-01 12:00:03 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2013-10-01 12:00:03
 author: Ryan Stewart
-title: "PhoneGap 3.0 Now Supported in PhoneGap Build"
-category: build
 ---
 
 PhoneGap 3.0 is now available as a build target in PhoneGap Build! You can start using 3.0 by specifying it in your config.xml file by using the `phonegap-version` preference:

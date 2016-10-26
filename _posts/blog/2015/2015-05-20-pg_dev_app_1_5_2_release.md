@@ -1,13 +1,13 @@
 ---
-date: 2015-05-20 14:00:02
-author: Tim Kim
-title: "PhoneGap Developer App 1.5.2 Release"
+title: PhoneGap Developer App 1.5.2 Release
+date: 2015-05-20 14:00:02 Z
 tags:
 - App
 - News
 - Windows Phone
 - iOS
 - Android
+author: Tim Kim
 ---
 
 ## What's New

@@ -1,13 +1,12 @@
 ---
-date: 2013-09-16 16:00:03
-author: Colene Chow
-title: "PhoneGap Day US 2013: Using Parse to Save your Stuff"
-format: html
-date: 2013-09-16 15:00:00
+title: 'PhoneGap Day US 2013: Using Parse to Save your Stuff'
+date: 2013-09-16 15:00:00 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success!

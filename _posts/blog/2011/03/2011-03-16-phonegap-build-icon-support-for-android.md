@@ -1,11 +1,11 @@
 ---
-author: Fil
-categories: app
-date: '2011-03-16 00:04:51'
-link: http://blogs.nitobi.com/fil/2011/03/15/phonegap-build-icon-support-for-android/
-slug: phonegap-build-icon-support-for-android
-status: publish
 title: PhoneGap Build Icon Support for Android
+date: 2011-03-16 00:04:51 Z
+categories:
+- app
+author: Fil
+link: http://blogs.nitobi.com/fil/2011/03/15/phonegap-build-icon-support-for-android/
+status: publish
 type: post
 format: html
 ---

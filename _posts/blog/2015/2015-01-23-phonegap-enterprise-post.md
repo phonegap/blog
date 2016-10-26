@@ -1,10 +1,9 @@
 ---
-date: 2015-01-23 08:00:02
-author: Holly Schinsky
-title: "PhoneGap Enterprise"
+title: PhoneGap Enterprise
+date: 2015-01-23 08:00:02 Z
 tags:
 - PhoneGap Enterprise
-
+author: Holly Schinsky
 ---
 
 ## What is it?

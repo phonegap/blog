@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-04-12 00:23:30'
-slug: unplugged-using-html5-to-develop-apps
-status: publish
 title: Unplugged - Using HTML5 to develop apps
+date: 2011-04-12 00:23:30 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

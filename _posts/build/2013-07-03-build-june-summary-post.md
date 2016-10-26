@@ -1,10 +1,11 @@
 ---
+title: Build June Summary
+date: 2013-07-03 07:40:02 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2013-07-03 07:40:02
 author: Mike Harris
-title: "Build June Summary"
-category: build
 ---
 
 #Highlights for June

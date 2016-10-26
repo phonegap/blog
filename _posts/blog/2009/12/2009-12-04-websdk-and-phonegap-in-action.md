@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2009-12-04 20:57:18'
-link: http://blogs.nitobi.com/andre/index.php/2009/12/04/websdk-and-phonegap-in-action/
-slug: websdk-and-phonegap-in-action
-status: publish
 title: WebSDK and PhoneGap in Action
+date: 2009-12-04 20:57:18 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2009/12/04/websdk-and-phonegap-in-action/
+status: publish
 type: post
 format: html
 ---

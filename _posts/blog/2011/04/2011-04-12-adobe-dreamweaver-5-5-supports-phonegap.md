@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-04-12 16:18:14'
-link: http://blogs.nitobi.com/andre/index.php/2011/04/12/adobe-dreamweaver-5-5-supports-phonegap/
-slug: adobe-dreamweaver-5-5-supports-phonegap
-status: publish
 title: Adobe Dreamweaver 5.5 Supports PhoneGap
+date: 2011-04-12 16:18:14 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/04/12/adobe-dreamweaver-5-5-supports-phonegap/
+status: publish
 type: post
 format: html
 ---

@@ -1,12 +1,12 @@
 ---
-date: 2014-12-15 11:00:02
-author: Jen Gray
-title: "PhoneGap Day US 2014: Mobify Perceived Performance in PhoneGap Apps"
-format: html
+title: 'PhoneGap Day US 2014: Mobify Perceived Performance in PhoneGap Apps'
+date: 2014-12-15 11:00:02 Z
 tags:
 - PhoneGap Day
 - Event
 - Community
+author: Jen Gray
+format: html
 ---
 
 A big thanks to everyone who was able to make it to PhoneGap Day US. We'll be posting more videos from the conference so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) or [Youtube channel](https://www.youtube.com/user/PhoneGap).

@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2011-08-11 01:00:41'
-link: http://blogs.nitobi.com/jesse/2011/08/10/my-blog-is-moving/
-slug: my-blog-is-moving
-status: publish
 title: My blog is moving
+date: 2011-08-11 01:00:41 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2011/08/10/my-blog-is-moving/
+status: publish
 type: post
 format: html
 ---

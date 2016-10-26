@@ -1,10 +1,10 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-08-24 22:12:10'
-slug: phonegap-day-mobile-web-design-panel
-status: publish
 title: 'PhoneGap Day: Mobile Web Design Panel'
+date: 2011-08-24 22:12:10 Z
+categories:
+- app
+author: Colene Chow
+status: publish
 type: post
 format: html
 ---

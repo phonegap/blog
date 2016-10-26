@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-01-13 23:46:35'
-slug: phonegap-docs-now-in-french
-status: publish
 title: PhoneGap Docs now in French
-type: post
-format: html
+date: 2012-01-13 23:46:35 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 ## La version française de la doc PhoneGap est en ligne!

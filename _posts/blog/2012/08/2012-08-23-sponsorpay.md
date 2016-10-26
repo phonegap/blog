@@ -1,9 +1,10 @@
 ---
 title: SponsorPay Integrates PhoneGap Plugin
-author: Sponsor Pay
+date: 2012-08-23 00:00:00 Z
 tags:
 - Plugin
 - Guide
+author: Sponsor Pay
 ---
 
 As a monetization solution, we want our partners to have every advantage possible. Our goal has always been to help developers maximize their app(s)' revenue. The best way to do this is by targeting users that wouldn't otherwise make an IAP. That's why we offer eCPM's and an ad-funded model that is optimal for both the user and the developer. Users can perform simple tasks such as installing an app to be rewarded with virtual currency or premium content.

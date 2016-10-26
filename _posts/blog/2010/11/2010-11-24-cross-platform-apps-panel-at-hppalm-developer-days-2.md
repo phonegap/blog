@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-24 12:42:21'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/24/cross-platform-apps-panel-at-hppalm-developer-days/
-slug: cross-platform-apps-panel-at-hppalm-developer-days-2
-status: publish
 title: Cross Platform Apps Panel at HP/Palm Developer Days
+date: 2010-11-24 12:42:21 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/24/cross-platform-apps-panel-at-hppalm-developer-days/
+status: publish
 type: post
 format: html
 ---

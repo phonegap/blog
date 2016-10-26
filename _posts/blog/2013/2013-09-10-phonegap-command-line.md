@@ -1,12 +1,12 @@
 ---
-date: 2013-09-10 01:00:05
-author: Colene Chow
-format: html
-title: "PhoneGap Day US 2013: PhoneGap Command-Line"
+title: 'PhoneGap Day US 2013: PhoneGap Command-Line'
+date: 2013-09-10 01:00:05 Z
 tags:
 - PhoneGap Day
 - Community
 - Event
+author: Colene Chow
+format: html
 ---
 
 Thank you to everyone who attended PhoneGap Day US 2013 and made it such a huge success!

@@ -1,10 +1,10 @@
 ---
-date: 2013-07-25 00:00:05
-author: Amy Benson
-title: "Tips for Developing Apps with PhoneGap"
+title: Tips for Developing Apps with PhoneGap
+date: 2013-07-25 00:00:05 Z
 tags:
 - Guest Post
 - App
+author: Amy Benson
 ---
 
 Oxford and Cambridge Boat Race sponsors, BNY Mellon wanted to craft a [hands-on app](http://whichblueareyou.com/phoneapp) that gave race-goers the chance to feel the thrill and adrenaline of the contest, from the stern of the boat. We selected PhoneGap software to fulfill the brief as the idea of developing once and deploying to multiple platforms is very appealing. And, since we're web developers, HTML, CSS and Javascript are what we know best. There has been a lot of debate recently about using frameworks like PhoneGap versus building native apps, but PhoneGap has worked well for us and I'd happily use it again.

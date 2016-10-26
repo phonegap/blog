@@ -1,11 +1,11 @@
 ---
-date: 2014-02-19 08:40:04
-author: Ayo Omojola
-title: "Hipmob launches a Full In-App Helpdesk for Phonegap developers"
-format: html
+title: Hipmob launches a Full In-App Helpdesk for Phonegap developers
+date: 2014-02-19 08:40:04 Z
 tags:
 - Guest Post
 - Video
+author: Ayo Omojola
+format: html
 ---
 
 Hipmob, a powerful mobile SDK that allows mobile developers, startups, and businesses easily add a support portal to their apps, is happy to announce our newly released [PhoneGap plugin](http://www.hipmob.com/phonegap.html), and a promotion for PhoneGap developers.

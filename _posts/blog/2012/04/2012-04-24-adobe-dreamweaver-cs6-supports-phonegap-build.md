@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-04-24 01:00:43'
-slug: adobe-dreamweaver-cs6-supports-phonegap-build
-status: publish
 title: Adobe Dreamweaver CS6 supports PhoneGap Build
-type: post
-format: html
+date: 2012-04-24 01:00:43 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 We're really excited to announce the support of [PhoneGap Build](http://build.phonegap.com) in [Adobe Dreamweaver CS6](http://www.adobe.com/products/dreamweaver.html)! By incorporating Build, users will have a more streamlined, up-to-date, and stable development environment.

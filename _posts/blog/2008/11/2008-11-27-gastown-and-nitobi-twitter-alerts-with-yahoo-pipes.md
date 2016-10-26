@@ -1,11 +1,11 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2008-11-27 18:11:49'
-link: http://blogs.nitobi.com/brian/2008/11/27/gastown-and-nitobi-twitter-alerts-with-yahoo-pipes/
-slug: gastown-and-nitobi-twitter-alerts-with-yahoo-pipes
-status: publish
 title: Gastown and Nitobi Twitter Alerts with Yahoo Pipes
+date: 2008-11-27 18:11:49 Z
+categories:
+- app
+author: Brian LeRoux
+link: http://blogs.nitobi.com/brian/2008/11/27/gastown-and-nitobi-twitter-alerts-with-yahoo-pipes/
+status: publish
 type: post
 format: html
 ---

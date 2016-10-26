@@ -1,10 +1,11 @@
 ---
+title: BarcodeScanner Plugin
+date: 2012-10-24 21:17:40 Z
 tags:
 - PhoneGap Build
 author: Ryan Willoughby
-title: BarcodeScanner Plugin
-date: Wed Oct 24 14:17:40 -0700 2012
 ---
+
 We've added support for another plugin to Adobe® PhoneGap™ Build for iOS and Android -- BarcodeScanner. And more are coming!
 
 A single line of JavaScript in your PhoneGap app will launch the scanner, and upon detection of a barcode, control will be passed back to your app, along with the barcode data.

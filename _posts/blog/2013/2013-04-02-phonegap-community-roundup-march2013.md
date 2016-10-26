@@ -1,9 +1,9 @@
 ---
-date: 2013-04-02 13:40:02
-author: Steve Gill
-title: "PhoneGap Community Roundup - March 2013"
+title: PhoneGap Community Roundup - March 2013
+date: 2013-04-02 13:40:02 Z
 tags:
 - Community
+author: Steve Gill
 ---
 
 Below is the March addition of our [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap, writing a blog post or have something to share, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).

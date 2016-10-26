@@ -1,15 +1,15 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-10-03 16:52:40'
-link: http://blogs.nitobi.com/andre/index.php/2011/10/03/nitobi-enters-into-acquisition-agreement-with-adobe/
-slug: nitobi-enters-into-acquisition-agreement-with-adobe
-status: publish
 title: Nitobi enters into Acquisition Agreement with Adobe
-type: post
-format: html
+date: 2011-10-03 16:52:40 Z
+categories:
+- app
 tags:
 - News
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/10/03/nitobi-enters-into-acquisition-agreement-with-adobe/
+status: publish
+type: post
+format: html
 ---
 
 Today we’re excited to announce that we have entered into a definitive agreement with Adobe Systems Incoporated for Nitobi, including PhoneGap and PhoneGap Build. Here’s the news:

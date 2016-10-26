@@ -1,8 +1,9 @@
 ---
-date: 2014-05-09 10:00:05
+title: Alpha Anywhere with PhoneGap Build
+date: 2014-05-09 10:00:05 Z
+categories:
+- tools
 author: Bob Moore
-title: "Alpha Anywhere with PhoneGap Build"
-category: tools
 ---
 
 According to [Gartner](http://www.gartner.com/newsroom/id/2324917), by 2016, More Than 50 Percent of Mobile Apps Deployed Will be Hybrid. At [Alpha Software](http://www.alphasoftware.com), we are always focused on simplifying complex technology. We try to provide developers with the tools they need to build great apps that solve real business problems without having to worry about the behind the scenes technical details of making it work.

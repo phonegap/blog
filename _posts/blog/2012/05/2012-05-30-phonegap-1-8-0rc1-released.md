@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-05-30 01:42:28'
-slug: phonegap-1-8-0rc1-released
-status: publish
 title: PhoneGap 1.8.0rc1 Released
-type: post
-format: html
+date: 2012-05-30 01:42:28 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We have just released the first release candidate (RC) for [PhoneGap 1.8.0](https://github.com/phonegap/phonegap/zipball/1.8.0rc1)! This version of PhoneGap is composed mainly of bug fixes from the previous version.

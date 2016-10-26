@@ -1,14 +1,14 @@
 ---
-author: Steve Gill
-categories: app
-date: '2012-06-30 00:56:43'
-slug: phonegap-1-9-0-released
-status: publish
 title: PhoneGap 1.9.0 Released!
-type: post
-format: html
+date: 2012-06-30 00:56:43 Z
+categories:
+- app
 tags:
 - Release
+author: Steve Gill
+status: publish
+type: post
+format: html
 ---
 
 We have just released PhoneGap 1.9.0! Thanks to everyone who downloaded 1.9.0rc1\. This release focuses on bug fixes, the long awaited inclusion of Cordova webview on Android (Cleaver on iOS), and the inclusion of create scripts for Android, iOS and BlackBerry.

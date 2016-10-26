@@ -1,14 +1,12 @@
 ---
-author: Kevin Griffin
-categories: app
-date: '2011-09-26 18:24:42'
-slug: building-an-nfc-enabled-android-application-with-phonegap
-status: publish
 title: Building a NFC enabled Android application with PhoneGap
-type: post
-format: html
+date: 2011-09-26 18:24:42 Z
 categories:
 - Plugins
+author: Kevin Griffin
+status: publish
+type: post
+format: html
 tags_old:
 - nfc
 - phonegap

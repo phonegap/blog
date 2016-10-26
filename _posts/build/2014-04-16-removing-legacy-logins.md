@@ -1,10 +1,11 @@
 ---
+title: How You Sign into PhoneGap Build is Changing.
+date: 2014-04-16 16:00:05 Z
+categories:
+- build
 tags:
 - PhoneGap Build
-date: 2014-04-16 16:00:05
 author: Brett Rudd
-title: "How You Sign into PhoneGap Build is Changing."
-category: build
 ---
 
 On May 15th we will be removing the ability to sign into our service without

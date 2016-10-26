@@ -1,11 +1,12 @@
 ---
 title: The Development Framework for Apps Running On The Internet of Things
-author: Sravish Sridhar, Kinvey
+date: 2012-11-28 00:00:00 Z
 tags:
 - Guest Post
 - iOS
 - Android
 - Windows Phone
+author: Sravish Sridhar, Kinvey
 ---
 
 At a recent dinner, I took part in a lively conversation about whether Apple will launch a new suite of home products. Imagine an iToaster, iMicrowave or even an iToothBrush -- how would Apple re-imagine our common household appliances by combining its design aesthetic with relevant information?  Since the dinner was filled with tech geeks, it wasn’t clear if people’s mouths were watering because of the food or the possibility of an iFridge.

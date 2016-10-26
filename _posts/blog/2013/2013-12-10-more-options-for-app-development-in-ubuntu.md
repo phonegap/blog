@@ -1,9 +1,9 @@
 ---
-date: 2013-12-10 07:20:04
-author: Colene Chow
-title: "More options for app development in Ubuntu on phones with Cordova"
+title: More options for app development in Ubuntu on phones with Cordova
+date: 2013-12-10 07:20:04 Z
 tags:
 - News
+author: Colene Chow
 ---
 
 Great news everyone! Our friends at [Canonical](http://www.canonical.com/) has shared this:

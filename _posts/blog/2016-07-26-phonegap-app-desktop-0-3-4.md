@@ -1,10 +1,11 @@
 ---
-author: Herm Wong
-title: "PhoneGap Desktop App 0.3.4"
+title: PhoneGap Desktop App 0.3.4
+date: 2016-07-26 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 PhoneGap Desktop 0.3.4 contains several bug fixes and a workflow change to the auto-updater for OSX PhoneGap Desktop users.

@@ -1,11 +1,11 @@
 ---
-date: 2015-09-08 09:00:02
-author: Jen Gray
-title: "PhoneGap Day US 2016 - Save the Date"
+title: PhoneGap Day US 2016 - Save the Date
+date: 2015-09-08 09:00:02 Z
 tags:
 - Event
 - News
 - PhoneGap Day
+author: Jen Gray
 ---
 
 ![](/blog/uploads/2015-09/Utah.jpg)

@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-10-18 20:06:51'
-slug: feedhenry-leverages-phonegap-to-simplify-app-development-for-enterprise-clients
-status: publish
 title: FeedHenry leverages PhoneGap to Simplify App Development for Enterprise Clients
-type: post
-format: html
+date: 2011-10-18 20:06:51 Z
+categories:
+- app
 tags:
 - App
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 [![](/uploads/2011/10/FeedHenry_logo_small_web4.jpg)](/uploads/2011/10/FeedHenry_logo_small_web4.jpg)At [FeedHenry](http://feedhenry.com/), the PhoneGap open-source framework is an integral part of our AppStudio in our cloud-based [Mobile Application Platform](http://feedhenry.com/about-feedhenry/). AppStudio allows developers to build enterprise-grade apps in HTML5, JavaScript, CSS and deploy them to multiple platforms. This makes app development accessible to a broader base of software developers whilst offering our enterprise clients a more cost-effective and simpler solution and overcoming the barriers that mobile OS fragmentation poses.

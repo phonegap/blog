@@ -1,10 +1,11 @@
 ---
-author: Herm Wong
-title: "PhoneGap Desktop App 0.2.3"
+title: PhoneGap Desktop App 0.2.3
+date: 2016-02-25 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release
 - News
+author: Herm Wong
 ---
 
 We had to release an emergency fix with PhoneGap Desktop 0.2.3.

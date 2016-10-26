@@ -1,15 +1,15 @@
 ---
-author: andrew.lunny
-categories: app
-date: '2011-10-13 00:12:03'
-slug: phonegap-build-pricing-plans-update
-status: publish
 title: 'PhoneGap Build: Pricing Plans Update'
-type: post
-format: html
+date: 2011-10-13 00:12:03 Z
+categories:
+- app
 tags:
 - News
 - PhoneGap Build
+author: andrew.lunny
+status: publish
+type: post
+format: html
 ---
 
 A couple of weeks ago, when [we moved PhoneGap Build into public beta](http://www.phonegap.com/2011/09/30/phonegap-build-moves-to-open-beta/), we announced some preliminary pricing plans for the service. We received a lot of great feedback, via email, on our blog, and through Get Satisfaction, and we’ve updated the plans to reflect that feedback.

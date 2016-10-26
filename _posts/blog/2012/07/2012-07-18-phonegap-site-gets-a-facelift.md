@@ -1,13 +1,12 @@
 ---
-author: Yohei Shimomae
-date: '2012-07-18 17:34:12'
-slug: phonegap-site-gets-a-facelift
-status: publish
 title: PhoneGap Site gets a Facelift
-type: post
-format: markdown
+date: 2012-07-18 17:34:12 Z
 tags:
 - News
+author: Yohei Shimomae
+status: publish
+type: post
+format: markdown
 ---
 
 We've just unveiled some awesome new updates to the PhoneGap site. These updates include improved support for responsive design, an improved sitemap, and a more stable infrastructure.

@@ -1,15 +1,15 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-04-24 23:55:53'
-slug: phonegap-build-welcomes-windows-phone-7
-status: publish
 title: PhoneGap Build welcomes Windows Phone 7
-type: post
-format: html
+date: 2012-04-24 23:55:53 Z
+categories:
+- app
 tags:
 - Windows Phone
 - PhoneGap Build
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 The [PhoneGap Build](http://build.phonegap.com) team is proud to introduce Windows Phone 7 as the latest addition to our platform lineup! With the addition of Windows Phone 7, developers are now able to reach a new and rapidly growing market.

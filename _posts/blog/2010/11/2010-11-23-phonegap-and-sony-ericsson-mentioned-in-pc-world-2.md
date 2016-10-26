@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2010-11-23 22:17:39'
-link: http://blogs.nitobi.com/andre/index.php/2010/11/23/phonegap-and-sony-ericsson-mentioned-in-pc-world/
-slug: phonegap-and-sony-ericsson-mentioned-in-pc-world-2
-status: publish
 title: PhoneGap and Sony Ericsson Mentioned in PC World
+date: 2010-11-23 22:17:39 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2010/11/23/phonegap-and-sony-ericsson-mentioned-in-pc-world/
+status: publish
 type: post
 format: html
 ---

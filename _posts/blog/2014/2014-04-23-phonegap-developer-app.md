@@ -1,10 +1,10 @@
 ---
-date: 2014-04-23 11:40:03
-author: Michael Brooks
-title: "PhoneGap Developer App"
+title: PhoneGap Developer App
+date: 2014-04-23 11:40:03 Z
 tags:
 - App
 - News
+author: Michael Brooks
 ---
 
 Today, the PhoneGap Team is proud to announce the release of the [PhoneGap Developer app][2]!

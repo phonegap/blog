@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-03-01 23:59:00'
-link: http://blogs.nitobi.com/andre/index.php/2011/03/01/computerworld-on-facebook-html5-and-phonegap-at-webstock/
-slug: computerworld-on-facebook-html5-and-phonegap-at-webstock
-status: publish
 title: ComputerWorld on Facebook, HTML5 and PhoneGap at WebStock
+date: 2011-03-01 23:59:00 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/03/01/computerworld-on-facebook-html5-and-phonegap-at-webstock/
+status: publish
 type: post
 format: html
 ---

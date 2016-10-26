@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2011-02-23 20:02:52'
-link: http://blogs.nitobi.com/andre/index.php/2011/02/23/brian-lerouxs-interview-about-phonegap-on-ria-radio/
-slug: brian-leroux%e2%80%99s-interview-about-phonegap-on-ria-radio
-status: publish
 title: Brian Leroux’s Interview About PhoneGap on RIA Radio
+date: 2011-02-23 20:02:52 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2011/02/23/brian-lerouxs-interview-about-phonegap-on-ria-radio/
+status: publish
 type: post
 format: html
 ---

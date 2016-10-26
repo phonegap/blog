@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-05-26 19:51:12'
-slug: kids-and-building-for-the-future-with-phonegap
-status: publish
 title: Kids and Building for the Future with PhoneGap
+date: 2011-05-26 19:51:12 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

@@ -1,7 +1,6 @@
 ---
-date: 2015-05-22 15:00:02
-author: Tim Kim
-title: "Important notes about the 1.5.2 release of the PhoneGap Developer App"
+title: Important notes about the 1.5.2 release of the PhoneGap Developer App
+date: 2015-05-22 15:00:02 Z
 tags:
 - App
 - Desktop
@@ -9,6 +8,7 @@ tags:
 - Windows Phone
 - iOS
 - Android
+author: Tim Kim
 ---
 
 ## Important notes about the recent PhoneGap Developer update

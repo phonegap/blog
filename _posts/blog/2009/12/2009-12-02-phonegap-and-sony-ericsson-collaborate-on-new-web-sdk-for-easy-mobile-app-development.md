@@ -1,11 +1,11 @@
 ---
-author: Andre Charland
-categories: app
-date: '2009-12-02 19:28:22'
-link: http://blogs.nitobi.com/andre/index.php/2009/12/02/phonegap-and-sony-ericsson-collaborate-on-new-web-sdk-for-easy-mobile-app-development/
-slug: phonegap-and-sony-ericsson-collaborate-on-new-web-sdk-for-easy-mobile-app-development
-status: publish
 title: PhoneGap and Sony Ericsson Collaborate on New Web SDK for Easy Mobile App Development
+date: 2009-12-02 19:28:22 Z
+categories:
+- app
+author: Andre Charland
+link: http://blogs.nitobi.com/andre/index.php/2009/12/02/phonegap-and-sony-ericsson-collaborate-on-new-web-sdk-for-easy-mobile-app-development/
+status: publish
 type: post
 format: html
 ---

@@ -1,10 +1,10 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-09-30 19:52:43'
-slug: phonegap-build-moves-to-open-beta
-status: publish
 title: 'PhoneGap Build moves to Open Beta '
+date: 2011-09-30 19:52:43 Z
+categories:
+- app
+author: Colene Chow
+status: publish
 type: post
 format: html
 ---

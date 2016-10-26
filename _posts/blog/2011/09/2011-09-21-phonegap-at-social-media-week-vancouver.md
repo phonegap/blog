@@ -1,10 +1,10 @@
 ---
-author: Colene Chow
-categories: app
-date: '2011-09-21 01:07:27'
-slug: phonegap-at-social-media-week-vancouver
-status: publish
 title: PhoneGap at Social Media Week Vancouver
+date: 2011-09-21 01:07:27 Z
+categories:
+- app
+author: Colene Chow
+status: publish
 type: post
 format: html
 ---

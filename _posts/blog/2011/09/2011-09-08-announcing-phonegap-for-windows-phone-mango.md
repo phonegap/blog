@@ -1,11 +1,11 @@
 ---
-author: Jesse MacFadyen
-categories: app
-date: '2011-09-08 09:42:55'
-link: http://blogs.nitobi.com/jesse/2011/09/08/pg-wp7mango/
-slug: announcing-phonegap-for-windows-phone-mango
-status: publish
 title: Announcing PhoneGap for Windows Phone Mango
+date: 2011-09-08 09:42:55 Z
+categories:
+- app
+author: Jesse MacFadyen
+link: http://blogs.nitobi.com/jesse/2011/09/08/pg-wp7mango/
+status: publish
 type: post
 format: html
 ---

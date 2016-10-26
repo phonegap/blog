@@ -1,14 +1,14 @@
 ---
-author: Colene Chow
-categories: app
-date: '2012-04-13 20:58:30'
-slug: sap-partnership-provides-openness-and-choice-for-mobile-app-developers
-status: publish
 title: SAP Partnership Provides Openness and Choice for Mobile App Developers
-type: post
-format: html
+date: 2012-04-13 20:58:30 Z
+categories:
+- app
 tags:
 - News
+author: Colene Chow
+status: publish
+type: post
+format: html
 ---
 
 This week SAP announced a collaboration with Adobe, Appcelerator, and Sencha to provide an open mobile platform development framework. The products involved include PhoneGap, Titanium, and Sencha Touch.

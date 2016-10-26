@@ -1,9 +1,10 @@
 ---
-author: PhoneGap Team
-title: "Announcing PhoneGap Community support on Adobe Forums"
+title: Announcing PhoneGap Community support on Adobe Forums
+date: 2016-02-24 00:00:00 Z
 tags:
 - News
 - Community
+author: PhoneGap Team
 ---
 
 We're so excited to announce the launch of the PhoneGap Community on Adobe Forums.

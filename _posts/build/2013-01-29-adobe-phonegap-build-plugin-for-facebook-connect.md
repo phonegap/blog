@@ -1,9 +1,9 @@
 ---
+title: Adobe PhoneGap Build plugin for Facebook Connect
+date: 2013-01-29 21:34:38 Z
 tags:
 - PhoneGap Build
 author: Colene Chow
-title: Adobe PhoneGap Build plugin for Facebook Connect
-date: Tue Jan 29 13:34:38 -0800 2013
 ---
 
 Last week we released the [GenericPush Plugin](https://build.phonegap.com/blog/introducing-genericpush-plugin) and this week we're excited to introduce another plugin to the line up: [Adobe® PhoneGap™ Build™ plugin for Facebook Connect](https://github.com/phonegap-build/FacebookConnect).

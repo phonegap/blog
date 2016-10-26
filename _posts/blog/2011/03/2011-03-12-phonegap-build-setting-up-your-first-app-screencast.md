@@ -1,10 +1,10 @@
 ---
-author: Steve Gill
-categories: app
-date: '2011-03-12 02:41:10'
-slug: phonegap-build-setting-up-your-first-app-screencast
-status: publish
 title: 'PhoneGap Build: Setting up your first app screencast'
+date: 2011-03-12 02:41:10 Z
+categories:
+- app
+author: Steve Gill
+status: publish
 type: post
 format: html
 ---

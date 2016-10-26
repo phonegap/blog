@@ -1,10 +1,10 @@
 ---
-author: Capulet
-categories: app
-date: '2010-10-22 18:02:12'
-slug: the-tastiest-iphone-ever
-status: publish
 title: The Tastiest iPhone Ever
+date: 2010-10-22 18:02:12 Z
+categories:
+- app
+author: Capulet
+status: publish
 type: post
 format: html
 tags_old:

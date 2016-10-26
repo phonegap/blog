@@ -1,9 +1,10 @@
 ---
 title: Introducing the PhoneGap Developer Directory
-author: Colene Chow
+date: 2013-01-03 00:00:00 Z
 tags:
 - Community
 - News
+author: Colene Chow
 ---
 
 One of the most popular questions we get asked is “How do I find a PhoneGap Developer?”

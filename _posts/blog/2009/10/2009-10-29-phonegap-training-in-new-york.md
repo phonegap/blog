@@ -1,11 +1,11 @@
 ---
-author: Brian LeRoux
-categories: app
-date: '2009-10-29 09:37:29'
-link: http://blogs.nitobi.com/brian/2009/10/29/phonegap-training-in-new-york/
-slug: phonegap-training-in-new-york
-status: publish
 title: PhoneGap Training in New York
+date: 2009-10-29 09:37:29 Z
+categories:
+- app
+author: Brian LeRoux
+link: http://blogs.nitobi.com/brian/2009/10/29/phonegap-training-in-new-york/
+status: publish
 type: post
 format: html
 ---

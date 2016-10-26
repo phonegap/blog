@@ -1,10 +1,11 @@
 ---
 title: Weinre from PhoneGap Day EU 2012
-author: Steve Gill
-format: html
+date: 2012-10-23 00:00:00 Z
 tags:
 - Video
 - PhoneGap Day
+author: Steve Gill
+format: html
 ---
 
 Thank you to everyone who attended [PhoneGap Day EU](http://pgday.phonegap.com/eu2012/) and made it such a huge success. We're sharing videos from the event for those of you who weren't able to attend.
