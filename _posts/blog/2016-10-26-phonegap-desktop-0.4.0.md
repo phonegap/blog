@@ -21,7 +21,7 @@ In addition to the template support, we've also added some other updates worth n
 
 - **Default Icon Handling**: the default icon handling has changed to now display a CSS placeholder based on the app name when an icon has not already been configured for a project.
 
-![Default Icons](/blog/uploads/2016-10/default-icons.png)
+  ![Default Icons](/blog/uploads/2016-10/default-icons.png)
 
 - **CLI Integration**: another update that isn't visually noticeable but still important, is the removal of our dependency on the `connect-phonegap` middleware. We are now using the PhoneGap CLI to do all of the project `create` and `serve` functions. This change marks a first step toward maintaining congruency between our Desktop and CLI users going forward. 
 
