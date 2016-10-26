@@ -24,4 +24,4 @@ What you’ll do:
 
 Sound like you or someone you know? Apply or help spread the word. We're a pretty cool team to work with, promise :)
 
-**See the full posting and apply [here](https://adobe.taleo.net/careersection/2/jobdetail.ftl?job=40613)**
+

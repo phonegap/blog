@@ -23,8 +23,8 @@ Below we will provide a quick breakdown of how to integrate with Appsee in 2 ste
 
 To integrate Appsee in your phonegap app - you can use our npm plugin in 2 easy steps.
 
-1.  Add the Appsee plugin to your project: `phonegap plugin add cordova-plugin-appsee`
-2.  Call the following method when your app starts, preferably when the deviceready event fires: `Appsee.start("YOUR API KEY")`;
+1. Add the Appsee plugin to your project: `phonegap plugin add cordova-plugin-appsee`
+1. Call the following method when your app starts, preferably when the deviceready event fires: `Appsee.start("YOUR API KEY")`;
 
 [Register](https://www.appsee.com/start) or [login](https://dashboard.appsee.com/login) in order to get your API key.
 
@@ -74,4 +74,4 @@ Example of Appsee’s unresponsive gesture touch heatmap.
 
 ## Conclusion
 
-Pretty easy right? After completing those two steps you are good to go. You should start to see your user sessions populate your dashboard in real-time. Get ready to discover powerful insights on your app’s users, optimize and troubleshoot your app effectively, and ultimately create the best mobile product possible. 
+Pretty easy right? After completing those two steps you are good to go. You should start to see your user sessions populate your dashboard in real-time. Get ready to discover powerful insights on your app’s users, optimize and troubleshoot your app effectively, and ultimately create the best mobile product possible.
