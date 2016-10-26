@@ -1,5 +1,5 @@
 ---
-author: Appsee Team
+author: Admin
 title: "Add analytics to your PhoneGap app with Appsee"
 tags:
 - Guest Post
