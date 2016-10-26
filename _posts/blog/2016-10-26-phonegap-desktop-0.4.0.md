@@ -1,10 +1,11 @@
 ---
-author: Holly Schinsky
-title: "PhoneGap Desktop 0.4.0 Released!"
+title: PhoneGap Desktop 0.4.0 Released!
+date: 2016-10-26 00:00:00 Z
 tags:
-- Desktop 
+- Desktop
 - Release
 - News
+author: Holly Schinsky
 ---
 
 We're happy to announce the release of PhoneGap Desktop 0.4.0, with support for PhoneGap templates! These templates help you build apps quickly with popular features like Push Notifications, Augmented Reality and frameworks like React and Framework7. We've also included and recommend our [_PhoneGap Star Track_] (http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/) template for those who want to get started using a more complete app example. 
