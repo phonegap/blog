@@ -73,10 +73,10 @@ Ok, let's look at the code! (And yet another reminder - I'm new to Ionic and Ang
 
     &lt;link href=&quot;lib&#x2F;ionic&#x2F;css&#x2F;ionic.css&quot; rel=&quot;stylesheet&quot;&gt;
     &lt;link href=&quot;css&#x2F;style.css&quot; rel=&quot;stylesheet&quot;&gt;
-	  
+
     &lt;script src=&quot;lib&#x2F;ionic&#x2F;js&#x2F;ionic.bundle.js&quot;&gt;&lt;&#x2F;script&gt;
 	&lt;script src=&quot;lib&#x2F;ng-cordova.js&quot;&gt;&lt;&#x2F;script&gt;
-	  
+
     &lt;!-- cordova script (this will be a 404 during development) --&gt;
     &lt;script src=&quot;cordova.js&quot;&gt;&lt;&#x2F;script&gt;
 
@@ -86,7 +86,7 @@ Ok, let's look at the code! (And yet another reminder - I'm new to Ionic and Ang
     &lt;script src=&quot;js&#x2F;controllers.js&quot;&gt;&lt;&#x2F;script&gt;
   &lt;&#x2F;head&gt;
   &lt;body ng-app=&quot;starter&quot;&gt;
-	  
+
   	&lt;ion-nav-bar class=&quot;bar-positive&quot;&gt;
 		&lt;ion-nav-buttons side=&quot;left&quot;&gt;
 			&lt;button class=&quot;button&quot; ng-click=&quot;goHome()&quot; ng-show=&quot;notHome&quot;&gt;
@@ -108,7 +108,7 @@ Ok, now let's look at app.js. The big change here from core Ionic was to remove 
 
 <pre><code class="language-javascript">(function() {
 &#x2F;* global angular,window,cordova,console *&#x2F;
-	
+
 	angular.module(&#x27;starter&#x27;, [&#x27;ionic&#x27;,&#x27;ngCordova&#x27;,&#x27;rssappControllers&#x27;])
 
 	.config([&#x27;$stateProvider&#x27;, &#x27;$urlRouterProvider&#x27;, function($stateProvider, $urlRouterProvider) {
@@ -116,21 +116,21 @@ Ok, now let's look at app.js. The big change here from core Ionic was to remove 
 		$stateProvider
 			.state(&#x27;Home&#x27;, {
 				url: &#x27;&#x2F;&#x27;,
-				controller: &#x27;HomeCtrl&#x27;, 
+				controller: &#x27;HomeCtrl&#x27;,
 				templateUrl: &#x27;partials&#x2F;home.html&#x27;
 			})
 			.state(&#x27;Entries&#x27;, {
-				url: &#x27;&#x2F;entries&#x27;, 
-				controller: &#x27;EntriesCtrl&#x27;, 
+				url: &#x27;&#x2F;entries&#x27;,
+				controller: &#x27;EntriesCtrl&#x27;,
 				templateUrl: &#x27;partials&#x2F;entries.html&#x27;,
 			})
 			.state(&#x27;Entry&#x27;, {
 				url: &#x27;&#x2F;entry&#x2F;:index&#x27;,
-				controller: &#x27;EntryCtrl&#x27;, 
+				controller: &#x27;EntryCtrl&#x27;,
 				templateUrl: &#x27;partials&#x2F;entry.html&#x27;,
 			})
 			.state(&#x27;Offline&#x27;, {
-				url: &#x27;&#x2F;offline&#x27;, 
+				url: &#x27;&#x2F;offline&#x27;,
 				templateUrl: &#x27;partials&#x2F;offline.html&#x27;
 			});
 
@@ -149,7 +149,7 @@ Ok, now let's look at app.js. The big change here from core Ionic was to remove 
 		$rootScope.goHome = function() {
 			$location.path(&#x27;&#x2F;entries&#x27;);
 		};
-		
+
 	});
 
 }());</code></pre>
@@ -165,15 +165,15 @@ Next - the controllers file. This is all pretty standard I think - nothing speci
 	angular.module(&#x27;rssappControllers&#x27;, [])
 
 	.controller(&#x27;HomeCtrl&#x27;, [&#x27;$ionicPlatform&#x27;, &#x27;$scope&#x27;, &#x27;$rootScope&#x27;, &#x27;$cordovaNetwork&#x27;, &#x27;$ionicLoading&#x27;, &#x27;$location&#x27;, function($ionicPlatform, $scope, $rootScope, $cordovaNetwork, $ionicLoading, $location) {
-		
+
 		$ionicLoading.show({
       		template: &#x27;Loading...&#x27;
 		});
-		
+
 		function initialize() {
-			console.log(&#x27;googles init called&#x27;);	
+			console.log(&#x27;googles init called&#x27;);
 			var feed = new google.feeds.Feed($rootScope.RSS);
-			
+
 			feed.setNumEntries(10);
 			feed.load(function(result) {
 				$ionicLoading.hide();
@@ -188,7 +188,7 @@ Next - the controllers file. This is all pretty standard I think - nothing speci
 			});
 
 		}
-		
+
 		$ionicPlatform.ready(function() {
 
 			console.log(&quot;Started up!!&quot;);
@@ -213,21 +213,21 @@ Next - the controllers file. This is all pretty standard I think - nothing speci
 
 	}])
 
-	.controller(&#x27;EntriesCtrl&#x27;, [&#x27;$scope&#x27;, &#x27;$rootScope&#x27;, &#x27;$location&#x27;, function($scope, $rootScope, $location) { 
+	.controller(&#x27;EntriesCtrl&#x27;, [&#x27;$scope&#x27;, &#x27;$rootScope&#x27;, &#x27;$location&#x27;, function($scope, $rootScope, $location) {
 		console.log(&#x27;EntriesCtrl called&#x27;);
 		&#x2F;*
 		handle issue with Ionic CLI reloading
 		*&#x2F;
 		if(!$rootScope.entries) $location.path(&#x27;&#x2F;&#x27;);
-		
+
 		$rootScope.notHome = false;
-		
+
 		$scope.entries = $rootScope.entries;
 		console.log(JSON.stringify($scope.entries[0]));
 
 	}])
-	
-	.controller(&#x27;EntryCtrl&#x27;, [&#x27;$scope&#x27;, &#x27;$rootScope&#x27;, &#x27;$location&#x27;, &#x27;$stateParams&#x27;, function($scope, $rootScope, $location, $stateParams) { 
+
+	.controller(&#x27;EntryCtrl&#x27;, [&#x27;$scope&#x27;, &#x27;$rootScope&#x27;, &#x27;$location&#x27;, &#x27;$stateParams&#x27;, function($scope, $rootScope, $location, $stateParams) {
 		console.log(&#x27;EntryCtrl called&#x27;);
 
 		&#x2F;*
@@ -236,37 +236,37 @@ Next - the controllers file. This is all pretty standard I think - nothing speci
 		if(!$rootScope.entries) $location.path(&#x27;&#x2F;&#x27;);
 
 		$rootScope.notHome = true;
-		
+
 		$scope.index = $stateParams.index;
 		$scope.entry = $rootScope.entries[$scope.index];
-		
+
 		$scope.readEntry = function(e) {
 			window.open(e.link, &quot;_blank&quot;);
 		};
-		
+
 	}]);
 
-	
+
 }());</code></pre>
 
 <p>
 So that's pretty much it. I have a few templates, but only the entry list is that interesting. Here it is.
 </p>
 
-<pre><code class="language-markup">&lt;ion-view title=&quot;{{TITLE}}&quot;&gt;
+<pre><code class="language-markup">&lt;ion-view title=&quot;&lbrace;&lbrace;TITLE&rbrace;&rbrace;&quot;&gt;
 
 	&lt;ion-content class=&quot;padding&quot;&gt;
 
 		&lt;ion-list class=&quot;list list-inset&quot;&gt;
 
-			&lt;ion-item ng-repeat=&quot;entry in entries&quot; href=&quot;#&#x2F;entry&#x2F;{{$index}}&quot;&gt;
-				{{entry.title}}
+			&lt;ion-item ng-repeat=&quot;entry in entries&quot; href=&quot;#&#x2F;entry&#x2F;&lbrace;&lbrace;$index&rbrace;&rbrace;&quot;&gt;
+				&lbrace;&lbrace;entry.title&rbrace;&rbrace;
 			&lt;&#x2F;ion-item&gt;
 
 		&lt;&#x2F;ion-list&gt;
 
 	&lt;&#x2F;ion-content&gt;
-	
+
 &lt;&#x2F;ion-view&gt;
 
 </code></pre>
