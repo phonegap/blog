@@ -5,3 +5,4 @@ tmp
 Gemfile.lock
 _site-test
 node_modules
+npm-debug.log

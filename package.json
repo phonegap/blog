@@ -8,6 +8,6 @@
   },
   "license": "Apache-2.0",
   "scripts": {
-    "lint": "markdownlint _posts/blog/**/*.md"
+    "lint": "markdownlint _posts/blog/**/*.md && markdownlint _posts/blog/*.md"
   }
 }
