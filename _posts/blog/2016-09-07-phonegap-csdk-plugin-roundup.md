@@ -10,7 +10,7 @@ tags:
 author: Jen Gray
 ---
 
-We're so excited to announce a slew of plugins that enable developers to take advantage of the Creative SDK native components for iOS and Android without writing a single line of Objective-C, Swift, or Java. 
+We're so excited to announce a slew of plugins that enable developers to take advantage of the Creative SDK native components for iOS and Android without writing a single line of Objective-C, Swift, or Java.
 
 Let's talk about each and give you a look at all the great templates to help you get started.
 
@@ -24,15 +24,15 @@ Imagine being able to take a photo within your app, edit the photo and then send
 
 ### Client Auth plugin
 
-The [Client Auth plugin](https://github.com/CreativeSDK/phonegap-plugin-csdk-client-auth) is your first stop on the way to integrating the Adobe Creative SDK into your PhoneGap app. Client Auth is required for all Creative SDK integrations. 
+The [Client Auth plugin](https://github.com/CreativeSDK/phonegap-plugin-csdk-client-auth) is your first stop on the way to integrating the Adobe Creative SDK into your PhoneGap app. Client Auth is required for all Creative SDK integrations.
 
 [Register your application](https://creativesdk.adobe.com/docs/ios/#/articles/gettingstarted/index.html#register_application)
 
 ### Image Editor plugin and template
 
-The [Image Editor plugin](https://github.com/CreativeSDK/phonegap-plugin-csdk-image-editor) provides a solution for developers seeking to add powerful photo editing to their Android, iOS and Web apps. The Image Editor includes over twenty advanced imaging tools covering everything from Effects and Crop to Redeye and Blemish. 
+The [Image Editor plugin](https://github.com/CreativeSDK/phonegap-plugin-csdk-image-editor) provides a solution for developers seeking to add powerful photo editing to their Android, iOS and Web apps. The Image Editor includes over twenty advanced imaging tools covering everything from Effects and Crop to Redeye and Blemish.
 
-As a companion to the Image Editor plugin, the Creative SDK team has released a PhoneGap template so you can get started right away. 
+As a companion to the Image Editor plugin, the Creative SDK team has released a PhoneGap template so you can get started right away.
 
 These templates are essentially sample apps that you can download via NPM, build from your command line, and run on your device (these plugins support iOS and Android).
 
@@ -63,7 +63,7 @@ In the template app, you can:
 
 ### User Auth UI plugin
 
-The [User Auth UI plugin](https://github.com/CreativeSDK/phonegap-plugin-csdk-user-auth) provides a solution for developers seeking to allow their users to login to the Adobe Creative Cloud. 
+The [User Auth UI plugin](https://github.com/CreativeSDK/phonegap-plugin-csdk-user-auth) provides a solution for developers seeking to allow their users to login to the Adobe Creative Cloud.
 
 ## Get involved
 

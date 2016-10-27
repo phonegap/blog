@@ -9,7 +9,7 @@ tags:
 author: Nick Van Weerdenburg
 ---
 
-As the CEO of <a href="http://rangle.io/">Rangle.io</a> a Lean UX HTML5 design and develop shop, the teams I work with only use JavaScript for all our web and mobile development. We use AngularJS, Ionic and PhoneGap for more than a quarter of our business engagements and we have more than 45 JavaScript developers in-house working with these technologies. With all of our project partnerships, we've accumulated a lot of insight into why PhoneGap and Cordova are so compelling for mobile projects.
+As the CEO of [Rangle.io](http://rangle.io/) a Lean UX HTML5 design and develop shop, the teams I work with only use JavaScript for all our web and mobile development. We use AngularJS, Ionic and PhoneGap for more than a quarter of our business engagements and we have more than 45 JavaScript developers in-house working with these technologies. With all of our project partnerships, we've accumulated a lot of insight into why PhoneGap and Cordova are so compelling for mobile projects.
 
 In this blog I'll review one of our early projects with [Sprout Wellness Inc](https://www.sproutatwork.com/), to highlight the strategic reasons for adopting the PhoneGap/Cordova technology for any exciting Lean Startup project. PhoneGap turns out to be the best strategic choice, both in a traditional economic sense and in consideration of the team's skill-set.
 
