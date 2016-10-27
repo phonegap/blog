@@ -23,5 +23,3 @@ What you’ll do:
 - Develop relationships with developers, partners and cross functional teams to extend the reach of the PhoneGap tools.
 
 Sound like you or someone you know? Apply or help spread the word. We're a pretty cool team to work with, promise :)
-
-

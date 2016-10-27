@@ -35,8 +35,8 @@ Secondly, the PhoneGap team are at the very beginning stages of writing a series
 
 ## Framework 7
 
-> ❝ _Studies show that a todo list is the most complex JavaScript app you can build before a newer, better framework is invented_ ❞
-<small>- from [A JS framework on every table - by Allen Pike][js-framework-on-every-table]
+> Studies show that a todo list is the most complex JavaScript app you can build before a newer, better framework is invented
+&emdash; from [A JS framework on every table - by Allen Pike][js-framework-on-every-table]
 
 Once we decided to build _Star Track_, we had to decide _how_ we were going to build it. Use React? Angular? Build everything from scratch? We wanted something approachable that was understandable by relative beginners _and_ the ES2015 crowd. Guides that are too centered on something specific can turn off those that have no interest in that particular framework. Not only that, but a tutorial written for framework A might be incomprehensible to someone used to developing in framework B. We also wanted it to look nice.
 

@@ -17,7 +17,7 @@ With Appsee's unique features of [user recordings](https://www.appsee.com/featur
 
 Luckily, Appsee supports all apps built with PhoneGap and the integration is extremely simple.
 
-Below we will provide a quick breakdown of how to integrate with Appsee in 2 steps. 
+Below we will provide a quick breakdown of how to integrate with Appsee in 2 steps.
 
 ## Integration
 
@@ -30,7 +30,7 @@ To integrate Appsee in your phonegap app - you can use our npm plugin in 2 easy 
 
 This is how your code should look like:
 
-```
+```js
 var app = {
     // Application Constructor
     initialize: function() {

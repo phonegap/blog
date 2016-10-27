@@ -7,18 +7,17 @@ tags:
 author: Jen Gray
 ---
 
-<h1>Adobe Experience Manager Mobile</h1>
-
 Adobe made a huge announcement affecting the 2016 mobile landscape during Mobile World Congress in February. Adobe officially announced a new product, Adobe Experience Manager Mobile. AEM Mobile enables enterprise organizations to produce, manage and maintain their mobile apps all from one place, drastically reducing time to market and making it easier for organizations to engage audiences.
 
 This is huge for organizations looking to deliver engaging and relevant mobile experiences. Up to this point the solution landscape for creating and managing apps has been disjointed with different UX and UI design tools for prototyping, different development tools for coding, multiple management systems for storing content, and various marketing tools for analytics/targeting/notifications. All this fragmentation leads to an inconsistent brand message for users as well as a lot of wasted time and energy trying to realize efficient workflows between departments.
 
 AEM Mobile fixes that fragmentation and allows for organizations to effectively manage their mobile experiences. Better mobile experiences? More engaged audiences? More consistent brand message? Yes. To all of that.
 
-<h3>History</h3>
+## History
+
 In 2014, Adobe announced Adobe Experience Manager Apps and [PhoneGap Enterprise](http://phonegap.com/blog/2015/01/23/phonegap-enterprise-post/). This was the first iteration of providing a solution for enterprises to create and manage their mobile experiences. Adobe Experience Manager Mobile combines all the functionality from AEM Apps, PhoneGap Enterprise and Adobe Digital Publishing Suite to make it even easier to take an idea and turn it into an app that's essential for your business.
 
-<h3>Benefits</h3>
+## Benefits
 
 1. **Leverage Existing Content** - AEM Mobile allows for marketing managers and creatives to populate apps with existing content through template-based authoring. For organizations wanting to deliver content from other sources — we offer [flexible and open APIs](https://helpx.adobe.com/digital-publishing-solution/help/integrating-dps.html).
 
@@ -32,7 +31,7 @@ In 2014, Adobe announced Adobe Experience Manager Apps and [PhoneGap Enterprise]
 
 1. **Engage, Measure and Optimize** - Collect data to gather a better understanding about who's using your app and how, backed by [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). Leverage [Adobe Target](http://www.adobe.com/marketing-cloud/testing-targeting.html) to personalize content for each user. Notify users to keep them coming back through the [PhoneGap Push Plugin](http://phonegap.com/blog/2016/03/08/phonegap-plugin-push-1-6-0/).
 
-<h3>How PhoneGap powers AEM Mobile</h3>
+## How PhoneGap powers AEM Mobile
 
 - Using AEM Mobile allows you to target multiple platforms via PhoneGap
 - Leverage the PhoneGap plugin [ContentSync](https://www.npmjs.com/package/phonegap-plugin-contentsync) to fetch and cache content for your app
