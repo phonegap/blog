@@ -11,7 +11,7 @@ type: post
 format: html
 featured: true
 redirect_from:
-- /2012/03/19/phonegap-cordova-and-whate28099s-in-a-name/
+- "/2012/03/19/phonegap-cordova-and-whate28099s-in-a-name/"
 ---
 
 There has been some confusion in the PhoneGap community and to complement Simeon Bateman’s recent [blog post,](http://www.simb.net/2012/03/19/phonegap-vs-callback-vs-cordova/) I want to make sure that everyone understands the entire story behind the PhoneGap name and how it relates to Apache Cordova.
