@@ -19,11 +19,12 @@ You can install the latest version of PhoneGap Desktop by following the instruct
 - [Install on OS X](http://docs.phonegap.com/references/desktop-app/install/mac/)
 - [Install on Windows](http://docs.phonegap.com/references/desktop-app/install/win/)
 
-If you already have PhoneGap Desktop installed, you should be receiving an update notification to install this new version upon next use. 
+If you already have PhoneGap Desktop installed, you should be receiving an update notification to install this new version upon next use.
 
 ## Getting Involved
 
 Your feedback is what we use to help us shape our roadmap. We appreciate you taking the time to let us know how we can make the app better by [submitting feedback and issues](https://github.com/phonegap/phonegap-app-desktop/issues) or a [pull request](https://github.com/phonegap/phonegap-app-desktop) to an existing issue.
 
 ## More to Come...
+
 We are constantly improving the app with additional functionality, so be on the look out for more to come!
