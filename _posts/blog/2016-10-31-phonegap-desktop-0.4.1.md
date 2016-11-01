@@ -1,7 +1,8 @@
 ---
-title: "PhoneGap Desktop 0.4.1 Released"
+title: PhoneGap Desktop 0.4.1 Released
+date: 2016-10-31 00:00:00 Z
 tags:
-- Desktop 
+- Desktop
 - Release
 - News
 author: Suraj Pindoria
