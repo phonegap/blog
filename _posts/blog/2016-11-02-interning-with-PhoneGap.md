@@ -1,8 +1,9 @@
 ---
-author: Audrey So
 title: Interning with the PhoneGap Team
+date: 2016-11-02 00:00:00 Z
 tags:
 - PhoneGap Blog
+author: Audrey So
 ---
 
 ![](/blog/uploads/internPicAudrey.png)
