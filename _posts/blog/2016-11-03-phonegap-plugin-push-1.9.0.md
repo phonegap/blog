@@ -11,8 +11,8 @@ We haven't done a post regarding phonegap-plugin-push for awhile, but we have ju
 released version 1.9.0! Along with bug fixes and general improvements there are three main things you should know about:
 
 1. Default SENDER_ID
-2. CocoaPod Support
-3. Force Start for Android
+1. CocoaPod Support
+1. Force Start for Android
 
 ## Default SENDER_ID
 
@@ -74,6 +74,7 @@ Sample push payload:
 For those interested in the full CHANGELOG:
 
 ## [v1.9.0](https://github.com/phonegap/phonegap-plugin-push/tree/v1.9.0) (2016-07-09)
+
 [Full Changelog](https://github.com/phonegap/phonegap-plugin-push/compare/v1.8.4...v1.9.0)
 
 - 1.9.0 [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/e5b7f22299d900a37064a783da43905ad73c58bf)
@@ -85,8 +86,8 @@ For those interested in the full CHANGELOG:
 - Issue #1337: Build failed, invalid package.json [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/8631666e4654fd6acafa6cf160cc59424e912ceb)
 - Set default SENDER_ID [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/82ca365f4d6d91b18fc28c338a647a2622e60f6e)
 - Issue #158: Notification Event Not Firing When Closed Through App Launcher [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/ca18653d6ff332db41f48824a2d65bd2699ed8bc)
-- Merge branch 'master' of https://github.com/hanicker/phonegap-plugin-push into hanicker-master [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/43402909d3b2d5c6ff518cc69e401dc918b585aa)
-- Update plugin to use GCM Cocoapods <framework> reference in plugin.xml (#1183) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/b639d83fe125d5b77720d130ccec53af3a5f3d91)
+- Merge branch 'master' of [https://github.com/hanicker/phonegap-plugin-push](https://github.com/hanicker/phonegap-plugin-push) into hanicker-master [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/43402909d3b2d5c6ff518cc69e401dc918b585aa)
+- Update plugin to use GCM Cocoapods `<framework>` reference in plugin.xml (#1183) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/b639d83fe125d5b77720d130ccec53af3a5f3d91)
 - Updating CHANGELOG [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/e4779de2a5996703ba70656630f35d79415d1af8)
 - feat(forced restart, notify javascript) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/8c03beff9a5a83927b7020ee04c3ed541de04edd)
 - restart application after force close (#158 #333) [view commit](http://github.com/phonegap/phonegap-plugin-push/commit/8b7c972dbf617f22218c178d74368b35521eecb9)
