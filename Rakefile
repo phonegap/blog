@@ -276,7 +276,6 @@ task :test do
       '/products/',
       '/tool/',
       'http://phonegap.com/blog/feed.xml',
-      'http://sintaxi.com/you-half-assed-it',
       '/blog/tag/phonegap-network/',
       /\/blog\/(200\d|201[0-4])\/(\S)*/,
       /http(s)?:\/\/(www.)?linkedin\.com\/in\/([-a-zA-Z0-9@:%_\+.~#?&\/=]*)/
