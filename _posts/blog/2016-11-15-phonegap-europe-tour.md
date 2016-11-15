@@ -13,7 +13,7 @@ The PhoneGap team hittin' the road again. This time in Europe! So all our Europe
 
 ## DotJS - Dec 5, Paris
 
-We're so excited to be sponsoring DotJS this year on December 5th in Paris. 
+We're so excited to be sponsoring DotJS this year on December 5th in Paris.
 
 Come see the best developers worldwide speak on the most beautiful stages Paris has to offer. We'll have some of the core PhoneGap team there so come chat with us.
 
@@ -25,7 +25,7 @@ We'll be joining the vibrant Paris PhoneGap community for the next [PhoneGap Par
 
 - [Simon MacDonald](https://twitter.com/macdonst) – Getting started with the new [PhoneGap Creative SDK plugins](http://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/)
 
-- [Anis Kadri](https://twitter.com/aniskadri) - Embedding PhoneGap in native Android apps where he’ll show off the Android Studio extension and how easy it is to add PhoneGap support to an existing Android app 
+- [Anis Kadri](https://twitter.com/aniskadri) - Embedding PhoneGap in native Android apps where he’ll show off the Android Studio extension and how easy it is to add PhoneGap support to an existing Android app
 
 [Register here](https://www.meetup.com/PhoneGap-Paris/events/234750680/?eventId=234750680&chapter_analytics_code=UA-30725770-1)
 
@@ -41,7 +41,7 @@ We'll be joining our friends at Ionic for the [Ionic UK meetup](https://www.meet
 
 - [Simon MacDonald](https://twitter.com/macdonst) – Getting started with the new [PhoneGap Creative SDK plugins](http://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/)
 
-- [Anis Kadri](https://twitter.com/aniskadri) - Embedding PhoneGap in native Android apps where he’ll show off the Android Studio extension and how easy it is to add PhoneGap support to an existing Android app 
+- [Anis Kadri](https://twitter.com/aniskadri) - Embedding PhoneGap in native Android apps where he’ll show off the Android Studio extension and how easy it is to add PhoneGap support to an existing Android app
 
 [Register here](https://www.meetup.com/Ionic-UK/events/235497011/)
 
