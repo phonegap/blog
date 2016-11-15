@@ -1,11 +1,12 @@
 ---
-author: Jen Gray
 title: PhoneGap Europe tour
+date: 2016-11-15 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Community
 - Event
 - News
+author: Jen Gray
 ---
 
 The PhoneGap team hittin' the road again. This time in Europe! So all our European PhoneGap friends, come join us! We're going to be presenting at a few conferences and hosting some awesome local meetups. If you're going to be in the area, we'd love to see you!
