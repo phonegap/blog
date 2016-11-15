@@ -39,7 +39,7 @@ ARTICLES
 
 ---
 
-[Introducing HyperLab](http://www.risingj.com/archives/227) by Jesse MacFadyen
+[Introducing HyperLab](http://www.risingj.com/blog/archives/227) by Jesse MacFadyen
 
 ---
 

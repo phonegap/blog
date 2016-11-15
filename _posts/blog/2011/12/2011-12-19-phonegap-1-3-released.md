@@ -93,6 +93,6 @@ Check out the release notes below to see all of the enhancements and fixes. Alte
   * PGMapLauncher - get directions to or from a location, or search near a location using BingMaps. Locations can be specified as lat/lon as well as text like “Steam Clock”, or the users current location
   * LiveTiles - update your app tile on the Metro home screen with relevant info and pictures
 
-[Jesse MacFadyen](http://www.risingj.com/), a core developer for PhoneGap, recently blogged about his experience with bringing PhoneGap to Windows Phone. [Read the full journey here](http://www.risingj.com/archives/147). You can also read the Microsoft announcement [here.](http://blogs.technet.com/b/port25/archive/2011/12/19/full-support-for-phonegap-on-windows-phone-is-now-complete.aspx)
+[Jesse MacFadyen](http://www.risingj.com/), a core developer for PhoneGap, recently blogged about his experience with bringing PhoneGap to Windows Phone. [Read the full journey here](http://www.risingj.com/blog/archives/147). You can also read the Microsoft announcement [here.](http://blogs.technet.com/b/port25/archive/2011/12/19/full-support-for-phonegap-on-windows-phone-is-now-complete.aspx)
 
 If you wish to follow or join in the development of this project, send an email to [callback-dev-subscribe@incubator.apache.org](mailto:callback-dev-subscribe@incubator.apache.org) to subscribe to the developer mailing list.

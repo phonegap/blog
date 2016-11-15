@@ -44,8 +44,8 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [PhoneGap, Parse.com, and Push Notifications](http://www.raymondcamden.com/2012/10/10/PhoneGap-Parsecom-and-Push-Notifications), Raymond Camden
 - [Building a Parse.com Enabled PhoneGap App - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App-Part-4), Raymond Camden
 - [Building a Parse.com Enabled PhoneGap App - Part 5](http://www.raymondcamden.com/2012/10/24/Building-a-Parsecom-Enabled-PhoneGap-App-Part-5), Raymond Camden
-- [Windows 8 Security and Dynamic Code](http://www.risingj.com/archives/288), Jesse MacFadyen
-- [Announcing Apache Cordova support for Windows Phone 8](http://www.risingj.com/archives/314), Jesse MacFadyen
+- [Windows 8 Security and Dynamic Code](http://www.risingj.com/blog/archives/288), Jesse MacFadyen
+- [Announcing Apache Cordova support for Windows Phone 8](http://www.risingj.com/blog/archives/314), Jesse MacFadyen
 - [Tutorial: Android Push Notifications With PhoneGap](http://devgirl.org/2012/10/25/tutorial-android-push-notifications-with-phonegap/), Holly Schinsky
 - [Tutorial: Apple Push Notifications with PhoneGap – Part 1](http://devgirl.org/2012/10/19/tutorial-apple-push-notifications-with-phonegap-part-1/), Holly Schinsky
 - [Cross-Platform PhoneGap (aka Cordova) Project Templates in a Jiffy!](http://devgirl.org/2012/10/04/cross-platform-phonegap-aka-cordova-project-templates-in-a-jiffy/), Holly Schinsky

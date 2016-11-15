@@ -22,7 +22,7 @@ Read the rest of the post below for all the details!
 
 ---
 
-Over the last few months, we have been working to bring Windows Phone 8 (WP8) into Apache Cordova. I [originally announced](http://www.risingj.com/archives/314) the newly supported device at the Microsoft Build event at the end of October, but it has not made it into an official release until recently. Apache Cordova 2.3.0 will include full support for Windows Phone 8 applications. While it probably will not be officially released until the first week of January, you are welcome to go download and get started with the [Direct Link to Release Candidate 2](https://github.com/phonegap/phonegap/archive/2.3.0rc2.zip), or via the tags page at [github.com/phonegap/phonegap/tags](http://github.com/phonegap/phonegap/tags).
+Over the last few months, we have been working to bring Windows Phone 8 (WP8) into Apache Cordova. I [originally announced](http://www.risingj.com/blog/archives/314) the newly supported device at the Microsoft Build event at the end of October, but it has not made it into an official release until recently. Apache Cordova 2.3.0 will include full support for Windows Phone 8 applications. While it probably will not be officially released until the first week of January, you are welcome to go download and get started with the [Direct Link to Release Candidate 2](https://github.com/phonegap/phonegap/archive/2.3.0rc2.zip), or via the tags page at [github.com/phonegap/phonegap/tags](http://github.com/phonegap/phonegap/tags).
 
 The majority of the work for WP8 was done by Sergei Grebnov [(Sergey)](https://github.com/sgrebnov). Sergey made huge contributions to Apache Cordova for Windows Phone 7 (WP7), so he already knew his way around Cordova. He was also joined by his colleague [Ruslan Kokorev](https://github.com/rkokorev).
 Microsoft was also involved, and they helped by providing advanced access to the SDKs, tools and even pre-release devices for us to test on. Microsoft provided technical guidance and support and we also TAP’ed into the community via their Technology Adoption Program.
@@ -78,4 +78,4 @@ If you want to keep a close eye on things as they develop, you can watch the [Ap
 
 As always, I welcome your comments and suggestions, both here, and on [twitter](http://twitter.com/purplecabbage).
 
-> Originally posted on [Jesse’s MacFadyen’s blog](http://www.risingj.com/archives/374)
+> Originally posted on [Jesse’s MacFadyen’s blog](http://www.risingj.com/blog/archives/374)

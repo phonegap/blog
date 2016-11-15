@@ -16,4 +16,4 @@ Expect to see the repos landing in GitHub and Apache shortly. It doesn’t look 
 
 More from the MSOpenTech folk here: [http://aka.ms/l0njhq](http://aka.ms/l0njhq)
 
-Originally posted on [Jesse's MacFadyen's blog](http://www.risingj.com/archives/314)
+Originally posted on [Jesse's MacFadyen's blog](http://www.risingj.com/blog/archives/314)

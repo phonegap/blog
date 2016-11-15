@@ -26,7 +26,7 @@ The challenge started May 20th and you have until June 30th to submit your apps 
 Need some help to get started?
 
 * Watch [Microsoft's 5-minute video tutorial](http://channel9.msdn.com/Blogs/Interoperability/Getting-started-with-Windows-Phone-8-and-Cordova) that shows you how to set up PhoneGap with Visual Studio, and a few other detailed tutorials. You can also find tips and tricks to adapt WebKit-optimized HTML5 code to Internet Explorer 10, and how to give your app UI a Windows Phone look and feel.
-* Read [Jesse MacFadyen's](http://twitter.com/purplecabbage) post [Apache Cordova and Windows Phone 8](http://www.risingj.com/archives/374) and [Developing for Windows Phone 8 in Apache Cordova](http://flippinawesome.org/2013/04/08/cordova-windows-phone-8/) on how to get started.
+* Read [Jesse MacFadyen's](http://twitter.com/purplecabbage) post [Apache Cordova and Windows Phone 8](http://www.risingj.com/blog/archives/374) and [Developing for Windows Phone 8 in Apache Cordova](http://flippinawesome.org/2013/04/08/cordova-windows-phone-8/) on how to get started.
 * Watch [Christophe Coenraets'](http://twitter.com/ccoenraets) video [Top 10 Performance Techniques for PhoneGap Applications](http://coenraets.org/blog/2013/05/top-10-performance-techniques-for-phonegap-applications/)
 * Get inspiration by looking at examples of [PhoneGap/Windows Phone apps](http://phonegap.com/app/).
 

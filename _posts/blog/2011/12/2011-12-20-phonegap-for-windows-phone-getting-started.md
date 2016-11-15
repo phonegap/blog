@@ -18,7 +18,7 @@ One of the most exciting parts of PhoneGap 1.3 is the full support of Windows Ph
 
 "Building apps for Windows Phone requires the use of Visual Studio, and early on we chose to use C# as the development language for all native functionality," said Jesse MacFadyen, one of PhoneGap's core developers and main lead on bringing PhoneGap to Windows Phone. "Visual Studio is a very capable tool and the out of the box templates it gives you to make a Windows Phone app are very well documented, easy to understand, and a great help in getting started."
 
-Read more about Jesse's experience on his [blog](http://www.risingj.com/archives/147) and check out his two PhoneGap for Windows Phone videos below.
+Read more about Jesse's experience on his [blog](http://www.risingj.com/blog/archives/147) and check out his two PhoneGap for Windows Phone videos below.
 
 Part 1: Learn how to get up and running with PhoneGap 1.3.0 on Windows Phone:
 
