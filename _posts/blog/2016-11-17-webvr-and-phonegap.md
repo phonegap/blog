@@ -1,10 +1,10 @@
 ---
 title: WebVR and PhoneGap
-author: Shazron Abdullah
 date: 2016-11-17 00:00:00 Z
 tags:
 - Release
 - News
+author: Shazron Abdullah
 ---
 
 I attended the ["WebVR Ecosystem and API Update" meetup](http://www.meetup.com/sfhtml5/events/230072340/) held on May 25th, 2016, in Google's San Francisco offices (which are near Mozilla's) overlooking the Bay Bridge. The WebVR event is usually held once a year and it was sponsored by both Google and Microsoft.

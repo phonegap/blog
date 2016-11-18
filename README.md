@@ -43,7 +43,7 @@ $ bundle install
 **Build and watch everything _except the blog_:**
 
 ```bash
-$ bundle exec rake watch
+$ rake watch
 ```
 
 Then open a browser to `http://localhost:4000/blog/`.
@@ -51,7 +51,7 @@ Then open a browser to `http://localhost:4000/blog/`.
 **Build and watch everything _including the blog_:**
 
 ```bash
-$ bundle exec jekyll serve --incremental
+$ jekyll serve --incremental
 ```
 
 Then open a browser to `http://localhost:4000/blog/`.
