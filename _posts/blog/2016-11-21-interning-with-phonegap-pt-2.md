@@ -1,8 +1,9 @@
 ---
-author: Sterling Gerritz
 title: Interning with the PhoneGap Team Pt. 2
+date: 2016-11-21 00:00:00 Z
 tags:
 - PhoneGap Blog
+author: Sterling Gerritz
 ---
 
 ![](/blog/uploads/2016-11/sterling.jpg)
