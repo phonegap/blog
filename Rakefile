@@ -199,12 +199,12 @@ desc "Serve and watch the site (with post limit or drafts)"
 task :watch, :option do |t, args|
   option = args[:option]
   if option.nil? or option.empty?
-    execute("jekyll serve --watch --incremental --config _config-test.yml")
+    execute("JEKYLL_ENV=local-test bundle exec jekyll serve --watch --incremental")
   else
     if option == "drafts"
-      execute("jekyll serve --watch --drafts --incremental --config _config-test.yml")
+      execute("JEKYLL_ENV=local-test bundle exec jekyll serve --watch --drafts --incremental")
     else
-      execute("jekyll serve --watch --limit_posts #{option} --incremental --config _config-test.yml")
+      execute("JEKYLL_ENV=local-test bundle exec jekyll serve --watch --limit_posts #{option} --incremental")
     end
   end
 end
@@ -255,7 +255,7 @@ end
 desc "build and test website"
 task :test do
   if !File.exists? "./_site-test"
-    sh "bundle exec jekyll build --config _config-test.yml"
+    sh "JEKYLL_ENV=local-test bundle exec jekyll build --config _config-test.yml"
     Rake::Task[:deleteOldFiles].invoke
   end
   HTMLProofer.check_directory("./_site-test", {
