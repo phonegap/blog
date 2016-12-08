@@ -31,7 +31,7 @@ For those interested in the full CHANGELOG:
 - [#715](https://github.com/phonegap/phonegap-app-desktop/issues/715) - Don't serve projects until user is done removing from app
 - [#714](https://github.com/phonegap/phonegap-app-desktop/issues/714) - Windows Menu Bar says Electron as first item
 - [#710](https://github.com/phonegap/phonegap-app-desktop/issues/710) - Remove workaround in connect for browser platform on Windows
-- [#705](https://github.com/phonegap/phonegap-app-desktop/issues/705) - Refactor updater so that it doesn't use the Master branch 
+- [#705](https://github.com/phonegap/phonegap-app-desktop/issues/705) - Refactor updater so that it doesn't use the Master branch
 - [#699](https://github.com/phonegap/phonegap-app-desktop/issues/699) - Some UI elements are draggable while others are not
 - [#695](https://github.com/phonegap/phonegap-app-desktop/issues/695) - PhoneGap mobile app (iOS) doesn't reload after saving changes to my app files
 - [#690](https://github.com/phonegap/phonegap-app-desktop/issues/690) - Windows does not add the browser platform when serving
