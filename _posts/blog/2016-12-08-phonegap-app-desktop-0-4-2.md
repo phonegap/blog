@@ -26,7 +26,7 @@ For those interested in the full CHANGELOG:
 - [#737](https://github.com/phonegap/phonegap-app-desktop/issues/737) - Update pinned template versions
 - [#734](https://github.com/phonegap/phonegap-app-desktop/issues/734) - PhoneGap installer doesn't install NodeJS, causes error "project create failed with code 1"
 - [#733](https://github.com/phonegap/phonegap-app-desktop/issues/733) - "Report Issue" option in PhoneGap Desktop doesn't work
-- [#723](https://github.com/phonegap/phonegap-app-desktop/issues/723) - update to Electron v1.4.5
+- [#723](https://github.com/phonegap/phonegap-app-desktop/issues/723) - Update to Electron v1.4.5
 - [#722](https://github.com/phonegap/phonegap-app-desktop/issues/722) - Gruntjs clean up
 - [#715](https://github.com/phonegap/phonegap-app-desktop/issues/715) - Don't serve projects until user is done removing from app
 - [#714](https://github.com/phonegap/phonegap-app-desktop/issues/714) - Windows Menu Bar says Electron as first item
