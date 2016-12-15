@@ -59,7 +59,7 @@ Then open a browser to `http://localhost:4000/blog/`.
 ## Writing Blog Posts
 
 * To write a post, commit a markdown file to the `_posts/blog/` directory.
-* You can use the [post template](https://github.com/phonegap/blog/blob/gh-pages/_post.txt) as a starting point.
+* You can use the [post template](https://github.com/phonegap/blog/blob/master/_post.txt) as a starting point.
   * Optionally you can also use a Rake task to create the new post file locally. Install Ruby and Rake as mentioned above in the "Setup" section. Run `$ rake post["Put the Post Title Here"]`
 * Name the file with the date first, followed by a url friendly version of the title. Example: `2016-02-24-phonegap-desktop-app-0.2.2.md`
 * Tag pages have to be set up manually; do your best to use existing ones, if you need to set up a new one, setup a new tag page in the `/blog/tags` using the [tag template](https://github.com/phonegap/blog/blob/master/blog/tags/_template.html)
