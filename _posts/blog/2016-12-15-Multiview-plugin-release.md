@@ -13,13 +13,11 @@ tags:
 
 We're happy to announce the release of the new Phonegap MultiView plugin with support for iOS and Android!
 
-The Multiview plugin empowers developers with the ability to launch multiple Cordova Webviews within
-one Phonegap application! Each webview is fully independent, is able to communicate with local storage, and has its own set of plugins.
+The Multiview plugin empowers developers with the ability to launch multiple Cordova Webviews within one Phonegap application! Each webview is fully independent, is able to communicate with local storage, and has its own set of plugins.
 
 Please check out a demo video which illustrates the passing of data between webviews:
 
 [Youtube - Demo (Android) Project](https://youtu.be/_ZzBA28QO4s)
-
 [Youtube - Demo (iOS) Project](https://youtu.be/WVbxFIGBh0Y)
 
 Source code to our Demo Project is included in the repo, to run it in ioS/Android:
@@ -64,6 +62,3 @@ This is the first version of the API.  We currently only support two views in a 
 Your feedback is graciously accepted and appreciated!
 
 [Please submit your pull requests and issues here](https://github.com/phonegap/phonegap-plugin-multiview/).
- 
-
-

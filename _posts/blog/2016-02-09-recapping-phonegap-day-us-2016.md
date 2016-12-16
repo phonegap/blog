@@ -68,7 +68,7 @@ We were also joined by experts from the Angular, React and Ember communities as 
 - [Making Enterprise Sh_t](http://brucelefebvre.com/slides/pgday-lehi-2016-enterprise/content/phonegap/pgday-talk/en/home.html#/) - [Bruce Lefebvre](https://twitter.com/brucelefebvre)
 - Crosswalk: A powerful runtime for your Cordova Apps - Bob Spencer (Crosswalk)
 - [Build and Market Your App: Small Team Success](https://www.dropbox.com/s/nt3yvfivno9z502/SWORKIT-PGDAY-US-2016.pdf) - [Ryan Hanna](https://twitter.com/heryandotus) and [David Frahm](https://twitter.com/davidfrahm)
-- [Generate for AEM and PhoneGap: Design Evolution 3. D2W](https://speakerdeck.com/rlance01/design-evolution-3-dot-0-d2w) - [Renee Lance](https://twitter.com/AdobeGeekGirl)
+- [Generate for AEM and PhoneGap: Design Evolution 3. D2W](https://speakerdeck.com/rlance01/design-evolution-3-dot-0-d2w) - [Renee Lance](https://twitter.com/geekystardust)
 - [Loading Native Code (plugins) Dynamically for the Enterprise](https://github.com/phonegap/native-plugin-sync-demo) - [Shazron Abdullah](https://twitter.com/shazron)
 - What's new for Apache Cordova - [Ryan J. Salva](https://twitter.com/ryanjsalva)
 
