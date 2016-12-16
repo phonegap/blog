@@ -12,6 +12,7 @@ tags:
 ---
 
 ## **PhoneGap Releases New MultiView Plugin**
+
 ***
 
 We're happy to announce the release of the new PhoneGap MultiView plugin with support for iOS and Android!
@@ -19,6 +20,7 @@ We're happy to announce the release of the new PhoneGap MultiView plugin with su
 The MultiView plugin empowers developers with the ability to launch multiple Cordova Webviews within one PhoneGap application! Each webview is fully independent, is able to communicate with local storage, and has its own set of plugins.
 
 ## **The Demo Application**
+
 We have included a demo project in the PhoneGap repo so that you can see how the plugin works in action!  The Demo features two views, a "parent-view" and a "child-view", with the purpose of illustrating the passing of data between views.  Please note that the plugin itself can support multiple views. Source code to our Demo Project is included in the PhoneGap repo, to run it in iOS/Android:
 
 ```bash
@@ -37,8 +39,6 @@ Please check out a demo video which illustrates the passing of data between webv
 ### *iOS*
 
 {% include video.html id="WVbxFIGBh0Y" %}
-
-
 
 ## **MultiView Plugin Installation Instructions**
 
@@ -68,7 +68,7 @@ $ PGMultiView.dismissView(data);
 
 ## **Stay Tuned!**
 
-This is the first version of the API.  This is only Version 1 of the MultiView Plugin, stay tuned because we will be continually adding more functionality as we incorporate feedback!
+This is the first version of the API... More improvements are coming down the pipeline! We will be continually adding more functionality as we incorporate feedback!
 
 ## **Issues**
 
@@ -78,6 +78,6 @@ This is the first version of the API.  This is only Version 1 of the MultiView P
 
 ## **Contact Us**
 
-Your feedback is graciously accepted and appreciated!  
+Your feedback is graciously accepted and appreciated!
 
 [Please submit your pull requests and issues here](https://github.com/phonegap/phonegap-plugin-multiview/).
