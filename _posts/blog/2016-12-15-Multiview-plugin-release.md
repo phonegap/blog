@@ -79,5 +79,7 @@ This is the first version of the API... More improvements are coming down the pi
 ## **Contact Us**
 
 Your feedback is graciously accepted and appreciated!
-
 [Please submit your pull requests and issues here](https://github.com/phonegap/phonegap-plugin-multiview/).
+
+Please feel free to reach out to me on twitter!
+[Sterling Gerritz](https://twitter.com/SterlingAndroid)
