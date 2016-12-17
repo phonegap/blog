@@ -34,11 +34,11 @@ Please check out a demo video which illustrates the passing of data between webv
 
 ### *Android*
 
-{% include video.html id="_ZzBA28QO4s" %}
+[![Youtube - Android Demo](/blog/uploads/2016-12/androidscreenshot.png)](https://youtu.be/_ZzBA28QO4s "Youtube -Android Demo Movie")
 
 ### *iOS*
 
-{% include video.html id="WVbxFIGBh0Y" %}
+[![Youtube - iOS Demo](/blog/uploads/2016-12/androidscreenshot.png)](https://youtu.be/WVbxFIGBh0Y "Youtube -iOS Demo Movie")
 
 ## **MultiView Plugin Installation Instructions**
 
@@ -65,6 +65,7 @@ To *dismiss* a webview make this call in your application's JavaScript:
 ```bash
 $ PGMultiView.dismissView(data);
 ```
+![MultiViewSequence](/blog/uploads/2016-12/MultiViewSequence.png)
 
 ## **Stay Tuned!**
 
