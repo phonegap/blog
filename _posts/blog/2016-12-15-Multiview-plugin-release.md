@@ -65,6 +65,7 @@ To *dismiss* a webview make this call in your application's JavaScript:
 ```bash
 $ PGMultiView.dismissView(data);
 ```
+
 ![MultiViewSequence](/blog/uploads/2016-12/MultiViewSequence.png)
 
 ## **Stay Tuned!**
