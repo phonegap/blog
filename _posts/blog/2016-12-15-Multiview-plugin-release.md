@@ -38,7 +38,7 @@ Please check out a demo video which illustrates the passing of data between webv
 
 ### *iOS*
 
-[![Youtube - iOS Demo](/blog/uploads/2016-12/androidscreenshot.png)](https://youtu.be/WVbxFIGBh0Y "Youtube -iOS Demo Movie")
+[![Youtube - iOS Demo](/blog/uploads/2016-12/iosscreenshot.png)](https://youtu.be/WVbxFIGBh0Y "Youtube -iOS Demo Movie")
 
 ## **MultiView Plugin Installation Instructions**
 
@@ -83,5 +83,5 @@ This is the first version of the API... More improvements are coming down the pi
 Your feedback is graciously accepted and appreciated!
 [Please submit your pull requests and issues here](https://github.com/phonegap/phonegap-plugin-multiview/).
 
-Please feel free to reach out to me on twitter!
-[Sterling Gerritz](https://twitter.com/SterlingAndroid)
+Please feel free to reach out to
+[me on twitter!](https://twitter.com/SterlingAndroid) --Sterling
