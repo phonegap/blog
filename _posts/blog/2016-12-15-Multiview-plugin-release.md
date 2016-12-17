@@ -17,7 +17,7 @@ tags:
 
 We're happy to announce the release of the new PhoneGap MultiView plugin with support for iOS and Android!
 
-The MultiView plugin empowers developers with the ability to launch multiple Cordova Webviews within one PhoneGap application! Each webview is fully independent, is able to communicate with local storage, and has its own set of plugins.
+The MultiView plugin gives developers the ability to launch multiple Cordova Webviews within one PhoneGap application! Each webview is fully independent, is able to communicate with local storage, and has its own set of plugins.
 
 ## **The Demo Application**
 
