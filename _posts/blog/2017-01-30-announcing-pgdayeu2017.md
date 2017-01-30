@@ -32,3 +32,7 @@ We still have a few speaker slots open so if you're interested in getting involv
 Interested in sponsoring? We love having partners from around the mobile development industry at PhoneGap Day. Please email Jen Gray - jgray@adobe.com for more information.
 
 [Grab your ticket!](http://pgday.phonegap.com/eu2017/)
+
+## PhoneGap Day US 2017
+
+Anxious to hear about PhoneGap Day US 2017? We'll be announcing dates and the location soon so sign up [here](http://pgday.phonegap.com/) to stay updated.
