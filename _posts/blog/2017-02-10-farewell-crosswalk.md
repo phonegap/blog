@@ -8,7 +8,7 @@ tags:
 
 In 2011 the Android browser was in a sad state. It was lacking in modern features and not keeping pace with the WebKit project or the Chrome browser on Android. Developers had to treat every [Android WebView differently](http://slides.com/html5test/the-android-browser) because of vast differences in available JavaScript APIs, CSS property syntax and support, and general layout anomalies.
 
-The Intel Open Source Technology Center stepped up and created the Crosswalk project to provide modern standards compliant features to hybrid apps, implemented consistently regardless of Android version, device manufacturer, or carrier.  Crosswalk brought predictability to a turbulent landscape, and delivered modern features like WebAudio and WebGL where there was none.
+The [Intel Open Source Technology Center](https://01.org/crosswalk-project) stepped up and created the Crosswalk project to provide modern standards compliant features to hybrid apps, implemented consistently regardless of Android version, device manufacturer, or carrier.  Crosswalk brought predictability to a turbulent landscape, and delivered modern features like WebAudio and WebGL where there was none.
 
 PhoneGap's original goal was ['.. to cease to exist'](http://phonegap.com/blog/2012/05/09/phonegap-beliefs-goals-and-philosophy/) as we always felt that one day these features
 would be built right into the browser itself. Not to say that we would 'cease to exist', but just that
