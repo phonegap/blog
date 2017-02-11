@@ -1,5 +1,10 @@
-A fond farewell to the Crosswalk project.
-===
+---
+author: Jesse MacFadyen
+title: "A fond farewell to the Crosswalk project."
+tags:
+- News
+- Community
+---
 
 In 2011 the Android browser was in a sad state. It was lacking in modern features and not keeping pace with the WebKit project or the Chrome browser on Android. Developers had to treat every [Android WebView differently](http://slides.com/html5test/the-android-browser) because of vast differences in available JavaScript APIs, CSS property syntax and support, and general layout anomalies.
 
