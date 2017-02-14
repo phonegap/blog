@@ -13,7 +13,7 @@ The [Intel Open Source Technology Center](https://01.org/crosswalk-project) step
 PhoneGap's original goal was ['.. to cease to exist'](http://phonegap.com/blog/2012/05/09/phonegap-beliefs-goals-and-philosophy/) as we always felt that one day these features
 would be built right into the browser itself. Not to say that we would 'cease to exist', but just that
 the 'gap' that we were bridging would hopefully close, and our bridge, would simply become a road. This is precisely where Crosswalk finds itself now, covering a wound that has now healed.
-As [announced today](https://crosswalk-project.org/blog/crosswalk-final-release.html), Crosswalk 23 will be the Intel Open Source Technology Center's last stable release.
+As [announced last Friday](https://crosswalk-project.org/blog/crosswalk-final-release.html), Crosswalk 23 will be the Intel Open Source Technology Center's last stable release.
 
 We on the PhoneGap team would like to thank the Intel Open Source team for their contributions and congratulate them on the great work that they have delivered. We can hardly wait to see what they come up with next.
 
