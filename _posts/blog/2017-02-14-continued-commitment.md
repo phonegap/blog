@@ -48,7 +48,7 @@ We will also continue to provide tools for plugin authors. The [PhoneGap plugin 
 
 ## Outreach
 
-We would like to see the Apache Cordova community continue to grow and have decided to measure the number of signed CLAs we receive per month as our metric. This means you are likely to see more team and guest blog posts, more twitter posts about what we are doing and what we need, as well as more conversations from the PhoneGap team in the [Cordova Slack Channel](https://cordova.slack.com/). [Join us here](http://slack.cordova.io/)
+We would like to see the Apache Cordova community continue to grow and have decided to measure the number of signed CLAs we receive per month as our metric. Learn more about contributing to [Cordova here](http://contribute.cordova.io/). This means you are likely to see more team and guest blog posts, more twitter posts about what we are doing and what we need, as well as more conversations from the PhoneGap team in the [Cordova Slack Channel](https://cordova.slack.com/). [Join us here](http://slack.cordova.io/) 
 
 ## Embedded workflows
 
@@ -56,4 +56,4 @@ Native first hybrid apps, embedded workflows, or what I affectionately call ‘h
 
 ## Onwards
 
-Regardless of whether we are committing directly to Apache Cordova, or to Adobe PhoneGap, most of the work we do, and projects we create are open source! We will continue to push the web forward, and welcome your pull requests, questions, comments, bug reports, ideas, stories and support. We proudly count ourselves among the many dedicated [committers](https://projects.apache.org/committee.html?cordova) and contributors to Apache Cordova.
+Regardless of whether we are committing directly to Apache Cordova, or to Adobe PhoneGap, most of the work we do, and projects we create are open source! We will continue to push the web forward, and welcome your pull requests, questions, comments, [bug reports](http://issues.cordova.io/), ideas, stories and support. We proudly count ourselves among the many dedicated [committers](https://projects.apache.org/committee.html?cordova) and contributors to Apache Cordova.
