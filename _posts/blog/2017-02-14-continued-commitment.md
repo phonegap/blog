@@ -48,7 +48,7 @@ We will also continue to provide tools for plugin authors. The [PhoneGap plugin 
 
 ## Outreach
 
-We would like to see the Apache Cordova community continue to grow and have decided to measure the number of signed CLAs we receive per month as our metric. Learn more about contributing to [Cordova here](http://contribute.cordova.io/). This means you are likely to see more team and guest blog posts, more twitter posts about what we are doing and what we need, as well as more conversations from the PhoneGap team in the [Cordova Slack Channel](https://cordova.slack.com/). [Join us here](http://slack.cordova.io/) 
+We would like to see the Apache Cordova community continue to grow and have decided to measure the number of signed CLAs we receive per month as our metric. Learn more about contributing to [Cordova here](http://contribute.cordova.io/). This means you are likely to see more team and guest blog posts, more twitter posts about what we are doing and what we need, as well as more conversations from the PhoneGap team in the [Cordova Slack Channel](https://cordova.slack.com/). [Join us here](http://slack.cordova.io/)
 
 ## Embedded workflows
 
