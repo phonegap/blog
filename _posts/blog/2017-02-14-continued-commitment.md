@@ -52,7 +52,7 @@ We would like to see the Apache Cordova community continue to grow and have deci
 
 ## Embedded workflows
 
-Native first hybrid apps, embedded workflows, or what I affectionately call ‘hybrid hybrids’ will be a push for the team as well, although most of this will be delivered under through PhoneGap tooling, we will contribute parts to Cordova where it makes sense. The premise of being able to add a little PhoneGap/Cordova to an existing native app excites us, and we feel it would an easy foothold into the hybrid world for developers coming from native platform-centric development.
+Native first hybrid apps, embedded workflows, or what I affectionately call ‘hybrid hybrids’ will be a push for the team as well, although most of this will be delivered through PhoneGap tooling, we will contribute parts to Cordova where it makes sense. The premise of being able to add a little PhoneGap/Cordova to an existing native app excites us, and we feel it would an easy foothold into the hybrid world for developers coming from native platform-centric development.
 
 ## Onwards
 
