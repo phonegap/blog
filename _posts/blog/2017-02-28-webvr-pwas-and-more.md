@@ -44,4 +44,4 @@ Lastly, we have some brand new swag for the event. And as much as we know you lo
 
 You don't want to miss this!
 
-[Register for PhoneGap Day](https://webconferences.paydro.com/phonegap-day-eu-2017) | [Visit the PhoneGap Day site](http://pgday.phonegap.com/eu2017/)
+[Register for PhoneGap Day](http://pgday.phonegap.com/eu2017/)
