@@ -2,7 +2,6 @@
 author: Michael Brooks
 title: "PhoneGap 2017 Roadmap"
 tags:
-- PhoneGap
 - News
 - Open Source
 ---
