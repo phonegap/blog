@@ -6,7 +6,7 @@ tags:
 - Open Source
 ---
 
-Since 2017 has kicked off, we wanted to take a moment to share what we have planned for you! We think this year is especially exciting because PhoneGap will be taking majors steps toward our mission while remaining true to our philosophy. Our focus has always been to help you create amazing mobile apps using web technology and we believe that being compatible with the web is the right way to do it. This is why we're focusing 2017 on compiling your app for a device with Apache Cordova, deploying the same app onto the web as a Progressive Web App, and helping your choose the right app stack for your needs from the amazing collection of open source tools and frameworks available.
+Since 2017 has kicked off, we wanted to take a moment to share what we have planned for you! We think this year is especially exciting because PhoneGap will be taking majors steps toward our mission while remaining true to our philosophy. Our focus has always been to help you create amazing mobile apps using web technology and we believe that being compatible with the web is the right way to do it. This is why we're focusing 2017 on compiling your app for a device with Apache Cordova, deploying the same app onto the web as a Progressive Web App, and helping you choose the right app stack for your needs from the amazing collection of open source tools and frameworks available.
 
 ## App Stacks
 
@@ -18,9 +18,9 @@ We plan to make it easy for you to get up and running with the app framework of 
 
 Once you've picked the right framework, it's time to start building your app. Apache Cordova was originally PhoneGap and it's still our foundation. Throughout the year, you can expect clearer boundaries between PhoneGap and Apache Cordova. While PhoneGap will focus on helping you build your app, Apache Cordova will allow you to access native functionality and compile the app for App Store distribution.
 
-The PhoneGap team continues to be heavily commitment to Apache Cordova. In [Our Continued Commitment](http://phonegap.com/blog/2017/02/14/continued-commitment/), we outline our intentions to keep the releasing rolling, stay secure, and grow our contributor community.
+The PhoneGap team continues to be heavily committed to Apache Cordova. In [Our Continued Commitment](http://phonegap.com/blog/2017/02/14/continued-commitment/), we outline our intentions to keep the releasing rolling, stay secure, and grow our contributor community.
 
-## Progress Web Apps
+## Progressive Web Apps
 
 The purpose of PhoneGap is to allow you to build hybrid mobile apps today with the intention of throwing those same apps onto the web tomorrow. It's been a long game that we started in 2008, but we believe [Progressive Web Apps (PWA)](https://developers.google.com/web/progressive-web-apps/) are the final sprint to our finish line. PhoneGap is a transient technology and we're proud to embrace PWA's as the future of web app development.
 
