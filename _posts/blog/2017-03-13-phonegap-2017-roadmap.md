@@ -28,7 +28,7 @@ This year, you can expect the PhoneGap team to create compatibility between Apac
 
 ## Tooling
 
-Our developer tools are our rock. Even in a world of compiler errors, JavaScript exceptions, and 404 requests, we can trust that our tools are stable. This is why PhoneGap will be placing a greater focus on stability and reliability, especially on Windows. In order to do this, we will be adding additional error reporting to our analytics. If you receive a prompt to help improve the quality of our tools, we'd appreciate selecting _Yes_.
+As developers, our tools are our rock. Even in a world of compiler errors, JavaScript exceptions, and 404 requests, we can trust that our tools are stable. This is why PhoneGap will be placing a greater focus on stability and reliability, especially on Windows. In order to do this, we will be adding additional error reporting to our analytics. If you receive a prompt to help improve the quality of our tools, we'd appreciate selecting _Yes_.
 
 Your best tools are the ones that you use. PhoneGap has no ego about being your top-level tool, which is why you can expect more compatibility between PhoneGap's tools and the frameworks that you are using. This will allow you to preview your app on a mobile device quicker, deploy the app as a Progressive Web App, and ultimately allow PhoneGap to get out of your way.
 
