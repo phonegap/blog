@@ -22,7 +22,7 @@ The PhoneGap team continues to be heavily committed to Apache Cordova. In [Our C
 
 ## Progressive Web Apps
 
-The purpose of PhoneGap is to allow you to build hybrid mobile apps today with the intention of throwing those same apps onto the web tomorrow. It's been a long game that we started in 2008, but we believe [Progressive Web Apps (PWA)](https://developers.google.com/web/progressive-web-apps/) are the final sprint to our finish line. PhoneGap is a transient technology and we're proud to embrace PWA's as the future of web app development.
+The purpose of PhoneGap is to allow you to build hybrid mobile apps today with the intention of throwing those same apps onto the web tomorrow. It's been a long game that we started in 2008, but we believe [Progressive Web Apps (PWA)](https://developers.google.com/web/progressive-web-apps/) are the final sprint to our finish line.
 
 This year, you can expect the PhoneGap team to create compatibility between Apache Cordova and Progressive Web Apps. This will allow you to create a PWA app, deploy it on the web, and also compile it for App Store distribution.
 
