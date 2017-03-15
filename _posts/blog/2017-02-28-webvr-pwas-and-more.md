@@ -7,7 +7,7 @@ tags:
 - PhoneGap Day
 ---
 
-We're about 3 months away from [PhoneGap Day EU 2017](http://pgday.phonegap.com/eu2017/) happening in Amsterdam May 18-19. Let's talk about what we have lined up this year. 
+We're about 3 months away from [PhoneGap Day EU 2017](http://pgday.phonegap.com/eu2017/) happening in Amsterdam May 18-19. Let's talk about what we have lined up this year.
 
 ## Speakers
 
@@ -15,9 +15,9 @@ We've got an amazing [lineup of speakers](http://pgday.phonegap.com/eu2017/) for
 
 [Holly Schinsky](http://pgday.phonegap.com/eu2017/speaker/hollyschinsky/) will be returning to speak about Progressive Web Apps. She's giving a hands-on workshop where you'll learn to build an app that can run as both a PWA and a hybrid app with PhoneGap.
 
-Also returning is [Kerri Shotts](http://pgday.phonegap.com/eu2017/speaker/kerrishotts/) who is a champion in the PhoneGap community. She'll be speaking about building a workflow that integrates modern JavaScript and PhoneGap. She'll also be giving a PhoneGap Plugin workshop. She's awesome. 
+Also returning is [Kerri Shotts](http://pgday.phonegap.com/eu2017/speaker/kerrishotts/) who is a champion in the PhoneGap community. She'll be speaking about building a workflow that integrates modern JavaScript and PhoneGap. She'll also be giving a PhoneGap Plugin workshop. She's awesome.
 
-Some new faces... [Joe Bowser](http://pgday.phonegap.com/eu2017/speaker/joebowser/) (one of the co-creators of PhoneGap who originally wrote the Android implementation) will be talking about WebVR and the basics of AFrame. 
+Some new faces... [Joe Bowser](http://pgday.phonegap.com/eu2017/speaker/joebowser/) (one of the co-creators of PhoneGap who originally wrote the Android implementation) will be talking about WebVR and the basics of AFrame.
 
 And it wouldn't be PhoneGap Day without a few frameworks. We're excited to welcome [Timo Ernst](http://pgday.phonegap.com/eu2017/speaker/timoernst/) to talk about building PhoneGap apps with Vue.js and Framework7.
 
