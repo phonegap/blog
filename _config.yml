@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Archived Blog
 timezone: UTC
 collections:
   posts:
@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     layout: post
-description: All the latest news and insights on PhoneGap
+description: All the old blog posts, written from 2008 to 2017
 baseurl: "/blog"
 url: http://phonegap.com
 gems:

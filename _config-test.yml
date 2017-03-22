@@ -1,5 +1,5 @@
-title: Blog
-description: All the latest news and insights on PhoneGap
+title: Archived Blog
+description: All the old blog posts, written from 2008 to 2017
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://phonegap.com" # the base hostname & protocol for your site
 destination:  ./_site-test/blog/
