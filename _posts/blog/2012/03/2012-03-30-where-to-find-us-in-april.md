@@ -28,7 +28,7 @@ The PhoneGap team is off to more conferences and meet ups in April. Check out wh
 
 **[Future Insights Live](http://futureinsightslive.com/) (Las Vegas)**, Apr 30-May 4 [Brian LeRoux](http://twitter.com/brianleroux) will be speaking on "PhoneGap: Cross Platform Mobile Web Development with Native Deployment." Get an overview of PhoneGap and demo on how to build an app using standards based HTML, CSS and JavaScript.
 
-Check our [events calendar](http://phonegap.com/community/events) to see more events and tweet us [@phonegap](http://twitter.com/phonegap) if you want to meet up!
+Check our [events calendar](https://phonegap.com/community/events) to see more events and tweet us [@phonegap](http://twitter.com/phonegap) if you want to meet up!
 
 The PhoneGap team is off to more conferences and meet ups in April. Check out where we're headed:
 
@@ -46,4 +46,4 @@ The PhoneGap team is off to more conferences and meet ups in April. Check out wh
 
 **[Future Insights Live](http://futureinsightslive.com/) (Las Vegas)**, Apr 30-May 4 [Brian LeRoux](http://twitter.com/brianleroux) will be speaking on "PhoneGap: Cross Platform Mobile Web Development with Native Deployment." Get an overview of PhoneGap and demo on how to build an app using standards based HTML, CSS and JavaScript.
 
-Check our [events calendar](http://phonegap.com/community/events) to see more events and tweet us [@phonegap](http://twitter.com/phonegap) if you want to meet up!
+Check our [events calendar](https://phonegap.com/community/events) to see more events and tweet us [@phonegap](http://twitter.com/phonegap) if you want to meet up!

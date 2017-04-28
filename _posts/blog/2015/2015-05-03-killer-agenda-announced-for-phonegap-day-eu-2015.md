@@ -24,7 +24,7 @@ All that’s missing is you! So come learn about PhoneGap, the PhoneGap ecosyste
 
 Need some help justifying the trip? Download our ["Letter to your Boss"](http://pgday.phonegap.com/eu2015/) document.
 
-**Register [here](https://phonegapdayeu.paydro.net/) | Read more about the event [here](http://pgday.phonegap.com/eu2015/)**
+**Register [here](httpshttps://phonegapdayeu.paydro.net/) | Read more about the event [here](http://pgday.phonegap.com/eu2015/)**
 
 Join the PhoneGap team and friends for a can’t-miss mobile event!
 

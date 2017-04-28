@@ -40,7 +40,7 @@ It was great to see our Paris community at the [PhoneGap Paris meetup](https://w
 
 ![](/blog/uploads/2016-11/PGParispreso.jpg)
 
-Simon kicked things off with [What's new in Apache Cordova/PhoneGap](http://slides.com/simonmacdonald/deck-6-9-10-12#/) and introduced the new Creative SDK PhoneGap plugins as well. We introduced all the current Creative SDK plugins (and some ready-to-use templates) in this [post](http://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/). Anis then presented [Hybrid Android Development with PhoneGap](https://docs.google.com/presentation/d/1t_Ir_hP34ha-g2UF3SWaY4f_UnGQ8vFbpUNI2pZB6yA/edit#slide=id.p).
+Simon kicked things off with [What's new in Apache Cordova/PhoneGap](http://slides.com/simonmacdonald/deck-6-9-10-12#/) and introduced the new Creative SDK PhoneGap plugins as well. We introduced all the current Creative SDK plugins (and some ready-to-use templates) in this [post](https://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/). Anis then presented [Hybrid Android Development with PhoneGap](https://docs.google.com/presentation/d/1t_Ir_hP34ha-g2UF3SWaY4f_UnGQ8vFbpUNI2pZB6yA/edit#slide=id.p).
 
 ## DevRelCon
 
@@ -60,4 +60,4 @@ We ended the trip with the impressive Women Who Code London group. It was truly 
 
 ![](/blog/uploads/2016-11/WWC.png)
 
-It was a great trip. We love meeting the PhoneGap community and hearing about all the great things you're doing. We'll be doing lots more events in 2017 so keep an eye on our [Events page](http://phonegap.com/event/) for updates. AND! We've announced PhoneGap Day EU 2017 happening May 18-19 in Amsterdam. Our [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSdZzHkdeQtuPkuDPfYMC5VtUDLWaCbI09KBtZsNfY9QuHrckQ/viewform) is open so if you're interested in getting involved - submit.
+It was a great trip. We love meeting the PhoneGap community and hearing about all the great things you're doing. We'll be doing lots more events in 2017 so keep an eye on our [Events page](https://phonegap.com/event/) for updates. AND! We've announced PhoneGap Day EU 2017 happening May 18-19 in Amsterdam. Our [Call for Speakers](https://docs.google.com/forms/d/e/1FAIpQLSdZzHkdeQtuPkuDPfYMC5VtUDLWaCbI09KBtZsNfY9QuHrckQ/viewform) is open so if you're interested in getting involved - submit.

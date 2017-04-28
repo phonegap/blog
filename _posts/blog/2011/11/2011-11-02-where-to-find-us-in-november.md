@@ -21,4 +21,4 @@ We're nearing the end of the year but we still have time to squeeze in some road
 
 **November 17 - [QCon](http://qconsf.com/) (SF)** Dave Johnson will be speaking on "[Hybrid Mobile Applications using PhoneGap](http://qconsf.com/sf2011/presentation/Hybrid+Mobile+Applications+using+PhoneGap)". Follow the conference on Twitter: [@qcon](http://twitter.com/qcon) or [#QConSF](http://twitter.com/#!/search?q=%23QConSF).
 
-Check our [events calendar](http://phonegap.com/community/events/) to see more events and [tweet us](http://twitter.com/#!/phonegap) if you want to meet up!
+Check our [events calendar](https://phonegap.com/community/events/) to see more events and [tweet us](http://twitter.com/#!/phonegap) if you want to meet up!

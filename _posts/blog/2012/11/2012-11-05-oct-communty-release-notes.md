@@ -8,7 +8,7 @@ tags:
 author: Steve Gill
 ---
 
-Earlier this year we started the [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
+Earlier this year we started the [PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
 
 We'll be posting the round up from each month and below is the roundup for the month of October.
 
@@ -31,7 +31,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [What's New in Cordova iOS 2.2.0](http://shazronatadobe.wordpress.com/2012/10/27/whats-new-in-cordova-ios-2-2-0/), Shazron Abdullah
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
 - [Halloween Fun with PhoneGap](http://www.tricedesigns.com/2012/10/23/halloween-fun-with-phonegap/), Andy Trice
-- [Wikitude provides PhoneGap users with augmented reality plugin](http://phonegap.com/blog/2012/10/09/wikitude-provides-users-with-augmented-reality-plugin/), Dan Taylor
+- [Wikitude provides PhoneGap users with augmented reality plugin](https://phonegap.com/blog/2012/10/09/wikitude-provides-users-with-augmented-reality-plugin/), Dan Taylor
 - [PhoneGap, Apple Rejections & UI/UX Guidelines](http://www.tricedesigns.com/2012/10/03/phonegap-apple-rejections-uiux-guidelines/), Andy Trice
 - [Automated UI Testing in PhoneGap Apps](http://www.tricedesigns.com/2012/10/08/automated-ui-testing-in-phonegap-apps/), Andy Trice
 - [Building a Parse.com Enabled PhoneGap app - Part 4](http://www.raymondcamden.com/2012/10/04/Building-a-Parsecom-Enabled-PhoneGap-App-Part-4), Ray Camden
@@ -49,5 +49,5 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Tutorial: Android Push Notifications With PhoneGap](http://devgirl.org/2012/10/25/tutorial-android-push-notifications-with-phonegap/), Holly Schinsky
 - [Tutorial: Apple Push Notifications with PhoneGap – Part 1](http://devgirl.org/2012/10/19/tutorial-apple-push-notifications-with-phonegap-part-1/), Holly Schinsky
 - [Cross-Platform PhoneGap (aka Cordova) Project Templates in a Jiffy!](http://devgirl.org/2012/10/04/cross-platform-phonegap-aka-cordova-project-templates-in-a-jiffy/), Holly Schinsky
-- [Push Messaging plugin from mBlox](http://phonegap.com/blog/2012/10/25/mblox-plugin/), mBlox
-- [Test the Web Forward with PhoneGap](http://phonegap.com/blog/2012/10/17/test-the-web-forward-with-phonegap/), Michael Brooks
+- [Push Messaging plugin from mBlox](https://phonegap.com/blog/2012/10/25/mblox-plugin/), mBlox
+- [Test the Web Forward with PhoneGap](https://phonegap.com/blog/2012/10/17/test-the-web-forward-with-phonegap/), Michael Brooks

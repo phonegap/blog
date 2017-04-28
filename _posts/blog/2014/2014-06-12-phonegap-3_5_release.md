@@ -37,6 +37,6 @@ $ phonegap create my-app
 $ cd my-app/
 ```
 
-For more detail, see the [PhoneGap Install page](http://phonegap.com/install).
+For more detail, see the [PhoneGap Install page](https://phonegap.com/install).
 
 Happy coding!

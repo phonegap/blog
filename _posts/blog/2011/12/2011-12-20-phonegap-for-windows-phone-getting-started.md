@@ -12,7 +12,7 @@ type: post
 format: html
 ---
 
-Yesterday, we [announced](http://phonegap.com/2011/12/19/phonegap-1-3-released/) the release of PhoneGap 1.3.0\. This early holiday present included many improvements, new features and bug fixes across many platforms.
+Yesterday, we [announced](https://phonegap.com/2011/12/19/phonegap-1-3-released/) the release of PhoneGap 1.3.0\. This early holiday present included many improvements, new features and bug fixes across many platforms.
 
 One of the most exciting parts of PhoneGap 1.3 is the full support of Windows Phone, including the full PhoneGap API and Windows Phone Getting Started Guide. Developers can also enjoy a selection of PhoneGap plug-ins that support social networks - including Facebook, LinkedIn, Windows Live and Twitter - and a solid integration into Visual Studio Express for Windows Phone.
 
@@ -28,4 +28,4 @@ Part 2: Get a deeper dive into PhoneGap 1.3 for Windows Phone
 
 {% include video.html id="p8Kc5rs_E3Y" %}
 
-[Learn more about Getting Started with PhoneGap for Windows Phone.](http://phonegap.com/start/#wp) [Read Jesse's blog.](http://risingj.com)
+[Learn more about Getting Started with PhoneGap for Windows Phone.](https://phonegap.com/start/#wp) [Read Jesse's blog.](http://risingj.com)

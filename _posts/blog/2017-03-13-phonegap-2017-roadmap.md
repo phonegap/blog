@@ -12,13 +12,13 @@ Since 2017 has kicked off, we wanted to take a moment to share what we have plan
 
 Don't panic. We believe one of the greatest strengths of PhoneGap is that it works with the web. In our earlier years, the best hybrid mobile apps were built from scratch without an app framework. However, there are now some incredible options that allow you to create high quality mobile app experiences.
 
-We plan to make it easy for you to get up and running with the app framework of your choice. You can expect sample apps that show off what's possible, guides to get you up and running, and first-class support from our tooling. If you're an app framework maintainer, [please reach out to us](http://phonegap.com/about/contact/) to talk about how we can work together!
+We plan to make it easy for you to get up and running with the app framework of your choice. You can expect sample apps that show off what's possible, guides to get you up and running, and first-class support from our tooling. If you're an app framework maintainer, [please reach out to us](https://phonegap.com/about/contact/) to talk about how we can work together!
 
 ## Apache Cordova
 
 Once you've picked the right framework, it's time to start building your app. Apache Cordova was originally PhoneGap and it's still our foundation. Throughout the year, you can expect clearer boundaries between PhoneGap and Apache Cordova. While PhoneGap will focus on helping you build your app, Apache Cordova will allow you to access native functionality and compile the app for App Store distribution.
 
-The PhoneGap team continues to be heavily committed to Apache Cordova. In [Our Continued Commitment](http://phonegap.com/blog/2017/02/14/continued-commitment/), we outline our intentions to keep the releases rolling, stay secure, and grow our contributor community.
+The PhoneGap team continues to be heavily committed to Apache Cordova. In [Our Continued Commitment](https://phonegap.com/blog/2017/02/14/continued-commitment/), we outline our intentions to keep the releases rolling, stay secure, and grow our contributor community.
 
 ## Progressive Web Apps
 

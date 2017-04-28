@@ -9,7 +9,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We’ll be posting more videos from the conference (and the workshops!) so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/). and [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We’ll be posting more videos from the conference (and the workshops!) so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/). and [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 Our next talk comes from the amazing Sworkit team, Ryan Hanna and David Frahm. They talk about doing more with less and provide valuable lessons learned in development and marketing when scaling your app with a small team.
 

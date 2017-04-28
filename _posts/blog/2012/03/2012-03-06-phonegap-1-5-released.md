@@ -11,7 +11,7 @@ type: post
 format: html
 ---
 
-The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.5](http://phonegap.com/download)! This release contains many bug fixes from version 1.4.1.
+The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.5](https://phonegap.com/download)! This release contains many bug fixes from version 1.4.1.
 
 Check out the release notes below to see all of the enhancements and fixes.
 

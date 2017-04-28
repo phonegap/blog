@@ -86,7 +86,7 @@ Edit: Whoa, not sure what happened but it looks like most of the config.xml stuf
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
-  xmlns:gap="http://phonegap.com/ns/1.0"
+  xmlns:gap="https://phonegap.com/ns/1.0"
   id="com.craftyjs.tutorial"
   version= "1.0.0">
 

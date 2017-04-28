@@ -9,7 +9,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day EU 2015 in Amsterdam. We'll be posting more videos from the conference so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day EU 2015 in Amsterdam. We'll be posting more videos from the conference so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 Our next talk comes from [Claudio Cossio](https://twitter.com/ccossio) where he talks about driving user growth for your app. In 1978 Dr. James Justin wrote a book called "Chase, Chance & Creativity" where he talks about the 4 types of "chances" a researcher might find. This can be directly applied to any type of work that is based on creativity, it can be applied on how to find growth for your app. We will explain it with some cool use cases.
 

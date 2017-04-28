@@ -26,8 +26,8 @@ issue tracker. Please continue helping us improve the app by [reporting issues][
 
 [1]: http://app.phonegap.com/
 [2]: http://www.windowsphone.com/s?appid=5c6a2d1e-4fad-4bf8-aaf7-71380cc84fe3
-[3]: http://phonegap.com/about/feature/
-[4]: http://phonegap.com/blog/2014/04/23/phonegap-developer-app/
+[3]: https://phonegap.com/about/feature/
+[4]: https://phonegap.com/blog/2014/04/23/phonegap-developer-app/
 [5]: https://github.com/phonegap/phonegap-app-developer
 [6]: https://github.com/phonegap/phonegap-app-developer/issues
 [7]: https://github.com/phonegap/phonegap-app-developer/issues/111

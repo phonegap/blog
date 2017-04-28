@@ -10,7 +10,7 @@ type: post
 format: html
 ---
 
-After getting distracted for a while from my port of [PhoneGap](http://phonegap.com) to Qt for Symbian, I've recently jumped back on it, tightening it up a bit and adding some APIs. We now have Geolocation, Vibration, Acceleration, & Orientation working.
+After getting distracted for a while from my port of [PhoneGap](https://phonegap.com) to Qt for Symbian, I've recently jumped back on it, tightening it up a bit and adding some APIs. We now have Geolocation, Vibration, Acceleration, & Orientation working.
 
 Now we already have a Symbian port of PhoneGap working and available, which uses Nokia's Web Runtime (WRT) technology (which is native to Symbian OS). So why PhoneGap on Qt for Symbian? Well I briefly mentioned some of the limitations faced by using WRT in a previous post; I will touch on those again and expand:
 
@@ -20,6 +20,6 @@ Now we already have a Symbian port of PhoneGap working and available, which uses
 
 Now PhoneGap Symbian for Qt is still young and perhaps as it grows, it will face the performance & memory issues mentioned above. But for now things are running much smoother.
 
-So far my testing of PhoneGap Qt for Symbian has been limited to my little PhoneGap API demo app, so more testing is definitely on my plate. The platform uses Qt Webkit, which appears to be very modern and so far has worked very nicely for me. Flick-scrolling is not native to the Qt Webview, so I may have to try implementing that as well. But to summarize, PhoneGap Qt for Symbian is now available, though not yet API-complete. [Clone it](http://github.com/wildabeast/phonegap-symbian.qt), [Get Started](http://phonegap.pbworks.com/PhoneGap-Symbian-%28Qt%29), and let me know if you have questions, comments, or suggestions. Or contributions!
+So far my testing of PhoneGap Qt for Symbian has been limited to my little PhoneGap API demo app, so more testing is definitely on my plate. The platform uses Qt Webkit, which appears to be very modern and so far has worked very nicely for me. Flick-scrolling is not native to the Qt Webview, so I may have to try implementing that as well. But to summarize, PhoneGap Qt for Symbian is now available, though not yet API-complete. [Clone it](http://github.com/wildabeast/phonegap-symbian.qt), [Get Started](https://phonegap.pbworks.com/PhoneGap-Symbian-%28Qt%29), and let me know if you have questions, comments, or suggestions. Or contributions!
 
 [› Visit the original post](http://blogs.nitobi.com/ryan/index.php/2010/01/15/update-on-phonegap-port-to-qt-for-symbian/)

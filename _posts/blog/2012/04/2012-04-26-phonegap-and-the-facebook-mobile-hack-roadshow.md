@@ -28,6 +28,6 @@ The most challenging part of the tour was having non-English speaking developers
 
 One thing was clear to me at every event I attended and presented at: a large number of people have heard about PhoneGap. Over 80% of people raised their hands at each event when I asked them if they have heard about PhoneGap. This showed me that the PhoneGap love is spreading all over the world.
 
-The PhoneGap team plans on continuing to help these up and coming developer communities to use PhoneGap for their projects and assist them with more advanced topics. We will continue to attend as many conferences and meetups as we can to ensure this. To see a list of where we are speaking next, check out our [event calender](http://phonegap.com/events) or find us on [http://phonegap.meetup.com](http://phonegap.meetup.com).
+The PhoneGap team plans on continuing to help these up and coming developer communities to use PhoneGap for their projects and assist them with more advanced topics. We will continue to attend as many conferences and meetups as we can to ensure this. To see a list of where we are speaking next, check out our [event calender](https://phonegap.com/events) or find us on [https://phonegap.meetup.com](https://phonegap.meetup.com).
 
 If you are interested in checking out the PhoneGap Facebook plugin, check out the source code over at [https://github.com/davejohnson/phonegap-plugin-facebook-connect](https://github.com/davejohnson/phonegap-plugin-facebook-connect).

@@ -18,7 +18,7 @@ Here's a quick example config.xml from a static page I am running called the [Jo
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.nitobi.johngarrett" version="1.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0" id="com.nitobi.johngarrett" version="1.0">
   <name>John Garrett Drinking Game</name>
   <description>
     If you're watching a Canucks game, you need play this.

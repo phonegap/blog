@@ -14,7 +14,7 @@ Are you a mobile app developer looking for easy ways to add Augmented Reality an
 
 Imagine that you only need to develop your Augmented Reality and Image Recognition native app once for **both** iOS and Android. Now you can with the [CraftAR PhoneGap Plugin](https://build.phonegap.com/plugins/1477).
 
-This new plugin enables developers to integrate the [CraftAR Augmented Reality SDK](http://catchoom.com/product/craftar/augmented-reality-and-image-recognition-sdk/) with an app developed with the [Adobe PhoneGap](http://phonegap.com/) framework. PhoneGap is a framework that gives you the power to create cross-platform apps using web technologies like JavaScript, HTML and CSS. The CraftAR PhoneGap plugin also unlocks other HTML5 development frameworks such as [Sencha Touch](http://www.sencha.com/products/touch/).
+This new plugin enables developers to integrate the [CraftAR Augmented Reality SDK](http://catchoom.com/product/craftar/augmented-reality-and-image-recognition-sdk/) with an app developed with the [Adobe PhoneGap](https://phonegap.com/) framework. PhoneGap is a framework that gives you the power to create cross-platform apps using web technologies like JavaScript, HTML and CSS. The CraftAR PhoneGap plugin also unlocks other HTML5 development frameworks such as [Sencha Touch](http://www.sencha.com/products/touch/).
 
 ## Customer Spotlight: Plandent
 

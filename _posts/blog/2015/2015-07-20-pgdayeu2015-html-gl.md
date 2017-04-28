@@ -10,7 +10,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day EU 2015 in Amsterdam. We'll be posting more videos from the conference so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day EU 2015 in Amsterdam. We'll be posting more videos from the conference so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 Next up, [Denis Radin](https://twitter.com/PixelsCommander) talks about how HTML GL solves "the slow DOM problem" by creating WebGL representations of DOM elements and hiding actual DOM after. This speeds up HTML/CSS animations and transformations by using 3D hardware acceleration and allows you to apply OpenGL effects as modern 3D games have. He also sheds some light on approaches being developed in UPC for getting the highest performance on mobile and TV devices.
 

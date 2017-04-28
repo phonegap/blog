@@ -9,7 +9,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We'll be posting more videos from the conference (and the workshops!) so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We'll be posting more videos from the conference (and the workshops!) so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 [Raymond Camden](https://twitter.com/raymondcamden) joins us next to talk about basic internationalization, globalization issues with Cordova apps. He talks about the Globalization plugin (and how to work around the async nature of the plugin), the Intl class, and other options. Ray also discusses why you should give a damn as a developer.
 

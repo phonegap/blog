@@ -15,7 +15,7 @@ We have some big news! On Friday, July 29th, we will be hosting the first ever P
 
 We'll be heading over to the Urban Airship office in Portland, Orgeon, where we’ll have phones, apps, js frameworks, tools and delicious beers for all to enjoy. In addition to some hacking with other PhoneGap addicts, there will be talks on getting started with PhoneGap, high-speed demos, and short presentations from PhoneGap developers. And of course all of this will be followed by a PhoneGap party with appies and beer!
 
-The best part about it all? It's **FREE!** We are asking folks to register ahead of time as we’re expecting a full house. **[Click here to register!](http://phonegapday.eventbrite.com/)**
+The best part about it all? It's **FREE!** We are asking folks to register ahead of time as we’re expecting a full house. **[Click here to register!](https://phonegapday.eventbrite.com/)**
 
 We hope you’ll join the PhoneGap team and friends for an amazing afternoon of celebrating!
 

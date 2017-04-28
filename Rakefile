@@ -275,7 +275,7 @@ task :test do
       '/getstarted/',
       '/products/',
       '/tool/',
-      'http://phonegap.com/blog/feed.xml',
+      'https://phonegap.com/blog/feed.xml',
       '/blog/tag/phonegap-network/',
       /\/blog\/(200\d|201[0-4])\/(\S)*/,
       /http(s)?:\/\/(www.)?linkedin\.com\/in\/([-a-zA-Z0-9@:%_\+.~#?&\/=]*)/

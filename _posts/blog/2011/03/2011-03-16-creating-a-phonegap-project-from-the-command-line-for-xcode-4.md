@@ -10,9 +10,9 @@ type: post
 format: html
 ---
 
-[![](http://blogs.nitobi.com/shazron/wp-content/uploads/2011/03/apple-xcode-icon.png)](http://blogs.nitobi.com/shazron/wp-content/uploads/2011/03/apple-xcode-icon.png)Currently the PhoneGap installer for iOS does not create an Xcode 4 template. The issue is tracked [here](http://phonegap.lighthouseapp.com/projects/20116/tickets/120).
+[![](http://blogs.nitobi.com/shazron/wp-content/uploads/2011/03/apple-xcode-icon.png)](http://blogs.nitobi.com/shazron/wp-content/uploads/2011/03/apple-xcode-icon.png)Currently the PhoneGap installer for iOS does not create an Xcode 4 template. The issue is tracked [here](https://phonegap.lighthouseapp.com/projects/20116/tickets/120).
 
-I've created a shell script to create a PhoneGap project from the command line. You will still need PhoneGapLib installed - download the installer from [http://phonegap.com](http://phonegap.com/download) and run it first.
+I've created a shell script to create a PhoneGap project from the command line. You will still need PhoneGapLib installed - download the installer from [https://phonegap.com](https://phonegap.com/download) and run it first.
 
 [Download the script](http://blogs.nitobi.com/shazron/wp-content/uploads/2011/03/create_project.sh1.zip), and unzip it. Instructions are in the shell script itself (open it up in a text editor). [View the script](https://github.com/phonegap/phonegap-iphone/blob/master/create_project.sh).
 

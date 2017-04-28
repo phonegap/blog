@@ -11,7 +11,7 @@ author: Ryan Willoughby
 Some news for you devs using the PhoneGap Build Developer API\: we've added support for the OAuth authentication protocol. Up to now, API developers wishing to authenticate against the API would use basic authentication to obtain an auth token, and use that token to access the API. However, this meant that client applications had to ask for the user's PhoneGap Build username and password, which from a security perspective isn't ideal. With OAuth, client applications will now send their users to PhoneGap Build to authenticate their credentials, and authorize the client to access PhoneGap Build on their behalf.
 
 Why are we adding this? Well, here's a few reasons:
-- PhoneGap Build [is deprecating basic authentication for the API](http://phonegap.com/blog/2014/04/16/removing-legacy-logins/)
+- PhoneGap Build [is deprecating basic authentication for the API](https://phonegap.com/blog/2014/04/16/removing-legacy-logins/)
 - Client Applications will no longer see their user's PhoneGap Build username and password
 - Users can always know which client applications have access to their Build account -- and revoke an individual client's access at any time
 - Client applications' access scope can be limited (not yet implemented, so just one universal scope at the moment) 

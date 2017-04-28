@@ -16,7 +16,7 @@ defaults:
     layout: post
 description: All the latest news and insights on PhoneGap
 baseurl: "/blog"
-url: http://phonegap.com
+url: ""
 gems:
 - jekyll-paginate
 - jekyll-coffeescript

@@ -18,7 +18,7 @@ This is not a contest: it is a competition however. And the competition is fierc
 
 The event is meant to bring hackers from around Vancouver to the Nitobi office and dedicate a day to building something kick ass. Hacks can be hardware based. Software based. Or (even better) both. We ask that self aware systems do not sport armed weapons. Weapons are cool: but lets keep it safe folks. For example, if you build a robot with a flamethrower face please ensure the flamethrowing face is not active (in our office). Your cooperation is appreciated!!!
 
-A big theme at Nitobi lately has been casual gaming and mobile applications. We don't want to weight your thinking but special consideration will likely be given to apps utilizing [CUI](http://github.com/nitobi/completeui/tree/master), [PhoneGap](http://phonegap.com) and/or people who bring bottles of scotch.
+A big theme at Nitobi lately has been casual gaming and mobile applications. We don't want to weight your thinking but special consideration will likely be given to apps utilizing [CUI](http://github.com/nitobi/completeui/tree/master), [PhoneGap](https://phonegap.com) and/or people who bring bottles of scotch.
 
 Nitobi will provide the foosball, beer, prizes (like books, shirts, software and an IPod Nano) and you provide the hax0r skillz.
 

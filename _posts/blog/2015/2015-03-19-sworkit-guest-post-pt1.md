@@ -47,7 +47,7 @@ Sworkit's first screen and influence on later screens.
 
 One other recommendation I have is to learn from every opportunity to show off your app to friends, family and colleagues. Be excited to share what you have created, but don’t do the app navigation on your own. Hand off the device and use these interactions to watch how people use the app and where they find confusing barriers or extraneous features that keep them from understanding the point of your app.
 
-Bonus: [PhoneGap Needs Design - Garth Braithwaite at PhoneGap Day US 2014](http://phonegap.com/blog/2015/01/12/phonegap-day-us-2014-phonegap-needs-design/)
+Bonus: [PhoneGap Needs Design - Garth Braithwaite at PhoneGap Day US 2014](https://phonegap.com/blog/2015/01/12/phonegap-day-us-2014-phonegap-needs-design/)
 
 ## Let Your Users Help You
 
