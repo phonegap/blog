@@ -14,7 +14,7 @@ We launched [Hipmob](http://www.hipmob.com/) over a year ago to solve our own pr
 
 Thousands of developers already use Hipmob ([see a few here](http://www.hipmob.com/gallery.html)), including several PhoneGap developers (check out [Epiq Access for iOS](https://itunes.apple.com/app/id694277147)).
 
-![](http://phonegap.com/uploads/2014/02/hipmob.jpg)
+![](https://phonegap.com/uploads/2014/02/hipmob.jpg)
 
 Simply put, Hipmob makes it easy to communicate with customers inside your app. Your app users won't have to leave your app to get help, and they'll send you fewer support emails. If you sell a product or service inside your app, Hipmob is also a great way to answer questions and increase sales.
 

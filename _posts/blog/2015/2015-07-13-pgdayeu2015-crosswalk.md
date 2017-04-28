@@ -10,7 +10,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day EU 2015 in Amsterdam. We'll be posting more videos from the conference so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day EU 2015 in Amsterdam. We'll be posting more videos from the conference so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 Today we're sharing a great session by our friends at [Crosswalk](https://crosswalk-project.org/) that can help you navigate the fragmented Android market.
 

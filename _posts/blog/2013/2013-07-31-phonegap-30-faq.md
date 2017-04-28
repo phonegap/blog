@@ -8,7 +8,7 @@ tags:
 author: Colene Chow
 ---
 
-Since we released [PhoneGap 3.0](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released), we’ve received a lot of positive feedback from the community. Thanks guys! We’ve also received some great questions, so we’ve compiled this FAQ to help clear things up.
+Since we released [PhoneGap 3.0](https://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released), we’ve received a lot of positive feedback from the community. Thanks guys! We’ve also received some great questions, so we’ve compiled this FAQ to help clear things up.
 
 ## Q. When will we start to see iOS7 support?
 
@@ -52,8 +52,8 @@ As for firewall support with the PhoneGap CLI, it's an outstanding issue that [M
 
 Did you know? PhoneGap Build now fully supports user submitted plugins too! Read more:
 
-* [Announcement of User Submitted plugins](http://phonegap.com/blog/2013/07/16/user-submitted-plugins-announcement-post/)
-* [How to use plugins](http://phonegap.com/blog/2013/07/15/using-plugins-with-phonegapbuild/)
+* [Announcement of User Submitted plugins](https://phonegap.com/blog/2013/07/16/user-submitted-plugins-announcement-post/)
+* [How to use plugins](https://phonegap.com/blog/2013/07/15/using-plugins-with-phonegapbuild/)
 
 ## Q. When’s the next [PhoneGap Day](http://pgday.phonegap.com)?
 

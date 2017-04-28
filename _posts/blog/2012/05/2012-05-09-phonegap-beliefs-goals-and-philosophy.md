@@ -34,7 +34,7 @@ Our second belief makes a brave statement: all technology deprecates. This is mo
 
 ## Goals
 
-Understanding our beliefs makes it easier to understand why we have composed a development team that is proficient in 8 languages, as many operating systems, and works daily with enough phones to fill a refrigerator. We would put 'em in the fridge but that's where we keep the beer so [we built a giant wall](http://phonegap.com/2012/03/29/phonegaps-new-device-wall/). **The device wall isn't something to keep phones in: it's for keeping proprietary platforms out.** Beliefs in hand, let us look at the goals with PhoneGap.
+Understanding our beliefs makes it easier to understand why we have composed a development team that is proficient in 8 languages, as many operating systems, and works daily with enough phones to fill a refrigerator. We would put 'em in the fridge but that's where we keep the beer so [we built a giant wall](https://phonegap.com/2012/03/29/phonegaps-new-device-wall/). **The device wall isn't something to keep phones in: it's for keeping proprietary platforms out.** Beliefs in hand, let us look at the goals with PhoneGap.
 
 We have two high level goals with PhoneGap:
 
@@ -53,10 +53,10 @@ It isn't without a sense of irony that our first belief (the web solved cross pl
 
 Attachment is the root cause of all suffering. We are not attached to the web, JS or any of it. Indeed, in order to implement PhoneGap many of us are now veterans of many platforms, languages, tools and operating systems. Keep 'em coming: we'll put a browser there too.
 
-We ship fast, often twice a month, and have done so for a long time now. I've heard it said that PhoneGap can lag behind native implementations and, while technically correct, we rarely lag more than two weeks. Additionally, there is a very low barrier for a developer to author a plugin for functionality we haven't yet writ ourselves. [I highly encourage you to read about our release philosophy.](http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/) I feel we are among the best at it in the industry today.
+We ship fast, often twice a month, and have done so for a long time now. I've heard it said that PhoneGap can lag behind native implementations and, while technically correct, we rarely lag more than two weeks. Additionally, there is a very low barrier for a developer to author a plugin for functionality we haven't yet writ ourselves. [I highly encourage you to read about our release philosophy.](https://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/) I feel we are among the best at it in the industry today.
 
 ## Closing Thought
 
 We agree that there are no silver bullets, and the web isn't the best tool for every job. However, the web is not getting worse, and the browser abstraction layer is ultimately the same across operating systems (C, C++). If the web doesn't do something today it's not because it can't, or won't, but rather it is because we haven't gotten around to implementing that capability yet.
 
-If you want to help the web get there you can [learn more about contributing here](http://cordova.io). If you want to have an intelligent debate on the real drawbacks of PhoneGap: [you can start by trying it out here](http://phonegap.com/download).
+If you want to help the web get there you can [learn more about contributing here](http://cordova.io). If you want to have an intelligent debate on the real drawbacks of PhoneGap: [you can start by trying it out here](https://phonegap.com/download).

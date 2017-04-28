@@ -10,7 +10,7 @@ author: Ryan Willoughby
 
 Now that our holiday shakes are finally gone, [PhoneGap Build](http://build.phonegap.com) can release Cordova 3.3.0! Here's more info on what's included:
 
- * [Adobe PhoneGap 3.3.0 blog post](http://phonegap.com/blog/2013/12/13/phonegap-release/)
+ * [Adobe PhoneGap 3.3.0 blog post](https://phonegap.com/blog/2013/12/13/phonegap-release/)
  * [Cordova iOS release notes](https://github.com/apache/cordova-ios/blob/master/RELEASENOTES.md)
  * [Cordova Android release notes](https://github.com/apache/cordova-android/blob/master/RELEASENOTES.md)
  * [What's new in Cordova Windows Phone 8](http://cordova.apache.org/announcements/2013/12/16/cordova-330.html#whats_new_in_windows_phone_7__8)

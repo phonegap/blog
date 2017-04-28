@@ -62,12 +62,12 @@ If the server has not started, click the arrow (`>`) to the right of your app's 
 ### 4. Pair with the PhoneGap Developer App
 
 - Get your device out.
-- Open the [PhoneGap Developer App](http://phonegap.com/blog/2014/11/26/phonegap-developer-app-1-4-0/).
+- Open the [PhoneGap Developer App](https://phonegap.com/blog/2014/11/26/phonegap-developer-app-1-4-0/).
 - Type the IP address displayed by the Desktop app.
 
 ![Pairing the PhoneGap Desktop App](/blog/uploads/2014-12/phonegap-app-desktop-pair.png)
 
-Don't have the _PhoneGap Developer App_? [Learn how to get here](http://phonegap.com/blog/2014/11/26/phonegap-developer-app-1-4-0/).
+Don't have the _PhoneGap Developer App_? [Learn how to get here](https://phonegap.com/blog/2014/11/26/phonegap-developer-app-1-4-0/).
 
 ### 5. Get to Work
 

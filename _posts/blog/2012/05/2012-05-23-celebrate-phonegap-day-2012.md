@@ -18,7 +18,7 @@ PhoneGap Day is one part conference and one part celebration where you'll meet a
 
 And of course, what's a PhoneGap event without some beer? We'll be serving a catered breakfast and lunch with plenty of beer to go around.
 
-[Register for PhoneGap Day](http://phonegapdaypdx.eventbrite.com/) | [Visit the PhoneGap Day website](http://pgday.phonegap.com)
+[Register for PhoneGap Day](https://phonegapdaypdx.eventbrite.com/) | [Visit the PhoneGap Day website](http://pgday.phonegap.com)
 
 At [OSCON](http://www.oscon.com/oscon2012)? Stick around in Portland and join us! PhoneGap Day falls on the last day of OSCON, so come by for more great speakers and socializing with others like you who use and love PhoneGap.
 

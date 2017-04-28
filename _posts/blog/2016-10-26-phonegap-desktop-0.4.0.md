@@ -8,7 +8,7 @@ tags:
 author: Holly Schinsky
 ---
 
-We're happy to announce the release of PhoneGap Desktop 0.4.0, with support for PhoneGap templates! These templates help you build apps quickly with popular features like Push Notifications, Augmented Reality and frameworks like React and Framework7. We've also included and recommend our [PhoneGap Star Track](http://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/) template for those who want to get started using a more complete app example.
+We're happy to announce the release of PhoneGap Desktop 0.4.0, with support for PhoneGap templates! These templates help you build apps quickly with popular features like Push Notifications, Augmented Reality and frameworks like React and Framework7. We've also included and recommend our [PhoneGap Star Track](https://phonegap.com/blog/2016/04/21/introducing-star-track-by-phonegap/) template for those who want to get started using a more complete app example.
 
 ![Create Project with Template Workflow](/blog/uploads/2016-10/create-template.gif)
 

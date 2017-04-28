@@ -22,7 +22,7 @@ Tickets are going fast so be sure to register quick! Still need some convincing?
 
 Lastly, we doubled down on workshops last year at PhoneGap Day US 2014 and we'll be bringing that to Amsterdam. Expect some hands-on workshops from PhoneGap experts on everything from getting started with PhoneGap to intermediate and advanced techniques.
 
-[Register for PhoneGap Day](https://phonegapdayeu.paydro.net/) | [Visit the PhoneGap Day website](http://pgday.phonegap.com/eu2015/)
+[Register for PhoneGap Day](httpshttps://phonegapdayeu.paydro.net/) | [Visit the PhoneGap Day website](http://pgday.phonegap.com/eu2015/)
 
 Make sure to spread the word with #pgday! We want everyone to enjoy the presentations, swag and fun in Amsterdam.
 

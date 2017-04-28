@@ -24,4 +24,4 @@ There is an evolution in the interaction of software, apps and interconnected de
 
 ![4YFN-presenters](/blog/uploads/2016-03/4yfn-3.jpg)
 
-Keep an eye on our [events page](http://phonegap.com/event/) to see where we'll be next! We'd love to meet you.
+Keep an eye on our [events page](https://phonegap.com/event/) to see where we'll be next! We'd love to meet you.

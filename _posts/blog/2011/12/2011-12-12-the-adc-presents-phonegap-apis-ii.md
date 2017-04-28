@@ -23,4 +23,4 @@ _* PhoneGap: Connection API_* - PhoneGap’s Connection API can detect your mobi
 
 **PhoneGap: Device API** - Kevin employs the Device API in PhoneGap to get more information about the mobile platform on which the application is running.
 
-We look forward to posting more of Kevin's videos soon. Missed his other PhoneGap videos? Check out his [intro videos](http://phonegap.com/2011/12/05/the-adc-presents-phonegap/) and his [other API videos](http://phonegap.com/2011/12/06/the-adc-presents-phonegap-apis/).
+We look forward to posting more of Kevin's videos soon. Missed his other PhoneGap videos? Check out his [intro videos](https://phonegap.com/2011/12/05/the-adc-presents-phonegap/) and his [other API videos](https://phonegap.com/2011/12/06/the-adc-presents-phonegap-apis/).

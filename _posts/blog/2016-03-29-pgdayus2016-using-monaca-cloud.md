@@ -9,7 +9,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We'll be posting more videos from the conference (and the workshops!) so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We'll be posting more videos from the conference (and the workshops!) so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 [Masa Tanaka](https://twitter.com/massie), CEO of [Monaca](https://monaca.io/) and long-time Cordova/PhoneGap contributor, joins us next and discusses how you can use Monaca Cloud to enhance your app development.
 

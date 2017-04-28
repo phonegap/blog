@@ -10,7 +10,7 @@ tags:
 author: Tim Kim
 ---
 
-We are proud to announce that we are including the [Wikitude Cordova plugin](http://www.wikitude.com/products/extensions/cordova-plugin-augmented-reality/) into the [PhoneGap Developer App](http://phonegap.com/products/). Now users of the PhoneGap Developer App will be able to develop augmented reality projects.
+We are proud to announce that we are including the [Wikitude Cordova plugin](http://www.wikitude.com/products/extensions/cordova-plugin-augmented-reality/) into the [PhoneGap Developer App](https://phonegap.com/products/). Now users of the PhoneGap Developer App will be able to develop augmented reality projects.
 
 ## About Wikitude
 

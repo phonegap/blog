@@ -36,15 +36,15 @@ A particular stumbling block that I knew would hold up porting was the absence o
 
 The mobile IE developer team was super impressed with what I had accomplished, essentially working around an issue that they are very much aware of. Hopefully this functionality will make it into a future device update. I was able to make some recommendations about how it is implemented in the future, but for now the mouse events are only available in hosted silverlight webbrowser controls, and not IE9 which ships on all windows phone currently. The c# class that enables mouse interaction is not dependent on Apache Cordova, and is usable in any silverlight windows phone app, so I will be making it available as a standalone repo as well, so mouse events can be added to any Windows Phone app that is using the Webbrowser component.
 
-Coincidentally, (or not?), my colleagues [lunny, hardeep] who have been working on Adobe's PhoneGap build service [announced](http://phonegap.com/2012/04/24/phonegap-build-welcomes-windows-phone-7/) support for Windows Phone the same day. I was able to demonstrate uploading a simple app zip, downloading the XAP file, and installing and running it on my connected phone. Flawless! Great work Build team!
+Coincidentally, (or not?), my colleagues [lunny, hardeep] who have been working on Adobe's PhoneGap build service [announced](https://phonegap.com/2012/04/24/phonegap-build-welcomes-windows-phone-7/) support for Windows Phone the same day. I was able to demonstrate uploading a simple app zip, downloading the XAP file, and installing and running it on my connected phone. Flawless! Great work Build team!
 
 ## DEV-ATTENDEES
 
-The event had about 20 attendees, of which many were able to make progress of porting their applications. The developers who came got help from Microsoft employees and Adobe employees from the PhoneGap team, the WebKit team and Adobe Evangelists. The WikiMedia team also attended to work on the windows port of their [Wikipedia PhoneGap App](http://phonegap.com/app/wikipedia/).
+The event had about 20 attendees, of which many were able to make progress of porting their applications. The developers who came got help from Microsoft employees and Adobe employees from the PhoneGap team, the WebKit team and Adobe Evangelists. The WikiMedia team also attended to work on the windows port of their [Wikipedia PhoneGap App](https://phonegap.com/app/wikipedia/).
 
 During the day I saw multiple successful ports, including apps from some people who were just experimenting, and others who were porting large amounts of code from Android and iOS.
 
-Attendees ranged from one-dev shops working on their own projects, to developers contributing to large scale open source projects ( [Wikipedia PhoneGap app](http://phonegap.com/app/wikipedia/). ), to developers from companies that had their own app-builder services.
+Attendees ranged from one-dev shops working on their own projects, to developers contributing to large scale open source projects ( [Wikipedia PhoneGap app](https://phonegap.com/app/wikipedia/). ), to developers from companies that had their own app-builder services.
 
 Microsoft will be releasing a blog post with updates on some of the ports people were working on, hopefully with links to published apps in the Marketplace.
 

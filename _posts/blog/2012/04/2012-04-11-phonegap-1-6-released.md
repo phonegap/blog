@@ -11,9 +11,9 @@ type: post
 format: html
 ---
 
-We are happy to announce the release of [PhoneGap 1.6](http://phonegap.com/download)! The PhoneGap/Apache Cordova Community has worked hard to fix many bugs (including the nasty local storage bug caused by the iOS 5.1 update) and added some new features.
+We are happy to announce the release of [PhoneGap 1.6](https://phonegap.com/download)! The PhoneGap/Apache Cordova Community has worked hard to fix many bugs (including the nasty local storage bug caused by the iOS 5.1 update) and added some new features.
 
-The biggest news is that Cordova-JS is now on Android, iOS, Windows Phone and BlackBerry! Cordova-JS brings a unified Javascript layer to the PhoneGap project making it more consistent and streamlined. "The inclusions of Cordova-JS paves the path for public plugin API and associated tooling," says Brian LeRoux, one of the key PhoneGap dev leads. You can read more about Cordova-JS [here](http://phonegap.com/2012/03/21/introducing-cordova-js/).
+The biggest news is that Cordova-JS is now on Android, iOS, Windows Phone and BlackBerry! Cordova-JS brings a unified Javascript layer to the PhoneGap project making it more consistent and streamlined. "The inclusions of Cordova-JS paves the path for public plugin API and associated tooling," says Brian LeRoux, one of the key PhoneGap dev leads. You can read more about Cordova-JS [here](https://phonegap.com/2012/03/21/introducing-cordova-js/).
 
 Check out the release notes below to see all of the enhancements and fixes.
 

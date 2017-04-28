@@ -17,7 +17,7 @@ Cordova webview (Cleaver on iOS) allows integration of PhoneGap, as a view fragm
 
 **Note:** Some PhoneGap Android plugins might have issues working with this latest version. If you are using plugins, please make sure to do some tests before upgrading.
 
-Curious about our release schedule? Read [Brian LeRoux's](http://twitter.com/brianleroux) blog post, [Rolling Releases: How Apache Cordova becomes PhoneGap and Why](http://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/) to get more background.
+Curious about our release schedule? Read [Brian LeRoux's](http://twitter.com/brianleroux) blog post, [Rolling Releases: How Apache Cordova becomes PhoneGap and Why](https://phonegap.com/2012/04/12/rolling-releases-how-apache-cordova-becomes-phonegap-and-why/) to get more background.
 
 View the 1.9.0 changes below in the change log:
 

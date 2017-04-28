@@ -31,12 +31,12 @@ With the Crosswalk Project, you can more easily develop around device fragmentat
 
 [Ionic Framework](http://ionicframework.com/) creators and Drifty Co. founders, Max Lynch and Ben Sperry, will be reframing the conversation around hybrid development and discussing ways in which hybrid development gives developers advantages over native development. They’ll talk about how Ionic, PhoneGap and other hybrid technologies give app developers abilities they never had before, resulting in apps that are faster and cheaper to build, more dynamic, and more successful.
 
-Check out development and marketing tips from Ryan Hanna, Director of Engineering of the popular fitness app [Sworkit](http://sworkit.com/), using Ionic and PhoneGap [here](http://phonegap.com/blog/2015/03/19/sworkit-guest-post-pt1/) and [here](http://phonegap.com/blog/2015/05/06/sworkit-guest-post-pt-2/).
+Check out development and marketing tips from Ryan Hanna, Director of Engineering of the popular fitness app [Sworkit](http://sworkit.com/), using Ionic and PhoneGap [here](https://phonegap.com/blog/2015/03/19/sworkit-guest-post-pt1/) and [here](https://phonegap.com/blog/2015/05/06/sworkit-guest-post-pt-2/).
 
 ## Telerik
 
 Building hybrid apps is hard. In addition to actually coding an application, you also have to deal platform-specific configuration files, icons, permissions, deployment procedures, and more. That's where [Telerik](http://www.telerik.com/) comes in. With a series of tools—including cloud-based builds, dozens of high-quality (and free) Cordova plugins, and a whole lot more—Telerik provides everything you need to take the pain out of hybrid development.
 
-Register [here](https://phonegapdayeu.paydro.net/) | Read more about the event [here](http://pgday.phonegap.com/eu2015/)
+Register [here](httpshttps://phonegapdayeu.paydro.net/) | Read more about the event [here](http://pgday.phonegap.com/eu2015/)
 
 A huge thanks to all our sponsors for PhoneGap Day EU 2015!

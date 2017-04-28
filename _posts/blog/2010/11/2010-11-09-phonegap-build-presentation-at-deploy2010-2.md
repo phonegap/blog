@@ -10,7 +10,7 @@ type: post
 format: html
 ---
 
-Yesterday I gave a presentation at [Deploy 2010](http://www.seattle20.com/deploy/) in Seattle on cross platform dev with [PhoneGap](http://phonegap.com) and our new service [Build.PhoneGap.com](http://build.phonegap.com). Here are my slides:
+Yesterday I gave a presentation at [Deploy 2010](http://www.seattle20.com/deploy/) in Seattle on cross platform dev with [PhoneGap](https://phonegap.com) and our new service [Build.PhoneGap.com](http://build.phonegap.com). Here are my slides:
 
 **[PhoneGap Build Presentation at Deploy2010](http://www.slideshare.net/AndreCharland/phonegap-build-presentation-at-deploy2010)**
 

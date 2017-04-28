@@ -19,7 +19,7 @@ Registration is not required, but it will get you an awesome t-shirt. Register o
 ## Resources
 
 * [Getting Started](http://docs.phonegap.com/en/2.6.0/guide_getting-started_index.md.html#Getting%20Started%20Guides)
-* [PhoneGap Download](http://phonegap.com/download/)
+* [PhoneGap Download](https://phonegap.com/download/)
 * [Issue Tracker](https://issues.apache.org/jira/browse/CB)
 * [Cordova Wiki](http://wiki.cordova.io)
 

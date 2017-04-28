@@ -17,7 +17,7 @@ In the second half, you'll see a demo of PhoneGap for Windows Phone 7. Nitobi wo
 
 If that wasn't enough, we'll be throwing in **free pizza, beer and even some XBox 360 giveaways.**
 
-[**Sign up for the event.**](http://phonegapatmicrosoft.eventbrite.com/)
+[**Sign up for the event.**](https://phonegapatmicrosoft.eventbrite.com/)
 
 ---
 

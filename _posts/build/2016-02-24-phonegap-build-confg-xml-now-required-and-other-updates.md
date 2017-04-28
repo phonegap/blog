@@ -26,13 +26,13 @@ We're doing this for a number of reasons, one of which is our ongoing effort to 
 If you don't already include a config.xml file in your app, please do so. Here's a bare bones example:
 
 	<?xml version='1.0' encoding='utf-8'?>
-	<widget id="com.pgb.brewapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+	<widget id="com.pgb.brewapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
 		<name>PhoneGap Build App</name>
 		<description>
 			This app brews beer.
 		</description>
 
-		<author email="seymourbutts@phonegap.com" href="http://phonegap.com">
+		<author email="seymourbutts@phonegap.com" href="https://phonegap.com">
 		   PhoneGap Team
 		</author>
 

@@ -7,7 +7,7 @@ tags:
 author: Michael Brooks
 ---
 
-Hello there, we may have already met, but let me introduce myself. My name is [Michael Brooks](http://twitter.com/mwbrooks) and I'm a core contributor to [PhoneGap](http://phonegap.com) and [Apache Cordova](http://cordova.io). I'm going to take a stab in the dark and bet that you're a PhoneGap and mobile application developer. Together we make a pretty awesome team.
+Hello there, we may have already met, but let me introduce myself. My name is [Michael Brooks](http://twitter.com/mwbrooks) and I'm a core contributor to [PhoneGap](https://phonegap.com) and [Apache Cordova](http://cordova.io). I'm going to take a stab in the dark and bet that you're a PhoneGap and mobile application developer. Together we make a pretty awesome team.
 
 Let me tell you why.
 

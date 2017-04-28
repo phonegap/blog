@@ -6,7 +6,7 @@ tags:
 author: Ryan Willoughby
 ---
 
-We've just added support for [PhoneGap 2.9.0](http://phonegap.com/blog/2013/06/26/pg-290-released/) to PhoneGap Build!
+We've just added support for [PhoneGap 2.9.0](https://phonegap.com/blog/2013/06/26/pg-290-released/) to PhoneGap Build!
 
 We highly recommend upgrading so you can take advantage of all of the bug fixes and performance enhancements that the Cordova team has been hard at work on -- but also so the PhoneGap Build team can focus on support for the latest and greatest.
 
@@ -18,7 +18,7 @@ If you have trouble with your upgrade (or anything else PhoneGap Build related),
 
 Related and worth a gander:
 
- - [phonegap.com 2.9.0 release blog post](http://phonegap.com/blog/2013/06/26/pg-290-released/)
- - [what to expect in PhoneGap 3.0](http://phonegap.com/blog/2013/06/20/coming-soon-phonegap30/)
+ - [phonegap.com 2.9.0 release blog post](https://phonegap.com/blog/2013/06/26/pg-290-released/)
+ - [what to expect in PhoneGap 3.0](https://phonegap.com/blog/2013/06/20/coming-soon-phonegap30/)
 
 Also, if you don't know about [PhoneGap Day 2013](http://pgday.phonegap.com/), now you do. Join us in Portland and put a bird on it.

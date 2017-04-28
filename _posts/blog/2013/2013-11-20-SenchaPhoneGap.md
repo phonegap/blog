@@ -8,7 +8,7 @@ author: Ross Gerbasi
 
 ## Introduction
 
-With the release of [Sencha Touch 2.3](http://www.sencha.com/products/touch/) and [Sencha CMD 4](http://www.sencha.com/products/sencha-cmd/download) creating your cross platform hybrid applications has never been easier. [PhoneGap](http://phonegap.com/) is now a first class citizen in the Sencha Touch mobile workflow integrating seamlessly into the newly released, [NodeJS](http://nodejs.org/) based, PhoneGap command line interface. For a in-depth look at creating an application with Sencha Touch and PhoneGap, or Cordova, check out the [Sencha & PhoneGap Video Tutorial](https://vimeo.com/76568053).
+With the release of [Sencha Touch 2.3](http://www.sencha.com/products/touch/) and [Sencha CMD 4](http://www.sencha.com/products/sencha-cmd/download) creating your cross platform hybrid applications has never been easier. [PhoneGap](https://phonegap.com/) is now a first class citizen in the Sencha Touch mobile workflow integrating seamlessly into the newly released, [NodeJS](http://nodejs.org/) based, PhoneGap command line interface. For a in-depth look at creating an application with Sencha Touch and PhoneGap, or Cordova, check out the [Sencha & PhoneGap Video Tutorial](https://vimeo.com/76568053).
 
 ![](/blog/uploads/2013-11/SenchaAndPhoneGap.png)
 

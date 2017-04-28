@@ -11,7 +11,7 @@ author: Brett Rudd
 On October 15th, 2014 we will be removing support for WebOS, Symbian, Blackberry
 and Windows Phone 7 platforms, as well as for all Cordova versions below 3.0.
 
-As mentioned in this [blog post](http://phonegap.com/blog/2014/02/21/platform-deprecation/)
+As mentioned in this [blog post](https://phonegap.com/blog/2014/02/21/platform-deprecation/)
 from February 2014, we will
 be deprecating WebOS, Symbian, Blackberry and Winphone 7. Cordova has stopped active development
 on these platforms and we feel continuing support for these platforms on

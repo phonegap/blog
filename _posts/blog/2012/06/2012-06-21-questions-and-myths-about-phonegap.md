@@ -14,12 +14,12 @@ format: html
 
 When technology teams are making decisions of whether or not to adopt a mobile strategy revolving around PhoneGap, lots of questions arise. This is natural - investing in any technology is a big decision, and the proper course is to evaluate its strengths and weaknesses. Phonegap is a relatively new concept to many IT organizations, so there are many unanswered questions and misunderstandings about PhoneGap and [Apache Cordova](http://incubator.apache.org/cordova/).  In this post, I'll try to answer a few of these questions, clear up a few misunderstandings, and dispel some of the myths. Before I get started, I want to highlight two previous entries on the PhoneGap blog:
 
-* [PhoneGap Explained Visually](http://phonegap.com/2012/05/02/phonegap-explained-visually/) provides a clear definition of what makes up a PhoneGap application. Read this for a better understanding of what PhoneGap is, and how you use it.
-* [PhoneGap Beliefs, Goals and Philosophy](http://phonegap.com/2012/05/09/phonegap-beliefs-goals-and-philosophy/) provides insight into the motivation, goals, philosophy, and "why" PhoneGap was created. Read this for a better understanding of why the PhoneGap/Cordova teams do what they do.
+* [PhoneGap Explained Visually](https://phonegap.com/2012/05/02/phonegap-explained-visually/) provides a clear definition of what makes up a PhoneGap application. Read this for a better understanding of what PhoneGap is, and how you use it.
+* [PhoneGap Beliefs, Goals and Philosophy](https://phonegap.com/2012/05/09/phonegap-beliefs-goals-and-philosophy/) provides insight into the motivation, goals, philosophy, and "why" PhoneGap was created. Read this for a better understanding of why the PhoneGap/Cordova teams do what they do.
 
 Now, on to the questions...
 
-**Question: What is the difference between PhoneGap and Apache Cordova?** PhoneGap is a distribution of Apache Cordova.  Apache Cordova is the technology that powers a PhoneGap application, however a distribution of an open source technology may eventually contain tools that enhance the developer workflow with Cordova, or tie into other tools and services.  PhoneGap is still free and open source, and is powered by Cordova.   You can read more about [the relationship of PhoneGap and Apache Cordova in this post by Brain Leroux](http://phonegap.com/2012/03/19/phonegap-cordova-and-what%E2%80%99s-in-a-name/), lead of the PhoneGap project within Adobe.
+**Question: What is the difference between PhoneGap and Apache Cordova?** PhoneGap is a distribution of Apache Cordova.  Apache Cordova is the technology that powers a PhoneGap application, however a distribution of an open source technology may eventually contain tools that enhance the developer workflow with Cordova, or tie into other tools and services.  PhoneGap is still free and open source, and is powered by Cordova.   You can read more about [the relationship of PhoneGap and Apache Cordova in this post by Brain Leroux](https://phonegap.com/2012/03/19/phonegap-cordova-and-what%E2%80%99s-in-a-name/), lead of the PhoneGap project within Adobe.
 
 **Question: Why is the [RoadmapProjects](http://wiki.apache.org/cordova/RoadmapProjects)** [PhoneGap Roadmap](http://wiki.apache.org/cordova/RoadmapProjects) so short? I'm often asked this question, encountered by enterprise decision makers who wonder why there isn't a three to five year product roadmap outlining the directions of the project. Instead of using a longer term roadmap, PhoneGap/Cordova uses a short term roadmap that advances product development based upon market forces and feedback from current users.  This is roughly about six months out, with an emphasis on delivering features that will provide immediate benefit for developers. Due to the rapid changes in the mobile landscape this may include support for new platforms or consolidation based upon mobile OS changes. In retrospect:
 
@@ -53,7 +53,7 @@ It should also be noted that many, if not all assets used within a PhoneGap appl
 
 ## PhoneGap Named Best Cross-Platform Development Tool By Code Project:
 
-* [Adobe/Phonegap Blog Annoucement](http://phonegap.com/2012/06/12/adobe-phonegap-named-best-cross-platform-development-tool-by-codeproject/)
+* [Adobe/Phonegap Blog Annoucement](https://phonegap.com/2012/06/12/adobe-phonegap-named-best-cross-platform-development-tool-by-codeproject/)
 * [CodeProject Press Release](http://www.codeproject.com/PressReleases/5777/CODEPROJECT-ANNOUNCES-FOURTH-ANNUAL-MEMBERS-CHOICE.aspx)
 
 PhoneGap is also the leader for developer mindshare of cross platform technologies according to independent research firm Vision Mobile: [http://www.visionmobile.com/product/cross-platform-developer-tools-2012/](http://www.visionmobile.com/product/cross-platform-developer-tools-2012/)
@@ -72,7 +72,7 @@ Contribution of PhoneGap to the Apache Software Foundation is not indicative of 
 
 * Acquisition of Nitobi (the creators of PhoneGap) in November 2011
 * Integration of PhoneGap into Adobe Creative Suite Projects:
-  * [http://phonegap.com/2012/04/24/adobe-dreamweaver-cs6-supports-phonegap-build/](http://phonegap.com/2012/04/24/adobe-dreamweaver-cs6-supports-phonegap-build/)
+  * [https://phonegap.com/2012/04/24/adobe-dreamweaver-cs6-supports-phonegap-build/](https://phonegap.com/2012/04/24/adobe-dreamweaver-cs6-supports-phonegap-build/)
 * Creation of the PhoneGap Build Service:
   * [https://build.phonegap.com/](https://build.phonegap.com/)
 * PhoneGap and HTML-centric products and tools:

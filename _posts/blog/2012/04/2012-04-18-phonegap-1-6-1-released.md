@@ -11,7 +11,7 @@ type: post
 format: html
 ---
 
-We have just released [PhoneGap 1.6.1](http://phonegap.com/download)! The PhoneGap/Apache Cordova Community has worked hard to fix some bugs that arose from the 1.6.0 release that needed to be addressed immediately.
+We have just released [PhoneGap 1.6.1](https://phonegap.com/download)! The PhoneGap/Apache Cordova Community has worked hard to fix some bugs that arose from the 1.6.0 release that needed to be addressed immediately.
 
 The main issue driving this quick release was the incorrect xml folder that was included with the Android code that caused the network API to fail. This was a bug that needed to be addressed and could not wait for the 1.7 release. Thanks to the community for its quick work on turning around these fixes!
 

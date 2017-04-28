@@ -16,7 +16,7 @@ After an epic amount of [blog campaigning](http://ajaxian.com/archives/someone-a
 
 ![](http://farm3.static.flickr.com/2636/3990904046_b334720b0a_m.jpg)
 
-All along we knew that [PhoneGap](http://phonegap.com) was within the licensing terms of the iPhone SDK and the unwarranted rejections where simply unfair to the development community. We can now get back to the business of building the best device agnostic open web mobile platform.
+All along we knew that [PhoneGap](https://phonegap.com) was within the licensing terms of the iPhone SDK and the unwarranted rejections where simply unfair to the development community. We can now get back to the business of building the best device agnostic open web mobile platform.
 
 A huge thanks to iPhone PhoneGap contributor Mike Nauchbar for taking this crusade on!
 

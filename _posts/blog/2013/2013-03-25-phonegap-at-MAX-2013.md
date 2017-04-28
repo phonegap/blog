@@ -7,7 +7,7 @@ tags:
 author: Colene Chow
 ---
 
-Adobe is hosting its [MAX conference](http://max.adobe.com) on May 4-8 in LA and we're going to be there! This conference has a special place in our hearts as 2011's MAX announced [Nitobi was joining Adobe](http://phonegap.com/2011/10/27/day-1-nitobi-joins-adobe/). We had a lot of fun and it was great to see PhoneGap's name up on the big screen.
+Adobe is hosting its [MAX conference](http://max.adobe.com) on May 4-8 in LA and we're going to be there! This conference has a special place in our hearts as 2011's MAX announced [Nitobi was joining Adobe](https://phonegap.com/2011/10/27/day-1-nitobi-joins-adobe/). We had a lot of fun and it was great to see PhoneGap's name up on the big screen.
 
 ![](/blog/uploads/2013-03/pgatmax.jpg)
 
