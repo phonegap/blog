@@ -39,7 +39,7 @@ Twitter returns two different kinds of JSON responses: objects and arrays of obj
     "profile_link_color":"224467",
     "profile_background_tile":false,
     "created_at":"Sun Aug 03 23:58:00 +0000 2008",
-    "url":"http://phonegap.com",
+    "url":"https://phonegap.com",
     "name":"phonegap",
     "profile_background_color":"CDCDCD",
     "protected":false,

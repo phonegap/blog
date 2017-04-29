@@ -9,7 +9,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We'll be posting more videos from the conference (and the workshops!) so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day US 2016 in Lehi, UT. We'll be posting more videos from the conference (and the workshops!) so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/) and [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 Big thanks to [Telerik](http://www.telerik.com/) for sponsoring PhoneGap Day US 2016! We got to hear from [TJ VanToll](https://twitter.com/tjvantoll), Senior Developer Advocate, as he goes through the latest and greatest in the Cordova plugin world.
 

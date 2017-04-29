@@ -6,7 +6,7 @@ tags:
 author: Ryan Hanna
 ---
 
-Welcome back to Part 2 of our series. In [Part 1](http://phonegap.com/blog/2015/03/19/sworkit-guest-post-pt1/), I focused on best practices for design and development to ensure your well made hybrid apps have the best chance to reach their potential once released. In Part 2, I share marketing strategies that anyone can try that can help your app become more “well-known”.
+Welcome back to Part 2 of our series. In [Part 1](https://phonegap.com/blog/2015/03/19/sworkit-guest-post-pt1/), I focused on best practices for design and development to ensure your well made hybrid apps have the best chance to reach their potential once released. In Part 2, I share marketing strategies that anyone can try that can help your app become more “well-known”.
 
 Topics:
 

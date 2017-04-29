@@ -32,4 +32,4 @@ _*[Cloudstock](http://www.salesforce.com/events/details/cs12-sf/registration.jsp
 
 We'll post more details soon but if you're interested in meeting up with Steve, send him a message on Twitter: [@stevesgill](http://twitter.com/stevesgill).
 
-Check our [events calendar](http://phonegap.com/community/events/) to see more events and tweet us [@phonegap](http://twitter.com/#!/phonegap) if you want to meet up!
+Check our [events calendar](https://phonegap.com/community/events/) to see more events and tweet us [@phonegap](http://twitter.com/#!/phonegap) if you want to meet up!

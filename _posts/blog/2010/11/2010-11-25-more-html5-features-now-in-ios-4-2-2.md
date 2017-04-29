@@ -28,6 +28,6 @@ Here's a demo of the Accelerometer working on an iPhone in Safari that I found o
 
 See from a 4.2 iOS device [here](http://www.mobilexweb.com/samples/ball.html)
 
-Obviously since [PhoneGap](http://phonegap.com) leverages webkit on the device your PhoneGap based apps will get acces to these great new features too. Quit doubting web technologies and start thinking cross platform!
+Obviously since [PhoneGap](https://phonegap.com) leverages webkit on the device your PhoneGap based apps will get acces to these great new features too. Quit doubting web technologies and start thinking cross platform!
 
 [› Visit the original post](http://blogs.nitobi.com/andre/index.php/2010/11/24/more-html5-features-now-in-ios-4-2/)

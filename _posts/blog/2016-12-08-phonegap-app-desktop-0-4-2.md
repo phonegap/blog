@@ -1,6 +1,6 @@
 ---
-title: PhoneGap Desktop App 0.3.4
-date: 2016-07-26 00:00:00 Z
+title: PhoneGap Desktop App 0.4.2
+date: 2016-12-08 00:00:00 Z
 tags:
 - PhoneGap Blog
 - Release

@@ -8,7 +8,7 @@ tags:
 author: Steve Gill
 ---
 
-A few months ago we started the [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
+A few months ago we started the [PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
 
 We'll be posting the round up from each month and below is the roundup for the month of July.
 
@@ -17,13 +17,13 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [Simple Mobile UI Patterns: Page Swipe with Zepto.js and PhoneGap](http://coenraets.org/blog/2012/07/simple-mobile-ui-patterns-page-swipe-with-zepto-js-and-phonegap/) by Christophe Coenraets
 - [PhoneGap/Cordova Template/Tutorial for Sharing Code Between Platforms](http://devgirl.org/2012/07/16/phonegapcordova-templatetutorial-for-sharing-code-between-platforms/) by Holly Schinsky
 - <a href="http://blog.digitalbackcountry.com/2012/07/phonegap-2-0-released/" data-proofer-ignore>PhoneGap 2.0</a> by Ryan Stewart
-- [Adobe PhoneGap 2.0 Released](http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released/) by Colene Chow
-- [Urban Airship Unveils Updated Integration with Latest Version of PhoneGap](http://phonegap.com/2012/07/19/urban-airship-unveils-updated-intergration-with-latest-version-of-phonegap/) by Urban Airship
-- [PhoneGap Site Gets a Facelift](http://phonegap.com/2012/07/18/phonegap-site-gets-a-facelift/) by Yohei Shimomae
+- [Adobe PhoneGap 2.0 Released](https://phonegap.com/2012/07/20/adobe-phonegap-2-0-released/) by Colene Chow
+- [Urban Airship Unveils Updated Integration with Latest Version of PhoneGap](https://phonegap.com/2012/07/19/urban-airship-unveils-updated-intergration-with-latest-version-of-phonegap/) by Urban Airship
+- [PhoneGap Site Gets a Facelift](https://phonegap.com/2012/07/18/phonegap-site-gets-a-facelift/) by Yohei Shimomae
 - [PHONEGAP 2.0 – GETTING STARTED](http://outof.me/phonegap-2-0-getting-started/) by Piotr Walczyszyn
 - [Improvements in Cordova 2.0.0 for iOS](http://shazronatadobe.wordpress.com/2012/07/20/improvements-in-cordova-2-0-0-for-ios/) by Shazron Abdullah
-- [A Look Back at PhoneGap Day US](http://phonegap.com/blog/2012/07/27/a-look-back-at-phonegap-day/) by Colene Chow
-- [Adobe PhoneGap and Project Primetime Power BBC’s Coverage of the Olympics](http://phonegap.com/blog/2012/07/28/adobe-phonegap-and-project-primetime-power-bbcs-coverage-of-the-olympics/) by Steve Gill
+- [A Look Back at PhoneGap Day US](https://phonegap.com/blog/2012/07/27/a-look-back-at-phonegap-day/) by Colene Chow
+- [Adobe PhoneGap and Project Primetime Power BBC’s Coverage of the Olympics](https://phonegap.com/blog/2012/07/28/adobe-phonegap-and-project-primetime-power-bbcs-coverage-of-the-olympics/) by Steve Gill
 
 ## EVENTS
 

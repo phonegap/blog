@@ -6,7 +6,7 @@ tags:
 author: Steve Gill
 ---
 
-Below is the February addition of our [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap, writing a blog post or have something to share, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
+Below is the February addition of our [PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap, writing a blog post or have something to share, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
 
 We'll be posting the round up from each month and below is the roundup for the month of February.
 
@@ -28,7 +28,7 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [What else is new in Cordova Android 2.4.0](http://infil00p.org/android/cordova/phonegap/2013/02/14/what-else-is-new-in-cordova-android-2-4-0//), Joe Bowser
 - [Offline Mapping with PhoneGap + Build](http://tech-blog.silviaterra.com/2013/02/offline-mapping-in-html5-mobile-apps.html), Max Uhlenhuth
 - [PhoneGap Q&A](http://coenraets.org/blog/2013/02/phonegap-qa/?utm_source=rss%26utm_medium=rss%26utm_campaign=phonegap-qa), Christophe Coenraets
-- [PhoneGap 2.5.0 Released](http://phonegap.com/blog/2013/02/28/pg-250-released/), Steve Gill
+- [PhoneGap 2.5.0 Released](https://phonegap.com/blog/2013/02/28/pg-250-released/), Steve Gill
 - [Featured PhoneGap Apps](http://www.tricedesigns.com/2013/02/22/featured-phonegap-apps/), Andy Trice
 - [Some examples of Android PhoneGap Config Settings](http://www.raymondcamden.com/2013/02/19/Some-examples-of-Android-PhoneGap-Config-Settings), Ray Camden
 - [Video: Introduction to PhoneGap](http://www.tricedesigns.com/2013/02/19/video-introduction-to-phonegap/), Andy Trice

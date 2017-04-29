@@ -11,7 +11,7 @@ type: post
 format: html
 ---
 
-The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.4](http://phonegap.com/download)! This release contains many bug fixes from version 1.3.0.
+The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.4](https://phonegap.com/download)! This release contains many bug fixes from version 1.3.0.
 
 The [PhoneGap Build cloud service](http://build.phonegap.com) will also be adding support for PhoneGap 1.4 starting today.
 

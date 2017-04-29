@@ -16,7 +16,7 @@ defaults:
     layout: post
 description: All the old blog posts, written from 2008 to 2017
 baseurl: "/blog"
-url: http://phonegap.com
+url: ""
 gems:
 - jekyll-paginate
 - jekyll-coffeescript

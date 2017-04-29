@@ -11,7 +11,7 @@ format: html
 
 Hey Everyone,
 
-If you haven't heard, PhoneGap meetups are popping up everywhere! Is there a meetup group near you? Check out this map to find out: [http://phonegap.meetup.com](http://phonegap.meetup.com). If you don't see one in your area, and want to start a meetup group, let us know and we can [help you out](http://www.phonegap.com/2011/03/18/want-to-start-a-phonegap-meetup-we-can-help/)!
+If you haven't heard, PhoneGap meetups are popping up everywhere! Is there a meetup group near you? Check out this map to find out: [https://phonegap.meetup.com](https://phonegap.meetup.com). If you don't see one in your area, and want to start a meetup group, let us know and we can [help you out](http://www.phonegap.com/2011/03/18/want-to-start-a-phonegap-meetup-we-can-help/)!
 
 On Wednesday, June 22nd, the Vancouver PhoneGap meetup group will be having another meetup. They will be discussing the current and future mobile landscape, as well as upcoming features to PhoneGap build. If you are in the Vancouver area and are interested in attending, please click [here](http://www.meetup.com/Vancouver-PhoneGap-Meetup/events/21338671/) and rsvp.
 

@@ -10,7 +10,7 @@ Firefox OS is now supported in the 3.4 releases of Apache Cordova and Adobe Phon
 
 If you’ve already built apps with Cordova/PhoneGap there’s a unique opportunity to port your apps quickly and easily.
 
-We’ve heard from developers who successfully migrated PhoneGap apps to Firefox OS over a weekend — taking hours, not weeks or months. And we know [there are great PhoneGap apps](http://phonegap.com/app/feature/) out there. For this reason, the current phase of our Phones for Apps program focuses exclusively on app “porters” with currently popular and well-rated Cordova/PhoneGap apps. (NOTE: HTML5 applications can be packaged as native apps via the framework and made available for installation. Cordova is the underlying software in the Adobe product PhoneGap.)
+We’ve heard from developers who successfully migrated PhoneGap apps to Firefox OS over a weekend — taking hours, not weeks or months. And we know [there are great PhoneGap apps](https://phonegap.com/app/feature/) out there. For this reason, the current phase of our Phones for Apps program focuses exclusively on app “porters” with currently popular and well-rated Cordova/PhoneGap apps. (NOTE: HTML5 applications can be packaged as native apps via the framework and made available for installation. Cordova is the underlying software in the Adobe product PhoneGap.)
 
 Here's how it works:  [Complete the Phones for PhoneGap program enrollment form](https://mozhacks.wufoo.com/forms/phones-for-cordovaphonegap-app-ports/)
 

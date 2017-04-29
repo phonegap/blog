@@ -11,7 +11,7 @@ type: post
 format: html
 ---
 
-The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.3](http://phonegap.com/download)! In this release, we’ve made great progress with BlackBerry and Windows Phone.
+The PhoneGap Community has done it again. We are happy to announce the release of [PhoneGap 1.3](https://phonegap.com/download)! In this release, we’ve made great progress with BlackBerry and Windows Phone.
 
 For BlackBerry, we’ve added OSX support so now you can develop for BlackBerry on a Mac!
 

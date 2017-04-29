@@ -9,7 +9,7 @@ author: Brett Rudd
 ---
 
 We announced the deprecation of the public repository on PhoneGap Build in this this 
-[blog post](http://phonegap.com/blog/2015/09/04/public-plugin-deprecation-on-build/) 
+[blog post](https://phonegap.com/blog/2015/09/04/public-plugin-deprecation-on-build/) 
 from September, 2015. That was over a
 year ago and in that time no public plugins (including core Cordova plugins) have been added to or updated in that
 repository. So we are happy to announce that this public repository will be **removed on 

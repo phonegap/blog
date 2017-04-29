@@ -23,4 +23,4 @@ Adobe Developer Evangelist [Kevin Hoyt](http://twitter.com/krhoyt) continues his
 
 **PhoneGap: Compass API** - Kevin combines your mobile phone's compass sensor with an HTML-based application using PhoneGap.
 
-Kevin will be covering more APIs in upcoming videos, so stay tuned! [View Kevin's intro PhoneGap videos here.](http://phonegap.com/2011/12/05/the-adc-presents-phonegap/)
+Kevin will be covering more APIs in upcoming videos, so stay tuned! [View Kevin's intro PhoneGap videos here.](https://phonegap.com/2011/12/05/the-adc-presents-phonegap/)

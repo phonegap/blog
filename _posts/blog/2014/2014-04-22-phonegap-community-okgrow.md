@@ -44,4 +44,4 @@ Having Alistair Croll ([@acroll](http://twitter.com/acroll)), author of the book
 
 --
 
-Want to meet other PhoneGap devs? Learn more about who's building with PhoneGap by visiting our [app directory](http://phonegap.com/app/) or our [Developer Directory](http://people.phonegap.com).
+Want to meet other PhoneGap devs? Learn more about who's building with PhoneGap by visiting our [app directory](https://phonegap.com/app/) or our [Developer Directory](http://people.phonegap.com).

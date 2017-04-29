@@ -19,4 +19,4 @@ In early September, we announced PhoneGap for Windows Phone Mango. Since then, w
 All WP7 PhoneGap plugins must derive from the PhoneGap base command. More specifically, the WP7GapClassLib.PhoneGap.Commands.BaseCommand class. Plugin commands are dealt with generically throughout the framework, and base command provides the base interface for you to pass data back to JavaScript. This approach also prevents JavaScript code from calling arbitrary native code."
 [Read more on Jesse's blog.](http://www.risingj.com/?p=92)
 
-[See what features WP7 supports](https://phonegap.com/about/features)
+[See what features WP7 supports](httpshttps://phonegap.com/about/features)

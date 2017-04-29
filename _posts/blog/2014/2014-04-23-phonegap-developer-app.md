@@ -110,7 +110,7 @@ We're terrible at keeping secrets! Many of you have already noticed the PhoneGap
 - Holly Schinsky's [Introducing the PhoneGap Developer App][1]
 - Raymond Camden's [PhoneGap Developer App][12]
 
-[1]: http://phonegap.com/install/
+[1]: https://phonegap.com/install/
 [2]: http://app.phonegap.com/
 [3]: https://itunes.apple.com/app/id843536693
 [4]: https://play.google.com/store/apps/details?id=com.adobe.phonegap.app
@@ -118,7 +118,7 @@ We're terrible at keeping secrets! Many of you have already noticed the PhoneGap
 [6]: http://github.com/phonegap/phonegap-app-developer/issues
 [7]: http://github.com/phonegap/app.phonegap.com
 [8]: http://github.com/phonegap/app.phonegap.com/issues
-[9]: http://phonegap.com/about/feature/
+[9]: https://phonegap.com/about/feature/
 [10]: http://github.com/phonegap/connect-phonegap
 [11]: http://github.com/phonegap/connect-phonegap/issues
 [12]: http://www.raymondcamden.com/2014/04/21/PhoneGap-Developer-App

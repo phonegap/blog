@@ -14,7 +14,7 @@ When you're building apps it's important to have an understanding of how your us
 - What does the conversion funnel look like from signup to paying customer?
 - Where are people dropping off?
 
-These questions and metrics will vary depending on your app and your goals. At PhoneGap, there is [one key metric](http://phonegap.com/blog/2015/07/27/metrics-that-matter-at-phonegap/) that they track and they use [Keen IO](http://keen.io), an analytics API to define and visualize this metric.
+These questions and metrics will vary depending on your app and your goals. At PhoneGap, there is [one key metric](https://phonegap.com/blog/2015/07/27/metrics-that-matter-at-phonegap/) that they track and they use [Keen IO](http://keen.io), an analytics API to define and visualize this metric.
 
 ## Adding analytics to your PhoneGap app
 

@@ -31,7 +31,7 @@ Weren't able to attend PhoneGap Day? Take a look at our awesome collection of sp
 * Ken Wallis (BB) - [BlackBerry Loves the Web](https://github.com/kwallis/PhoneGapDay2013)
 * Michael Brooks - PhoneGap Command-Line (no slides available as there was live coding!)
 * Bill Pearson (Intel) - [Intel + HTML5](http://www.slideshare.net/phonegap/phonegap-day)
-* Ray Camden - [Using Parse to Save your Stuff](http://phonegap.com/uploads/presentation/PhoneGapParse/preso/short.html)
+* Ray Camden - [Using Parse to Save your Stuff](https://phonegap.com/uploads/presentation/PhoneGapParse/preso/short.html)
 * Kristofer Joseph - [Topcoat loves PhoneGap](http://kristoferjoseph.com/Topcoat-PhoneGap-Day-2013)
 * Tommy-Carlos Williams - [SpiderOak - The Road to a performant open source mobile app](http://devgeeks.org/slides/PGDayUS2013/)
 * Simon MacDonald - [Speech Recognition](http://www.slideshare.net/phonegap/phone-gap-dayspeechrecognition)

@@ -74,8 +74,8 @@ For us the next step is to get started actually writing the new guides. Taking y
 [star-track-github]: https://github.com/phonegap/phonegap-app-star-track
 [hollys-blog]: http://devgirl.org
 [js-framework-on-every-table]: http://www.allenpike.com/2015/javascript-framework-fatigue/
-[browser-platform-phonegap]: http://phonegap.com/blog/2016/02/19/browser/
+[browser-platform-phonegap]: https://phonegap.com/blog/2016/02/19/browser/
 [browser-platform-raycamden]: https://www.raymondcamden.com/2014/09/24/browser-as-a-platform-for-your-phonegapcordova-apps/
-[phonegap-templates]: http://phonegap.com/blog/2016/02/24/phonegap-cli-6-0-0/
+[phonegap-templates]: https://phonegap.com/blog/2016/02/24/phonegap-cli-6-0-0/
 [react-hot-loader-template]: https://github.com/phonegap/phonegap-template-react-hot-loader
 [framework7-template]: https://github.com/phonegap/phonegap-template-framework7

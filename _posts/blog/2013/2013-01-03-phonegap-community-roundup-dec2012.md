@@ -8,7 +8,7 @@ tags:
 author: Steve Gill
 ---
 
-Below is the December addition of our [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap, writing a blog post or have something to share, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
+Below is the December addition of our [PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap, writing a blog post or have something to share, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
 
 We'll be posting the round up from each month and below is the roundup for the month of December.
 

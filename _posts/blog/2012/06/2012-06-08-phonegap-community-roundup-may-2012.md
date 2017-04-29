@@ -11,7 +11,7 @@ type: post
 format: html
 ---
 
-Last month we started the [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
+Last month we started the [PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
 
 We'll be posting the round up from each month and below is the roundup for the month of May.
 
@@ -43,11 +43,11 @@ ARTICLES
 
 ---
 
-[PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/) by [Michael Brooks](http://twitter.com/mwbrooks)
+[PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/) by [Michael Brooks](http://twitter.com/mwbrooks)
 
 ---
 
-[Windows Phone & Apache Cordova/PhoneGap Hackathon](http://phonegap.com/2012/05/22/windows-phone-apache-cordovaphonegap-hackathon/) by Jesse MacFadyen
+[Windows Phone & Apache Cordova/PhoneGap Hackathon](https://phonegap.com/2012/05/22/windows-phone-apache-cordovaphonegap-hackathon/) by Jesse MacFadyen
 
 * [How to prevent bounce of PhoneGap app container in iOS apps](http://gregsramblings.com/2012/05/14/phonegap-howto-prevent-bounce-uiwebviewbounce/)
 * [Read and Write NFC Tags with PhoneGap](http://blog.chariotsolutions.com/2012/05/read-and-write-nfc-tags-with-phonegap.html)
@@ -56,7 +56,7 @@ ARTICLES
 ---
 
 * [Example of adding menu support to a phonegap application](http://www.raymondcamden.com/index.cfm/2012/5/30/Example-of-adding-menu-support-to-a-PhoneGap-Application) by [Ray Camden](http://twitter.com/cfjedimaster)
-* [PhoneGap 1.8.0rc1 Released](http://phonegap.com/2012/05/30/phonegap-1-8-0rc1-released/)
+* [PhoneGap 1.8.0rc1 Released](https://phonegap.com/2012/05/30/phonegap-1-8-0rc1-released/)
 
 ---
 

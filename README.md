@@ -1,4 +1,4 @@
-# [PhoneGap Blog](http://phonegap.com/blog) [![Travis Build Status](https://travis-ci.org/phonegap/blog.svg?branch=gh-pages)](https://travis-ci.org/phonegap/blog)
+# [PhoneGap Blog](https://phonegap.com/blog) [![Travis Build Status](https://travis-ci.org/phonegap/blog.svg?branch=gh-pages)](https://travis-ci.org/phonegap/blog)
 
 This is a fairly vanilla [Jekyll](http://jekyllrb.com)/[GitHub Pages](https://pages.github.com/) site. It has been optimized for improved page loading speed; see [this article](http://garthdb.com/writings/i-am-a-jekyll-god/) for a full description.
 

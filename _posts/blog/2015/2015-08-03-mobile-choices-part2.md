@@ -6,7 +6,7 @@ tags:
 author: Holly Schinsky
 ---
 
-This post is part 2 of a series on choosing a mobile strategy. [Part 1](http://phonegap.com/blog/2015/03/12/mobile-choices-post1) focused on providing a general overview of the approaches available and highlighted important characteristics of each.
+This post is part 2 of a series on choosing a mobile strategy. [Part 1](https://phonegap.com/blog/2015/03/12/mobile-choices-post1) focused on providing a general overview of the approaches available and highlighted important characteristics of each.
 
 [![Sworkit screenshots](/blog/uploads/2015-07/sworkit-ex.png)](http://sworkit.com/)
 
@@ -38,7 +38,7 @@ First let's frame this discussion with a look at some important factors to consi
 
 ## Finding the Optimal Solution
 
-As a quick refresher from [part 1](http://phonegap.com/blog/2015/03/12/mobile-choices-post1), we used the term *native hybrid* to describe mobile apps built using a blend of native controls and one or more embedded webviews. This was mainly to differentiate it from a hybrid app built with a single webview wrapped in a thin native layer for providing the bridge of communication (like a traditional PhoneGap app).
+As a quick refresher from [part 1](https://phonegap.com/blog/2015/03/12/mobile-choices-post1), we used the term *native hybrid* to describe mobile apps built using a blend of native controls and one or more embedded webviews. This was mainly to differentiate it from a hybrid app built with a single webview wrapped in a thin native layer for providing the bridge of communication (like a traditional PhoneGap app).
 
 The popular apps using the native+embedded approach often use pure native controls (those found in the iOS/Androiid or Win SDK) to provide the navigation and page transitions and embed the main content in webviews to get the advantages of both. There are plenty of ways you could implement a mixed approach, however. The main takeaway here is that it's possible to find a mix that allows you to leverage the hybrid advantages mentioned above over going strictly native.
 

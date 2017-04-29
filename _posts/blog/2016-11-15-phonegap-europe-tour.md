@@ -23,7 +23,7 @@ Come see the best developers worldwide speak on the most beautiful stages Paris 
 
 We'll be joining the vibrant Paris PhoneGap community for the next [PhoneGap Paris meetup](https://www.meetup.com/PhoneGap-Paris/events/234750680/?eventId=234750680&chapter_analytics_code=UA-30725770-1).
 
-- [Simon MacDonald](https://twitter.com/macdonst) – Getting started with the new [PhoneGap Creative SDK plugins](http://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/)
+- [Simon MacDonald](https://twitter.com/macdonst) – Getting started with the new [PhoneGap Creative SDK plugins](https://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/)
 
 - [Anis Kadri](https://twitter.com/aniskadri) - Embedding PhoneGap in native Android apps where he’ll show off the Android Studio extension and how easy it is to add PhoneGap support to an existing Android app
 
@@ -39,7 +39,7 @@ We'll be around at DevRelCon this year so come say hi!! We'd love to meet you.
 
 We'll be joining our friends at Ionic for the [Ionic UK meetup](https://www.meetup.com/Ionic-UK/events/235497011/). We'll be sharing what's new with PhoneGap and, also with all the buzz about Progressive Web Applications, we will be sharing a bit about how Ionic plays well with PWAs and some other great Ionic updates.
 
-- [Simon MacDonald](https://twitter.com/macdonst) – Getting started with the new [PhoneGap Creative SDK plugins](http://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/)
+- [Simon MacDonald](https://twitter.com/macdonst) – Getting started with the new [PhoneGap Creative SDK plugins](https://phonegap.com/blog/2016/09/07/phonegap-csdk-plugin-roundup/)
 
 - [Anis Kadri](https://twitter.com/aniskadri) - Embedding PhoneGap in native Android apps where he’ll show off the Android Studio extension and how easy it is to add PhoneGap support to an existing Android app
 
@@ -51,6 +51,6 @@ We are absolutely thrilled to partnering with Women Who Code! We'll be providing
 
 [Learn more](https://www.meetup.com/Women-Who-Code-London/events/234317715/)
 
-Again, if you're in the area, come see us! We'd love to hear what you're doing with PhoneGap and in mobile development. We'll be at tons more events and meetups in 2017 so keep an eye on our [events page](http://phonegap.com/event/).
+Again, if you're in the area, come see us! We'd love to hear what you're doing with PhoneGap and in mobile development. We'll be at tons more events and meetups in 2017 so keep an eye on our [events page](https://phonegap.com/event/).
 
 Lastly, if you would like us to present or host a meetup in your area, please email Jen Gray at jgray@adobe.com for more info.

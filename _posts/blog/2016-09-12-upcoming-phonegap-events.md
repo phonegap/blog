@@ -64,4 +64,4 @@ We're headed across the pond to sponsor [DotJS](http://www.dotjs.io/) happening 
 
 Register [here](http://www.dotjs.io/)
 
-Again, if you're in the area, come see us! We'd love to hear what you're doing with PhoneGap and in mobile development. We'll be at tons more events and meetups in 2017 so keep an eye on our [events page](http://phonegap.com/event/).
+Again, if you're in the area, come see us! We'd love to hear what you're doing with PhoneGap and in mobile development. We'll be at tons more events and meetups in 2017 so keep an eye on our [events page](https://phonegap.com/event/).

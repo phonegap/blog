@@ -47,7 +47,7 @@ To check and debug the resulting Property List file, simply rename your .ipa fil
 **Important: When targeting Android with the config-file element, you'll need to declare the android xml namespace in the widget element of your config.xml, otherwise your document will not pass our xml validation:**
 
     <widget xmlns       = "http://www.w3.org/ns/widgets"
-        xmlns:gap       = "http://phonegap.com/ns/1.0"
+        xmlns:gap       = "https://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         id              = "com.lumberg.greeeaaat"
         version         = "1.0.0">

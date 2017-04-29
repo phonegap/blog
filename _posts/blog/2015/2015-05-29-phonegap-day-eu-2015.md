@@ -20,7 +20,7 @@ We were thrilled to be joined by amazing speakers who brought some of the best c
 
 ![](/blog/uploads/2015-05/pgday-eu-phonegap-2014-review.jpeg)
 
-We also heard from Syd Lawrence, one of the creators of [Snowbuddy](http://snowbuddyhq.com/), as he offered tips on making high performance PhoneGap apps saying his favorite question he's asked about Snowbuddy is, "Did you use Swift or Objective-C?". We learned how to add achievements and leaderboards to your HTML5 game, how to embed webviews into native apps to save time and money and got an in-depth look at Crosswalk, Telerik and the brand new [Ubuntu phone](http://phonegap.com/blog/2015/05/11/phonegap-day-eu-2015-sponsors/).
+We also heard from Syd Lawrence, one of the creators of [Snowbuddy](http://snowbuddyhq.com/), as he offered tips on making high performance PhoneGap apps saying his favorite question he's asked about Snowbuddy is, "Did you use Swift or Objective-C?". We learned how to add achievements and leaderboards to your HTML5 game, how to embed webviews into native apps to save time and money and got an in-depth look at Crosswalk, Telerik and the brand new [Ubuntu phone](https://phonegap.com/blog/2015/05/11/phonegap-day-eu-2015-sponsors/).
 
 One of the most popular sessions was by the founders and creators of [Ionic Framework](http://ionicframework.com/), Max Lynch and Ben Sperry. They're reframing the way we look at hybrid app development and covered ways hybrid technologies give app developers abilities they never had before, resulting in fast, dynamic, successful apps.
 

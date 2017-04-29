@@ -12,7 +12,7 @@ type: post
 format: html
 ---
 
-Two months ago we started the [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
+Two months ago we started the [PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap or writing a blog post, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
 
 We'll be posting the round up from each month and below is the roundup for the month of June.
 

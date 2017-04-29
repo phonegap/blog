@@ -15,7 +15,7 @@ On June 28, we will be having another online training event. This one will be fo
 
 Sencha Touch is a mobile JavaScript framework for developing HTML5 web apps that look and feel native. It is built with web standards in mind. Check out [IGN Dominate](http://www.phonegap.com/app/ign-dominate/) to see an app made using Sencha Touch and PhoneGap.
 
-If you are interested in attending this online training, please purchase one of the PhoneGap support subscriptions over at [http://PhoneGap.com/services](http://PhoneGap.com/services).
+If you are interested in attending this online training, please purchase one of the PhoneGap support subscriptions over at [https://phonegap.com/services](https://phonegap.com/services).
 
 To find out more details about this training and future trainings, please visit [http://nitobi.com/training](http://nitobi.com/training)
 

@@ -9,7 +9,7 @@ author: Jen Gray
 format: html
 ---
 
-A big thanks to everyone who was able to make it to PhoneGap Day US. We'll be posting more videos from the conference so check back on our [blog](http://phonegap.com/blog/tag/phonegap-day/) or [Youtube channel](https://www.youtube.com/user/PhoneGap).
+A big thanks to everyone who was able to make it to PhoneGap Day US. We'll be posting more videos from the conference so check back on our [blog](https://phonegap.com/blog/tag/phonegap-day/) or [Youtube channel](https://www.youtube.com/user/PhoneGap).
 
 Our next session comes from the incredible [Mobify](http://www.mobify.com/) team.
 

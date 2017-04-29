@@ -24,6 +24,6 @@ Your registration includes:
 * Catered breakfast, lunch, and beer & snacks throughout the day
 * Special PhoneGap Swag!
 
-[Buy your ticket NOW!](http://phonegapdaypdx.eventbrite.com/)
+[Buy your ticket NOW!](https://phonegapdaypdx.eventbrite.com/)
 
 Make sure to tell your friends about this limited time offer. We want everyone to enjoy the presentations, swag, and fun in Portland!

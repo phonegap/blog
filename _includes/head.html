@@ -18,7 +18,7 @@
   {% endif %}
   <script src="{{ '/scripts/taglist.js' | prepend: site.baseurl }}"></script>
   <link rel="stylesheet" type="text/css" href="{{ '/styles/main.css' | prepend: site.url }}"/>
-  <link rel="icon" type="image/png" href="http://phonegap.com/favicon.ico">
+  <link rel="icon" type="image/png" href="{{ '/favicon.ico' | prepend: site.url }}">
   <style type="text/css">
     {% capture include_to_sassify %}{% include blog.sass %}{% endcapture %}
     {{ include_to_sassify | sassify }}

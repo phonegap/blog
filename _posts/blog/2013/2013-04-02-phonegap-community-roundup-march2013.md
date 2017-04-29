@@ -6,7 +6,7 @@ tags:
 author: Steve Gill
 ---
 
-Below is the March addition of our [PhoneGap Community Release Notes](http://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap, writing a blog post or have something to share, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
+Below is the March addition of our [PhoneGap Community Release Notes](https://phonegap.com/2012/05/18/phonegap-community-release-notes/). Thank you to everyone who contributed. If you're organizing a PhoneGap event, speaking on PhoneGap, writing a blog post or have something to share, please add it to the release notes on [Github](https://github.com/phonegap/phonegap-community).
 
 We'll be posting the round up from each month and below is the roundup for the month of March.
 
@@ -25,10 +25,10 @@ We'll be posting the round up from each month and below is the roundup for the m
 - [What's new in Cordova iOS 2.5.0](http://shazronatadobe.wordpress.com/2013/03/04/whats-new-in-cordova-ios-2-5-0/), Shazron Abdullah
 - [What's new in PhoneGap Android 2.5.0](http://simonmacdonald.blogspot.com/2013/02/whats-new-in-phonegap-android-250.html), Simon MacDonald
 - [PhoneGap Bluetooth Plugin Updated](http://simonmacdonald.blogspot.com/2013/03/phonegap-bluetooth-plugin-updated.html), Simon MacDonald
-- [PhoneGap Community Roundup - Feb 2013](http://phonegap.com/blog/2013/03/04/phonegap-community-roundup-feb2013), Steve Gill
+- [PhoneGap Community Roundup - Feb 2013](https://phonegap.com/blog/2013/03/04/phonegap-community-roundup-feb2013), Steve Gill
 - [PhoneGap Sample - Diary (Database and Camera Support)](http://www.raymondcamden.com/2013/03/04/phonegap-sample-diary-database-and-camera-support/), Ray Camden
 - [Video: Intro To PhoneGap from MobileDev@TU](http://www.tricedesigns.com/2013/03/06/video-intro-to-phonegap-from-mobiledevtu/), Andrew Trice
 - [Testing PhoneGap, Parse, and Push? Read This](http://www.raymondcamden.com/2013/03/07/Testing-PhoneGap-Parse-and-Push-Read-This), Ray Camden
-- [PhoneGap Highlights: James Hickmott](http://phonegap.com/blog/2013/03/11/2013-03-11-highlight-1), Steve Gill
+- [PhoneGap Highlights: James Hickmott](https://phonegap.com/blog/2013/03/11/2013-03-11-highlight-1), Steve Gill
 - [Performance & UX Considerations For Successful PhoneGap Apps](http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/), Andy Trice
-- [The BYOD challenge to enterprise App development](http://phonegap.com/blog/2013/03/13/rover-phonegap), Steve Christianson
+- [The BYOD challenge to enterprise App development](https://phonegap.com/blog/2013/03/13/rover-phonegap), Steve Christianson
